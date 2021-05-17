@@ -1,0 +1,1620 @@
+INFO - 2020-10-17 00:00:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:00:54 --> Fetching Circular Details details
+INFO - 2020-10-17 00:00:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:00:54 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:00:54 --> Fetching Exam Details details
+INFO - 2020-10-17 00:00:54 --> Fetching Exam Details details
+INFO - 2020-10-17 00:01:45 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:01:45 --> Fetching Circular Details details
+INFO - 2020-10-17 00:01:45 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:01:45 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:01:45 --> Fetching Exam Details details
+INFO - 2020-10-17 00:01:45 --> Fetching Exam Details details
+INFO - 2020-10-17 00:03:44 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:03:44 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:03:44 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:03:44 --> Fetching Circular Details details
+INFO - 2020-10-17 00:03:44 --> Fetching Exam Details details
+INFO - 2020-10-17 00:03:44 --> Fetching Exam Details details
+INFO - 2020-10-17 00:05:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:05:54 --> Fetching Circular Details details
+INFO - 2020-10-17 00:05:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:05:54 --> Fetching Exam Details details
+INFO - 2020-10-17 00:05:54 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:05:54 --> Fetching Exam Details details
+INFO - 2020-10-17 00:06:48 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:06:48 --> Fetching Circular Details details
+INFO - 2020-10-17 00:06:48 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:06:48 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:06:48 --> Fetching Exam Details details
+INFO - 2020-10-17 00:06:48 --> Fetching Exam Details details
+INFO - 2020-10-17 00:07:39 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:07:39 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:07:39 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:07:39 --> Fetching Circular Details details
+INFO - 2020-10-17 00:07:39 --> Fetching Exam Details details
+INFO - 2020-10-17 00:07:39 --> Fetching Exam Details details
+INFO - 2020-10-17 00:09:19 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:09:19 --> Fetching Exam Details details
+INFO - 2020-10-17 00:09:19 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:09:19 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:09:19 --> Fetching Circular Details details
+INFO - 2020-10-17 00:09:19 --> Fetching Exam Details details
+INFO - 2020-10-17 00:10:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:10:54 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:10:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:10:54 --> Fetching Exam Details details
+INFO - 2020-10-17 00:10:54 --> Fetching Exam Details details
+INFO - 2020-10-17 00:10:54 --> Fetching Circular Details details
+INFO - 2020-10-17 00:11:13 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:11:13 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:11:13 --> Fetching Exam Details details
+INFO - 2020-10-17 00:11:13 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:11:13 --> Fetching Exam Details details
+INFO - 2020-10-17 00:11:13 --> Fetching Circular Details details
+INFO - 2020-10-17 00:15:03 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:15:03 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:15:03 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:15:03 --> Fetching Exam Details details
+INFO - 2020-10-17 00:15:03 --> Fetching Circular Details details
+INFO - 2020-10-17 00:15:03 --> Fetching Exam Details details
+INFO - 2020-10-17 00:19:46 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:19:46 --> Fetching Exam Details details
+INFO - 2020-10-17 00:19:46 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:19:46 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:19:46 --> Fetching Circular Details details
+INFO - 2020-10-17 00:19:46 --> Fetching Exam Details details
+INFO - 2020-10-17 00:24:30 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:24:30 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:24:30 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:24:30 --> Fetching Exam Details details
+INFO - 2020-10-17 00:24:30 --> Fetching Exam Details details
+INFO - 2020-10-17 00:24:30 --> Fetching Circular Details details
+INFO - 2020-10-17 00:25:53 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:25:53 --> Fetching Circular Details details
+INFO - 2020-10-17 00:25:53 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:25:53 --> Fetching Exam Details details
+INFO - 2020-10-17 00:25:53 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:25:53 --> Fetching Exam Details details
+INFO - 2020-10-17 00:34:57 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:34:57 --> Fetching Circular Details details
+INFO - 2020-10-17 00:34:57 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:34:57 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:34:58 --> Fetching Exam Details details
+INFO - 2020-10-17 00:34:58 --> Fetching Exam Details details
+INFO - 2020-10-17 00:36:06 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:36:06 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:36:06 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:36:06 --> Fetching Exam Details details
+INFO - 2020-10-17 00:36:06 --> Fetching Circular Details details
+INFO - 2020-10-17 00:36:06 --> Fetching Exam Details details
+INFO - 2020-10-17 00:41:17 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 00:41:17 --> Fetching Circular Details details
+INFO - 2020-10-17 00:41:19 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 00:41:19 --> Fetching Online Exam Details details
+INFO - 2020-10-17 00:41:21 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:41:21 --> Fetching Exam Details details
+INFO - 2020-10-17 00:41:27 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 00:41:27 --> Fetching Online Exam Details details
+INFO - 2020-10-17 00:41:28 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 00:41:28 --> Fetching Online Exam Details details
+INFO - 2020-10-17 00:41:32 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 00:41:33 --> Fetching Online Exam Details details
+INFO - 2020-10-17 00:41:47 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 00:41:47 --> Fetching Exam Details details
+INFO - 2020-10-17 00:41:56 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 00:41:56 --> Fetching Online Exam Details details
+INFO - 2020-10-17 00:41:57 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 00:41:57 --> Fetching Online Exam Details details
+INFO - 2020-10-17 00:42:05 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 00:42:05 --> Fetching Online Exam Details details
+INFO - 2020-10-17 00:42:08 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 00:42:08 --> Fetching Online Exam Details details
+INFO - 2020-10-17 00:59:25 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-17 01:00:39 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:00:39 --> Fetching Exam Details details
+INFO - 2020-10-17 01:01:10 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:01:10 --> Fetching Exam Details details
+INFO - 2020-10-17 01:01:33 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:01:33 --> Fetching Exam Details details
+INFO - 2020-10-17 01:01:39 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:01:39 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:06:33 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:06:33 --> Fetching Exam Details details
+INFO - 2020-10-17 01:07:06 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:07:06 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:07:15 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:07:15 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:07:58 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:07:58 --> Fetching Exam Details details
+INFO - 2020-10-17 01:08:04 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:08:04 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:09:03 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:09:03 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:09:04 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:09:04 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:09:06 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:09:06 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:09:09 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:09:09 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:09:14 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:09:14 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:09:19 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:09:19 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:09:20 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:09:20 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:09:26 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:09:26 --> Fetching Exam Details details
+INFO - 2020-10-17 01:09:29 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:09:29 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:09:32 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:09:32 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:09:41 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:09:41 --> Fetching Exam Details details
+INFO - 2020-10-17 01:10:52 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:10:52 --> Fetching Exam Details details
+INFO - 2020-10-17 01:10:58 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:10:58 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:10:59 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:10:59 --> Fetching Exam Details details
+INFO - 2020-10-17 01:11:32 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:11:32 --> Fetching Exam Details details
+INFO - 2020-10-17 01:11:51 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:11:51 --> Fetching Exam Details details
+INFO - 2020-10-17 01:11:55 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:11:55 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:11:57 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:11:57 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:13:23 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:13:23 --> Fetching Exam Details details
+INFO - 2020-10-17 01:13:28 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:13:28 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:13:30 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:13:30 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:30:19 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 01:30:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 01:30:19 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:30:19 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:30:19 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-17 01:30:19 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:30:19 --> Fetching All Leave details
+INFO - 2020-10-17 01:30:19 --> Fetching All Leave details
+INFO - 2020-10-17 01:30:19 --> Fetching Department details
+INFO - 2020-10-17 01:30:19 --> Fetching Boards details
+INFO - 2020-10-17 01:30:19 --> Fetching All staff details
+INFO - 2020-10-17 01:30:19 --> Fetching Sections details
+INFO - 2020-10-17 01:30:19 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:30:19 --> Fetching Department details
+INFO - 2020-10-17 01:30:25 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-10-17 01:30:25 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-10-17 01:30:25 --> Fetching Feedbacks Details details
+INFO - 2020-10-17 01:30:25 --> Fetching Feedback details
+INFO - 2020-10-17 01:30:36 --> Controller "App\Controllers\TicketSystems" loaded.
+INFO - 2020-10-17 01:30:36 --> Controller "App\Controllers\TicketSystems" loaded.
+INFO - 2020-10-17 01:30:36 --> Fetching Feedback details
+INFO - 2020-10-17 01:30:36 --> Fetching Feedbacks Details details
+INFO - 2020-10-17 01:30:40 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-17 01:30:40 --> Controller "App\Controllers\AttendanceDetails" loaded.
+INFO - 2020-10-17 01:30:40 --> Fetching Dashboard details
+INFO - 2020-10-17 01:30:40 --> Fetching Attendance details
+INFO - 2020-10-17 01:31:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 01:31:08 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:31:08 --> Controller "App\Controllers\ExamsAttendance" loaded.
+INFO - 2020-10-17 01:31:08 --> Fetching Exam Details details
+INFO - 2020-10-17 01:31:08 --> Fetching Exam Details details
+INFO - 2020-10-17 01:31:08 --> Fetching All Leave details
+INFO - 2020-10-17 01:31:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 01:31:11 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 01:31:15 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:31:15 --> Fetching Exam Details details
+INFO - 2020-10-17 01:31:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 01:31:16 --> Fetching Users details
+INFO - 2020-10-17 01:31:23 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:31:23 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:31:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 01:31:24 --> Fetching Users details
+INFO - 2020-10-17 01:31:57 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:31:57 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:32:06 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:32:06 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:32:21 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-17 01:32:21 --> Fetching Dashboard details
+INFO - 2020-10-17 01:32:21 --> Controller "App\Controllers\AttendanceDetails" loaded.
+INFO - 2020-10-17 01:32:21 --> Fetching Attendance details
+INFO - 2020-10-17 01:32:24 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-17 01:32:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 01:32:24 --> Fetching All Leave details
+INFO - 2020-10-17 01:32:24 --> Fetching All staff details
+INFO - 2020-10-17 01:32:24 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-17 01:32:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 01:32:24 --> Fetching All User details
+INFO - 2020-10-17 01:32:30 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-17 01:32:30 --> Controller "App\Controllers\AttendanceDetails" loaded.
+INFO - 2020-10-17 01:32:30 --> Fetching Dashboard details
+INFO - 2020-10-17 01:32:30 --> Fetching Attendance details
+INFO - 2020-10-17 01:32:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 01:32:33 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-17 01:32:33 --> Fetching All Leave details
+INFO - 2020-10-17 01:32:33 --> Fetching All staff details
+INFO - 2020-10-17 01:32:33 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-17 01:32:33 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 01:32:33 --> Fetching All User details
+INFO - 2020-10-17 01:33:05 --> Controller "App\Controllers\AttendanceDetails" loaded.
+INFO - 2020-10-17 01:33:05 --> Fetching Attendance details
+INFO - 2020-10-17 01:33:05 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-17 01:33:05 --> Fetching Dashboard details
+INFO - 2020-10-17 01:33:34 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:33:34 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 01:33:34 --> Controller "App\Controllers\ExamsAttendance" loaded.
+INFO - 2020-10-17 01:33:34 --> Fetching All Leave details
+INFO - 2020-10-17 01:33:34 --> Fetching Exam Details details
+INFO - 2020-10-17 01:33:34 --> Fetching Exam Details details
+INFO - 2020-10-17 01:33:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 01:33:35 --> Fetching All Leave details
+INFO - 2020-10-17 01:33:35 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:33:35 --> Controller "App\Controllers\ExamsAttendance" loaded.
+INFO - 2020-10-17 01:33:35 --> Fetching Exam Details details
+INFO - 2020-10-17 01:33:35 --> Fetching Exam Details details
+INFO - 2020-10-17 01:34:49 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:34:49 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:37:06 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 01:37:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 01:37:06 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:37:06 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:37:06 --> Fetching All Leave details
+INFO - 2020-10-17 01:37:06 --> Fetching Sections details
+INFO - 2020-10-17 01:37:06 --> Fetching All Leave details
+INFO - 2020-10-17 01:37:06 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:37:06 --> Fetching Boards details
+INFO - 2020-10-17 01:37:06 --> Fetching Department details
+INFO - 2020-10-17 01:37:06 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-17 01:37:06 --> Fetching All staff details
+INFO - 2020-10-17 01:37:06 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:37:06 --> Fetching Department details
+INFO - 2020-10-17 01:37:16 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 01:37:16 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:37:16 --> Fetching All Leave details
+INFO - 2020-10-17 01:37:16 --> Fetching Boards details
+INFO - 2020-10-17 01:37:16 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:37:16 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-17 01:37:16 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:37:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 01:37:16 --> Fetching Department details
+INFO - 2020-10-17 01:37:16 --> Fetching Sections details
+INFO - 2020-10-17 01:37:16 --> Fetching All Leave details
+INFO - 2020-10-17 01:37:16 --> Fetching All staff details
+INFO - 2020-10-17 01:37:16 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 01:37:17 --> Fetching Department details
+INFO - 2020-10-17 01:44:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 01:44:40 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-17 01:44:40 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 01:44:40 --> Fetching Category details
+INFO - 2020-10-17 01:44:40 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 01:44:40 --> Fetching All Leave details
+INFO - 2020-10-17 01:44:40 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-10-17 01:44:40 --> Fetching Sections details
+INFO - 2020-10-17 01:44:40 --> Fetching All Leave details
+INFO - 2020-10-17 01:44:40 --> Fetching Boards details
+INFO - 2020-10-17 01:44:57 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-10-17 01:44:57 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 01:44:57 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 01:44:57 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-17 01:44:57 --> Fetching Sections details
+INFO - 2020-10-17 01:44:57 --> Fetching All Leave details
+INFO - 2020-10-17 01:44:57 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 01:44:57 --> Fetching Category details
+INFO - 2020-10-17 01:44:57 --> Fetching Boards details
+INFO - 2020-10-17 01:44:57 --> Fetching All Leave details
+INFO - 2020-10-17 01:47:18 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:47:18 --> Fetching Exam Details details
+INFO - 2020-10-17 01:47:26 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:47:26 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:47:28 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:47:28 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:47:31 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:47:31 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:48:05 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:48:05 --> Fetching Exam Details details
+INFO - 2020-10-17 01:48:05 --> Controller "App\Controllers\ExamsAttendance" loaded.
+INFO - 2020-10-17 01:48:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 01:48:05 --> Fetching Exam Details details
+INFO - 2020-10-17 01:48:05 --> Fetching All Leave details
+INFO - 2020-10-17 01:48:39 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:48:39 --> Fetching Exam Details details
+INFO - 2020-10-17 01:48:58 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:48:58 --> Fetching Exam Details details
+INFO - 2020-10-17 01:49:02 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:49:02 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:49:04 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:49:04 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:49:04 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:49:04 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:49:06 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:49:06 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:49:56 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:49:56 --> Fetching Exam Details details
+INFO - 2020-10-17 01:50:32 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:50:32 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:51:45 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:51:45 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:51:49 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:51:49 --> Fetching Exam Details details
+INFO - 2020-10-17 01:51:56 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:51:56 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:51:57 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:51:57 --> Fetching Circular Details details
+INFO - 2020-10-17 01:52:00 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-17 01:52:00 --> Unknown column 't2.id_section' in 'field list'
+INFO - 2020-10-17 01:52:05 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 01:52:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 01:52:05 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:52:05 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 01:52:05 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 01:52:05 --> Fetching Boards details
+INFO - 2020-10-17 01:52:05 --> Fetching Sections details
+INFO - 2020-10-17 01:52:05 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:52:05 --> Fetching Academic year details
+INFO - 2020-10-17 01:52:05 --> Fetching Assignments Details details
+INFO - 2020-10-17 01:52:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 01:52:06 --> Fetching Sections details
+INFO - 2020-10-17 01:52:10 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:52:10 --> Fetching Circular Details details
+INFO - 2020-10-17 01:52:37 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:52:37 --> Fetching Exam Details details
+INFO - 2020-10-17 01:52:37 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:52:37 --> Fetching Circular Details details
+INFO - 2020-10-17 01:52:41 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:52:41 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:53:50 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:53:50 --> Fetching Exam Details details
+INFO - 2020-10-17 01:54:00 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:54:00 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:55:04 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:55:04 --> Fetching Circular Details details
+INFO - 2020-10-17 01:55:05 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:55:05 --> Fetching Exam Details details
+INFO - 2020-10-17 01:55:12 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:55:12 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:57:09 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:57:09 --> Fetching Exam Details details
+INFO - 2020-10-17 01:57:10 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:57:10 --> Fetching Circular Details details
+INFO - 2020-10-17 01:58:12 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:58:12 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:58:25 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:58:25 --> Fetching Circular Details details
+INFO - 2020-10-17 01:58:27 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:58:27 --> Fetching Exam Details details
+INFO - 2020-10-17 01:58:31 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 01:58:31 --> Fetching Online Exam Details details
+INFO - 2020-10-17 01:59:44 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 01:59:44 --> Fetching Exam Details details
+INFO - 2020-10-17 01:59:44 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 01:59:44 --> Fetching Circular Details details
+INFO - 2020-10-17 02:00:10 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:00:10 --> Fetching Exam Details details
+INFO - 2020-10-17 02:00:11 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:00:11 --> Fetching Circular Details details
+INFO - 2020-10-17 02:00:14 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:00:14 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:00:37 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:00:37 --> Fetching Exam Details details
+INFO - 2020-10-17 02:00:41 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:00:41 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:01:52 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:01:52 --> Fetching Exam Details details
+INFO - 2020-10-17 02:01:53 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:01:53 --> Fetching Circular Details details
+INFO - 2020-10-17 02:01:55 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:01:55 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:01:56 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:01:56 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:01:58 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:01:58 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:02:01 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:02:01 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:02:01 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:02:01 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:02:02 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:02:02 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:02:54 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:02:54 --> Fetching Exam Details details
+INFO - 2020-10-17 02:02:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:02:54 --> Fetching Circular Details details
+INFO - 2020-10-17 02:02:57 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:02:57 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:02:58 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:02:58 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:03:00 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:03:00 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:04:28 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:04:28 --> Fetching Exam Details details
+INFO - 2020-10-17 02:04:30 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:04:30 --> Fetching Circular Details details
+INFO - 2020-10-17 02:04:31 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:04:31 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:05:12 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:05:12 --> Fetching Exam Details details
+INFO - 2020-10-17 02:05:12 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:05:12 --> Fetching Circular Details details
+INFO - 2020-10-17 02:05:22 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:05:22 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:08:10 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:08:10 --> Fetching Exam Details details
+INFO - 2020-10-17 02:08:24 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:08:24 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:09:09 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:09:10 --> Fetching Exam Details details
+INFO - 2020-10-17 02:09:13 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:09:13 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:11:49 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:11:49 --> Fetching Exam Details details
+INFO - 2020-10-17 02:11:52 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:11:52 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:13:04 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:13:04 --> Fetching Exam Details details
+INFO - 2020-10-17 02:13:42 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:13:42 --> Fetching Exam Details details
+INFO - 2020-10-17 02:13:46 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:13:46 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:13:48 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:13:48 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:13:51 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:13:51 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:14:58 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:14:58 --> Fetching Exam Details details
+INFO - 2020-10-17 02:15:05 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:15:05 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:15:07 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:15:07 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:15:09 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:15:09 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:16:03 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 02:16:03 --> Fetching All Leave details
+INFO - 2020-10-17 02:16:03 --> Controller "App\Controllers\ExamsAttendance" loaded.
+INFO - 2020-10-17 02:16:03 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:16:03 --> Fetching Exam Details details
+INFO - 2020-10-17 02:16:03 --> Fetching Exam Details details
+INFO - 2020-10-17 02:16:51 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:16:51 --> Fetching Exam Details details
+INFO - 2020-10-17 02:17:02 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:17:02 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:17:58 --> Controller "App\Controllers\ExamsAttendance" loaded.
+INFO - 2020-10-17 02:17:58 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 02:17:58 --> Fetching Exam Details details
+INFO - 2020-10-17 02:17:58 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:17:58 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:17:58 --> Fetching Exam Details details
+INFO - 2020-10-17 02:17:58 --> Fetching All Leave details
+INFO - 2020-10-17 02:17:58 --> Fetching Exam Details details
+INFO - 2020-10-17 02:18:01 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:18:01 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:18:33 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:18:33 --> Fetching Exam Details details
+INFO - 2020-10-17 02:20:08 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:20:08 --> Fetching Exam Details details
+INFO - 2020-10-17 02:20:53 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:20:53 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:20:54 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:20:54 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:20:57 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:20:57 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:22:15 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:22:15 --> Fetching Exam Details details
+INFO - 2020-10-17 02:22:19 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:22:19 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:22:21 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:22:21 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:22:24 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:22:24 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:25:27 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:25:27 --> Fetching Exam Details details
+INFO - 2020-10-17 02:25:31 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:25:31 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:25:32 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:25:32 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:25:35 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:25:35 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:27:44 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:27:45 --> Fetching Exam Details details
+INFO - 2020-10-17 02:27:48 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:27:48 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:27:49 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:27:49 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:27:51 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:27:51 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:29:08 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:29:08 --> Fetching Exam Details details
+INFO - 2020-10-17 02:29:13 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:29:13 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:29:15 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:29:15 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:29:17 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:29:17 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:30:09 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:30:09 --> Fetching Exam Details details
+INFO - 2020-10-17 02:30:12 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:30:12 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:30:14 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:30:14 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:30:19 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:30:19 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:30:52 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:30:52 --> Fetching Exam Details details
+INFO - 2020-10-17 02:31:03 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:31:03 --> Fetching Exam Details details
+INFO - 2020-10-17 02:31:07 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:31:07 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:31:26 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:31:26 --> Fetching Exam Details details
+INFO - 2020-10-17 02:32:07 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:32:07 --> Fetching Exam Details details
+INFO - 2020-10-17 02:32:10 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:32:10 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:32:13 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:32:13 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:32:15 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:32:15 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:33:20 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:33:20 --> Fetching Exam Details details
+INFO - 2020-10-17 02:33:24 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:33:24 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:33:27 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:33:27 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:33:29 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:33:29 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:34:31 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:34:31 --> Fetching Exam Details details
+INFO - 2020-10-17 02:34:34 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:34:34 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:34:35 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:34:35 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:34:38 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:34:38 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:34:46 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:34:46 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:34:52 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 02:34:52 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 02:34:52 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 02:34:52 --> Fetching Assignments Details details
+INFO - 2020-10-17 02:34:52 --> Fetching Boards details
+INFO - 2020-10-17 02:34:52 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:34:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 02:34:52 --> Fetching Academic year details
+INFO - 2020-10-17 02:34:52 --> Fetching Sections details
+INFO - 2020-10-17 02:34:52 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:34:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 02:34:52 --> Fetching Sections details
+INFO - 2020-10-17 02:34:55 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:34:55 --> Fetching Circular Details details
+INFO - 2020-10-17 02:34:57 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:34:57 --> Fetching Circular Details details
+INFO - 2020-10-17 02:34:57 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:34:57 --> Fetching Exam Details details
+INFO - 2020-10-17 02:34:57 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:34:57 --> Fetching Exam Details details
+INFO - 2020-10-17 02:35:51 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:35:52 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:35:52 --> Fetching Exam Details details
+INFO - 2020-10-17 02:36:04 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:36:04 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:37:13 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:37:13 --> Fetching Circular Details details
+INFO - 2020-10-17 02:37:13 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:37:13 --> Fetching Exam Details details
+INFO - 2020-10-17 02:37:13 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:37:13 --> Fetching Exam Details details
+INFO - 2020-10-17 02:37:14 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:37:14 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:40:04 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 02:40:04 --> Fetching Online Exam Details details
+INFO - 2020-10-17 02:40:04 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:40:04 --> Fetching Circular Details details
+INFO - 2020-10-17 02:40:04 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:40:04 --> Fetching Exam Details details
+INFO - 2020-10-17 02:40:04 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:40:04 --> Fetching Exam Details details
+INFO - 2020-10-17 02:55:11 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:55:11 --> Fetching Circular Details details
+INFO - 2020-10-17 02:55:15 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:55:15 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:55:15 --> Fetching Exam Details details
+INFO - 2020-10-17 02:55:15 --> Fetching Circular Details details
+INFO - 2020-10-17 02:55:23 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:55:23 --> Fetching Circular Details details
+INFO - 2020-10-17 02:55:28 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:55:28 --> Fetching Circular Details details
+INFO - 2020-10-17 02:55:28 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:55:28 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:55:28 --> Fetching Exam Details details
+INFO - 2020-10-17 02:55:28 --> Fetching Exam Details details
+INFO - 2020-10-17 02:56:30 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:56:30 --> Fetching Circular Details details
+INFO - 2020-10-17 02:56:33 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:56:33 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:56:33 --> Fetching Circular Details details
+INFO - 2020-10-17 02:56:33 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:56:33 --> Fetching Exam Details details
+INFO - 2020-10-17 02:56:33 --> Fetching Exam Details details
+INFO - 2020-10-17 02:56:47 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:56:47 --> Fetching Circular Details details
+INFO - 2020-10-17 02:56:50 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:56:50 --> Fetching Circular Details details
+INFO - 2020-10-17 02:56:50 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:56:50 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:56:50 --> Fetching Exam Details details
+INFO - 2020-10-17 02:56:50 --> Fetching Exam Details details
+INFO - 2020-10-17 02:57:55 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:57:55 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:57:55 --> Fetching Exam Details details
+INFO - 2020-10-17 02:58:06 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:58:06 --> Fetching Circular Details details
+INFO - 2020-10-17 02:58:12 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:58:12 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:58:12 --> Fetching Circular Details details
+INFO - 2020-10-17 02:58:12 --> Fetching Exam Details details
+INFO - 2020-10-17 02:58:24 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:58:24 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:58:24 --> Fetching Exam Details details
+INFO - 2020-10-17 02:58:28 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:58:28 --> Fetching Circular Details details
+INFO - 2020-10-17 02:58:30 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:58:30 --> Fetching Circular Details details
+INFO - 2020-10-17 02:58:30 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:58:30 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:58:30 --> Fetching Exam Details details
+INFO - 2020-10-17 02:58:30 --> Fetching Exam Details details
+INFO - 2020-10-17 02:58:37 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:58:37 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 02:58:48 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:58:48 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 02:59:04 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:59:04 --> Fetching Circular Details details
+INFO - 2020-10-17 02:59:10 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:59:10 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:59:10 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:59:10 --> Fetching Exam Details details
+INFO - 2020-10-17 02:59:10 --> Fetching Exam Details details
+INFO - 2020-10-17 02:59:10 --> Fetching Circular Details details
+INFO - 2020-10-17 02:59:19 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:59:19 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 02:59:30 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:59:30 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 02:59:36 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:59:36 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 02:59:47 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:59:47 --> Fetching Circular Details details
+INFO - 2020-10-17 02:59:50 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:59:50 --> Fetching Circular Details details
+INFO - 2020-10-17 02:59:50 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 02:59:50 --> Fetching Exam Details details
+INFO - 2020-10-17 02:59:50 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:59:50 --> Fetching Exam Details details
+INFO - 2020-10-17 02:59:54 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 02:59:54 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:01:07 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:07 --> Fetching Circular Details details
+INFO - 2020-10-17 03:01:09 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:09 --> Fetching Circular Details details
+INFO - 2020-10-17 03:01:09 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:09 --> Fetching Exam Details details
+INFO - 2020-10-17 03:01:14 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:14 --> Fetching Circular Details details
+INFO - 2020-10-17 03:01:16 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:16 --> Fetching Circular Details details
+INFO - 2020-10-17 03:01:16 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:01:16 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:16 --> Fetching Exam Details details
+INFO - 2020-10-17 03:01:16 --> Fetching Exam Details details
+INFO - 2020-10-17 03:01:46 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:46 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:01:46 --> Fetching Exam Details details
+INFO - 2020-10-17 03:01:46 --> Fetching Circular Details details
+INFO - 2020-10-17 03:01:46 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:46 --> Fetching Exam Details details
+INFO - 2020-10-17 03:01:48 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:48 --> Fetching Circular Details details
+INFO - 2020-10-17 03:01:50 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:50 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:01:50 --> Fetching Circular Details details
+INFO - 2020-10-17 03:01:50 --> Fetching Exam Details details
+INFO - 2020-10-17 03:02:19 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:02:19 --> Fetching Circular Details details
+INFO - 2020-10-17 03:02:22 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:02:22 --> Fetching Circular Details details
+INFO - 2020-10-17 03:02:41 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:02:41 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:02:42 --> Fetching Circular Details details
+INFO - 2020-10-17 03:03:00 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:03:01 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:03:01 --> Fetching Exam Details details
+INFO - 2020-10-17 03:03:12 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:03:12 --> Fetching Circular Details details
+INFO - 2020-10-17 03:03:14 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:03:14 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:03:14 --> Fetching Exam Details details
+INFO - 2020-10-17 03:03:14 --> Fetching Circular Details details
+INFO - 2020-10-17 03:03:14 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:03:14 --> Fetching Exam Details details
+INFO - 2020-10-17 03:03:33 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:03:33 --> Fetching Circular Details details
+INFO - 2020-10-17 03:04:33 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:04:33 --> Fetching Circular Details details
+INFO - 2020-10-17 03:04:34 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:04:34 --> Fetching Circular Details details
+INFO - 2020-10-17 03:04:34 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:04:34 --> Fetching Exam Details details
+INFO - 2020-10-17 03:04:41 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:04:42 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:04:42 --> Fetching Exam Details details
+INFO - 2020-10-17 03:04:52 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:04:52 --> Fetching Circular Details details
+INFO - 2020-10-17 03:04:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:04:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:04:54 --> Fetching Circular Details details
+INFO - 2020-10-17 03:04:54 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:04:54 --> Fetching Exam Details details
+INFO - 2020-10-17 03:04:54 --> Fetching Exam Details details
+INFO - 2020-10-17 03:06:49 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:06:50 --> Fetching Circular Details details
+INFO - 2020-10-17 03:06:52 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:06:52 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:06:52 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:06:52 --> Fetching Circular Details details
+INFO - 2020-10-17 03:06:52 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:06:52 --> Fetching Exam Details details
+INFO - 2020-10-17 03:07:24 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:07:24 --> Fetching Circular Details details
+INFO - 2020-10-17 03:07:27 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:07:27 --> Fetching Circular Details details
+INFO - 2020-10-17 03:07:27 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:07:27 --> Fetching Exam Details details
+INFO - 2020-10-17 03:07:32 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:07:33 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:07:33 --> Fetching Exam Details details
+INFO - 2020-10-17 03:07:34 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:07:34 --> Fetching Circular Details details
+INFO - 2020-10-17 03:07:35 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:07:35 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:07:35 --> Fetching Circular Details details
+INFO - 2020-10-17 03:07:35 --> Fetching Exam Details details
+INFO - 2020-10-17 03:07:56 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:07:56 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:07:57 --> Fetching Exam Details details
+INFO - 2020-10-17 03:08:06 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:08:06 --> Fetching Circular Details details
+INFO - 2020-10-17 03:08:08 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:08:08 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:08:08 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:08:08 --> Fetching Exam Details details
+INFO - 2020-10-17 03:08:08 --> Fetching Circular Details details
+INFO - 2020-10-17 03:08:08 --> Fetching Exam Details details
+INFO - 2020-10-17 03:08:18 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:08:18 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:12:59 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:12:59 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:12:59 --> Fetching Exam Details details
+INFO - 2020-10-17 03:13:06 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:13:06 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:13:10 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:13:10 --> Fetching Circular Details details
+INFO - 2020-10-17 03:13:12 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:13:12 --> Fetching Circular Details details
+INFO - 2020-10-17 03:13:12 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:13:12 --> Fetching Exam Details details
+INFO - 2020-10-17 03:13:12 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:13:12 --> Fetching Exam Details details
+INFO - 2020-10-17 03:13:16 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:13:16 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:13:27 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:13:27 --> Fetching Circular Details details
+INFO - 2020-10-17 03:13:29 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:13:29 --> Fetching Circular Details details
+INFO - 2020-10-17 03:13:29 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:13:29 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:13:29 --> Fetching Exam Details details
+INFO - 2020-10-17 03:13:29 --> Fetching Exam Details details
+INFO - 2020-10-17 03:14:02 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:14:02 --> Fetching Circular Details details
+INFO - 2020-10-17 03:14:04 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:14:04 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:14:04 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:14:04 --> Fetching Circular Details details
+INFO - 2020-10-17 03:14:04 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:14:04 --> Fetching Exam Details details
+INFO - 2020-10-17 03:14:28 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:14:28 --> Fetching Circular Details details
+INFO - 2020-10-17 03:14:30 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 03:14:30 --> Fetching Boards details
+INFO - 2020-10-17 03:14:30 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:14:30 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 03:14:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 03:14:30 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 03:14:30 --> Fetching Sections details
+INFO - 2020-10-17 03:14:30 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:14:30 --> Fetching Academic year details
+INFO - 2020-10-17 03:14:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 03:14:30 --> Fetching Sections details
+INFO - 2020-10-17 03:14:30 --> Fetching Online Exam Details details
+INFO - 2020-10-17 03:14:40 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:14:40 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:14:40 --> Fetching Exam Details details
+INFO - 2020-10-17 03:14:40 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:14:40 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:14:40 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:14:43 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:14:43 --> Fetching chapterData details
+INFO - 2020-10-17 03:14:54 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:14:54 --> Fetching chapterData details
+INFO - 2020-10-17 03:15:27 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:15:28 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:15:28 --> Fetching chapterData details
+INFO - 2020-10-17 03:15:28 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:15:28 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:15:36 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:15:36 --> Fetching chapterData details
+INFO - 2020-10-17 03:16:57 --> Controller "App\Controllers\QuestionbankQuestions" loaded.
+INFO - 2020-10-17 03:16:57 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:16:57 --> Fetching chapterData details
+INFO - 2020-10-17 03:16:57 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:16:57 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:17:06 --> Controller "App\Controllers\QuestionbankQuestions" loaded.
+INFO - 2020-10-17 03:17:06 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:17:06 --> Fetching chapterData details
+INFO - 2020-10-17 03:17:06 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:17:06 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:18:06 --> Controller "App\Controllers\QuestionbankQuestions" loaded.
+INFO - 2020-10-17 03:18:06 --> Fetching chapterData details
+INFO - 2020-10-17 03:19:21 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 03:19:21 --> Fetching Online Exam Details details
+INFO - 2020-10-17 03:19:26 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:26 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:26 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:26 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:26 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:26 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:28 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:28 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:28 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:28 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:28 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:28 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:29 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:29 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:29 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:29 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:29 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:29 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:32 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:32 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:32 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:32 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:32 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:32 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:33 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:33 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:33 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:33 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:33 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:33 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:33 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:33 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:33 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:33 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:33 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:33 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:38 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:38 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:38 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:38 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:38 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:38 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:39 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:39 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:39 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:39 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:39 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:39 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:43 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:43 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:43 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:43 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:43 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:43 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:45 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:45 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:45 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:45 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:45 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:45 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:46 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:46 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:46 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:46 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:46 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:46 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:48 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:48 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:48 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:48 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:48 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:48 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:52 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:52 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:19:52 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:52 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:52 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:52 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:53 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:19:53 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:19:53 --> Fetching Exam Details details
+INFO - 2020-10-17 03:19:53 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 03:19:53 --> Fetching Assignments Details details
+INFO - 2020-10-17 03:19:53 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:20:32 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 03:20:32 --> Fetching Online Exam Details details
+INFO - 2020-10-17 03:20:49 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 03:20:49 --> Fetching Online Exam Details details
+INFO - 2020-10-17 03:20:51 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:20:51 --> Fetching Exam Details details
+INFO - 2020-10-17 03:20:55 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:20:56 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 03:21:00 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 03:21:00 --> Fetching Online Exam Details details
+INFO - 2020-10-17 03:21:03 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:21:03 --> Fetching Exam Details details
+INFO - 2020-10-17 03:21:11 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 03:21:11 --> Fetching Online Exam Details details
+INFO - 2020-10-17 03:21:12 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 03:21:12 --> Fetching Online Exam Details details
+INFO - 2020-10-17 03:21:47 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 03:21:47 --> Fetching Online Exam Details details
+INFO - 2020-10-17 03:21:59 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:21:59 --> Fetching Circular Details details
+INFO - 2020-10-17 03:22:03 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:22:03 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:22:03 --> Fetching Circular Details details
+INFO - 2020-10-17 03:22:03 --> Fetching Exam Details details
+INFO - 2020-10-17 03:22:06 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:22:06 --> Fetching Circular Details details
+INFO - 2020-10-17 03:22:08 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:22:08 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:22:08 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:22:08 --> Fetching Circular Details details
+INFO - 2020-10-17 03:22:08 --> Fetching Exam Details details
+INFO - 2020-10-17 03:22:08 --> Fetching Exam Details details
+INFO - 2020-10-17 03:23:29 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:23:31 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:23:31 --> Fetching Exam Details details
+INFO - 2020-10-17 03:23:39 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:23:39 --> Fetching Circular Details details
+INFO - 2020-10-17 03:23:43 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:23:43 --> Fetching Circular Details details
+INFO - 2020-10-17 03:23:43 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:23:43 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:23:43 --> Fetching Exam Details details
+INFO - 2020-10-17 03:23:43 --> Fetching Exam Details details
+INFO - 2020-10-17 03:23:46 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:23:46 --> Fetching Circular Details details
+INFO - 2020-10-17 03:23:48 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:23:48 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:23:48 --> Fetching Circular Details details
+INFO - 2020-10-17 03:23:48 --> Fetching Exam Details details
+INFO - 2020-10-17 03:23:55 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:23:55 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:23:55 --> Fetching Exam Details details
+INFO - 2020-10-17 03:23:58 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:23:58 --> Fetching Circular Details details
+INFO - 2020-10-17 03:24:12 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:24:12 --> Fetching Circular Details details
+INFO - 2020-10-17 03:24:12 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:24:12 --> Fetching Exam Details details
+INFO - 2020-10-17 03:24:15 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:24:15 --> Fetching Circular Details details
+INFO - 2020-10-17 03:24:17 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:24:17 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 03:24:17 --> Fetching Circular Details details
+INFO - 2020-10-17 03:24:17 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 03:24:17 --> Fetching Exam Details details
+INFO - 2020-10-17 03:24:17 --> Fetching Exam Details details
+INFO - 2020-10-17 03:36:58 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 03:36:58 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-17 03:36:58 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-10-17 03:36:58 --> Fetching Boards details
+INFO - 2020-10-17 03:36:58 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 03:36:58 --> Fetching Category details
+INFO - 2020-10-17 03:36:58 --> Fetching All Leave details
+INFO - 2020-10-17 03:36:58 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 03:36:58 --> Fetching All Leave details
+INFO - 2020-10-17 03:36:59 --> Fetching Sections details
+INFO - 2020-10-17 03:53:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 03:53:45 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 03:53:45 --> Fetching All Leave details
+INFO - 2020-10-17 03:53:45 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-17 03:53:45 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 03:53:45 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 03:53:45 --> Fetching All staff details
+INFO - 2020-10-17 03:53:45 --> Fetching Sections details
+INFO - 2020-10-17 03:53:45 --> Fetching Boards details
+INFO - 2020-10-17 03:53:45 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 03:53:45 --> Fetching All Leave details
+INFO - 2020-10-17 03:53:45 --> Fetching Department details
+INFO - 2020-10-17 03:53:45 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 03:53:45 --> Fetching Department details
+INFO - 2020-10-17 04:15:04 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:15:04 --> Fetching Circular Details details
+INFO - 2020-10-17 04:15:15 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 04:15:15 --> Fetching Online Exam Details details
+INFO - 2020-10-17 04:15:21 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:15:21 --> Fetching Exam Details details
+INFO - 2020-10-17 04:16:25 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 04:16:25 --> Fetching Online Exam Details details
+INFO - 2020-10-17 04:16:28 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:16:28 --> Fetching Circular Details details
+INFO - 2020-10-17 04:16:32 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:16:32 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:16:32 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:16:32 --> Fetching Circular Details details
+INFO - 2020-10-17 04:16:32 --> Fetching Exam Details details
+INFO - 2020-10-17 04:16:32 --> Fetching Exam Details details
+INFO - 2020-10-17 04:19:57 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:19:57 --> Fetching Circular Details details
+INFO - 2020-10-17 04:19:59 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-17 04:19:59 --> Unknown column 't2.id_section' in 'field list'
+INFO - 2020-10-17 04:20:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 04:20:27 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-10-17 04:20:27 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 04:20:27 --> Fetching Assignments Details details
+INFO - 2020-10-17 04:20:27 --> Fetching Sections details
+INFO - 2020-10-17 04:20:27 --> Fetching Boards details
+INFO - 2020-10-17 04:20:27 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 04:20:27 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 04:20:27 --> Fetching Academic year details
+INFO - 2020-10-17 04:20:27 --> Fetching Online Exam Details details
+INFO - 2020-10-17 04:20:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 04:20:27 --> Fetching Sections details
+INFO - 2020-10-17 04:20:32 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 04:20:32 --> Fetching Online Exam Details details
+INFO - 2020-10-17 04:20:34 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:20:34 --> Fetching Exam Details details
+INFO - 2020-10-17 04:20:39 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:20:39 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 04:20:47 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:20:47 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 04:21:08 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:21:08 --> Fetching Exam Hallticket Details details
+INFO - 2020-10-17 04:33:18 --> Controller "App\Controllers\ExamsOnline" loaded.
+INFO - 2020-10-17 04:33:18 --> Fetching Online Exam Details details
+INFO - 2020-10-17 04:33:27 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:33:27 --> Fetching Circular Details details
+INFO - 2020-10-17 04:33:29 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:33:29 --> Fetching Circular Details details
+INFO - 2020-10-17 04:33:29 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:33:29 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:33:29 --> Fetching Exam Details details
+INFO - 2020-10-17 04:33:29 --> Fetching Exam Details details
+INFO - 2020-10-17 04:35:18 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:35:18 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:35:18 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:35:18 --> Fetching Exam Details details
+INFO - 2020-10-17 04:35:18 --> Fetching Circular Details details
+INFO - 2020-10-17 04:35:18 --> Fetching Exam Details details
+INFO - 2020-10-17 04:35:30 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:35:30 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:35:30 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:35:30 --> Fetching Exam Details details
+INFO - 2020-10-17 04:35:30 --> Fetching Circular Details details
+INFO - 2020-10-17 04:35:30 --> Fetching Exam Details details
+INFO - 2020-10-17 04:48:39 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:48:39 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:48:39 --> Fetching Circular Details details
+INFO - 2020-10-17 04:48:39 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:48:39 --> Fetching Exam Details details
+INFO - 2020-10-17 04:48:39 --> Fetching Exam Details details
+INFO - 2020-10-17 04:49:02 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:49:02 --> Fetching Circular Details details
+INFO - 2020-10-17 04:49:02 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:49:02 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:49:02 --> Fetching Exam Details details
+INFO - 2020-10-17 04:49:02 --> Fetching Exam Details details
+INFO - 2020-10-17 04:52:05 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:52:05 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:52:05 --> Fetching Circular Details details
+INFO - 2020-10-17 04:52:05 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:52:05 --> Fetching Exam Details details
+INFO - 2020-10-17 04:52:05 --> Fetching Exam Details details
+INFO - 2020-10-17 04:55:11 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:55:11 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:55:11 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:55:11 --> Fetching Circular Details details
+INFO - 2020-10-17 04:55:11 --> Fetching Exam Details details
+INFO - 2020-10-17 04:55:11 --> Fetching Exam Details details
+INFO - 2020-10-17 04:56:02 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:56:02 --> Fetching Circular Details details
+INFO - 2020-10-17 04:56:02 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:56:02 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:56:02 --> Fetching Exam Details details
+INFO - 2020-10-17 04:56:02 --> Fetching Exam Details details
+INFO - 2020-10-17 04:58:16 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:58:16 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-17 04:58:16 --> Fetching Circular Details details
+INFO - 2020-10-17 04:58:16 --> Fetching Exam Details details
+INFO - 2020-10-17 04:58:16 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-17 04:58:16 --> Fetching Exam Details details
+INFO - 2020-10-17 05:04:12 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:04:12 --> Fetching Sections details
+INFO - 2020-10-17 05:07:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:07:19 --> Fetching Sections details
+INFO - 2020-10-17 05:08:38 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 05:08:38 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-10-17 05:08:38 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:08:38 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-10-17 05:08:38 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:08:38 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 05:08:38 --> Fetching Boards details
+INFO - 2020-10-17 05:08:38 --> Fetching Circulars details
+INFO - 2020-10-17 05:08:38 --> Fetching Academic year details
+INFO - 2020-10-17 05:08:38 --> Fetching Sections details
+INFO - 2020-10-17 05:08:38 --> Fetching Sections details
+INFO - 2020-10-17 05:08:38 --> Fetching Circular Details details
+INFO - 2020-10-17 05:08:38 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-10-17 05:08:38 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-10-17 05:08:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:08:39 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-10-17 05:08:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:08:39 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 05:08:39 --> Fetching Role details
+INFO - 2020-10-17 15:38:39 --> Fetching Circulars Mapped Id details
+INFO - 2020-10-17 05:08:39 --> Fetching Circulars Id details
+INFO - 2020-10-17 05:08:39 --> Fetching Sections details
+INFO - 2020-10-17 05:08:39 --> Fetching Sections details
+INFO - 2020-10-17 05:08:39 --> Fetching Circulars Mapped Id details
+INFO - 2020-10-17 05:08:39 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-10-17 05:08:39 --> Fetching Circular Details details
+INFO - 2020-10-17 05:08:41 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:08:41 --> Fetching Sections details
+INFO - 2020-10-17 05:08:45 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-10-17 05:08:45 --> Fetching Circulars details
+INFO - 2020-10-17 05:09:03 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 05:09:03 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-10-17 05:09:03 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-17 05:09:03 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-10-17 05:09:03 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-10-17 05:09:03 --> Fetching FeeMaster details
+INFO - 2020-10-17 05:09:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 05:09:03 --> Fetching FeeMaster details
+INFO - 2020-10-17 05:09:03 --> Fetching All Leave details
+INFO - 2020-10-17 05:09:03 --> Fetching Sections details
+INFO - 2020-10-17 05:09:03 --> Fetching FeeMaster details
+INFO - 2020-10-17 05:09:03 --> Fetching Category details
+INFO - 2020-10-17 05:09:03 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 05:09:03 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-10-17 05:09:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-17 05:09:03 --> Controller "App\Controllers\FeeCollectionNonStudents" loaded.
+INFO - 2020-10-17 05:09:04 --> Fetching Boards details
+INFO - 2020-10-17 05:09:04 --> Fetching Sections details
+INFO - 2020-10-17 05:09:04 --> Fetching FeeDashboardDetails details
+INFO - 2020-10-17 05:09:04 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-10-17 05:09:04 --> Fetching vendor details
+INFO - 2020-10-17 05:10:41 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:10:41 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:10:41 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 05:10:41 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 05:10:41 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 05:10:41 --> Controller "App\Controllers\DailyDairy" loaded.
+INFO - 2020-10-17 05:10:41 --> Fetching Academic year details
+INFO - 2020-10-17 05:10:41 --> Fetching Role details
+INFO - 2020-10-17 05:10:41 --> Fetching Boards details
+INFO - 2020-10-17 15:40:41 --> Fetching Circulars Mapped Id details
+INFO - 2020-10-17 05:10:41 --> Fetching Sections details
+INFO - 2020-10-17 05:10:41 --> Fetching Sections details
+INFO - 2020-10-17 05:10:41 --> Controller "App\Controllers\DailyDairy" loaded.
+INFO - 2020-10-17 05:10:41 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:10:41 --> Fetching Dairies Details details
+INFO - 2020-10-17 05:10:41 --> Fetching Sections details
+INFO - 2020-10-17 05:10:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:10:43 --> Fetching Sections details
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:10:55 --> Fetching Boards details
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-17 05:10:55 --> Fetching Sections details
+INFO - 2020-10-17 05:10:55 --> Fetching Sections details
+INFO - 2020-10-17 05:10:55 --> Fetching SubjectMasters details
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-17 05:10:55 --> Fetching Academic year details
+INFO - 2020-10-17 05:10:55 --> Fetching All staff details
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-10-17 05:10:55 --> Fetching Subjects details
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-10-17 05:10:55 --> Fetching Academic year details
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 05:10:55 --> Fetching Sections details
+INFO - 2020-10-17 05:10:55 --> Fetching Sections details
+INFO - 2020-10-17 05:10:55 --> Fetching class details
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-17 05:10:55 --> Fetching SubjectMasters details
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 05:10:55 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-17 05:10:55 --> Fetching Subjects details
+INFO - 2020-10-17 05:10:57 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 05:16:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:16:13 --> Fetching Sections details
+INFO - 2020-10-17 05:16:46 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:16:46 --> Fetching Sections details
+INFO - 2020-10-17 05:17:49 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:17:49 --> Fetching Sections details
+INFO - 2020-10-17 05:19:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 05:19:56 --> Fetching Sections details
+INFO - 2020-10-17 06:11:06 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:11:06 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 06:11:06 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 06:11:06 --> Controller "App\Controllers\DailyDairy" loaded.
+INFO - 2020-10-17 06:11:06 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 06:11:06 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:11:06 --> Fetching Academic year details
+INFO - 2020-10-17 16:41:06 --> Fetching Circulars Mapped Id details
+INFO - 2020-10-17 06:11:06 --> Fetching Boards details
+INFO - 2020-10-17 06:11:06 --> Fetching Role details
+INFO - 2020-10-17 06:11:06 --> Fetching Sections details
+INFO - 2020-10-17 06:11:06 --> Fetching Sections details
+INFO - 2020-10-17 06:11:06 --> Controller "App\Controllers\DailyDairy" loaded.
+INFO - 2020-10-17 06:11:06 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:11:06 --> Fetching Dairies Details details
+INFO - 2020-10-17 06:11:06 --> Fetching Sections details
+INFO - 2020-10-17 06:25:34 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:25:34 --> Fetching Sections details
+INFO - 2020-10-17 06:25:46 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:25:46 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:25:46 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 06:25:46 --> Controller "App\Controllers\HolidayDetails" loaded.
+INFO - 2020-10-17 06:25:46 --> Fetching Boards details
+INFO - 2020-10-17 06:25:46 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-17 06:25:46 --> Fetching holidays Details details
+INFO - 2020-10-17 06:25:46 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 06:25:46 --> Fetching Role details
+INFO - 2020-10-17 06:25:46 --> Fetching Sections details
+INFO - 2020-10-17 06:25:46 --> Fetching Sections details
+INFO - 2020-10-17 06:25:46 --> Fetching Academic year details
+INFO - 2020-10-17 06:25:46 --> Controller "App\Controllers\HolidayDetails" loaded.
+INFO - 2020-10-17 06:25:46 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:25:46 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:25:46 --> Controller "App\Controllers\HolidayDetails" loaded.
+INFO - 2020-10-17 06:25:46 --> Fetching holiday details
+INFO - 2020-10-17 06:25:46 --> Fetching holidays Details details
+INFO - 2020-10-17 06:25:46 --> Fetching Sections details
+INFO - 2020-10-17 06:25:46 --> Fetching Sections details
+INFO - 2020-10-17 06:25:50 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:25:50 --> Fetching Sections details
+INFO - 2020-10-17 06:26:30 --> Controller "App\Controllers\HolidayDetails" loaded.
+INFO - 2020-10-17 06:26:30 --> Fetching holiday details
+INFO - 2020-10-17 06:30:07 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:30:07 --> Fetching Sections details
+INFO - 2020-10-17 06:30:52 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:30:52 --> Fetching Sections details
+INFO - 2020-10-17 06:30:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:30:56 --> Fetching Sections details
+INFO - 2020-10-17 06:35:25 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:35:25 --> Fetching Sections details
+INFO - 2020-10-17 06:35:29 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:35:29 --> Fetching Sections details
+INFO - 2020-10-17 06:40:06 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:40:06 --> Fetching Sections details
+INFO - 2020-10-17 06:40:27 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:40:27 --> Fetching Sections details
+INFO - 2020-10-17 06:40:31 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:40:31 --> Fetching Sections details
+INFO - 2020-10-17 06:43:22 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:43:23 --> Fetching Sections details
+INFO - 2020-10-17 06:43:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:43:26 --> Fetching Sections details
+INFO - 2020-10-17 06:45:37 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 06:45:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 06:45:44 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 06:45:44 --> Fetching Users details
+INFO - 2020-10-17 06:45:48 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 06:45:48 --> Fetching Users details
+INFO - 2020-10-17 06:45:54 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:45:54 --> Fetching Sections details
+INFO - 2020-10-17 06:46:00 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 06:46:00 --> Fetching Sections details
+INFO - 2020-10-17 07:03:12 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:03:12 --> Fetching Sections details
+INFO - 2020-10-17 07:03:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:03:40 --> Fetching Sections details
+INFO - 2020-10-17 07:03:45 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:03:45 --> Fetching Sections details
+INFO - 2020-10-17 07:03:48 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:03:48 --> Fetching Sections details
+INFO - 2020-10-17 07:05:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:05:13 --> Fetching Sections details
+INFO - 2020-10-17 07:05:14 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:05:14 --> Fetching Sections details
+INFO - 2020-10-17 07:05:18 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:05:18 --> Fetching Sections details
+INFO - 2020-10-17 07:10:11 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:10:11 --> Fetching Sections details
+INFO - 2020-10-17 07:10:14 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:10:14 --> Fetching Sections details
+INFO - 2020-10-17 07:10:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:10:17 --> Fetching Sections details
+INFO - 2020-10-17 07:10:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:10:17 --> Fetching Sections details
+INFO - 2020-10-17 07:11:00 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:11:00 --> Fetching Sections details
+INFO - 2020-10-17 07:11:03 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:11:03 --> Fetching Sections details
+INFO - 2020-10-17 07:11:06 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:11:06 --> Fetching Sections details
+INFO - 2020-10-17 07:12:50 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:12:50 --> Fetching Sections details
+INFO - 2020-10-17 07:12:55 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:12:55 --> Fetching Sections details
+INFO - 2020-10-17 07:13:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:13:39 --> Fetching Sections details
+INFO - 2020-10-17 07:13:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:13:39 --> Fetching Sections details
+INFO - 2020-10-17 07:13:47 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:13:47 --> Fetching Sections details
+INFO - 2020-10-17 07:15:47 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:15:47 --> Fetching Sections details
+INFO - 2020-10-17 07:17:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:17:17 --> Fetching Sections details
+INFO - 2020-10-17 07:17:18 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:17:18 --> Fetching Sections details
+INFO - 2020-10-17 07:20:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:20:19 --> Fetching Sections details
+INFO - 2020-10-17 07:20:20 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:20:20 --> Fetching Sections details
+INFO - 2020-10-17 07:20:23 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:20:23 --> Fetching Sections details
+INFO - 2020-10-17 07:20:32 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:20:32 --> Fetching Sections details
+INFO - 2020-10-17 07:20:36 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:20:36 --> Fetching Sections details
+INFO - 2020-10-17 07:22:44 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:22:44 --> Fetching Sections details
+INFO - 2020-10-17 07:22:45 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:22:45 --> Fetching Sections details
+INFO - 2020-10-17 07:22:48 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:22:48 --> Fetching Sections details
+INFO - 2020-10-17 07:25:11 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:25:11 --> Fetching Sections details
+INFO - 2020-10-17 07:25:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:25:13 --> Fetching Sections details
+INFO - 2020-10-17 07:25:55 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:25:55 --> Fetching Sections details
+INFO - 2020-10-17 07:25:57 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:25:57 --> Fetching Sections details
+INFO - 2020-10-17 07:26:08 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:26:09 --> Fetching Sections details
+INFO - 2020-10-17 07:30:16 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:30:16 --> Fetching Sections details
+INFO - 2020-10-17 07:30:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:30:17 --> Fetching Sections details
+INFO - 2020-10-17 07:30:21 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:30:21 --> Fetching Sections details
+INFO - 2020-10-17 07:58:54 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 07:58:54 --> Fetching Sections details
+INFO - 2020-10-17 08:00:11 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:00:11 --> Fetching Sections details
+INFO - 2020-10-17 08:00:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:00:13 --> Fetching Sections details
+INFO - 2020-10-17 08:00:18 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:00:18 --> Fetching Sections details
+INFO - 2020-10-17 08:00:18 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:00:18 --> Fetching Sections details
+INFO - 2020-10-17 08:07:48 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:07:48 --> Fetching Sections details
+INFO - 2020-10-17 08:07:51 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:07:52 --> Fetching Sections details
+INFO - 2020-10-17 08:09:20 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:09:20 --> Fetching Sections details
+INFO - 2020-10-17 08:09:22 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:09:22 --> Fetching Sections details
+INFO - 2020-10-17 08:10:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:10:26 --> Fetching Sections details
+INFO - 2020-10-17 08:11:14 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:11:14 --> Fetching Sections details
+INFO - 2020-10-17 08:11:32 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:11:33 --> Fetching Sections details
+INFO - 2020-10-17 08:17:45 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:17:45 --> Fetching Sections details
+INFO - 2020-10-17 08:19:07 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:19:07 --> Fetching Sections details
+INFO - 2020-10-17 08:22:58 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:22:58 --> Fetching Sections details
+INFO - 2020-10-17 08:23:02 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:23:02 --> Fetching Sections details
+INFO - 2020-10-17 08:25:18 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:25:18 --> Fetching Sections details
+INFO - 2020-10-17 08:25:22 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:25:22 --> Fetching Sections details
+INFO - 2020-10-17 08:35:25 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:35:25 --> Fetching Sections details
+INFO - 2020-10-17 08:35:28 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:35:28 --> Fetching Sections details
+INFO - 2020-10-17 08:39:47 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:39:47 --> Fetching Sections details
+INFO - 2020-10-17 08:39:48 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:39:48 --> Fetching Sections details
+INFO - 2020-10-17 08:39:51 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:39:51 --> Fetching Sections details
+INFO - 2020-10-17 08:39:51 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:39:51 --> Fetching Sections details
+INFO - 2020-10-17 08:42:44 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:42:44 --> Fetching Sections details
+INFO - 2020-10-17 08:43:12 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:43:12 --> Fetching Sections details
+INFO - 2020-10-17 08:45:10 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:45:10 --> Fetching Sections details
+INFO - 2020-10-17 08:46:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:46:13 --> Fetching Sections details
+INFO - 2020-10-17 08:47:58 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:47:58 --> Fetching Sections details
+INFO - 2020-10-17 08:48:03 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:48:04 --> Fetching Sections details
+INFO - 2020-10-17 08:52:23 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:52:23 --> Fetching Sections details
+INFO - 2020-10-17 08:52:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 08:52:26 --> Fetching Sections details
+INFO - 2020-10-17 09:00:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:00:26 --> Fetching Sections details
+INFO - 2020-10-17 09:03:46 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:03:46 --> Fetching Sections details
+INFO - 2020-10-17 09:06:27 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:06:27 --> Fetching Sections details
+INFO - 2020-10-17 09:06:31 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:06:31 --> Fetching Sections details
+INFO - 2020-10-17 09:09:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:09:39 --> Fetching Sections details
+INFO - 2020-10-17 09:09:58 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:09:58 --> Fetching Sections details
+INFO - 2020-10-17 09:10:06 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:10:06 --> Fetching Sections details
+INFO - 2020-10-17 09:12:44 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:12:44 --> Fetching Sections details
+INFO - 2020-10-17 09:12:45 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:12:45 --> Fetching Sections details
+INFO - 2020-10-17 09:12:58 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:12:58 --> Fetching Sections details
+INFO - 2020-10-17 09:14:33 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:14:33 --> Fetching Sections details
+INFO - 2020-10-17 09:14:34 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:14:34 --> Fetching Sections details
+INFO - 2020-10-17 09:14:38 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:14:38 --> Fetching Sections details
+INFO - 2020-10-17 09:16:28 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:16:28 --> Fetching Sections details
+INFO - 2020-10-17 09:16:46 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:16:46 --> Fetching Sections details
+INFO - 2020-10-17 09:25:50 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:25:50 --> Fetching Sections details
+INFO - 2020-10-17 09:26:04 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:26:04 --> Fetching Sections details
+INFO - 2020-10-17 09:26:08 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:26:08 --> Fetching Sections details
+INFO - 2020-10-17 09:36:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-10-17 09:36:21 --> Fetching Roles details
+INFO - 2020-10-17 09:36:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-10-17 09:36:21 --> Fetching Assignments Details details
+INFO - 2020-10-17 09:36:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-10-17 09:36:21 --> Fetching Permission details
+INFO - 2020-10-17 09:36:32 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-17 09:36:32 --> Fetching All Leave details
+INFO - 2020-10-17 09:37:02 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:37:02 --> Fetching Sections details
+INFO - 2020-10-17 09:37:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-10-17 09:37:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-10-17 09:37:13 --> Fetching Assignments Details details
+INFO - 2020-10-17 09:37:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-10-17 09:37:13 --> Fetching Permission details
+INFO - 2020-10-17 09:37:13 --> Fetching Roles details
+INFO - 2020-10-17 09:37:13 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 09:37:13 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 09:37:13 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-10-17 09:37:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:37:13 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-17 09:37:13 --> Fetching Boards details
+INFO - 2020-10-17 09:37:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:37:13 --> Fetching SubjectMasters details
+INFO - 2020-10-17 09:37:14 --> Fetching Sections details
+INFO - 2020-10-17 09:37:14 --> Fetching Sections details
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-17 09:37:14 --> Fetching All staff details
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-10-17 09:37:14 --> Fetching Academic year details
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 09:37:14 --> Fetching class details
+INFO - 2020-10-17 09:37:14 --> Fetching Academic year details
+INFO - 2020-10-17 09:37:14 --> Fetching Subjects details
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:37:14 --> Fetching SubjectMasters details
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 09:37:14 --> Fetching Sections details
+INFO - 2020-10-17 09:37:14 --> Fetching Sections details
+INFO - 2020-10-17 09:37:14 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-17 09:37:14 --> Fetching Subjects details
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-17 09:37:19 --> Fetching Sections details
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-10-17 09:37:19 --> Fetching Boards details
+INFO - 2020-10-17 09:37:19 --> Fetching Academic year details
+INFO - 2020-10-17 09:37:19 --> Fetching Sections details
+INFO - 2020-10-17 09:37:19 --> Fetching SubjectMasters details
+INFO - 2020-10-17 09:37:19 --> Fetching All staff details
+INFO - 2020-10-17 09:37:19 --> Fetching Academic year details
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-10-17 09:37:19 --> Fetching Subjects details
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:37:19 --> Fetching SubjectMasters details
+INFO - 2020-10-17 09:37:19 --> Fetching class details
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 09:37:19 --> Fetching Sections details
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 09:37:19 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-17 09:37:19 --> Fetching Sections details
+INFO - 2020-10-17 09:37:19 --> Fetching Subjects details
+INFO - 2020-10-17 09:37:21 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-10-17 23:27:47 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 23:27:47 --> Fetching Users details
+INFO - 2020-10-17 23:27:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-17 23:27:51 --> Fetching Users details
+INFO - 2020-10-17 23:30:31 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:30:31 --> Fetching Sections details
+INFO - 2020-10-17 23:31:12 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:31:12 --> Fetching Sections details
+INFO - 2020-10-17 23:38:03 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:38:03 --> Fetching Sections details
+INFO - 2020-10-17 23:40:14 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:40:14 --> Fetching Sections details
+INFO - 2020-10-17 23:40:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:40:17 --> Fetching Sections details
+INFO - 2020-10-17 23:42:11 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:42:11 --> Fetching Sections details
+INFO - 2020-10-17 23:43:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:43:26 --> Fetching Sections details
+INFO - 2020-10-17 23:43:30 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:43:30 --> Fetching Sections details
+INFO - 2020-10-17 23:47:10 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:47:10 --> Fetching Sections details
+INFO - 2020-10-17 23:47:14 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:47:14 --> Fetching Sections details
+INFO - 2020-10-17 23:48:46 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:48:46 --> Fetching Sections details
+INFO - 2020-10-17 23:48:50 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:48:50 --> Fetching Sections details
+INFO - 2020-10-17 23:55:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:55:13 --> Fetching Sections details
+INFO - 2020-10-17 23:57:57 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:57:57 --> Fetching Sections details
+INFO - 2020-10-17 23:58:01 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-17 23:58:01 --> Fetching Sections details

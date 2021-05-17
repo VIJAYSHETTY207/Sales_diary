@@ -1,0 +1,1428 @@
+INFO - 2020-04-14 02:42:25 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-14 02:42:25 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-14 02:42:25 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-14 02:42:25 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-14 02:42:25 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-14 02:42:25 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 02:42:27 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-14 02:42:27 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-14 02:42:28 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-14 02:42:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 02:42:28 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-14 02:42:28 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-14 02:42:30 --> Fetching FeeMaster details
+INFO - 2020-04-14 02:42:30 --> Fetching Sections details
+INFO - 2020-04-14 02:42:30 --> Fetching Academic year details
+INFO - 2020-04-14 02:42:30 --> Fetching Sections details
+INFO - 2020-04-14 02:42:30 --> Fetching Institution details
+INFO - 2020-04-14 02:42:30 --> Fetching FeeMaster details
+INFO - 2020-04-14 02:42:30 --> Fetching Academic year details
+INFO - 2020-04-14 02:42:30 --> Fetching FeesConfigs details
+INFO - 2020-04-14 02:42:30 --> Fetching Institution details
+INFO - 2020-04-14 02:42:30 --> Fetching Standards Section details
+INFO - 2020-04-14 02:42:30 --> Fetching Standards Section details
+INFO - 2020-04-14 02:42:30 --> Fetching FeesConfigs details
+INFO - 2020-04-14 02:56:57 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-14 02:56:57 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-14 02:56:57 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-14 02:56:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 02:56:57 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-14 02:56:57 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-14 02:57:05 --> Fetching Institution details
+INFO - 2020-04-14 02:57:05 --> Fetching Academic year details
+INFO - 2020-04-14 02:57:05 --> Fetching FeeMaster details
+INFO - 2020-04-14 02:57:05 --> Fetching Standards Section details
+INFO - 2020-04-14 02:57:05 --> Fetching FeesConfigs details
+INFO - 2020-04-14 02:57:05 --> Fetching Sections details
+INFO - 2020-04-14 03:04:41 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-14 03:04:41 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-14 03:04:41 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-14 03:04:41 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:04:41 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-14 03:04:41 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-14 03:04:45 --> Fetching FeesConfigs details
+INFO - 2020-04-14 03:04:45 --> Fetching Academic year details
+INFO - 2020-04-14 03:04:45 --> Fetching Sections details
+INFO - 2020-04-14 03:04:45 --> Fetching Standards Section details
+INFO - 2020-04-14 03:04:45 --> Fetching Institution details
+INFO - 2020-04-14 03:04:45 --> Fetching FeeMaster details
+INFO - 2020-04-14 03:11:02 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-14 03:11:02 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:11:02 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:11:02 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:11:02 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-14 03:11:07 --> Fetching Institution details
+INFO - 2020-04-14 03:11:09 --> Fetching Boards details
+INFO - 2020-04-14 03:11:09 --> Fetching Standards details
+INFO - 2020-04-14 03:11:09 --> Fetching Standards details
+INFO - 2020-04-14 03:11:09 --> Fetching Standards details
+INFO - 2020-04-14 03:11:32 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:11:32 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-14 03:11:32 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-14 03:11:32 --> Fetching Standards details
+INFO - 2020-04-14 03:11:33 --> Fetching Institution details
+INFO - 2020-04-14 03:11:33 --> Fetching Boards details
+INFO - 2020-04-14 03:11:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-14 03:11:33 --> Fetching Sections details
+INFO - 2020-04-14 03:32:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:33:02 --> Fetching Standards Section details
+INFO - 2020-04-14 03:50:09 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:50:10 --> Fetching Standards Section details
+INFO - 2020-04-14 03:50:40 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:50:40 --> Fetching Standards Section details
+INFO - 2020-04-14 03:51:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:51:28 --> Fetching Standards Section details
+INFO - 2020-04-14 03:52:19 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:52:20 --> Fetching Standards Section details
+INFO - 2020-04-14 03:52:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 03:52:22 --> Fetching Standards Section details
+INFO - 2020-04-14 04:33:20 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:33:20 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:33:21 --> Fetching Standards Section details
+INFO - 2020-04-14 04:33:22 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:33:48 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:33:49 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:33:49 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:33:50 --> Fetching Standards Section details
+INFO - 2020-04-14 04:35:01 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:35:01 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:35:01 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:35:01 --> Fetching Standards Section details
+INFO - 2020-04-14 04:36:15 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:36:15 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:36:17 --> Fetching Standards Section details
+INFO - 2020-04-14 04:36:17 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:37:59 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:37:59 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:38:01 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:38:01 --> Fetching Standards Section details
+INFO - 2020-04-14 04:38:35 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:38:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:38:35 --> Fetching Standards Section details
+INFO - 2020-04-14 04:38:35 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:42:20 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:42:20 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:42:21 --> Fetching Standards Section details
+INFO - 2020-04-14 04:42:21 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:46:51 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:46:51 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:46:51 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:46:51 --> Fetching Standards Section details
+INFO - 2020-04-14 04:49:00 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:49:00 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:49:01 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:49:01 --> Fetching Standards Section details
+INFO - 2020-04-14 04:49:09 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 04:49:10 --> Fetching room details
+INFO - 2020-04-14 04:49:27 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:49:27 --> Fetching Standards Section details
+INFO - 2020-04-14 04:49:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:49:27 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:52:17 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:52:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:52:17 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:52:17 --> Fetching Standards Section details
+INFO - 2020-04-14 04:56:11 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:56:11 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:56:11 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:56:11 --> Fetching Standards Section details
+INFO - 2020-04-14 04:56:17 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 04:56:17 --> Fetching room details
+INFO - 2020-04-14 04:56:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:56:22 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:56:22 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:56:22 --> Fetching Standards Section details
+INFO - 2020-04-14 04:58:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:58:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:58:29 --> Fetching Standards Section details
+INFO - 2020-04-14 04:58:29 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:58:47 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:58:47 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:58:48 --> Fetching Standards Section details
+INFO - 2020-04-14 04:58:48 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:59:09 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 04:59:09 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 04:59:09 --> Fetching SubjectMasters details
+INFO - 2020-04-14 04:59:09 --> Fetching Standards Section details
+INFO - 2020-04-14 05:00:00 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:00:00 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:00:00 --> Fetching Standards Section details
+INFO - 2020-04-14 05:00:00 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:01:53 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:01:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:01:53 --> Fetching Standards Section details
+INFO - 2020-04-14 05:01:53 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:02:40 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:02:40 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:02:40 --> Fetching Standards Section details
+INFO - 2020-04-14 05:02:40 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:03:03 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:03:03 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:03:03 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:03:03 --> Fetching Standards Section details
+INFO - 2020-04-14 05:03:44 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:03:44 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:03:45 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:03:45 --> Fetching Standards Section details
+INFO - 2020-04-14 05:04:13 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:04:13 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:04:13 --> Fetching Standards Section details
+INFO - 2020-04-14 05:04:13 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:04:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:04:57 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:04:57 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:04:58 --> Fetching Standards Section details
+INFO - 2020-04-14 05:05:18 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:05:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:05:18 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:05:18 --> Fetching Standards Section details
+INFO - 2020-04-14 05:05:47 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:05:47 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:05:47 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:05:47 --> Fetching Standards Section details
+INFO - 2020-04-14 05:06:06 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:06:06 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:06:06 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:06:06 --> Fetching Standards Section details
+INFO - 2020-04-14 05:06:17 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:06:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:06:17 --> Fetching Standards Section details
+INFO - 2020-04-14 05:06:17 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:06:21 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 05:06:21 --> Fetching room details
+INFO - 2020-04-14 05:10:10 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 05:10:10 --> Fetching room details
+INFO - 2020-04-14 05:10:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:10:12 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:10:12 --> Fetching Standards Section details
+INFO - 2020-04-14 05:10:12 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:10:14 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:10:14 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:10:14 --> Fetching Standards Section details
+INFO - 2020-04-14 05:10:14 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:10:53 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 05:10:53 --> Fetching room details
+INFO - 2020-04-14 05:10:58 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:10:58 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:10:58 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:10:58 --> Fetching Standards Section details
+INFO - 2020-04-14 05:13:10 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 05:13:10 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 05:13:10 --> Fetching Standards Section details
+INFO - 2020-04-14 05:13:10 --> Fetching SubjectMasters details
+INFO - 2020-04-14 05:13:15 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 05:13:15 --> Fetching room details
+INFO - 2020-04-14 06:42:59 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 06:43:01 --> Fetching room details
+INFO - 2020-04-14 06:43:43 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 06:43:43 --> Fetching room details
+INFO - 2020-04-14 06:44:07 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 06:44:07 --> Fetching room details
+INFO - 2020-04-14 06:44:24 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 06:44:24 --> Fetching room details
+INFO - 2020-04-14 06:46:10 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 06:46:10 --> Fetching room details
+INFO - 2020-04-14 06:46:13 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 06:46:13 --> Fetching room details
+INFO - 2020-04-14 06:50:09 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 06:50:10 --> Fetching room details
+INFO - 2020-04-14 06:50:16 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 06:50:16 --> Fetching Standards Section details
+INFO - 2020-04-14 06:50:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 06:50:18 --> Fetching SubjectMasters details
+INFO - 2020-04-14 06:50:23 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 06:50:23 --> Fetching room details
+INFO - 2020-04-14 06:59:12 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 06:59:13 --> Fetching room details
+INFO - 2020-04-14 07:00:44 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:00:44 --> Fetching room details
+INFO - 2020-04-14 07:07:08 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:07:09 --> Fetching room details
+INFO - 2020-04-14 07:08:54 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:08:54 --> Fetching room details
+INFO - 2020-04-14 07:09:00 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:09:00 --> Fetching room details
+INFO - 2020-04-14 07:09:34 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:09:34 --> Fetching room details
+INFO - 2020-04-14 07:14:10 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:14:10 --> Fetching room details
+INFO - 2020-04-14 07:14:53 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:14:53 --> Fetching room details
+INFO - 2020-04-14 07:16:08 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:16:08 --> Fetching room details
+INFO - 2020-04-14 07:16:54 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:16:54 --> Fetching room details
+INFO - 2020-04-14 07:17:18 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:17:18 --> Fetching room details
+INFO - 2020-04-14 07:18:03 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:18:03 --> Fetching room details
+INFO - 2020-04-14 07:18:50 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:18:50 --> Fetching room details
+INFO - 2020-04-14 07:20:52 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:20:52 --> Fetching room details
+INFO - 2020-04-14 07:23:38 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:23:38 --> Fetching room details
+INFO - 2020-04-14 07:25:36 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:25:36 --> Fetching room details
+INFO - 2020-04-14 07:28:58 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:28:58 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:29:00 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:29:00 --> Fetching Standards Section details
+INFO - 2020-04-14 07:30:06 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:30:06 --> Fetching room details
+INFO - 2020-04-14 07:32:05 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:32:05 --> Fetching room details
+INFO - 2020-04-14 07:36:14 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:36:14 --> Fetching room details
+INFO - 2020-04-14 07:37:00 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:37:00 --> Fetching room details
+INFO - 2020-04-14 07:37:02 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:37:03 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:37:03 --> Fetching Standards Section details
+INFO - 2020-04-14 07:37:04 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:37:17 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:37:17 --> Fetching room details
+INFO - 2020-04-14 07:37:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:37:22 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:37:22 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:37:22 --> Fetching Standards Section details
+INFO - 2020-04-14 07:37:24 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:37:24 --> Fetching room details
+INFO - 2020-04-14 07:37:35 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:37:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:37:35 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:37:35 --> Fetching Standards Section details
+INFO - 2020-04-14 07:37:37 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:37:37 --> Fetching room details
+INFO - 2020-04-14 07:37:40 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:37:40 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:37:40 --> Fetching Standards Section details
+INFO - 2020-04-14 07:37:40 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:37:42 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:37:44 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-14 07:37:44 --> Fetching Boards details
+INFO - 2020-04-14 07:37:44 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:37:44 --> Fetching Standards Section details
+INFO - 2020-04-14 07:37:44 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-14 07:37:45 --> Fetching Standards details
+INFO - 2020-04-14 07:37:45 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:37:45 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:37:45 --> Fetching Institution details
+INFO - 2020-04-14 07:37:45 --> Fetching Standards details
+INFO - 2020-04-14 07:37:46 --> Fetching Standards details
+INFO - 2020-04-14 07:37:46 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:37:46 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:37:49 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:37:49 --> Fetching room details
+INFO - 2020-04-14 07:37:58 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:37:58 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:37:58 --> Fetching Standards Section details
+INFO - 2020-04-14 07:37:58 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:37:59 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:37:59 --> Fetching room details
+INFO - 2020-04-14 07:38:36 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:38:36 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:38:36 --> Fetching Standards Section details
+INFO - 2020-04-14 07:38:36 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:38:45 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:38:45 --> Fetching room details
+INFO - 2020-04-14 07:39:21 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:39:21 --> Fetching room details
+INFO - 2020-04-14 07:39:25 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:39:25 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:39:25 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:39:25 --> Fetching Standards Section details
+INFO - 2020-04-14 07:39:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:39:41 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:39:41 --> Fetching Standards Section details
+INFO - 2020-04-14 07:39:41 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:39:45 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:39:45 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:39:45 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:39:45 --> Fetching Standards Section details
+INFO - 2020-04-14 07:39:46 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-14 07:39:46 --> Fetching room details
+INFO - 2020-04-14 07:41:57 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:41:57 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:42:55 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:42:55 --> Deleting SubjectMasters details
+INFO - 2020-04-14 07:42:57 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:42:57 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:44:25 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:44:25 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:47:49 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:47:50 --> Updating SubjectMasters details
+INFO - 2020-04-14 07:48:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:48:05 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:48:05 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:48:05 --> Fetching Standards Section details
+INFO - 2020-04-14 07:48:07 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:48:07 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:48:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 07:48:19 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:48:19 --> Fetching Standards Section details
+INFO - 2020-04-14 07:48:19 --> Fetching SubjectMasters details
+INFO - 2020-04-14 07:50:32 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 07:50:32 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-14 07:50:32 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-14 07:50:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-14 07:50:32 --> Fetching Boards details
+INFO - 2020-04-14 07:50:32 --> Fetching Sections details
+INFO - 2020-04-14 07:50:32 --> Fetching Standards details
+INFO - 2020-04-14 07:50:33 --> Fetching Institution details
+INFO - 2020-04-14 07:58:18 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 07:58:19 --> Fetching Subjects details
+INFO - 2020-04-14 08:04:46 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:04:46 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:05:26 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:05:26 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:05:29 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:05:29 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:05:48 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:05:48 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:05:51 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:05:51 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:05:52 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:05:52 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:06:24 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:06:24 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:06:26 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:06:26 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:06:27 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:06:27 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:06:57 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:06:57 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:07:16 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:07:16 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:07:47 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:07:47 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:08:05 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:08:05 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:08:31 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:08:31 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:08:33 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:08:33 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:08:38 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:08:38 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:08:39 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:08:39 --> [ERROR] Table 'institute.subjects' doesn't exist SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:09:55 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:09:55 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:09:57 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:09:57 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:09:57 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:09:57 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:09:58 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:09:58 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:09:59 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:09:59 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:11:00 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:11:00 --> Fetching Subjects details
+INFO - 2020-04-14 08:11:01 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:11:01 --> Fetching Subjects details
+INFO - 2020-04-14 08:11:17 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:11:17 --> Fetching Subjects details
+INFO - 2020-04-14 08:13:32 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:13:32 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:13:35 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:13:35 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:13:35 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:13:35 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:13:50 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:13:50 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:13:51 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:13:52 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:13:52 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:13:52 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:13:53 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:13:53 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:13:53 --> Controller "App\Controllers\Subjects" loaded.
+ERROR - 2020-04-14 08:13:53 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*) as subcount, `s`.`standard`
+FROM `subject` `s`
+WHERE `s`.`status` = 1
+GROUP B' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-14 08:14:08 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:14:08 --> Fetching Subjects details
+INFO - 2020-04-14 08:14:32 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:14:32 --> Fetching Subjects details
+INFO - 2020-04-14 08:14:54 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:14:54 --> Fetching Subjects details
+INFO - 2020-04-14 08:16:04 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:16:04 --> Fetching Subjects details
+INFO - 2020-04-14 08:16:24 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:16:24 --> Fetching Subjects details
+INFO - 2020-04-14 08:19:58 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:19:59 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:19:59 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:19:59 --> Fetching Standards Section details
+INFO - 2020-04-14 08:21:25 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:21:25 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:21:27 --> Fetching Standards Section details
+INFO - 2020-04-14 08:21:27 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:22:15 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:22:15 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:22:16 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:22:16 --> Fetching Standards Section details
+INFO - 2020-04-14 08:23:06 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:23:06 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:23:07 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:23:07 --> Fetching Standards Section details
+INFO - 2020-04-14 08:23:43 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:23:43 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:23:43 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:23:43 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:23:43 --> Fetching Standards Section details
+INFO - 2020-04-14 08:23:43 --> Fetching Subjects details
+INFO - 2020-04-14 08:25:08 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:25:08 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:25:08 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:25:08 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:25:08 --> Fetching Subjects details
+INFO - 2020-04-14 08:25:08 --> Fetching Standards Section details
+INFO - 2020-04-14 08:25:31 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:25:31 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:25:31 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:25:31 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:25:31 --> Fetching Subjects details
+INFO - 2020-04-14 08:25:31 --> Fetching Standards Section details
+INFO - 2020-04-14 08:26:41 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:26:41 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:26:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:26:41 --> Fetching Subjects details
+INFO - 2020-04-14 08:26:41 --> Fetching Standards Section details
+INFO - 2020-04-14 08:26:41 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:27:00 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:27:00 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:27:00 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:27:00 --> Fetching Subjects details
+INFO - 2020-04-14 08:27:00 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:27:01 --> Fetching Standards Section details
+INFO - 2020-04-14 08:27:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:27:28 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:27:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:27:28 --> Fetching Standards Section details
+INFO - 2020-04-14 08:27:28 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:27:28 --> Fetching Subjects details
+INFO - 2020-04-14 08:29:44 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:29:44 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:29:44 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:29:44 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:29:44 --> Fetching Subjects details
+INFO - 2020-04-14 08:29:44 --> Fetching Standards Section details
+INFO - 2020-04-14 08:30:18 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:30:18 --> Fetching Standards Section details
+INFO - 2020-04-14 08:30:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:30:18 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:30:18 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:30:18 --> Fetching Subjects details
+INFO - 2020-04-14 08:31:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:31:12 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:31:12 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:31:12 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:31:12 --> Fetching Subjects details
+INFO - 2020-04-14 08:31:12 --> Fetching Standards Section details
+INFO - 2020-04-14 08:33:00 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:33:00 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:33:01 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:33:02 --> Fetching Standards Section details
+INFO - 2020-04-14 08:33:02 --> Fetching Subjects details
+INFO - 2020-04-14 08:33:02 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:33:34 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:33:34 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:33:34 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:33:34 --> Fetching Standards Section details
+INFO - 2020-04-14 08:33:34 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:33:35 --> Fetching Subjects details
+INFO - 2020-04-14 08:36:11 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:36:11 --> Fetching Standards Section details
+INFO - 2020-04-14 08:37:03 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:37:03 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:37:03 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:37:03 --> Fetching Standards Section details
+INFO - 2020-04-14 08:37:04 --> Fetching Subjects details
+INFO - 2020-04-14 08:37:04 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:38:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:38:27 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:38:27 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:38:28 --> Fetching Subjects details
+INFO - 2020-04-14 08:38:28 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:38:28 --> Fetching Standards Section details
+INFO - 2020-04-14 08:39:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:39:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:39:29 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:39:29 --> Fetching Standards Section details
+INFO - 2020-04-14 08:39:29 --> Fetching Subjects details
+INFO - 2020-04-14 08:39:29 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:47:20 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:47:20 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:47:20 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:47:22 --> Fetching Subjects details
+INFO - 2020-04-14 08:47:22 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:47:22 --> Fetching Standards Section details
+INFO - 2020-04-14 08:47:31 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:47:31 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:47:31 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:47:31 --> Fetching Standards Section details
+INFO - 2020-04-14 08:47:31 --> Fetching Subjects details
+INFO - 2020-04-14 08:47:32 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:47:57 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:47:57 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:48:04 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:48:04 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:48:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:48:04 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:48:04 --> Fetching Subjects details
+INFO - 2020-04-14 08:48:04 --> Fetching Standards Section details
+INFO - 2020-04-14 08:51:50 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:51:50 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:51:50 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:51:50 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:51:50 --> Fetching Standards Section details
+INFO - 2020-04-14 08:51:50 --> Fetching Subjects details
+INFO - 2020-04-14 08:57:50 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 08:57:50 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:57:50 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 08:57:54 --> Fetching Subjects details
+INFO - 2020-04-14 08:57:54 --> Fetching SubjectMasters details
+INFO - 2020-04-14 08:57:54 --> Fetching Standards Section details
+INFO - 2020-04-14 08:59:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 08:59:31 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:04:09 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:04:09 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:04:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:04:23 --> Fetching Standards Section details
+INFO - 2020-04-14 09:04:23 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:04:23 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:04:23 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:04:23 --> Fetching Subjects details
+INFO - 2020-04-14 09:04:28 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:04:28 --> Fetching Subjects details
+INFO - 2020-04-14 09:04:49 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:04:50 --> Fetching Standards Section details
+INFO - 2020-04-14 09:04:50 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:04:50 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:04:50 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:04:50 --> Fetching Subjects details
+INFO - 2020-04-14 09:04:52 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:04:52 --> Fetching Subjects details
+INFO - 2020-04-14 09:07:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:07:19 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:07:19 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:07:19 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:07:19 --> Fetching Standards Section details
+INFO - 2020-04-14 09:07:19 --> Fetching Subjects details
+INFO - 2020-04-14 09:07:22 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:07:22 --> Fetching Subjects details
+INFO - 2020-04-14 09:09:21 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:09:21 --> Fetching Subjects details
+INFO - 2020-04-14 09:10:25 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:10:25 --> Fetching Subjects details
+INFO - 2020-04-14 09:10:57 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:10:57 --> Fetching Subjects details
+INFO - 2020-04-14 09:11:22 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:11:22 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:11:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:11:22 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:11:22 --> Fetching Standards Section details
+INFO - 2020-04-14 09:11:22 --> Fetching Subjects details
+INFO - 2020-04-14 09:11:24 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:11:24 --> Fetching Subjects details
+INFO - 2020-04-14 09:11:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:11:30 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:11:30 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:11:30 --> Fetching Subjects details
+INFO - 2020-04-14 09:11:31 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:11:31 --> Fetching Standards Section details
+INFO - 2020-04-14 09:11:32 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:11:32 --> Fetching Subjects details
+INFO - 2020-04-14 09:11:37 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:11:37 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:11:37 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:11:37 --> Fetching Subjects details
+INFO - 2020-04-14 09:11:37 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:11:37 --> Fetching Standards Section details
+INFO - 2020-04-14 09:11:39 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:11:39 --> Fetching Subjects details
+INFO - 2020-04-14 09:11:41 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:11:41 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:11:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:11:41 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:11:41 --> Fetching Subjects details
+INFO - 2020-04-14 09:11:41 --> Fetching Standards Section details
+INFO - 2020-04-14 09:12:24 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:12:24 --> Fetching Subjects details
+INFO - 2020-04-14 09:13:19 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:13:19 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:13:19 --> Fetching Subjects details
+INFO - 2020-04-14 09:13:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:13:19 --> Fetching Standards Section details
+INFO - 2020-04-14 09:13:20 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:13:22 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:13:22 --> Fetching Subjects details
+INFO - 2020-04-14 09:13:40 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:13:40 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:13:40 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:13:40 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:13:40 --> Fetching Subjects details
+INFO - 2020-04-14 09:13:40 --> Fetching Standards Section details
+INFO - 2020-04-14 09:13:42 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:13:42 --> Fetching Subjects details
+INFO - 2020-04-14 09:14:50 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:14:50 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:14:50 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:14:50 --> Fetching Subjects details
+INFO - 2020-04-14 09:14:50 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:14:50 --> Fetching Standards Section details
+INFO - 2020-04-14 09:14:52 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:14:52 --> Fetching Subjects details
+INFO - 2020-04-14 09:15:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:15:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:15:28 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:15:28 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:15:28 --> Fetching Standards Section details
+INFO - 2020-04-14 09:15:28 --> Fetching Subjects details
+INFO - 2020-04-14 09:15:30 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:15:30 --> Fetching Subjects details
+INFO - 2020-04-14 09:16:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-14 09:16:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-14 09:16:08 --> Fetching Roles details
+INFO - 2020-04-14 09:16:08 --> Fetching Roles details
+INFO - 2020-04-14 09:16:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-14 09:16:10 --> Fetching Permission details
+INFO - 2020-04-14 09:19:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-14 09:19:09 --> Fetching Permission details
+INFO - 2020-04-14 09:19:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:19:12 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:19:12 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:19:12 --> Fetching Standards Section details
+INFO - 2020-04-14 09:19:12 --> Fetching Subjects details
+INFO - 2020-04-14 09:19:12 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:19:14 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:19:14 --> Fetching Subjects details
+INFO - 2020-04-14 09:19:52 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:19:52 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:19:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:19:52 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:19:52 --> Fetching Subjects details
+INFO - 2020-04-14 09:19:52 --> Fetching Standards Section details
+INFO - 2020-04-14 09:19:54 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:19:54 --> Fetching Subjects details
+INFO - 2020-04-14 09:20:01 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:20:01 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:20:01 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:20:01 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:20:01 --> Fetching Standards Section details
+INFO - 2020-04-14 09:20:01 --> Fetching Subjects details
+INFO - 2020-04-14 09:25:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:25:27 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:25:27 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:25:28 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:25:28 --> Fetching Standards Section details
+INFO - 2020-04-14 09:25:28 --> Fetching Subjects details
+INFO - 2020-04-14 09:25:52 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:25:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:25:52 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:25:52 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:25:52 --> Fetching Subjects details
+INFO - 2020-04-14 09:25:52 --> Fetching Standards Section details
+INFO - 2020-04-14 09:25:54 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:25:54 --> Fetching Subjects details
+INFO - 2020-04-14 09:26:53 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:26:53 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:26:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:26:53 --> Fetching Standards Section details
+INFO - 2020-04-14 09:26:53 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:26:53 --> Fetching Subjects details
+INFO - 2020-04-14 09:26:54 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:26:55 --> Fetching Subjects details
+INFO - 2020-04-14 09:26:57 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:26:57 --> Deleting Subjects details
+INFO - 2020-04-14 09:26:58 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:26:58 --> Fetching Subjects details
+INFO - 2020-04-14 09:27:46 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:27:46 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:27:46 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:27:46 --> Fetching Standards Section details
+INFO - 2020-04-14 09:27:46 --> Fetching Subjects details
+INFO - 2020-04-14 09:27:46 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:35:52 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 09:35:52 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:35:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 09:35:54 --> Fetching SubjectMasters details
+INFO - 2020-04-14 09:35:54 --> Fetching Subjects details
+INFO - 2020-04-14 09:35:54 --> Fetching Standards Section details
+INFO - 2020-04-14 09:50:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 09:50:04 --> Inserting SubjectMasters details
+INFO - 2020-04-14 10:13:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 10:13:30 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 10:13:30 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 10:13:32 --> Fetching SubjectMasters details
+INFO - 2020-04-14 10:13:32 --> Fetching Subjects details
+INFO - 2020-04-14 10:13:32 --> Fetching Standards Section details
+INFO - 2020-04-14 10:43:18 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 10:43:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 10:43:18 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 10:43:20 --> Fetching Subjects details
+INFO - 2020-04-14 10:43:20 --> Fetching Standards Section details
+INFO - 2020-04-14 10:43:20 --> Fetching SubjectMasters details
+INFO - 2020-04-14 10:50:58 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 10:50:58 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 10:50:58 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 10:50:59 --> Fetching Standards Section details
+INFO - 2020-04-14 10:50:59 --> Fetching SubjectMasters details
+INFO - 2020-04-14 10:50:59 --> Fetching Subjects details
+INFO - 2020-04-14 11:14:23 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:14:23 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:14:24 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:14:25 --> Fetching Standards Section details
+INFO - 2020-04-14 11:14:25 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:14:25 --> Fetching Subjects details
+INFO - 2020-04-14 11:19:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:19:57 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:19:57 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:19:58 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:19:58 --> Fetching Subjects details
+INFO - 2020-04-14 11:19:58 --> Fetching Standards Section details
+INFO - 2020-04-14 11:21:26 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-14 11:21:27 --> Argument 3 passed to log_message() must be of the type array, null given, called in C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php on line 51
+#0 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(51): log_message('info', 'Inserting Subje...', NULL)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->insert_subjectmaster()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-14 11:23:24 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-14 11:23:24 --> Argument 3 passed to log_message() must be of the type array, null given, called in C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php on line 51
+#0 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(51): log_message('info', 'Inserting Subje...', NULL)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->insert_subjectmaster()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-14 11:23:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-14 11:23:53 --> Argument 3 passed to log_message() must be of the type array, null given, called in C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php on line 51
+#0 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(51): log_message('info', 'Inserting Subje...', NULL)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->insert_subjectmaster()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-14 11:25:02 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-14 11:25:02 --> Argument 3 passed to log_message() must be of the type array, null given, called in C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php on line 51
+#0 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(51): log_message('info', 'Inserting Subje...', NULL)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->insert_subjectmaster()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-14 11:26:06 --> Controller "App\Controllers\SubjectMasters" loaded.
+ERROR - 2020-04-14 11:26:06 --> [ERROR] Invalid argument supplied for foreach() APPPATH/Controllers\SubjectMasters.php:43
+INFO - 2020-04-14 11:26:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+ERROR - 2020-04-14 11:26:16 --> [ERROR] Invalid argument supplied for foreach() APPPATH/Controllers\SubjectMasters.php:43
+INFO - 2020-04-14 11:26:55 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:26:55 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:26:55 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:26:56 --> Fetching Standards Section details
+INFO - 2020-04-14 11:26:56 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:26:56 --> Fetching Subjects details
+INFO - 2020-04-14 11:26:59 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:26:59 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:27:05 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:27:05 --> Deleting SubjectMasters details
+INFO - 2020-04-14 11:27:06 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:27:06 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:27:09 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:27:09 --> Deleting SubjectMasters details
+INFO - 2020-04-14 11:27:09 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:27:09 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:27:24 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-14 11:27:24 --> Fetching Boards details
+INFO - 2020-04-14 11:27:25 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-14 11:27:25 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-14 11:27:25 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:27:25 --> Fetching Institution details
+INFO - 2020-04-14 11:27:26 --> Fetching Sections details
+INFO - 2020-04-14 11:27:26 --> Fetching Standards details
+INFO - 2020-04-14 11:27:28 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:27:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:27:28 --> Fetching Subjects details
+INFO - 2020-04-14 11:27:28 --> Fetching Standards Section details
+INFO - 2020-04-14 11:27:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:27:28 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:27:48 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-14 11:27:49 --> Argument 3 passed to log_message() must be of the type array, null given, called in C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php on line 51
+#0 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(51): log_message('info', 'Inserting Subje...', NULL)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->insert_subjectmaster()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-14 11:27:51 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:27:51 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:27:51 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:27:51 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:27:51 --> Fetching Subjects details
+INFO - 2020-04-14 11:27:51 --> Fetching Standards Section details
+INFO - 2020-04-14 11:27:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:27:53 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:28:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:28:28 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:29:49 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:29:49 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:29:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:29:52 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:29:52 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:29:52 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:29:52 --> Fetching Standards Section details
+INFO - 2020-04-14 11:29:52 --> Fetching Subjects details
+INFO - 2020-04-14 11:30:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-14 11:30:05 --> Argument 3 passed to log_message() must be of the type array, null given, called in C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php on line 51
+#0 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(51): log_message('info', 'Inserting Subje...', NULL)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->insert_subjectmaster()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-14 11:30:09 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:30:09 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:30:09 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:30:09 --> Fetching Subjects details
+INFO - 2020-04-14 11:30:09 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:30:09 --> Fetching Standards Section details
+INFO - 2020-04-14 11:30:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:30:54 --> Inserting SubjectMasters details
+INFO - 2020-04-14 11:30:58 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:30:58 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:30:58 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:30:58 --> Fetching Subjects details
+INFO - 2020-04-14 11:30:58 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:30:58 --> Fetching Standards Section details
+INFO - 2020-04-14 11:31:01 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:31:01 --> Fetching Subjects details
+INFO - 2020-04-14 11:31:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:31:17 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:31:17 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:31:17 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:31:17 --> Fetching Subjects details
+INFO - 2020-04-14 11:31:17 --> Fetching Standards Section details
+INFO - 2020-04-14 11:31:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:31:18 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:32:37 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:32:37 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:32:38 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:32:38 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:32:38 --> Fetching Standards Section details
+INFO - 2020-04-14 11:32:38 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:32:39 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:32:39 --> Fetching Subjects details
+INFO - 2020-04-14 11:32:41 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:32:41 --> Fetching Subjects details
+INFO - 2020-04-14 11:36:22 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:36:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:36:22 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:36:22 --> Fetching Standards Section details
+INFO - 2020-04-14 11:36:22 --> Fetching Subjects details
+INFO - 2020-04-14 11:36:22 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:36:25 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:36:25 --> Fetching Subjects details
+INFO - 2020-04-14 11:37:14 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:37:14 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:37:14 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:37:14 --> Fetching Standards Section details
+INFO - 2020-04-14 11:37:14 --> Fetching Subjects details
+INFO - 2020-04-14 11:37:14 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:37:16 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:37:16 --> Fetching Subjects details
+INFO - 2020-04-14 11:39:27 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:39:27 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:39:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:39:28 --> Fetching Subjects details
+INFO - 2020-04-14 11:39:28 --> Fetching Standards Section details
+INFO - 2020-04-14 11:39:28 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:39:32 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:39:32 --> Fetching Subjects details
+INFO - 2020-04-14 11:51:40 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:51:40 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:51:40 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:51:42 --> Fetching Subjects details
+INFO - 2020-04-14 11:51:42 --> Fetching Standards Section details
+INFO - 2020-04-14 11:51:42 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:51:48 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:51:48 --> Fetching Subjects details
+INFO - 2020-04-14 11:55:15 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:55:15 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:55:15 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:55:17 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:55:17 --> Fetching Standards Section details
+INFO - 2020-04-14 11:55:17 --> Fetching Subjects details
+INFO - 2020-04-14 11:55:20 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:55:20 --> Fetching Subjects details
+INFO - 2020-04-14 11:57:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 11:57:19 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:57:19 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 11:57:19 --> Fetching Subjects details
+INFO - 2020-04-14 11:57:19 --> Fetching SubjectMasters details
+INFO - 2020-04-14 11:57:19 --> Fetching Standards Section details
+INFO - 2020-04-14 11:57:22 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 11:57:22 --> Fetching Subjects details
+INFO - 2020-04-14 12:02:39 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:02:39 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 12:02:39 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 12:02:39 --> Fetching SubjectMasters details
+INFO - 2020-04-14 12:02:39 --> Fetching Subjects details
+INFO - 2020-04-14 12:02:39 --> Fetching Standards Section details
+INFO - 2020-04-14 12:02:41 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:02:41 --> Fetching Subjects details
+INFO - 2020-04-14 12:03:51 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 12:03:51 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:03:51 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 12:03:51 --> Fetching Standards Section details
+INFO - 2020-04-14 12:03:51 --> Fetching SubjectMasters details
+INFO - 2020-04-14 12:03:51 --> Fetching Subjects details
+INFO - 2020-04-14 12:03:55 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:03:55 --> Fetching Subjects details
+INFO - 2020-04-14 12:05:55 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 12:05:55 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:05:55 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 12:05:58 --> Fetching SubjectMasters details
+INFO - 2020-04-14 12:05:58 --> Fetching Subjects details
+INFO - 2020-04-14 12:05:58 --> Fetching Standards Section details
+INFO - 2020-04-14 12:06:00 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:06:00 --> Fetching Subjects details
+INFO - 2020-04-14 12:06:50 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 12:06:50 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 12:06:51 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:06:51 --> Fetching Subjects details
+INFO - 2020-04-14 12:06:51 --> Fetching Standards Section details
+INFO - 2020-04-14 12:06:51 --> Fetching SubjectMasters details
+INFO - 2020-04-14 12:06:53 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:06:53 --> Fetching Subjects details
+INFO - 2020-04-14 12:43:45 --> Controller "App\Controllers\LeaveTypes" loaded.
+INFO - 2020-04-14 12:43:46 --> Fetching SubjectMasters details
+INFO - 2020-04-14 12:52:08 --> Controller "App\Controllers\LeaveTypes" loaded.
+INFO - 2020-04-14 12:54:56 --> Controller "App\Controllers\LeaveTypes" loaded.
+INFO - 2020-04-14 12:54:56 --> Updating LeaveTypes details
+INFO - 2020-04-14 12:56:44 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 12:56:44 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:56:44 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 12:56:45 --> Fetching Subjects details
+INFO - 2020-04-14 12:56:45 --> Fetching SubjectMasters details
+INFO - 2020-04-14 12:56:45 --> Fetching Standards Section details
+INFO - 2020-04-14 12:56:48 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:56:48 --> Fetching Subjects details
+INFO - 2020-04-14 12:59:18 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 12:59:18 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 12:59:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 12:59:21 --> Fetching Subjects details
+INFO - 2020-04-14 12:59:21 --> Fetching Standards Section details
+INFO - 2020-04-14 12:59:21 --> Fetching SubjectMasters details
+INFO - 2020-04-14 13:04:35 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 13:04:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 13:04:35 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 13:04:37 --> Fetching SubjectMasters details
+INFO - 2020-04-14 13:04:37 --> Fetching Standards Section details
+INFO - 2020-04-14 13:04:37 --> Fetching Subjects details
+INFO - 2020-04-14 13:05:06 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 13:05:06 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 13:05:06 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 13:05:10 --> Fetching SubjectMasters details
+INFO - 2020-04-14 13:05:10 --> Fetching Standards Section details
+INFO - 2020-04-14 13:05:10 --> Fetching Subjects details
+INFO - 2020-04-14 13:05:23 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 13:05:23 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 13:05:23 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 13:05:24 --> Fetching SubjectMasters details
+INFO - 2020-04-14 13:05:25 --> Fetching Standards Section details
+INFO - 2020-04-14 13:05:25 --> Fetching Subjects details
+INFO - 2020-04-14 13:06:48 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 13:06:48 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 13:06:48 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 13:06:48 --> Fetching Subjects details
+INFO - 2020-04-14 13:06:48 --> Fetching SubjectMasters details
+INFO - 2020-04-14 13:06:48 --> Fetching Standards Section details
+INFO - 2020-04-14 19:31:18 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:31:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:31:18 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:31:23 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-14 19:31:23 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-14 19:31:27 --> Fetching Standards Section details
+INFO - 2020-04-14 19:31:27 --> Fetching Subjects details
+INFO - 2020-04-14 19:31:27 --> Fetching Boards details
+INFO - 2020-04-14 19:31:27 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:31:27 --> Fetching Institution details
+INFO - 2020-04-14 19:31:29 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:31:29 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:31:29 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:31:29 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:31:29 --> Fetching Subjects details
+INFO - 2020-04-14 19:31:29 --> Fetching Standards Section details
+INFO - 2020-04-14 19:31:31 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:31:31 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:45:04 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:45:04 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:45:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:45:05 --> Fetching Standards Section details
+INFO - 2020-04-14 19:45:05 --> Fetching Subjects details
+INFO - 2020-04-14 19:45:05 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:45:08 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:45:08 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:45:08 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:45:08 --> Fetching Subjects details
+INFO - 2020-04-14 19:45:46 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:45:46 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:45:46 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:45:46 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:45:46 --> Fetching Standards Section details
+INFO - 2020-04-14 19:45:46 --> Fetching Subjects details
+INFO - 2020-04-14 19:46:01 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:46:01 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:46:01 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:46:01 --> Fetching Standards Section details
+INFO - 2020-04-14 19:46:01 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:46:01 --> Fetching Subjects details
+INFO - 2020-04-14 19:46:03 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:46:03 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:53:42 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:53:42 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:53:42 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:53:42 --> Fetching Subjects details
+INFO - 2020-04-14 19:53:42 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:53:42 --> Fetching Standards Section details
+INFO - 2020-04-14 19:53:46 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:53:46 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:54:18 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:54:18 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:54:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:54:18 --> Fetching Subjects details
+INFO - 2020-04-14 19:54:18 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:54:18 --> Fetching Standards Section details
+INFO - 2020-04-14 19:54:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:54:30 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:54:30 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:54:30 --> Fetching Standards Section details
+INFO - 2020-04-14 19:54:30 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:54:30 --> Fetching Subjects details
+INFO - 2020-04-14 19:54:32 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:54:32 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:55:21 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:55:21 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:55:21 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:55:21 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:55:21 --> Fetching Standards Section details
+INFO - 2020-04-14 19:55:21 --> Fetching Subjects details
+INFO - 2020-04-14 19:55:23 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:55:23 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:55:23 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 19:55:23 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:56:25 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:56:25 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:56:25 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:56:25 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:56:25 --> Fetching Subjects details
+INFO - 2020-04-14 19:56:25 --> Fetching Standards Section details
+INFO - 2020-04-14 19:56:33 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:56:33 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:56:33 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 19:56:33 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:58:51 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:58:51 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:58:51 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 19:58:51 --> Fetching Subjects details
+INFO - 2020-04-14 19:58:51 --> Fetching Standards Section details
+INFO - 2020-04-14 19:58:51 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:58:53 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 19:58:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 19:58:53 --> Fetching SubjectMasters details
+INFO - 2020-04-14 19:58:53 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:13:37 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:13:37 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:13:37 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:13:38 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:13:38 --> Fetching Subjects details
+INFO - 2020-04-14 20:13:38 --> Fetching Standards Section details
+INFO - 2020-04-14 20:13:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:13:41 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:13:41 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:13:41 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:19:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:19:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:19:28 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:19:29 --> Fetching Standards Section details
+INFO - 2020-04-14 20:19:29 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:19:29 --> Fetching Subjects details
+INFO - 2020-04-14 20:19:30 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:19:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:19:30 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:19:30 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:22:27 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:22:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:22:27 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:22:27 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:22:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:22:27 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:22:28 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:22:28 --> Fetching Standards Section details
+INFO - 2020-04-14 20:22:28 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:22:28 --> Fetching Standards Section details
+INFO - 2020-04-14 20:22:28 --> Fetching Subjects details
+INFO - 2020-04-14 20:22:28 --> Fetching Subjects details
+INFO - 2020-04-14 20:22:34 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:22:34 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:22:34 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:22:35 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:27:26 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:27:26 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:27:26 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:27:26 --> Fetching Standards Section details
+INFO - 2020-04-14 20:27:26 --> Fetching Subjects details
+INFO - 2020-04-14 20:27:26 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:28:40 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:28:40 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:28:40 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:28:40 --> Fetching Subjects details
+INFO - 2020-04-14 20:28:40 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:28:40 --> Fetching Standards Section details
+INFO - 2020-04-14 20:28:42 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:28:42 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:28:42 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:28:42 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:29:44 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:29:44 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:29:44 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:29:44 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:29:44 --> Fetching Standards Section details
+INFO - 2020-04-14 20:29:44 --> Fetching Subjects details
+INFO - 2020-04-14 20:29:46 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:29:46 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:29:46 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:29:46 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:30:47 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:30:47 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:30:47 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:30:47 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:30:47 --> Fetching Standards Section details
+INFO - 2020-04-14 20:30:47 --> Fetching Subjects details
+INFO - 2020-04-14 20:30:49 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:30:49 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:30:49 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:30:49 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:32:52 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:32:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:32:52 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:32:52 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:32:52 --> Fetching Standards Section details
+INFO - 2020-04-14 20:32:52 --> Fetching Subjects details
+INFO - 2020-04-14 20:32:53 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:32:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:32:53 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:32:53 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:36:03 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:36:03 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:36:03 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:36:03 --> Fetching Standards Section details
+INFO - 2020-04-14 20:36:03 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:36:03 --> Fetching Subjects details
+INFO - 2020-04-14 20:36:04 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:36:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:36:04 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:36:04 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:41:32 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:41:32 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:41:32 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:41:34 --> Fetching Standards Section details
+INFO - 2020-04-14 20:41:34 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:41:34 --> Fetching Subjects details
+INFO - 2020-04-14 20:41:35 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:41:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:41:36 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:41:36 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:42:27 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:42:27 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:42:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:42:27 --> Fetching Standards Section details
+INFO - 2020-04-14 20:42:27 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:42:27 --> Fetching Subjects details
+INFO - 2020-04-14 20:42:29 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:42:29 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:42:29 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:42:29 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:43:07 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:43:07 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:43:07 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:43:07 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:43:07 --> Fetching Standards Section details
+INFO - 2020-04-14 20:43:07 --> Fetching Subjects details
+INFO - 2020-04-14 20:43:10 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:43:10 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:43:10 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:43:10 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:44:17 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:44:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:44:17 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:44:18 --> Fetching Subjects details
+INFO - 2020-04-14 20:44:18 --> Fetching Standards Section details
+INFO - 2020-04-14 20:44:18 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:44:21 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:44:21 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:44:21 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:44:21 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:45:06 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:45:06 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:45:06 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:45:06 --> Fetching Standards Section details
+INFO - 2020-04-14 20:45:06 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:45:06 --> Fetching Subjects details
+INFO - 2020-04-14 20:45:07 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:45:07 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:45:07 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:45:07 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:46:38 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:46:38 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:46:38 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:46:39 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:46:39 --> Fetching Subjects details
+INFO - 2020-04-14 20:46:39 --> Fetching Standards Section details
+INFO - 2020-04-14 20:46:40 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:46:40 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:46:40 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:46:40 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:48:04 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:48:04 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:48:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:48:04 --> Fetching Standards Section details
+INFO - 2020-04-14 20:48:04 --> Fetching Subjects details
+INFO - 2020-04-14 20:48:04 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:48:06 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:48:06 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:48:06 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:48:06 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:50:11 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:50:11 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:50:11 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:50:11 --> Fetching Subjects details
+INFO - 2020-04-14 20:50:11 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:50:11 --> Fetching Standards Section details
+INFO - 2020-04-14 20:50:13 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:50:13 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:50:13 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:50:13 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:50:58 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:50:58 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:50:58 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:50:58 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:50:58 --> Fetching Standards Section details
+INFO - 2020-04-14 20:50:58 --> Fetching Subjects details
+INFO - 2020-04-14 20:50:59 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:50:59 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:50:59 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:50:59 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:53:08 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:53:08 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:53:08 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:53:09 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:53:09 --> Fetching Subjects details
+INFO - 2020-04-14 20:53:09 --> Fetching Standards Section details
+INFO - 2020-04-14 20:53:12 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:53:12 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:53:12 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:53:13 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:56:09 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:56:09 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:56:09 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:56:09 --> Fetching Standards Section details
+INFO - 2020-04-14 20:56:09 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:56:09 --> Fetching Subjects details
+INFO - 2020-04-14 20:56:12 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:56:12 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:56:12 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:56:12 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 20:57:50 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 20:57:50 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:57:50 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:57:51 --> Fetching Standards Section details
+INFO - 2020-04-14 20:57:51 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:57:51 --> Fetching Subjects details
+INFO - 2020-04-14 20:57:54 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 20:57:54 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 20:57:54 --> Fetching SubjectMasters details
+INFO - 2020-04-14 20:57:54 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 21:08:38 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 21:08:38 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 21:08:38 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 21:08:38 --> Fetching Standards Section details
+INFO - 2020-04-14 21:08:39 --> Fetching SubjectMasters details
+INFO - 2020-04-14 21:08:39 --> Fetching Subjects details
+INFO - 2020-04-14 21:08:41 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 21:08:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 21:08:41 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 21:08:41 --> Fetching SubjectMasters details
+INFO - 2020-04-14 21:10:58 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 21:10:59 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 21:10:59 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 21:10:59 --> Fetching Standards Section details
+INFO - 2020-04-14 21:10:59 --> Fetching SubjectMasters details
+INFO - 2020-04-14 21:10:59 --> Fetching Subjects details
+INFO - 2020-04-14 21:11:01 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 21:11:01 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 21:11:01 --> Fetching SubjectMasters details
+INFO - 2020-04-14 21:11:01 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 21:11:57 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 21:11:57 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 21:11:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 21:11:57 --> Fetching SubjectMasters details
+INFO - 2020-04-14 21:11:57 --> Fetching Standards Section details
+INFO - 2020-04-14 21:11:57 --> Fetching Subjects details
+INFO - 2020-04-14 21:11:59 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 21:11:59 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 21:11:59 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 21:11:59 --> Fetching SubjectMasters details
+INFO - 2020-04-14 21:12:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 21:12:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-14 21:12:28 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 21:12:28 --> Fetching SubjectMasters details
+INFO - 2020-04-14 21:12:28 --> Fetching Subjects details
+INFO - 2020-04-14 21:12:28 --> Fetching Standards Section details
+INFO - 2020-04-14 21:12:30 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-14 21:12:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-14 21:12:30 --> Fetching Subjects Section Status details
+INFO - 2020-04-14 21:12:30 --> Fetching SubjectMasters details
+INFO - 2020-04-14 23:27:48 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-14 23:27:50 --> Fetching Circular details
+INFO - 2020-04-14 23:28:01 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-14 23:28:01 --> Fetching Circular details

@@ -1,0 +1,478 @@
+INFO - 2020-04-10 03:45:26 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 03:45:28 --> Fetching FeesConfigs details
+INFO - 2020-04-10 05:19:18 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 05:19:18 --> Inserting FeesConfigs details
+INFO - 2020-04-10 05:19:22 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 05:19:22 --> Fetching FeesConfigs details
+INFO - 2020-04-10 05:21:10 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 05:21:10 --> Inserting FeesConfigs details
+INFO - 2020-04-10 05:21:15 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 05:21:15 --> Fetching FeesConfigs details
+INFO - 2020-04-10 05:21:26 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 05:21:26 --> Inserting FeesConfigs details
+INFO - 2020-04-10 05:23:08 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 05:23:08 --> Updating FeesConfigs details
+INFO - 2020-04-10 05:23:12 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 05:23:12 --> Fetching FeesConfigs details
+INFO - 2020-04-10 05:23:25 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 05:23:25 --> Updating FeesConfigs details
+INFO - 2020-04-10 05:24:11 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 05:24:11 --> Deleting FeesConfigs details
+INFO - 2020-04-10 05:24:17 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-10 05:24:17 --> Fetching FeesConfigs details
+INFO - 2020-04-10 05:47:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 05:47:32 --> Fetching Users details
+INFO - 2020-04-10 05:55:06 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 05:55:06 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+#0 C:\xampp\htdocs\server_4\app\Controllers\Users.php(67): App\Models\Common_model->get_user_details('10001', '1')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-10 05:55:11 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 05:55:11 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::get()
+#0 C:\xampp\htdocs\server_4\app\Controllers\Users.php(67): App\Models\Common_model->get_user_details('10001', '1')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-10 05:55:21 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 05:55:21 --> Fetching Users details
+INFO - 2020-04-10 05:56:15 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 05:56:15 --> Fetching Users details
+INFO - 2020-04-10 05:58:50 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 05:58:50 --> Fetching Users details
+INFO - 2020-04-10 06:06:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:06:52 --> Fetching Users details
+INFO - 2020-04-10 06:07:48 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 06:07:48 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\server_4\app\Controllers\Users.php(67): App\Models\Common_model->get_user_details('10001', '1')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-10 06:07:52 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 06:07:53 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\server_4\app\Controllers\Users.php(67): App\Models\Common_model->get_user_details('10001', '1')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-10 06:08:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:08:10 --> Fetching Users details
+INFO - 2020-04-10 06:08:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:08:31 --> Fetching Users details
+INFO - 2020-04-10 06:08:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:08:46 --> Fetching Users details
+INFO - 2020-04-10 06:09:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:09:00 --> Fetching Users details
+INFO - 2020-04-10 06:09:15 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:09:15 --> Fetching Users details
+INFO - 2020-04-10 06:09:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:09:34 --> Fetching Users details
+INFO - 2020-04-10 06:12:29 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 06:12:29 --> Call to a member function getResultArray() on null
+#0 C:\xampp\htdocs\server_4\app\Controllers\Users.php(67): App\Models\Common_model->get_user_details('10001', '1')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-10 06:12:44 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 06:12:44 --> Call to a member function getResultArray() on null
+#0 C:\xampp\htdocs\server_4\app\Controllers\Users.php(67): App\Models\Common_model->get_user_details('10001', '1')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-10 06:12:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:12:56 --> Fetching Users details
+INFO - 2020-04-10 06:13:16 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 06:13:16 --> Cannot use object of type stdClass as array
+#0 C:\xampp\htdocs\server_4\app\Controllers\Users.php(67): App\Models\Common_model->get_user_details('10001', '1')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-10 06:13:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:13:34 --> Fetching Users details
+INFO - 2020-04-10 06:14:00 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 06:14:00 --> Call to a member function getResultArray() on null
+#0 C:\xampp\htdocs\server_4\app\Controllers\Users.php(67): App\Models\Common_model->get_user_details('10001', '1')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-10 06:14:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:14:39 --> Fetching Users details
+INFO - 2020-04-10 06:15:21 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:15:21 --> Fetching Users details
+INFO - 2020-04-10 06:19:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:19:44 --> Fetching Users details
+INFO - 2020-04-10 06:22:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:22:02 --> Fetching Users details
+INFO - 2020-04-10 06:22:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:22:52 --> Fetching Users details
+INFO - 2020-04-10 06:23:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:23:24 --> Fetching Users details
+INFO - 2020-04-10 06:24:25 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 06:24:25 --> syntax error, unexpected 'if' (T_IF)
+#0 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 C:\xampp\htdocs\server_4\app\Controllers\Users.php(66): spl_autoload_call('App\\Models\\Comm...')
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-10 06:24:48 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:24:48 --> Fetching Users details
+INFO - 2020-04-10 06:25:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:25:13 --> Fetching Users details
+INFO - 2020-04-10 06:25:40 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:25:40 --> Fetching Users details
+INFO - 2020-04-10 06:28:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:28:27 --> Fetching Users details
+INFO - 2020-04-10 06:30:30 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:30:30 --> Fetching Users details
+INFO - 2020-04-10 06:49:03 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:49:03 --> Fetching Users details
+INFO - 2020-04-10 06:59:03 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 06:59:03 --> Fetching Users details
+INFO - 2020-04-10 06:59:53 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-10 06:59:53 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-10 06:59:53 --> Fetching Institution details
+INFO - 2020-04-10 06:59:53 --> Fetching Organizations details
+INFO - 2020-04-10 07:00:00 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-10 07:00:00 --> Fetching Organizations details
+INFO - 2020-04-10 07:00:04 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-10 07:00:04 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-10 07:00:04 --> Fetching Organizations details
+INFO - 2020-04-10 07:00:04 --> Fetching Institution details
+INFO - 2020-04-10 07:00:06 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-10 07:00:06 --> Fetching Organizations details
+INFO - 2020-04-10 07:01:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:01:36 --> Fetching Users details
+INFO - 2020-04-10 07:02:48 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:02:48 --> Fetching Users details
+INFO - 2020-04-10 07:03:12 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:03:13 --> Fetching Users details
+INFO - 2020-04-10 07:03:45 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:03:45 --> Fetching Users details
+INFO - 2020-04-10 07:04:50 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:04:50 --> Fetching Users details
+INFO - 2020-04-10 07:06:36 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2020-04-10 07:06:36 --> [ERROR] Unknown column 'st.status' in 'where clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-10 07:06:39 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2020-04-10 07:06:39 --> [ERROR] Unknown column 'st.status' in 'where clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-10 07:07:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:07:09 --> Fetching Users details
+INFO - 2020-04-10 07:08:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:08:24 --> Fetching Users details
+INFO - 2020-04-10 07:09:54 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:09:54 --> Fetching Users details
+INFO - 2020-04-10 07:13:03 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-10 07:13:03 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-10 07:13:03 --> Fetching Organizations details
+INFO - 2020-04-10 07:13:03 --> Fetching Institution details
+INFO - 2020-04-10 07:13:10 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-10 07:13:10 --> Inserting Institution details
+INFO - 2020-04-10 07:13:10 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-10 07:13:10 --> Fetching Institution details
+INFO - 2020-04-10 07:13:14 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:13:14 --> Fetching Users details
+INFO - 2020-04-10 07:13:24 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-10 07:13:24 --> Fetching Organizations details
+INFO - 2020-04-10 07:13:26 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-10 07:13:26 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-10 07:13:26 --> Fetching Organizations details
+INFO - 2020-04-10 07:13:26 --> Fetching Institution details
+INFO - 2020-04-10 07:14:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:14:01 --> Fetching Users details
+INFO - 2020-04-10 07:14:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:14:13 --> Fetching Users details
+INFO - 2020-04-10 07:14:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:14:17 --> Fetching Users details
+INFO - 2020-04-10 07:14:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:14:31 --> Fetching Users details
+INFO - 2020-04-10 07:14:50 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:14:50 --> Fetching Users details
+INFO - 2020-04-10 07:15:00 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2020-04-10 07:15:00 --> [ERROR] Creating default object from empty value APPPATH/Models\Common_model.php:26
+INFO - 2020-04-10 07:15:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:15:24 --> Fetching Users details
+INFO - 2020-04-10 07:16:11 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:16:11 --> Fetching Users details
+INFO - 2020-04-10 07:17:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:17:08 --> Fetching Users details
+INFO - 2020-04-10 07:17:20 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:17:20 --> Fetching Users details
+INFO - 2020-04-10 07:17:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:17:34 --> Fetching Users details
+INFO - 2020-04-10 07:18:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:18:34 --> Fetching Users details
+INFO - 2020-04-10 07:18:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:18:49 --> Fetching Users details
+INFO - 2020-04-10 07:19:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:19:36 --> Fetching Users details
+INFO - 2020-04-10 07:19:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:19:52 --> Fetching Users details
+INFO - 2020-04-10 07:20:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:20:13 --> Fetching Users details
+INFO - 2020-04-10 07:26:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:26:01 --> Fetching Users details
+INFO - 2020-04-10 07:26:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:26:24 --> Fetching Users details
+INFO - 2020-04-10 07:28:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:28:18 --> Fetching Users details
+INFO - 2020-04-10 07:28:41 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:28:41 --> Fetching Users details
+INFO - 2020-04-10 07:28:54 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:28:54 --> Fetching Users details
+INFO - 2020-04-10 07:29:26 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2020-04-10 07:29:26 --> [ERROR] Unknown column 'i.id as institute_ido.name' in 'field list' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-10 07:29:29 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2020-04-10 07:29:29 --> [ERROR] Unknown column 'i.id as institute_ido.name' in 'field list' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-10 07:29:42 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:29:42 --> Fetching Users details
+INFO - 2020-04-10 07:30:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:30:02 --> Fetching Users details
+INFO - 2020-04-10 07:31:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 07:31:38 --> Fetching Users details
+INFO - 2020-04-10 08:33:40 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 08:33:40 --> Fetching Users details
+INFO - 2020-04-10 08:34:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 08:34:08 --> Fetching Users details
+INFO - 2020-04-10 08:34:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 08:34:27 --> Fetching Users details
+INFO - 2020-04-10 08:37:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 08:37:18 --> Fetching Users details
+INFO - 2020-04-10 08:38:22 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 08:38:22 --> Fetching Users details
+INFO - 2020-04-10 08:38:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 08:38:34 --> Fetching Users details
+INFO - 2020-04-10 08:38:44 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 08:38:44 --> Fetching Users details
+INFO - 2020-04-10 08:39:45 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 08:39:45 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 C:\xampp\htdocs\server_4\app\Controllers\Users.php(66): spl_autoload_call('App\\Models\\Comm...')
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-10 08:39:48 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 08:39:48 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 C:\xampp\htdocs\server_4\app\Controllers\Users.php(66): spl_autoload_call('App\\Models\\Comm...')
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-10 08:40:03 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-10 08:40:03 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 C:\xampp\htdocs\server_4\app\Controllers\Users.php(66): spl_autoload_call('App\\Models\\Comm...')
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-10 08:40:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 08:40:13 --> Fetching Users details
+INFO - 2020-04-10 09:03:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 09:03:09 --> Fetching Users details
+INFO - 2020-04-10 09:03:29 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 09:03:29 --> Fetching Users details
+INFO - 2020-04-10 09:04:40 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2020-04-10 09:04:40 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`admission_no`, `sp`.`roll_no`, `sp`.`reg_no`, `sp`.`name`, `sp`.`date_of_birth' at line 1 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-10 09:04:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 09:04:55 --> Fetching Users details
+INFO - 2020-04-10 09:05:17 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 09:05:17 --> Fetching Users details
+INFO - 2020-04-10 09:05:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 09:05:24 --> Fetching Users details
+INFO - 2020-04-10 09:05:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 09:05:31 --> Fetching Users details
+INFO - 2020-04-10 09:08:59 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2020-04-10 09:09:01 --> [ERROR] Access denied for user '****'@'localhost' (using password: YES) SYSTEMPATH/Database\MySQLi\Connection.php:225
+INFO - 2020-04-10 09:09:04 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2020-04-10 09:09:04 --> [ERROR] Access denied for user '****'@'localhost' (using password: YES) SYSTEMPATH/Database\MySQLi\Connection.php:225
+INFO - 2020-04-10 09:09:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 09:09:24 --> Fetching Users details
+INFO - 2020-04-10 09:09:29 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 09:09:29 --> Fetching Users details
+INFO - 2020-04-10 09:32:42 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-10 09:32:42 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-10 09:32:43 --> Fetching Organizations details
+INFO - 2020-04-10 09:32:43 --> Fetching Institution details
+INFO - 2020-04-10 10:53:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 10:54:09 --> Fetching Users details
+INFO - 2020-04-10 11:00:47 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 11:00:50 --> Fetching Users details
+INFO - 2020-04-10 11:03:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 11:03:35 --> Fetching Users details
+INFO - 2020-04-10 11:03:45 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 11:03:45 --> Fetching Users details
+INFO - 2020-04-10 11:03:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-10 11:03:54 --> Fetching Users details
+INFO - 2020-04-10 11:15:12 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-10 11:15:14 --> Fetching Holiday details
+INFO - 2020-04-10 11:16:04 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-10 11:16:04 --> Fetching Holiday details
+INFO - 2020-04-10 11:24:15 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-10 11:24:16 --> Fetching Holiday details
+INFO - 2020-04-10 11:27:10 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-10 11:27:11 --> Fetching Holiday details
+INFO - 2020-04-10 11:33:36 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-10 11:33:39 --> Fetching Holiday details
+INFO - 2020-04-10 11:33:53 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-10 11:33:53 --> Fetching room details
+INFO - 2020-04-10 11:34:02 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-10 11:34:02 --> delete room details
+INFO - 2020-04-10 11:34:04 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-10 11:34:04 --> Fetching room details
+INFO - 2020-04-10 11:38:16 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:38:16 --> Fetching MessageGroups details
+INFO - 2020-04-10 11:39:00 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:39:00 --> Fetching MessageGroups details
+INFO - 2020-04-10 11:40:38 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:40:38 --> Inserting MessageGroups details
+INFO - 2020-04-10 11:40:39 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:40:39 --> Fetching MessageGroups details
+INFO - 2020-04-10 11:41:15 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:41:15 --> Fetching MessageGroups details
+INFO - 2020-04-10 11:41:23 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:41:23 --> Deleting MessageGroups details
+INFO - 2020-04-10 11:41:23 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:41:24 --> Fetching MessageGroups details
+INFO - 2020-04-10 11:41:32 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:41:33 --> Inserting MessageGroups details
+INFO - 2020-04-10 11:41:33 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:41:33 --> Fetching MessageGroups details
+INFO - 2020-04-10 11:45:32 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:45:32 --> Fetching MessageGroups details
+INFO - 2020-04-10 11:46:06 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 11:46:06 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:02:34 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:02:35 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:02:48 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:02:48 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:11:42 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:11:44 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:12:25 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:12:25 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:12:37 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:12:37 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:12:50 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:12:50 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:13:12 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:13:12 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:13:20 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:13:21 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:14:01 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:14:02 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:15:14 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:15:14 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:16:01 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:16:01 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:18:22 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:18:23 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:20:50 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:20:50 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:21:05 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:21:05 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:21:09 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:21:09 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:21:16 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:21:16 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:21:17 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:21:18 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:21:19 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-10 12:21:19 --> Fetching room details
+INFO - 2020-04-10 12:21:20 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:21:20 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:28:06 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:28:07 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:28:14 --> Controller "App\Controllers\GroupMembers" loaded.
+ERROR - 2020-04-10 12:28:14 --> [ERROR] Unknown column 's.name' in 'field list' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-10 12:28:25 --> Controller "App\Controllers\GroupMembers" loaded.
+ERROR - 2020-04-10 12:28:25 --> [ERROR] Unknown column 's.name' in 'field list' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-10 12:28:59 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:29:00 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:29:37 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:29:37 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:29:48 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:29:48 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:29:50 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:29:50 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:29:52 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:29:52 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:29:54 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:29:54 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:29:56 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:29:56 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:29:57 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:29:58 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:30:39 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:30:39 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:30:43 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:30:43 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:30:44 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:30:44 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:30:51 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:30:51 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:30:53 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:30:53 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:31:11 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:31:12 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:31:14 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:31:14 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:31:16 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:31:16 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:31:17 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:31:17 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:31:18 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:31:18 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:32:08 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:32:08 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:34:57 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:34:58 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:35:18 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:35:18 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:35:20 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:35:20 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:35:21 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:35:21 --> Fetching MessageGroups details
+INFO - 2020-04-10 12:35:23 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:35:23 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:35:25 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:35:25 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:35:25 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:35:51 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:35:51 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:35:56 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:35:56 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:35:56 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:42:17 --> Controller "App\Controllers\GroupMembers" loaded.
+ERROR - 2020-04-10 12:42:23 --> [ERROR] Access denied for user '****'@'localhost' (using password: YES) SYSTEMPATH/Database\MySQLi\Connection.php:225
+INFO - 2020-04-10 12:47:42 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-10 12:47:43 --> Fetching GroupMembers details
+INFO - 2020-04-10 12:48:13 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-10 12:48:13 --> Fetching MessageGroups details

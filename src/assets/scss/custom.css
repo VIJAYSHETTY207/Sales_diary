@@ -1,0 +1,14 @@
+.TableCustomStyle .ReactTable .rt-noData {
+    display: block;
+    text-align: center;
+    position: relative;
+    left: auto;
+    right: auto;
+    transform: none;
+    background: #ffffff;
+    transition: all .3s ease;
+    z-index: 1;
+    pointer-events: none;
+    padding: 20px;
+    color: #dddddd;
+  }

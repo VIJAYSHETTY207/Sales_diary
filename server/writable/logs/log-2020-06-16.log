@@ -1,0 +1,904 @@
+INFO - 2020-06-16 01:05:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:05:04 --> Fetching Sections details
+INFO - 2020-06-16 01:05:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:05:33 --> Fetching Sections details
+INFO - 2020-06-16 01:06:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:06:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 01:06:06 --> Fetching Sections details
+INFO - 2020-06-16 01:06:06 --> Fetching All Leave details
+INFO - 2020-06-16 01:06:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:06:33 --> Fetching Sections details
+INFO - 2020-06-16 01:06:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 01:06:34 --> Fetching All Leave details
+INFO - 2020-06-16 01:06:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:06:39 --> Fetching Sections details
+INFO - 2020-06-16 01:09:25 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:09:25 --> Fetching Sections details
+INFO - 2020-06-16 01:11:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:11:09 --> Fetching Sections details
+INFO - 2020-06-16 01:11:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:11:31 --> Fetching Sections details
+INFO - 2020-06-16 01:14:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:14:54 --> Fetching Sections details
+INFO - 2020-06-16 01:17:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:17:48 --> Fetching Sections details
+INFO - 2020-06-16 01:18:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:18:39 --> Fetching Sections details
+INFO - 2020-06-16 01:28:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:28:46 --> Fetching Sections details
+INFO - 2020-06-16 01:29:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:29:13 --> Fetching Sections details
+INFO - 2020-06-16 01:29:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:29:35 --> Fetching Sections details
+INFO - 2020-06-16 01:29:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 01:29:35 --> Fetching All Leave details
+INFO - 2020-06-16 01:30:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:30:19 --> Fetching Sections details
+INFO - 2020-06-16 01:33:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:33:46 --> Fetching Sections details
+INFO - 2020-06-16 01:34:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:34:59 --> Fetching Sections details
+INFO - 2020-06-16 01:39:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:39:43 --> Fetching Sections details
+INFO - 2020-06-16 01:39:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 01:39:43 --> Fetching All Leave details
+INFO - 2020-06-16 01:48:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:48:09 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 01:48:09 --> Fetching Boards details
+INFO - 2020-06-16 01:48:09 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:48:09 --> Fetching Sections details
+INFO - 2020-06-16 01:48:09 --> Fetching Assignments Details details
+INFO - 2020-06-16 01:48:09 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 01:48:09 --> Fetching Subjects details
+INFO - 2020-06-16 01:48:09 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:48:09 --> Fetching Assignments details
+INFO - 2020-06-16 01:48:09 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:48:09 --> Fetching Assignments Id details
+INFO - 2020-06-16 01:48:09 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 12:18:09 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 01:48:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:48:09 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:48:09 --> Fetching Assignments Grade details
+INFO - 2020-06-16 01:48:09 --> Fetching Sections details
+INFO - 2020-06-16 01:48:09 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:48:09 --> Fetching Assignments Details details
+INFO - 2020-06-16 01:50:21 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 01:50:21 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 01:50:21 --> Fetching All Leave details
+INFO - 2020-06-16 01:50:21 --> Fetching Subjects details
+INFO - 2020-06-16 01:50:21 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:50:21 --> Fetching Assignments details
+INFO - 2020-06-16 01:54:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 01:54:08 --> Fetching Boards details
+INFO - 2020-06-16 01:54:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:54:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:54:08 --> Fetching Sections details
+INFO - 2020-06-16 01:54:08 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 01:54:08 --> Fetching Assignments Details details
+INFO - 2020-06-16 01:54:08 --> Fetching Subjects details
+INFO - 2020-06-16 01:54:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:54:08 --> Fetching Assignments Id details
+INFO - 2020-06-16 01:54:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:54:08 --> Fetching Assignments details
+INFO - 2020-06-16 01:54:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 12:24:08 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 01:54:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:54:08 --> Fetching Assignments Grade details
+INFO - 2020-06-16 01:54:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:54:08 --> Fetching Sections details
+INFO - 2020-06-16 01:54:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:54:08 --> Fetching Assignments Details details
+INFO - 2020-06-16 01:54:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:54:34 --> Fetching Sections details
+INFO - 2020-06-16 01:54:59 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 01:54:59 --> Fetching Boards details
+INFO - 2020-06-16 01:54:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:54:59 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 01:54:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:54:59 --> Fetching Assignments Details details
+INFO - 2020-06-16 01:54:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:54:59 --> Fetching Subjects details
+INFO - 2020-06-16 01:54:59 --> Fetching Sections details
+INFO - 2020-06-16 01:54:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:54:59 --> Fetching Assignments Id details
+INFO - 2020-06-16 01:54:59 --> Fetching Assignments details
+INFO - 2020-06-16 01:54:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 12:24:59 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 01:54:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:54:59 --> Fetching Assignments Grade details
+INFO - 2020-06-16 01:54:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:54:59 --> Fetching Sections details
+INFO - 2020-06-16 01:54:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:54:59 --> Fetching Assignments Details details
+INFO - 2020-06-16 01:55:20 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 01:55:20 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 01:55:20 --> Fetching All Leave details
+INFO - 2020-06-16 01:55:20 --> Fetching Subjects details
+INFO - 2020-06-16 01:55:20 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:55:20 --> Fetching Assignments details
+INFO - 2020-06-16 01:55:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:55:35 --> Fetching Sections details
+INFO - 2020-06-16 01:55:36 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:55:36 --> Fetching Sections details
+INFO - 2020-06-16 01:55:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 01:55:39 --> Fetching Sections details
+INFO - 2020-06-16 01:55:58 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 01:55:58 --> Fetching All Leave details
+INFO - 2020-06-16 01:55:58 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 01:55:58 --> Fetching Subjects details
+INFO - 2020-06-16 01:55:58 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:55:58 --> Fetching Assignments details
+INFO - 2020-06-16 01:56:07 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 01:56:07 --> Fetching All Leave details
+INFO - 2020-06-16 01:56:07 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 01:56:07 --> Fetching Subjects details
+INFO - 2020-06-16 01:56:07 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 01:56:07 --> Fetching Assignments details
+INFO - 2020-06-16 02:01:39 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 02:01:39 --> Fetching Boards details
+INFO - 2020-06-16 02:01:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:01:39 --> Fetching Sections details
+INFO - 2020-06-16 02:01:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:01:39 --> Fetching Assignments Details details
+INFO - 2020-06-16 02:01:39 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:01:39 --> Fetching Subjects details
+INFO - 2020-06-16 02:01:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:01:39 --> Fetching Assignments details
+INFO - 2020-06-16 02:01:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:01:39 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:01:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 12:31:39 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 02:01:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:01:39 --> Fetching Assignments Grade details
+INFO - 2020-06-16 02:01:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:01:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:01:39 --> Fetching Sections details
+INFO - 2020-06-16 02:01:39 --> Fetching Assignments Details details
+INFO - 2020-06-16 02:01:45 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 02:01:45 --> Fetching All Leave details
+INFO - 2020-06-16 02:01:45 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:01:45 --> Fetching Subjects details
+INFO - 2020-06-16 02:01:45 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:01:45 --> Fetching Assignments details
+INFO - 2020-06-16 02:01:52 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:01:52 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:01:52 --> Fetching Subjects details
+INFO - 2020-06-16 02:01:52 --> Fetching Assignments details
+INFO - 2020-06-16 02:01:54 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:01:54 --> Fetching Assignments details
+INFO - 2020-06-16 02:01:54 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:01:54 --> Fetching Subjects details
+INFO - 2020-06-16 02:01:56 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:01:56 --> Fetching Assignments details
+INFO - 2020-06-16 02:01:56 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:01:56 --> Fetching Subjects details
+INFO - 2020-06-16 02:01:58 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:01:58 --> Fetching Assignments details
+INFO - 2020-06-16 02:01:58 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:01:58 --> Fetching Subjects details
+INFO - 2020-06-16 02:02:04 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:02:04 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:02:04 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:02:04 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:02:04 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:02:04 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:02:04 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 12:32:04 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 02:02:20 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 02:02:20 --> Fetching All Leave details
+INFO - 2020-06-16 02:02:20 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:02:20 --> Fetching Subjects details
+INFO - 2020-06-16 02:02:20 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:02:20 --> Fetching Assignments details
+INFO - 2020-06-16 02:03:48 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:03:48 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:03:48 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:03:48 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:03:48 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:03:48 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:05:34 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:05:34 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:05:34 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:05:34 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:05:34 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:05:34 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:07:33 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:07:33 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:14:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:14:39 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:14:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:14:39 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:14:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:14:39 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:14:45 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:14:45 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 02:16:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:16:46 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:16:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:16:46 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:16:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:16:46 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:19:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:19:08 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 02:19:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:19:43 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:19:43 --> Fetching Sections details
+INFO - 2020-06-16 02:19:43 --> Fetching Subjects details
+INFO - 2020-06-16 02:19:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 02:19:43 --> Fetching All Leave details
+INFO - 2020-06-16 02:19:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 02:19:43 --> Fetching Boards details
+INFO - 2020-06-16 02:19:43 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 02:19:43 --> Fetching Projects Details details
+INFO - 2020-06-16 02:19:43 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 02:19:43 --> Fetching Projects details
+INFO - 2020-06-16 02:19:43 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 02:19:43 --> Fetching Projects Id details
+INFO - 2020-06-16 02:19:43 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 02:19:43 --> Fetching Projects Id details
+INFO - 2020-06-16 02:19:44 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 02:19:44 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 02:19:44 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 12:49:44 --> Fetching Projects Mapped Id details
+INFO - 2020-06-16 02:19:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:19:44 --> Fetching Assignments Grade details
+INFO - 2020-06-16 02:19:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:19:44 --> Fetching Sections details
+INFO - 2020-06-16 02:19:44 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 02:19:44 --> Fetching Projects Details details
+INFO - 2020-06-16 02:19:50 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:19:50 --> Fetching Subjects details
+INFO - 2020-06-16 02:19:50 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 02:19:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 02:19:50 --> Fetching Projects details
+INFO - 2020-06-16 02:19:50 --> Fetching All Leave details
+INFO - 2020-06-16 02:20:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:20:04 --> Fetching Sections details
+INFO - 2020-06-16 02:20:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:20:04 --> Fetching Sections details
+INFO - 2020-06-16 02:20:08 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 02:20:08 --> Fetching Projects details
+INFO - 2020-06-16 02:20:09 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 02:20:09 --> Fetching Projects details
+INFO - 2020-06-16 02:22:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:22:13 --> Fetching Sections details
+INFO - 2020-06-16 02:25:35 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 02:25:35 --> Fetching Boards details
+INFO - 2020-06-16 02:25:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:25:35 --> Fetching Sections details
+INFO - 2020-06-16 02:25:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:25:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:25:35 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:25:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:25:35 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:25:35 --> Fetching Assignments Details details
+INFO - 2020-06-16 02:25:35 --> Fetching Assignments details
+INFO - 2020-06-16 02:25:35 --> Fetching Subjects details
+INFO - 2020-06-16 02:25:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 12:55:35 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 02:25:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:25:35 --> Fetching Assignments Grade details
+INFO - 2020-06-16 02:25:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:25:35 --> Fetching Sections details
+INFO - 2020-06-16 02:25:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:25:35 --> Fetching Assignments Details details
+INFO - 2020-06-16 02:26:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:26:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 02:26:08 --> Fetching Boards details
+INFO - 2020-06-16 02:26:08 --> Fetching Sections details
+INFO - 2020-06-16 02:26:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:26:08 --> Fetching Sections details
+INFO - 2020-06-16 02:26:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:26:29 --> Fetching Sections details
+INFO - 2020-06-16 02:29:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:29:39 --> Fetching Sections details
+INFO - 2020-06-16 02:34:34 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 02:34:34 --> Fetching Boards details
+INFO - 2020-06-16 02:34:34 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:34:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:34:34 --> Fetching Assignments Details details
+INFO - 2020-06-16 02:34:34 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 02:34:34 --> Fetching Subjects details
+INFO - 2020-06-16 02:34:34 --> Fetching Sections details
+INFO - 2020-06-16 02:34:34 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:34:34 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:34:34 --> Fetching Assignments details
+INFO - 2020-06-16 02:34:34 --> Fetching Assignments Id details
+INFO - 2020-06-16 02:34:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 13:04:35 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 02:34:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:34:35 --> Fetching Assignments Grade details
+INFO - 2020-06-16 02:34:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:34:35 --> Fetching Sections details
+INFO - 2020-06-16 02:34:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:34:35 --> Fetching Assignments Details details
+INFO - 2020-06-16 02:34:53 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 02:34:53 --> Fetching room details
+INFO - 2020-06-16 02:35:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:35:02 --> Fetching Sections details
+INFO - 2020-06-16 02:36:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:36:38 --> Fetching Sections details
+INFO - 2020-06-16 02:36:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:36:50 --> Fetching Sections details
+INFO - 2020-06-16 02:36:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 02:36:50 --> Fetching Sections details
+INFO - 2020-06-16 06:38:09 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 06:38:09 --> Fetching Boards details
+INFO - 2020-06-16 06:38:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:38:09 --> Fetching Sections details
+INFO - 2020-06-16 06:38:09 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:09 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:38:09 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:38:09 --> Fetching Subjects details
+INFO - 2020-06-16 06:38:09 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:09 --> Fetching Assignments details
+INFO - 2020-06-16 06:38:09 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:09 --> Fetching Assignments Id details
+INFO - 2020-06-16 06:38:09 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 17:08:09 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 06:38:10 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:10 --> Fetching Assignments Grade details
+INFO - 2020-06-16 06:38:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:38:10 --> Fetching Sections details
+INFO - 2020-06-16 06:38:10 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:10 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:38:23 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 06:38:23 --> Fetching Boards details
+INFO - 2020-06-16 06:38:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:38:23 --> Fetching Sections details
+INFO - 2020-06-16 06:38:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:23 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:38:23 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:38:23 --> Fetching Subjects details
+INFO - 2020-06-16 06:38:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:23 --> Fetching Assignments details
+INFO - 2020-06-16 06:38:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:23 --> Fetching Assignments Id details
+INFO - 2020-06-16 06:38:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 17:08:23 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 06:38:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:23 --> Fetching Assignments Grade details
+INFO - 2020-06-16 06:38:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:38:23 --> Fetching Sections details
+INFO - 2020-06-16 06:38:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:23 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:38:26 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 06:38:26 --> Fetching All Leave details
+INFO - 2020-06-16 06:38:26 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:38:26 --> Fetching Subjects details
+INFO - 2020-06-16 06:38:26 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:26 --> Fetching Assignments details
+INFO - 2020-06-16 06:38:53 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:53 --> Fetching Assignments details
+INFO - 2020-06-16 06:38:53 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:38:53 --> Fetching Subjects details
+INFO - 2020-06-16 06:38:54 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:54 --> Fetching Assignments details
+INFO - 2020-06-16 06:38:54 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:38:54 --> Fetching Subjects details
+INFO - 2020-06-16 06:38:55 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:38:55 --> Fetching Assignments details
+INFO - 2020-06-16 06:38:55 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:38:55 --> Fetching Subjects details
+INFO - 2020-06-16 06:39:05 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 06:39:05 --> Fetching Boards details
+INFO - 2020-06-16 06:39:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:39:05 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:39:05 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:05 --> Fetching Sections details
+INFO - 2020-06-16 06:39:05 --> Fetching Subjects details
+INFO - 2020-06-16 06:39:05 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:39:05 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:05 --> Fetching Assignments details
+INFO - 2020-06-16 06:39:05 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:05 --> Fetching Assignments Id details
+INFO - 2020-06-16 06:39:05 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 17:09:05 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 06:39:05 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:05 --> Fetching Assignments Grade details
+INFO - 2020-06-16 06:39:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:39:05 --> Fetching Sections details
+INFO - 2020-06-16 06:39:05 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:05 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:39:08 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 06:39:08 --> Fetching All Leave details
+INFO - 2020-06-16 06:39:08 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:39:08 --> Fetching Subjects details
+INFO - 2020-06-16 06:39:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:08 --> Fetching Assignments details
+INFO - 2020-06-16 06:39:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:23 --> Fetching Assignments details
+INFO - 2020-06-16 06:39:23 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:39:23 --> Fetching Subjects details
+INFO - 2020-06-16 06:39:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:23 --> Fetching Assignments details
+INFO - 2020-06-16 06:39:23 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:39:23 --> Fetching Subjects details
+INFO - 2020-06-16 06:39:28 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:28 --> Fetching Assignments details
+INFO - 2020-06-16 06:39:44 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:39:44 --> Fetching Subjects details
+INFO - 2020-06-16 06:39:50 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:50 --> Fetching Assignments details
+INFO - 2020-06-16 06:39:50 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:50 --> Fetching Assignments details
+INFO - 2020-06-16 06:39:50 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:39:50 --> Fetching Assignments details
+INFO - 2020-06-16 06:39:50 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:39:50 --> Fetching Subjects details
+INFO - 2020-06-16 06:39:50 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:39:50 --> Fetching Subjects details
+INFO - 2020-06-16 06:39:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:39:50 --> Fetching Sections details
+INFO - 2020-06-16 06:39:50 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:39:50 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:06 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 06:58:06 --> Fetching Boards details
+INFO - 2020-06-16 06:58:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:58:06 --> Fetching Sections details
+INFO - 2020-06-16 06:58:06 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:06 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:58:06 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:06 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:06 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:06 --> Fetching Assignments details
+INFO - 2020-06-16 06:58:06 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:06 --> Fetching Assignments Id details
+INFO - 2020-06-16 06:58:06 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 17:28:06 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 06:58:06 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:06 --> Fetching Assignments Grade details
+INFO - 2020-06-16 06:58:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:58:06 --> Fetching Sections details
+INFO - 2020-06-16 06:58:06 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:06 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:58:08 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 06:58:08 --> Fetching All Leave details
+INFO - 2020-06-16 06:58:08 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:08 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:08 --> Fetching Assignments details
+INFO - 2020-06-16 06:58:21 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 06:58:21 --> Fetching Boards details
+INFO - 2020-06-16 06:58:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:58:21 --> Fetching Sections details
+INFO - 2020-06-16 06:58:21 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:21 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:58:21 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:21 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:21 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:21 --> Fetching Assignments details
+INFO - 2020-06-16 06:58:21 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:21 --> Fetching Assignments Id details
+INFO - 2020-06-16 06:58:21 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 17:28:21 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 06:58:21 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:21 --> Fetching Assignments Grade details
+INFO - 2020-06-16 06:58:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:58:21 --> Fetching Sections details
+INFO - 2020-06-16 06:58:21 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:21 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:58:23 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 06:58:23 --> Fetching All Leave details
+INFO - 2020-06-16 06:58:23 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:23 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:23 --> Fetching Assignments details
+INFO - 2020-06-16 06:58:28 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:28 --> Fetching Assignments details
+INFO - 2020-06-16 06:58:28 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:28 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:33 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:33 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:33 --> Fetching Assignments details
+INFO - 2020-06-16 06:58:33 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:37 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:37 --> Fetching Assignments details
+INFO - 2020-06-16 06:58:37 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:37 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:39 --> Fetching Assignments details
+INFO - 2020-06-16 06:58:39 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:39 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:45 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:45 --> Fetching Assignments details
+INFO - 2020-06-16 06:58:45 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:45 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:53 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 06:58:53 --> Fetching Boards details
+INFO - 2020-06-16 06:58:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:58:53 --> Fetching Sections details
+INFO - 2020-06-16 06:58:53 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:53 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:58:53 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:53 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:53 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:53 --> Fetching Assignments details
+INFO - 2020-06-16 06:58:54 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:54 --> Fetching Assignments Id details
+INFO - 2020-06-16 06:58:54 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 17:28:54 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 06:58:54 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:58:54 --> Fetching Assignments Grade details
+INFO - 2020-06-16 06:58:54 --> Fetching Sections details
+INFO - 2020-06-16 06:58:54 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:54 --> Fetching Assignments Details details
+INFO - 2020-06-16 06:58:56 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 06:58:56 --> Fetching All Leave details
+INFO - 2020-06-16 06:58:56 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:58:56 --> Fetching Subjects details
+INFO - 2020-06-16 06:58:56 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:58:56 --> Fetching Assignments details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Sections details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Subjects details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching All Leave details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Boards details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Projects Details details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Projects Id details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Projects details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Projects Id details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 17:29:22 --> Fetching Projects Mapped Id details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Assignments Grade details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Sections details
+INFO - 2020-06-16 06:59:22 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 06:59:22 --> Fetching Projects Details details
+INFO - 2020-06-16 06:59:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 06:59:24 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 06:59:24 --> Fetching All Leave details
+INFO - 2020-06-16 06:59:24 --> Fetching Subjects details
+INFO - 2020-06-16 06:59:24 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 06:59:24 --> Fetching Projects details
+INFO - 2020-06-16 06:59:26 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 06:59:26 --> Fetching Projects details
+INFO - 2020-06-16 06:59:28 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 06:59:28 --> Fetching Projects details
+INFO - 2020-06-16 06:59:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 06:59:28 --> Fetching All Leave details
+INFO - 2020-06-16 06:59:30 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 06:59:30 --> Fetching Projects details
+INFO - 2020-06-16 06:59:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 06:59:30 --> Fetching All Leave details
+INFO - 2020-06-16 07:01:23 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 07:01:23 --> Fetching All Leave details
+INFO - 2020-06-16 07:01:23 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 07:01:23 --> Fetching Subjects details
+INFO - 2020-06-16 07:01:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 07:01:23 --> Fetching Assignments details
+INFO - 2020-06-16 13:43:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 13:43:53 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 13:43:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-06-16 13:43:53 --> Fetching SubjectMasters details
+INFO - 2020-06-16 13:43:53 --> Fetching All Leave details
+INFO - 2020-06-16 13:43:53 --> Fetching Sections details
+INFO - 2020-06-16 22:40:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 22:40:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 22:40:08 --> Fetching Sections details
+INFO - 2020-06-16 22:40:08 --> Fetching Boards details
+INFO - 2020-06-16 22:40:08 --> Controller "App\Controllers\Events" loaded.
+INFO - 2020-06-16 22:40:08 --> Controller "App\Controllers\Events" loaded.
+INFO - 2020-06-16 22:40:08 --> Fetching Event details
+INFO - 2020-06-16 22:40:08 --> Fetching Events Details details
+INFO - 2020-06-16 23:32:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:32:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:32:19 --> Fetching All Leave details
+INFO - 2020-06-16 23:32:19 --> Fetching Sections details
+INFO - 2020-06-16 23:32:22 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-06-16 23:32:22 --> Fetching Users details
+INFO - 2020-06-16 23:32:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-06-16 23:32:28 --> Fetching Users details
+INFO - 2020-06-16 23:32:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:32:29 --> Fetching Sections details
+INFO - 2020-06-16 23:32:29 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:32:29 --> Fetching All Leave details
+INFO - 2020-06-16 23:33:07 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:33:07 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:33:07 --> Fetching All Leave details
+INFO - 2020-06-16 23:33:07 --> Fetching Sections details
+INFO - 2020-06-16 23:33:15 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-16 23:33:15 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:33:15 --> Fetching MessageGroups details
+INFO - 2020-06-16 23:33:15 --> Fetching Boards details
+INFO - 2020-06-16 23:33:15 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:33:15 --> Fetching Sections details
+INFO - 2020-06-16 23:33:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:33:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:33:22 --> Fetching Sections details
+INFO - 2020-06-16 23:33:22 --> Fetching All Leave details
+INFO - 2020-06-16 23:33:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:33:42 --> Fetching Sections details
+INFO - 2020-06-16 23:33:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:33:54 --> Fetching Sections details
+INFO - 2020-06-16 23:34:07 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:34:07 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:34:07 --> Fetching All Leave details
+INFO - 2020-06-16 23:34:07 --> Fetching Sections details
+INFO - 2020-06-16 23:34:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:34:12 --> Fetching Sections details
+INFO - 2020-06-16 23:34:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:34:17 --> Fetching Sections details
+INFO - 2020-06-16 23:34:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:34:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:34:22 --> Fetching All Leave details
+INFO - 2020-06-16 23:34:22 --> Fetching Sections details
+INFO - 2020-06-16 23:34:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:34:45 --> Fetching Sections details
+INFO - 2020-06-16 23:34:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:34:53 --> Fetching Sections details
+INFO - 2020-06-16 23:43:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:43:14 --> Fetching Sections details
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:43:19 --> Fetching Projects Details details
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:43:19 --> Fetching All Leave details
+INFO - 2020-06-16 23:43:19 --> Fetching Projects details
+INFO - 2020-06-16 23:43:19 --> Fetching Sections details
+INFO - 2020-06-16 23:43:19 --> Fetching Subjects details
+INFO - 2020-06-16 23:43:19 --> Fetching Boards details
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:43:19 --> Fetching Projects Id details
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:43:19 --> Fetching Projects Id details
+INFO - 2020-06-16 23:43:19 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:43:19 --> Fetching Assignments Grade details
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:43:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:43:19 --> Fetching Projects Details details
+INFO - 2020-06-16 23:43:19 --> Fetching Sections details
+INFO - 2020-06-16 23:43:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:43:25 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:43:25 --> Fetching All Leave details
+INFO - 2020-06-16 23:43:25 --> Fetching Sections details
+INFO - 2020-06-16 23:44:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:44:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:44:33 --> Fetching Sections details
+INFO - 2020-06-16 23:44:33 --> Fetching All Leave details
+INFO - 2020-06-16 23:44:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:44:43 --> Fetching Boards details
+INFO - 2020-06-16 23:44:43 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-16 23:44:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:44:43 --> Fetching MessageGroups details
+INFO - 2020-06-16 23:44:43 --> Fetching Sections details
+INFO - 2020-06-16 23:46:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:46:10 --> Fetching Sections details
+INFO - 2020-06-16 23:46:22 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-06-16 23:46:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:46:22 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-06-16 23:46:22 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-06-16 23:46:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:46:22 --> Fetching FeeMaster details
+INFO - 2020-06-16 23:46:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:46:22 --> Fetching Category details
+INFO - 2020-06-16 23:46:22 --> Fetching Sections details
+INFO - 2020-06-16 23:46:22 --> Fetching All Leave details
+INFO - 2020-06-16 23:46:22 --> Fetching FeeDashboardDetails details
+INFO - 2020-06-16 23:46:22 --> Fetching Sections details
+INFO - 2020-06-16 23:46:22 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:46:22 --> Fetching Boards details
+INFO - 2020-06-16 23:47:16 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 23:47:16 --> Fetching All Leave details
+INFO - 2020-06-16 23:47:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-06-16 23:47:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:47:16 --> Fetching SubjectMasters details
+INFO - 2020-06-16 23:47:16 --> Fetching Sections details
+INFO - 2020-06-16 23:47:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:47:17 --> Fetching Sections details
+INFO - 2020-06-16 23:47:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-06-16 23:47:17 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 23:47:17 --> Fetching All Leave details
+INFO - 2020-06-16 23:47:17 --> Fetching SubjectMasters details
+INFO - 2020-06-16 23:47:32 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-06-16 23:47:32 --> Fetching Organizations details
+INFO - 2020-06-16 23:47:40 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-06-16 23:47:40 --> Fetching Organizations details
+INFO - 2020-06-16 23:47:43 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-06-16 23:47:43 --> Fetching Organizations details
+INFO - 2020-06-16 23:48:03 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:48:03 --> Fetching Boards details
+INFO - 2020-06-16 23:48:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:48:03 --> Fetching Assignments Details details
+INFO - 2020-06-16 23:48:03 --> Fetching Sections details
+INFO - 2020-06-16 23:48:03 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:48:03 --> Fetching Subjects details
+INFO - 2020-06-16 23:48:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:03 --> Fetching Assignments details
+INFO - 2020-06-16 23:48:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:03 --> Fetching Assignments Id details
+INFO - 2020-06-16 23:48:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:03 --> Fetching Assignments Grade details
+INFO - 2020-06-16 23:48:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:48:03 --> Fetching Sections details
+INFO - 2020-06-16 23:48:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:03 --> Fetching Assignments Details details
+INFO - 2020-06-16 23:48:10 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 23:48:10 --> Fetching All Leave details
+INFO - 2020-06-16 23:48:10 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:48:10 --> Fetching Subjects details
+INFO - 2020-06-16 23:48:10 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:10 --> Fetching Assignments details
+INFO - 2020-06-16 23:48:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:48:34 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-16 23:48:34 --> Fetching Sections details
+INFO - 2020-06-16 23:48:34 --> Fetching MessageGroups details
+INFO - 2020-06-16 23:48:34 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:48:34 --> Fetching Boards details
+INFO - 2020-06-16 23:48:46 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:48:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:46 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:48:46 --> Fetching Boards details
+INFO - 2020-06-16 23:48:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:48:46 --> Fetching Subjects details
+INFO - 2020-06-16 23:48:46 --> Fetching Assignments Details details
+INFO - 2020-06-16 23:48:46 --> Fetching Assignments details
+INFO - 2020-06-16 23:48:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:46 --> Fetching Sections details
+INFO - 2020-06-16 23:48:46 --> Fetching Assignments Id details
+INFO - 2020-06-16 23:48:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:46 --> Fetching Assignments Grade details
+INFO - 2020-06-16 23:48:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:48:46 --> Fetching Assignments Details details
+INFO - 2020-06-16 23:48:46 --> Fetching Sections details
+INFO - 2020-06-16 23:48:51 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:48:51 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:51 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 23:48:51 --> Fetching Assignments details
+INFO - 2020-06-16 23:48:51 --> Fetching Subjects details
+INFO - 2020-06-16 23:48:51 --> Fetching All Leave details
+INFO - 2020-06-16 23:48:54 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:54 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:48:54 --> Fetching Subjects details
+INFO - 2020-06-16 23:48:54 --> Fetching Assignments details
+INFO - 2020-06-16 23:48:56 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:48:56 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:48:56 --> Fetching Assignments details
+INFO - 2020-06-16 23:48:56 --> Fetching Subjects details
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:49:03 --> Fetching Sections details
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:49:03 --> Fetching Subjects details
+INFO - 2020-06-16 23:49:03 --> Fetching All Leave details
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:49:03 --> Fetching Boards details
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:03 --> Fetching Projects Details details
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:03 --> Fetching Projects details
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:03 --> Fetching Projects Id details
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:03 --> Fetching Projects Id details
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:03 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:49:03 --> Fetching Assignments Grade details
+INFO - 2020-06-16 23:49:03 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:03 --> Fetching Sections details
+INFO - 2020-06-16 23:49:03 --> Fetching Projects Details details
+INFO - 2020-06-16 23:49:05 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:05 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:49:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:49:05 --> Fetching Subjects details
+INFO - 2020-06-16 23:49:05 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:49:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:49:05 --> Fetching All Leave details
+INFO - 2020-06-16 23:49:05 --> Fetching Boards details
+INFO - 2020-06-16 23:49:05 --> Fetching Projects Details details
+INFO - 2020-06-16 23:49:05 --> Fetching Sections details
+INFO - 2020-06-16 23:49:05 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:05 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:05 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:05 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:05 --> Fetching Projects Id details
+INFO - 2020-06-16 23:49:06 --> Fetching Projects Id details
+INFO - 2020-06-16 23:49:06 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:49:06 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-16 23:49:06 --> Fetching Assignments Grade details
+INFO - 2020-06-16 23:49:06 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:49:06 --> Fetching Projects Details details
+INFO - 2020-06-16 23:49:06 --> Fetching Sections details
+INFO - 2020-06-16 23:49:06 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:06 --> Fetching Projects details
+INFO - 2020-06-16 23:49:07 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:49:07 --> Fetching Subjects details
+INFO - 2020-06-16 23:49:07 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:49:07 --> Fetching All Leave details
+INFO - 2020-06-16 23:49:07 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:07 --> Fetching Projects details
+INFO - 2020-06-16 23:49:07 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:07 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:49:07 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-16 23:49:07 --> Fetching Subjects details
+INFO - 2020-06-16 23:49:07 --> Fetching All Leave details
+INFO - 2020-06-16 23:49:07 --> Fetching Projects details
+INFO - 2020-06-16 23:49:22 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:22 --> Fetching Projects details
+INFO - 2020-06-16 23:49:23 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-16 23:49:23 --> Fetching Projects details
+INFO - 2020-06-16 23:49:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:49:40 --> Fetching Sections details
+INFO - 2020-06-16 23:49:58 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:49:58 --> Fetching Sections details
+INFO - 2020-06-16 23:50:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:50:03 --> Fetching Sections details
+INFO - 2020-06-16 23:50:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:50:20 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:50:20 --> Fetching Sections details
+INFO - 2020-06-16 23:50:20 --> Fetching Boards details
+INFO - 2020-06-16 23:50:20 --> Controller "App\Controllers\Events" loaded.
+INFO - 2020-06-16 23:50:20 --> Fetching Events Details details
+INFO - 2020-06-16 23:50:20 --> Controller "App\Controllers\Events" loaded.
+INFO - 2020-06-16 23:50:20 --> Fetching Event details
+INFO - 2020-06-16 23:50:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:50:30 --> Fetching Sections details
+INFO - 2020-06-16 23:50:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:50:30 --> Fetching Sections details
+INFO - 2020-06-16 23:53:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:53:40 --> Fetching Sections details
+INFO - 2020-06-16 23:57:30 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:57:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:57:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:57:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:57:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:57:30 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:57:30 --> Fetching Assignments Id details
+INFO - 2020-06-16 23:57:30 --> Fetching Assignments details
+INFO - 2020-06-16 23:57:30 --> Fetching Subjects details
+INFO - 2020-06-16 23:57:30 --> Fetching Assignments Details details
+INFO - 2020-06-16 23:57:30 --> Fetching Boards details
+INFO - 2020-06-16 23:57:30 --> Fetching Sections details
+INFO - 2020-06-16 23:57:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:57:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:57:30 --> Fetching Assignments Grade details
+INFO - 2020-06-16 23:57:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:57:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:57:30 --> Fetching Assignments Details details
+INFO - 2020-06-16 23:57:30 --> Fetching Sections details
+INFO - 2020-06-16 23:57:31 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-16 23:57:31 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-16 23:57:31 --> Fetching All Leave details
+INFO - 2020-06-16 23:57:31 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-16 23:57:31 --> Fetching Assignments details
+INFO - 2020-06-16 23:57:31 --> Fetching Subjects details
+INFO - 2020-06-16 23:57:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:57:48 --> Fetching Sections details
+INFO - 2020-06-16 23:59:33 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:59:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:59:33 --> Fetching Boards details
+INFO - 2020-06-16 23:59:33 --> Fetching Sections details
+INFO - 2020-06-16 23:59:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:59:33 --> Fetching Sections details
+INFO - 2020-06-16 23:59:37 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-16 23:59:37 --> Fetching Boards details
+INFO - 2020-06-16 23:59:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:59:37 --> Fetching Sections details
+INFO - 2020-06-16 23:59:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-16 23:59:37 --> Fetching Sections details

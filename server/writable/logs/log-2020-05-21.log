@@ -1,0 +1,2078 @@
+INFO - 2020-05-21 00:00:29 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:00:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:00:29 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:00:29 --> Fetching Sections details
+INFO - 2020-05-21 00:00:29 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:00:29 --> Fetching All Leave details
+INFO - 2020-05-21 00:00:29 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:00:29 --> Fetching Category details
+INFO - 2020-05-21 00:00:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:00:29 --> Fetching Sections details
+INFO - 2020-05-21 00:01:52 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:01:52 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:01:52 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:01:52 --> Fetching All Leave details
+INFO - 2020-05-21 00:01:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:01:52 --> Fetching Sections details
+INFO - 2020-05-21 00:01:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:01:52 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:01:52 --> Fetching Category details
+INFO - 2020-05-21 00:01:52 --> Fetching Sections details
+INFO - 2020-05-21 00:02:59 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:02:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:02:59 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:02:59 --> Fetching Sections details
+INFO - 2020-05-21 00:02:59 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:02:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:02:59 --> Fetching All Leave details
+INFO - 2020-05-21 00:02:59 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:02:59 --> Fetching Category details
+INFO - 2020-05-21 00:02:59 --> Fetching Sections details
+INFO - 2020-05-21 00:14:04 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:14:04 --> Inserting FeeMaster details
+CRITICAL - 2020-05-21 00:14:04 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\FeesMasters->insert_feemaster()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FeesMasters))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-05-21 00:14:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:17:58 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:17:58 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:17:58 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:17:58 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:17:58 --> Fetching Sections details
+INFO - 2020-05-21 00:17:58 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:17:58 --> Fetching Category details
+INFO - 2020-05-21 00:17:58 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:17:58 --> Fetching All Leave details
+INFO - 2020-05-21 00:17:58 --> Fetching Sections details
+INFO - 2020-05-21 00:18:19 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:18:19 --> Inserting FeeMaster details
+INFO - 2020-05-21 00:19:01 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:19:01 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:19:14 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:19:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:19:14 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:19:14 --> Fetching Sections details
+INFO - 2020-05-21 00:19:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:19:14 --> Fetching All Leave details
+INFO - 2020-05-21 00:19:14 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:19:14 --> Fetching Category details
+INFO - 2020-05-21 00:19:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:19:14 --> Fetching Sections details
+INFO - 2020-05-21 00:19:27 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:19:27 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:19:29 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:19:29 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:19:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:19:30 --> Fetching All Leave details
+INFO - 2020-05-21 00:19:34 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:19:34 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:20:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:20:06 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:20:06 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:20:06 --> Fetching Sections details
+INFO - 2020-05-21 00:20:06 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:20:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:20:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:20:06 --> Fetching Category details
+INFO - 2020-05-21 00:20:06 --> Fetching All Leave details
+INFO - 2020-05-21 00:20:06 --> Fetching Sections details
+INFO - 2020-05-21 00:20:15 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:20:15 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:20:28 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:20:28 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:20:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:20:30 --> Fetching All Leave details
+INFO - 2020-05-21 00:20:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:20:30 --> Fetching All Leave details
+INFO - 2020-05-21 00:20:31 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:20:31 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:21:51 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:21:51 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:21:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:21:52 --> Fetching Sections details
+INFO - 2020-05-21 00:21:52 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:21:52 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:21:52 --> Fetching All Leave details
+INFO - 2020-05-21 00:21:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:21:52 --> Fetching Category details
+INFO - 2020-05-21 00:21:52 --> Fetching Sections details
+INFO - 2020-05-21 00:21:59 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:21:59 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:22:00 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:22:00 --> Fetching All Leave details
+INFO - 2020-05-21 00:23:41 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:23:41 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:23:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:23:41 --> Fetching Sections details
+INFO - 2020-05-21 00:23:41 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:23:41 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:23:41 --> Fetching Category details
+INFO - 2020-05-21 00:23:41 --> Fetching All Leave details
+INFO - 2020-05-21 00:23:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:23:41 --> Fetching Sections details
+INFO - 2020-05-21 00:23:49 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:23:49 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:23:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:23:50 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:26:03 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:26:03 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:26:03 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:26:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:26:03 --> Fetching All Leave details
+INFO - 2020-05-21 00:26:03 --> Fetching Sections details
+INFO - 2020-05-21 00:26:03 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:26:03 --> Fetching Category details
+INFO - 2020-05-21 00:26:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:26:03 --> Fetching Sections details
+INFO - 2020-05-21 00:26:22 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:26:22 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:26:25 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:26:25 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:26:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:26:28 --> Fetching All Leave details
+INFO - 2020-05-21 00:29:03 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:29:03 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:32:11 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:32:11 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:32:11 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:32:11 --> Fetching All Leave details
+INFO - 2020-05-21 00:32:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:32:11 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:32:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:32:11 --> Fetching Category details
+INFO - 2020-05-21 00:32:11 --> Fetching Sections details
+INFO - 2020-05-21 00:32:11 --> Fetching Sections details
+INFO - 2020-05-21 00:32:31 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:32:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:32:31 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:32:31 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:32:31 --> Fetching Sections details
+INFO - 2020-05-21 00:32:31 --> Fetching All Leave details
+INFO - 2020-05-21 00:32:31 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:32:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:32:31 --> Fetching Category details
+INFO - 2020-05-21 00:32:31 --> Fetching Sections details
+INFO - 2020-05-21 00:33:17 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:33:17 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:33:17 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:33:17 --> Fetching All Leave details
+INFO - 2020-05-21 00:33:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:33:17 --> Fetching Sections details
+INFO - 2020-05-21 00:33:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:33:17 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:33:17 --> Fetching Category details
+INFO - 2020-05-21 00:33:17 --> Fetching Sections details
+INFO - 2020-05-21 00:39:21 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:39:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:39:21 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:39:21 --> Fetching Sections details
+INFO - 2020-05-21 00:39:21 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:39:21 --> Fetching All Leave details
+INFO - 2020-05-21 00:39:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:39:21 --> Fetching Sections details
+INFO - 2020-05-21 00:39:22 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:39:22 --> Fetching Category details
+INFO - 2020-05-21 00:42:49 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:42:49 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:42:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:42:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:42:49 --> Fetching Sections details
+INFO - 2020-05-21 00:42:49 --> Fetching All Leave details
+INFO - 2020-05-21 00:42:49 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:42:49 --> Fetching Category details
+INFO - 2020-05-21 00:42:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:42:49 --> Fetching Sections details
+INFO - 2020-05-21 00:43:24 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:43:24 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:43:41 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:43:41 --> Fetching All Leave details
+INFO - 2020-05-21 00:48:31 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:48:31 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:48:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:48:31 --> Fetching Sections details
+INFO - 2020-05-21 00:48:31 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:48:31 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:48:31 --> Fetching Category details
+INFO - 2020-05-21 00:48:31 --> Fetching All Leave details
+INFO - 2020-05-21 00:48:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:48:31 --> Fetching Sections details
+INFO - 2020-05-21 00:52:58 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:52:58 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:52:58 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:52:58 --> Fetching Sections details
+INFO - 2020-05-21 00:52:58 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:52:58 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:52:58 --> Fetching All Leave details
+INFO - 2020-05-21 00:52:58 --> Fetching Category details
+INFO - 2020-05-21 00:52:58 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:52:58 --> Fetching Sections details
+INFO - 2020-05-21 00:55:13 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:55:13 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:55:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:55:13 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:55:13 --> Fetching Sections details
+INFO - 2020-05-21 00:55:13 --> Fetching All Leave details
+INFO - 2020-05-21 00:55:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:55:13 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:55:13 --> Fetching Category details
+INFO - 2020-05-21 00:55:13 --> Fetching Sections details
+INFO - 2020-05-21 00:56:29 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:56:29 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:56:29 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:56:29 --> Fetching Category details
+INFO - 2020-05-21 00:56:29 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:56:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:56:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:56:29 --> Fetching All Leave details
+INFO - 2020-05-21 00:56:29 --> Fetching Sections details
+INFO - 2020-05-21 00:56:29 --> Fetching Sections details
+INFO - 2020-05-21 00:58:01 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:58:01 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:58:01 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:58:01 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:58:01 --> Fetching Sections details
+INFO - 2020-05-21 00:58:01 --> Fetching All Leave details
+INFO - 2020-05-21 00:58:01 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:58:01 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:58:01 --> Fetching Category details
+INFO - 2020-05-21 00:58:01 --> Fetching Sections details
+INFO - 2020-05-21 00:59:29 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 00:59:29 --> Fetching FeeMaster details
+INFO - 2020-05-21 00:59:29 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 00:59:29 --> Fetching Category details
+INFO - 2020-05-21 00:59:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:59:29 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 00:59:29 --> Fetching All Leave details
+INFO - 2020-05-21 00:59:29 --> Fetching Sections details
+INFO - 2020-05-21 00:59:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 00:59:29 --> Fetching Sections details
+INFO - 2020-05-21 01:03:17 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:03:17 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:03:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:03:17 --> Fetching Sections details
+INFO - 2020-05-21 01:03:17 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:03:17 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:03:17 --> Fetching All Leave details
+INFO - 2020-05-21 01:03:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:03:17 --> Fetching Category details
+INFO - 2020-05-21 01:03:17 --> Fetching Sections details
+INFO - 2020-05-21 01:05:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:05:11 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:05:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:05:11 --> Fetching Sections details
+INFO - 2020-05-21 01:05:11 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:05:11 --> Fetching All Leave details
+INFO - 2020-05-21 01:05:11 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:05:11 --> Fetching Category details
+INFO - 2020-05-21 01:05:11 --> Fetching Sections details
+INFO - 2020-05-21 01:05:11 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:07:26 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:07:26 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:07:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:07:26 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:07:26 --> Fetching Sections details
+INFO - 2020-05-21 01:07:26 --> Fetching All Leave details
+INFO - 2020-05-21 01:07:26 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:07:26 --> Fetching Category details
+INFO - 2020-05-21 01:07:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:07:26 --> Fetching Sections details
+INFO - 2020-05-21 01:08:34 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:08:34 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:08:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:08:34 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:08:34 --> Fetching Sections details
+INFO - 2020-05-21 01:08:34 --> Fetching All Leave details
+INFO - 2020-05-21 01:08:34 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:08:34 --> Fetching Category details
+INFO - 2020-05-21 01:08:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:08:34 --> Fetching Sections details
+INFO - 2020-05-21 01:09:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:09:12 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:09:12 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:09:12 --> Fetching Category details
+INFO - 2020-05-21 01:09:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:09:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:09:12 --> Fetching All Leave details
+INFO - 2020-05-21 01:09:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:09:12 --> Fetching Sections details
+INFO - 2020-05-21 01:09:12 --> Fetching Sections details
+INFO - 2020-05-21 01:14:20 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:14:20 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:14:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:14:20 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:14:20 --> Fetching Sections details
+INFO - 2020-05-21 01:14:20 --> Fetching All Leave details
+INFO - 2020-05-21 01:14:20 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:14:20 --> Fetching Category details
+INFO - 2020-05-21 01:14:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:14:20 --> Fetching Sections details
+INFO - 2020-05-21 01:20:51 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:20:51 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:20:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:20:51 --> Fetching Sections details
+INFO - 2020-05-21 01:20:51 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:20:51 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:20:51 --> Fetching Category details
+INFO - 2020-05-21 01:20:51 --> Fetching All Leave details
+INFO - 2020-05-21 01:20:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:20:51 --> Fetching Sections details
+INFO - 2020-05-21 01:25:00 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:25:00 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:25:00 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:25:00 --> Fetching Sections details
+INFO - 2020-05-21 01:25:00 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:25:00 --> Fetching All Leave details
+INFO - 2020-05-21 01:25:00 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:25:00 --> Fetching Category details
+INFO - 2020-05-21 01:25:00 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:25:00 --> Fetching Sections details
+INFO - 2020-05-21 01:29:47 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:29:47 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:29:47 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:29:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:29:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:29:47 --> Fetching All Leave details
+INFO - 2020-05-21 01:29:47 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:29:47 --> Fetching Sections details
+INFO - 2020-05-21 01:29:47 --> Fetching Category details
+INFO - 2020-05-21 01:29:47 --> Fetching Sections details
+INFO - 2020-05-21 01:31:07 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:31:07 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:31:07 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:31:07 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:31:07 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:31:07 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:31:07 --> Fetching Category details
+INFO - 2020-05-21 01:31:07 --> Fetching Sections details
+INFO - 2020-05-21 01:31:07 --> Fetching All Leave details
+INFO - 2020-05-21 01:31:07 --> Fetching Sections details
+INFO - 2020-05-21 01:32:57 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:32:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:32:57 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:32:57 --> Fetching Sections details
+INFO - 2020-05-21 01:32:57 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:32:57 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:32:57 --> Fetching Category details
+INFO - 2020-05-21 01:32:57 --> Fetching All Leave details
+INFO - 2020-05-21 01:32:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:32:57 --> Fetching Sections details
+INFO - 2020-05-21 01:33:52 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:33:52 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:33:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:33:52 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:33:52 --> Fetching Sections details
+INFO - 2020-05-21 01:33:52 --> Fetching All Leave details
+INFO - 2020-05-21 01:33:52 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:33:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:33:52 --> Fetching Category details
+INFO - 2020-05-21 01:33:52 --> Fetching Sections details
+INFO - 2020-05-21 01:35:55 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:35:55 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:35:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:35:55 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:35:55 --> Fetching Category details
+INFO - 2020-05-21 01:35:55 --> Fetching Sections details
+INFO - 2020-05-21 01:35:55 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:35:55 --> Fetching All Leave details
+INFO - 2020-05-21 01:35:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:35:55 --> Fetching Sections details
+INFO - 2020-05-21 01:36:16 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:36:16 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:36:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:36:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:36:16 --> Fetching Sections details
+INFO - 2020-05-21 01:36:16 --> Fetching All Leave details
+INFO - 2020-05-21 01:36:16 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:36:17 --> Fetching Category details
+INFO - 2020-05-21 01:36:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:36:17 --> Fetching Sections details
+INFO - 2020-05-21 01:36:55 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:36:55 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:36:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:36:55 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:36:55 --> Fetching All Leave details
+INFO - 2020-05-21 01:36:55 --> Fetching Sections details
+INFO - 2020-05-21 01:36:55 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:36:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:36:55 --> Fetching Category details
+INFO - 2020-05-21 01:36:55 --> Fetching Sections details
+INFO - 2020-05-21 01:41:28 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:41:28 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:41:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:41:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:41:28 --> Fetching All Leave details
+INFO - 2020-05-21 01:41:28 --> Fetching Sections details
+INFO - 2020-05-21 01:41:28 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:41:28 --> Fetching Category details
+INFO - 2020-05-21 01:41:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:41:28 --> Fetching Sections details
+INFO - 2020-05-21 01:42:53 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:42:53 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:42:53 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:42:53 --> Fetching Category details
+INFO - 2020-05-21 01:42:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:42:53 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:42:53 --> Fetching All Leave details
+INFO - 2020-05-21 01:42:53 --> Fetching Sections details
+INFO - 2020-05-21 01:42:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:42:53 --> Fetching Sections details
+INFO - 2020-05-21 01:43:46 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:43:46 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:43:46 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:43:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:43:46 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:43:46 --> Fetching Category details
+INFO - 2020-05-21 01:43:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:43:46 --> Fetching All Leave details
+INFO - 2020-05-21 01:43:46 --> Fetching Sections details
+INFO - 2020-05-21 01:43:46 --> Fetching Sections details
+INFO - 2020-05-21 01:47:01 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:47:01 --> Fetching Sections details
+INFO - 2020-05-21 01:47:01 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:47:01 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:47:01 --> Fetching All Leave details
+INFO - 2020-05-21 01:47:01 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:47:01 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:47:01 --> Fetching Category details
+INFO - 2020-05-21 01:47:01 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:47:01 --> Fetching Sections details
+INFO - 2020-05-21 01:50:10 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:50:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:50:10 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:50:10 --> Fetching Sections details
+INFO - 2020-05-21 01:50:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:50:10 --> Fetching Sections details
+INFO - 2020-05-21 01:50:10 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:50:10 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:50:10 --> Fetching All Leave details
+INFO - 2020-05-21 01:50:10 --> Fetching Category details
+INFO - 2020-05-21 01:52:05 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:52:05 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:52:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:52:05 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:52:05 --> Fetching Sections details
+INFO - 2020-05-21 01:52:05 --> Fetching Category details
+INFO - 2020-05-21 01:52:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:52:05 --> Fetching Sections details
+INFO - 2020-05-21 01:52:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:52:05 --> Fetching All Leave details
+INFO - 2020-05-21 01:52:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:52:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:52:50 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:52:50 --> Fetching Sections details
+INFO - 2020-05-21 01:52:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:52:50 --> Fetching All Leave details
+INFO - 2020-05-21 01:52:50 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:52:50 --> Fetching Category details
+INFO - 2020-05-21 01:52:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:52:50 --> Fetching Sections details
+INFO - 2020-05-21 01:56:16 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:56:16 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:56:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:56:16 --> Fetching Sections details
+INFO - 2020-05-21 01:56:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:56:16 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:56:16 --> Fetching Category details
+INFO - 2020-05-21 01:56:16 --> Fetching Sections details
+INFO - 2020-05-21 01:56:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:56:16 --> Fetching All Leave details
+INFO - 2020-05-21 01:57:59 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:57:59 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:57:59 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:57:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:57:59 --> Fetching All Leave details
+INFO - 2020-05-21 01:57:59 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:57:59 --> Fetching Category details
+INFO - 2020-05-21 01:57:59 --> Fetching Sections details
+INFO - 2020-05-21 01:57:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:57:59 --> Fetching Sections details
+INFO - 2020-05-21 01:59:10 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 01:59:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:59:10 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 01:59:10 --> Fetching FeeMaster details
+INFO - 2020-05-21 01:59:10 --> Fetching All Leave details
+INFO - 2020-05-21 01:59:10 --> Fetching Sections details
+INFO - 2020-05-21 01:59:10 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 01:59:10 --> Fetching Category details
+INFO - 2020-05-21 01:59:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 01:59:10 --> Fetching Sections details
+INFO - 2020-05-21 02:02:21 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:02:21 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:02:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:02:21 --> Fetching Sections details
+INFO - 2020-05-21 02:02:21 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:02:21 --> Fetching All Leave details
+INFO - 2020-05-21 02:02:21 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:02:21 --> Fetching Category details
+INFO - 2020-05-21 02:02:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:02:21 --> Fetching Sections details
+INFO - 2020-05-21 02:07:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:07:59 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:07:59 --> Fetching Sections details
+INFO - 2020-05-21 02:07:59 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:07:59 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:07:59 --> Fetching Category details
+INFO - 2020-05-21 02:07:59 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:07:59 --> Fetching All Leave details
+INFO - 2020-05-21 02:07:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:07:59 --> Fetching Sections details
+INFO - 2020-05-21 02:08:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:08:12 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:09:21 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:09:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:09:21 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:09:21 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:09:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:09:21 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:09:21 --> Fetching Category details
+INFO - 2020-05-21 02:09:21 --> Fetching All Leave details
+INFO - 2020-05-21 02:09:21 --> Fetching Sections details
+INFO - 2020-05-21 02:09:21 --> Fetching Sections details
+INFO - 2020-05-21 02:09:45 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:09:45 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:15:20 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:15:20 --> Fetching All Leave details
+INFO - 2020-05-21 02:20:26 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:20:26 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:20:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:20:42 --> Fetching All Leave details
+INFO - 2020-05-21 02:20:44 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:20:44 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:25:51 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:25:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:25:51 --> Fetching All Leave details
+INFO - 2020-05-21 02:25:51 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:25:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:25:51 --> Fetching Category details
+INFO - 2020-05-21 02:25:51 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:25:51 --> Fetching Sections details
+INFO - 2020-05-21 02:25:51 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:25:51 --> Fetching Sections details
+INFO - 2020-05-21 02:31:38 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:31:38 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:31:38 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:31:38 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:31:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:31:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:31:38 --> Fetching Sections details
+INFO - 2020-05-21 02:31:38 --> Fetching Category details
+INFO - 2020-05-21 02:31:38 --> Fetching All Leave details
+INFO - 2020-05-21 02:31:38 --> Fetching Sections details
+INFO - 2020-05-21 02:31:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:31:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:31:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:31:50 --> Fetching All Leave details
+INFO - 2020-05-21 02:31:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:31:50 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:31:50 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:31:50 --> Fetching Sections details
+INFO - 2020-05-21 02:31:50 --> Fetching Sections details
+INFO - 2020-05-21 02:31:50 --> Fetching Category details
+INFO - 2020-05-21 02:31:58 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:31:58 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:32:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:32:06 --> Fetching All Leave details
+INFO - 2020-05-21 02:33:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:33:44 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:33:44 --> Fetching Sections details
+INFO - 2020-05-21 02:33:44 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:33:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:33:44 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:33:44 --> Fetching Category details
+INFO - 2020-05-21 02:33:44 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:33:44 --> Fetching All Leave details
+INFO - 2020-05-21 02:33:44 --> Fetching Sections details
+INFO - 2020-05-21 02:33:57 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:33:57 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:39:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:39:19 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:39:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:39:19 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:39:19 --> Fetching Category details
+INFO - 2020-05-21 02:39:19 --> Fetching All Leave details
+INFO - 2020-05-21 02:39:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:39:19 --> Fetching Sections details
+INFO - 2020-05-21 02:39:19 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:39:19 --> Fetching Sections details
+INFO - 2020-05-21 02:39:28 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:39:28 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:40:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:40:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:40:43 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:40:43 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:40:43 --> Fetching Category details
+INFO - 2020-05-21 02:40:43 --> Fetching Sections details
+INFO - 2020-05-21 02:40:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:40:43 --> Fetching All Leave details
+INFO - 2020-05-21 02:40:43 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:40:43 --> Fetching Sections details
+INFO - 2020-05-21 02:40:48 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:40:48 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:41:59 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:41:59 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:41:59 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:41:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:41:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:41:59 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:41:59 --> Fetching All Leave details
+INFO - 2020-05-21 02:41:59 --> Fetching Category details
+INFO - 2020-05-21 02:41:59 --> Fetching Sections details
+INFO - 2020-05-21 02:41:59 --> Fetching Sections details
+INFO - 2020-05-21 02:42:08 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:42:08 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:43:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:43:50 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 02:43:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 02:43:50 --> Fetching Category details
+INFO - 2020-05-21 02:43:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:43:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 02:43:50 --> Fetching FeeMaster details
+INFO - 2020-05-21 02:43:50 --> Fetching All Leave details
+INFO - 2020-05-21 02:43:50 --> Fetching Sections details
+INFO - 2020-05-21 02:43:50 --> Fetching Sections details
+INFO - 2020-05-21 02:43:55 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 02:43:55 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:07:43 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-21 03:07:43 --> Fetching room details
+CRITICAL - 2020-05-21 03:07:43 --> Class 'PhpOffice\PhpSpreadsheet\Spreadsheet' not found
+#0 /var/www/html/server_4/app/Controllers/Rooms.php(130): App\Models\ExcelExport_model->exportData('rooms', Array, Array, 'noheader')
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Rooms->excel_room()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rooms))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-05-21 03:27:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 03:27:23 --> Fetching All Leave details
+INFO - 2020-05-21 03:27:27 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:27:27 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:27:29 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 03:27:29 --> Fetching All Leave details
+INFO - 2020-05-21 03:29:59 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:29:59 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:32:58 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:32:58 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:33:00 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 03:33:00 --> Fetching All Leave details
+INFO - 2020-05-21 03:33:01 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:33:01 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:33:02 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:33:02 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:33:04 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:33:04 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:33:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 03:33:05 --> Fetching All Leave details
+INFO - 2020-05-21 03:33:06 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:33:06 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:33:07 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:33:07 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:33:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 03:33:08 --> Fetching All Leave details
+INFO - 2020-05-21 03:38:59 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:38:59 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:39:03 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 03:39:03 --> Fetching All Leave details
+INFO - 2020-05-21 03:53:59 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:53:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 03:53:59 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:53:59 --> Fetching Sections details
+INFO - 2020-05-21 03:53:59 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 03:53:59 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 03:53:59 --> Fetching All Leave details
+INFO - 2020-05-21 03:53:59 --> Fetching Category details
+INFO - 2020-05-21 03:53:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 03:53:59 --> Fetching Sections details
+INFO - 2020-05-21 03:54:18 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:54:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 03:54:18 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 03:54:18 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:54:18 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 03:54:18 --> Fetching Sections details
+INFO - 2020-05-21 03:54:18 --> Fetching Category details
+INFO - 2020-05-21 03:54:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 03:54:18 --> Fetching All Leave details
+INFO - 2020-05-21 03:54:18 --> Fetching Sections details
+INFO - 2020-05-21 03:58:30 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 03:58:30 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 03:58:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 03:58:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 03:58:30 --> Fetching FeeMaster details
+INFO - 2020-05-21 03:58:30 --> Fetching Category details
+INFO - 2020-05-21 03:58:30 --> Fetching All Leave details
+INFO - 2020-05-21 03:58:30 --> Fetching Sections details
+INFO - 2020-05-21 03:58:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 03:58:30 --> Fetching Sections details
+INFO - 2020-05-21 04:15:06 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:15:06 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:15:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:15:06 --> Fetching Sections details
+INFO - 2020-05-21 04:15:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:15:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:15:06 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:15:06 --> Fetching Category details
+INFO - 2020-05-21 04:15:06 --> Fetching Sections details
+INFO - 2020-05-21 04:15:06 --> Fetching All Leave details
+INFO - 2020-05-21 04:16:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:16:04 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:16:04 --> Fetching Sections details
+INFO - 2020-05-21 04:16:04 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:16:04 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:16:04 --> Fetching All Leave details
+INFO - 2020-05-21 04:16:04 --> Fetching Category details
+INFO - 2020-05-21 04:16:04 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:16:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:16:04 --> Fetching Sections details
+INFO - 2020-05-21 04:17:17 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:17:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:17:17 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:17:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:17:17 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:17:17 --> Fetching Category details
+INFO - 2020-05-21 04:17:17 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:17:17 --> Fetching All Leave details
+INFO - 2020-05-21 04:17:17 --> Fetching Sections details
+INFO - 2020-05-21 04:17:17 --> Fetching Sections details
+INFO - 2020-05-21 04:18:45 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:18:45 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:21:08 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:21:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:21:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:21:08 --> Fetching All Leave details
+INFO - 2020-05-21 04:21:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:21:08 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:21:08 --> Fetching Sections details
+INFO - 2020-05-21 04:21:08 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:21:08 --> Fetching Sections details
+INFO - 2020-05-21 04:21:08 --> Fetching Category details
+INFO - 2020-05-21 04:23:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:23:13 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:23:13 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:23:13 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:23:13 --> Fetching Sections details
+INFO - 2020-05-21 04:23:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:23:13 --> Fetching Category details
+INFO - 2020-05-21 04:23:13 --> Fetching All Leave details
+INFO - 2020-05-21 04:23:13 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:23:13 --> Fetching Sections details
+INFO - 2020-05-21 04:23:53 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:23:53 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:23:53 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:23:53 --> Fetching Category details
+INFO - 2020-05-21 04:23:53 --> Fetching All Leave details
+INFO - 2020-05-21 04:23:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:23:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:23:53 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:23:53 --> Fetching Sections details
+INFO - 2020-05-21 04:23:53 --> Fetching Sections details
+INFO - 2020-05-21 04:24:02 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:24:02 --> Fetching All Leave details
+INFO - 2020-05-21 04:24:03 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:24:03 --> Fetching All Leave details
+INFO - 2020-05-21 04:24:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:24:06 --> Fetching All Leave details
+INFO - 2020-05-21 04:24:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:24:38 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:24:38 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:24:38 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:24:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:24:38 --> Fetching All Leave details
+INFO - 2020-05-21 04:24:38 --> Fetching Category details
+INFO - 2020-05-21 04:24:38 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:24:38 --> Fetching Sections details
+INFO - 2020-05-21 04:24:38 --> Fetching Sections details
+INFO - 2020-05-21 04:25:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:25:06 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:25:06 --> Fetching Sections details
+INFO - 2020-05-21 04:25:06 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:25:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:25:06 --> Fetching Category details
+INFO - 2020-05-21 04:25:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:25:06 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:25:06 --> Fetching All Leave details
+INFO - 2020-05-21 04:25:06 --> Fetching Sections details
+INFO - 2020-05-21 04:25:11 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:25:11 --> Fetching All Leave details
+INFO - 2020-05-21 04:25:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:25:12 --> Fetching All Leave details
+INFO - 2020-05-21 04:25:13 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:25:13 --> Fetching All Leave details
+INFO - 2020-05-21 04:25:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:25:14 --> Fetching All Leave details
+INFO - 2020-05-21 04:25:15 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:25:15 --> Fetching All Leave details
+INFO - 2020-05-21 04:25:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:25:16 --> Fetching All Leave details
+INFO - 2020-05-21 04:25:18 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:25:18 --> Fetching All Leave details
+INFO - 2020-05-21 04:25:34 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 04:25:34 --> Fetching All Leave details
+INFO - 2020-05-21 04:25:38 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-21 04:25:38 --> Fetching Institution details
+INFO - 2020-05-21 04:25:38 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-21 04:25:38 --> Fetching Organizations details
+INFO - 2020-05-21 04:25:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:25:54 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:25:54 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:25:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:25:54 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:25:54 --> Fetching Category details
+INFO - 2020-05-21 04:25:54 --> Fetching All Leave details
+INFO - 2020-05-21 04:25:54 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:25:54 --> Fetching Sections details
+INFO - 2020-05-21 04:25:54 --> Fetching Sections details
+INFO - 2020-05-21 04:25:59 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:25:59 --> Fetching All Leave details
+INFO - 2020-05-21 04:27:10 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 04:27:10 --> Inserting Staff Profile details
+INFO - 2020-05-21 04:27:12 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 04:27:12 --> Fetching All Leave details
+INFO - 2020-05-21 04:27:14 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 04:27:14 --> Fetching All Leave details
+INFO - 2020-05-21 04:28:19 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 04:28:19 --> Fetching All Leave details
+INFO - 2020-05-21 04:28:20 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 04:28:20 --> Fetching All Leave details
+INFO - 2020-05-21 04:31:56 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:31:56 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:31:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:31:56 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:31:56 --> Fetching Sections details
+INFO - 2020-05-21 04:31:56 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:31:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:31:56 --> Fetching Category details
+INFO - 2020-05-21 04:31:56 --> Fetching All Leave details
+INFO - 2020-05-21 04:31:56 --> Fetching Sections details
+INFO - 2020-05-21 04:38:40 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:38:40 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:38:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:38:42 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:38:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:38:43 --> Fetching All Leave details
+INFO - 2020-05-21 04:38:45 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:38:45 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:38:46 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:38:46 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:39:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:39:57 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:39:57 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:39:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:39:57 --> Fetching Category details
+INFO - 2020-05-21 04:39:57 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:39:57 --> Fetching All Leave details
+INFO - 2020-05-21 04:39:57 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:39:57 --> Fetching Sections details
+INFO - 2020-05-21 04:39:57 --> Fetching Sections details
+INFO - 2020-05-21 04:40:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:40:12 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:40:13 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:40:13 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:40:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:40:14 --> Fetching All Leave details
+INFO - 2020-05-21 04:42:53 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 04:42:53 --> Fetching All Leave details
+INFO - 2020-05-21 04:42:57 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 04:42:57 --> Fetching All Leave details
+INFO - 2020-05-21 04:44:04 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 04:44:04 --> Fetching All Leave details
+INFO - 2020-05-21 04:44:06 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-21 04:44:06 --> Fetching Institution details
+INFO - 2020-05-21 04:44:06 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-21 04:44:06 --> Fetching Organizations details
+INFO - 2020-05-21 04:46:06 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:46:06 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:46:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:46:12 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:46:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:46:14 --> Fetching All Leave details
+INFO - 2020-05-21 04:48:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:48:12 --> Fetching All Leave details
+INFO - 2020-05-21 04:48:14 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:48:14 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:48:14 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:48:14 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:48:15 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:48:15 --> Fetching All Leave details
+INFO - 2020-05-21 04:48:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:48:53 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:48:53 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:48:53 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:48:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:48:53 --> Fetching All Leave details
+INFO - 2020-05-21 04:48:53 --> Fetching Category details
+INFO - 2020-05-21 04:48:53 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:48:53 --> Fetching Sections details
+INFO - 2020-05-21 04:48:53 --> Fetching Sections details
+INFO - 2020-05-21 04:48:58 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:48:58 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:48:59 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:48:59 --> Fetching All Leave details
+INFO - 2020-05-21 04:49:01 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:49:01 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:49:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:49:05 --> Fetching All Leave details
+INFO - 2020-05-21 04:49:09 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:49:09 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:49:11 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:49:11 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:49:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:49:12 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:49:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:49:14 --> Fetching All Leave details
+INFO - 2020-05-21 04:51:42 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:51:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:51:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:51:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:51:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:51:42 --> Fetching Category details
+INFO - 2020-05-21 04:51:42 --> Fetching All Leave details
+INFO - 2020-05-21 04:51:42 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:51:42 --> Fetching Sections details
+INFO - 2020-05-21 04:51:42 --> Fetching Sections details
+INFO - 2020-05-21 04:52:27 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:52:27 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:52:35 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:52:35 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:52:40 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:52:40 --> Fetching All Leave details
+INFO - 2020-05-21 04:52:46 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:52:46 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:53:23 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:53:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:53:23 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:53:23 --> Fetching Sections details
+INFO - 2020-05-21 04:53:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:53:23 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:53:23 --> Fetching Category details
+INFO - 2020-05-21 04:53:23 --> Fetching All Leave details
+INFO - 2020-05-21 04:53:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:53:23 --> Fetching Sections details
+INFO - 2020-05-21 04:53:32 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:53:32 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:57:20 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:57:20 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:57:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:57:20 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:57:20 --> Fetching All Leave details
+INFO - 2020-05-21 04:57:20 --> Fetching Sections details
+INFO - 2020-05-21 04:57:20 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:57:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:57:20 --> Fetching Category details
+INFO - 2020-05-21 04:57:20 --> Fetching Sections details
+INFO - 2020-05-21 04:59:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:59:33 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 04:59:33 --> Fetching Sections details
+INFO - 2020-05-21 04:59:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 04:59:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 04:59:33 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 04:59:33 --> Fetching Category details
+INFO - 2020-05-21 04:59:33 --> Fetching FeeMaster details
+INFO - 2020-05-21 04:59:33 --> Fetching All Leave details
+INFO - 2020-05-21 04:59:33 --> Fetching Sections details
+INFO - 2020-05-21 05:00:10 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:00:10 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:02:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:02:03 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:02:03 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:02:03 --> Fetching Sections details
+INFO - 2020-05-21 05:02:03 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:02:03 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:02:03 --> Fetching Category details
+INFO - 2020-05-21 05:02:03 --> Fetching All Leave details
+INFO - 2020-05-21 05:02:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:02:03 --> Fetching Sections details
+INFO - 2020-05-21 05:02:15 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:02:15 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:02:17 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:02:17 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:04:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:04:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:04:16 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:04:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:04:16 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:04:16 --> Fetching Sections details
+INFO - 2020-05-21 05:04:16 --> Fetching Category details
+INFO - 2020-05-21 05:04:16 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:04:16 --> Fetching All Leave details
+INFO - 2020-05-21 05:04:16 --> Fetching Sections details
+INFO - 2020-05-21 05:04:20 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:04:20 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:04:23 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:04:23 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:04:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:04:25 --> Fetching All Leave details
+INFO - 2020-05-21 05:04:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:04:28 --> Fetching All Leave details
+INFO - 2020-05-21 05:04:29 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:04:29 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:04:30 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:04:30 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:05:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:05:23 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:05:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:05:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:05:23 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:05:23 --> Fetching All Leave details
+INFO - 2020-05-21 05:05:23 --> Fetching Category details
+INFO - 2020-05-21 05:05:23 --> Fetching Sections details
+INFO - 2020-05-21 05:05:23 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:05:23 --> Fetching Sections details
+INFO - 2020-05-21 05:05:57 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:05:57 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:06:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:06:13 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-05-21 05:06:13 --> Fetching Sections details
+INFO - 2020-05-21 05:06:13 --> Fetching SubjectMasters details
+INFO - 2020-05-21 05:06:34 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-05-21 05:06:34 --> Fetching Subjects details
+INFO - 2020-05-21 05:07:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:07:17 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-05-21 05:07:17 --> Fetching Sections details
+INFO - 2020-05-21 05:07:17 --> Fetching MessageGroups details
+INFO - 2020-05-21 05:07:17 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-05-21 05:07:17 --> Fetching Dashboard details
+INFO - 2020-05-21 05:09:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:09:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-05-21 05:09:53 --> Fetching SubjectMasters details
+INFO - 2020-05-21 05:09:53 --> Fetching Sections details
+INFO - 2020-05-21 05:12:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:12:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:12:43 --> Fetching Sections details
+INFO - 2020-05-21 05:12:43 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:12:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:12:43 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:12:43 --> Fetching All Leave details
+INFO - 2020-05-21 05:12:43 --> Fetching Category details
+INFO - 2020-05-21 05:12:43 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:12:43 --> Fetching Sections details
+INFO - 2020-05-21 05:12:48 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:12:48 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:14:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:14:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:14:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:14:12 --> Fetching Sections details
+INFO - 2020-05-21 05:14:12 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:14:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:14:12 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:14:12 --> Fetching All Leave details
+INFO - 2020-05-21 05:14:12 --> Fetching Category details
+INFO - 2020-05-21 05:14:12 --> Fetching Sections details
+INFO - 2020-05-21 05:14:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:14:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-05-21 05:14:41 --> Fetching SubjectMasters details
+INFO - 2020-05-21 05:14:41 --> Fetching Sections details
+INFO - 2020-05-21 05:14:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:14:42 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:14:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:14:42 --> Fetching Sections details
+INFO - 2020-05-21 05:14:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:14:42 --> Fetching All Leave details
+INFO - 2020-05-21 05:14:42 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:14:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:14:42 --> Fetching Category details
+INFO - 2020-05-21 05:14:42 --> Fetching Sections details
+INFO - 2020-05-21 05:14:45 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:14:45 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:14:45 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:14:45 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:14:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:14:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:14:45 --> Fetching All Leave details
+INFO - 2020-05-21 05:14:45 --> Fetching Category details
+INFO - 2020-05-21 05:14:45 --> Fetching Sections details
+INFO - 2020-05-21 05:14:45 --> Fetching Sections details
+INFO - 2020-05-21 05:15:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:15:43 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:15:43 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:15:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:15:43 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:15:43 --> Fetching All Leave details
+INFO - 2020-05-21 05:15:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:15:43 --> Fetching Category details
+INFO - 2020-05-21 05:15:43 --> Fetching Sections details
+INFO - 2020-05-21 05:15:43 --> Fetching Sections details
+INFO - 2020-05-21 05:24:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:24:37 --> Fetching Sections details
+INFO - 2020-05-21 05:24:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:24:39 --> Fetching Sections details
+INFO - 2020-05-21 05:24:39 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-05-21 05:24:39 --> Fetching Dashboard details
+INFO - 2020-05-21 05:24:41 --> Controller "App\Controllers\Exams" loaded.
+INFO - 2020-05-21 05:24:41 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-05-21 05:24:41 --> Fetching Exams details
+INFO - 2020-05-21 05:24:41 --> Fetching Subjects details
+INFO - 2020-05-21 05:24:41 --> Controller "App\Controllers\ExamTimetables" loaded.
+INFO - 2020-05-21 05:24:41 --> Fetching Exams details
+INFO - 2020-05-21 05:24:44 --> Controller "App\Controllers\ExamTimetables" loaded.
+INFO - 2020-05-21 05:24:44 --> Fetching Exams details
+INFO - 2020-05-21 05:24:54 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-05-21 05:24:54 --> Fetching Boards details
+INFO - 2020-05-21 05:25:09 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:25:09 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:25:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:25:09 --> Fetching Sections details
+INFO - 2020-05-21 05:25:09 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:25:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:25:09 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:25:09 --> Fetching Category details
+INFO - 2020-05-21 05:25:09 --> Fetching Sections details
+INFO - 2020-05-21 05:25:09 --> Fetching All Leave details
+INFO - 2020-05-21 05:26:44 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:26:44 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:26:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:26:44 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:26:44 --> Fetching Category details
+INFO - 2020-05-21 05:26:44 --> Fetching All Leave details
+INFO - 2020-05-21 05:26:44 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:26:44 --> Fetching Sections details
+INFO - 2020-05-21 05:26:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:26:44 --> Fetching Sections details
+INFO - 2020-05-21 05:26:50 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-05-21 05:26:50 --> Fetching FeesConfigs details
+INFO - 2020-05-21 05:26:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:26:50 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:26:50 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-05-21 05:26:50 --> Fetching Academic year details
+INFO - 2020-05-21 05:26:50 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-21 05:26:50 --> Fetching Institution details
+INFO - 2020-05-21 05:26:50 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-21 05:26:50 --> Fetching Standards Section details
+INFO - 2020-05-21 05:26:50 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-05-21 05:26:50 --> Fetching Sections details
+INFO - 2020-05-21 05:26:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:26:56 --> Fetching Sections details
+INFO - 2020-05-21 05:26:56 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:26:56 --> Fetching All Leave details
+INFO - 2020-05-21 05:26:56 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:26:56 --> Fetching Category details
+INFO - 2020-05-21 05:26:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:26:56 --> Fetching Sections details
+INFO - 2020-05-21 05:26:56 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:26:56 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:27:57 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:27:57 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-05-21 05:27:57 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:27:57 --> Fetching FeesConfigs details
+INFO - 2020-05-21 05:27:57 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-05-21 05:27:57 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-21 05:27:57 --> Fetching Institution details
+INFO - 2020-05-21 05:27:57 --> Fetching Academic year details
+INFO - 2020-05-21 05:27:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-21 05:27:57 --> Fetching Standards Section details
+INFO - 2020-05-21 05:27:57 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-05-21 05:27:57 --> Fetching Sections details
+INFO - 2020-05-21 05:28:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:28:02 --> Fetching Sections details
+INFO - 2020-05-21 05:28:04 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 05:28:04 --> Fetching All Leave details
+INFO - 2020-05-21 05:28:04 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-05-21 05:28:04 --> Fetching Subjects details
+INFO - 2020-05-21 05:28:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:28:25 --> Fetching All Leave details
+INFO - 2020-05-21 05:28:32 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:28:32 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:29:13 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:29:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:29:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:29:13 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:29:13 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:29:13 --> Fetching All Leave details
+INFO - 2020-05-21 05:29:13 --> Fetching Category details
+INFO - 2020-05-21 05:29:13 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:29:13 --> Fetching Sections details
+INFO - 2020-05-21 05:29:13 --> Fetching Sections details
+INFO - 2020-05-21 05:30:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:30:10 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:30:10 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:30:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:30:10 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:30:10 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:30:10 --> Fetching All Leave details
+INFO - 2020-05-21 05:30:10 --> Fetching Sections details
+INFO - 2020-05-21 05:30:10 --> Fetching Category details
+INFO - 2020-05-21 05:30:10 --> Fetching Sections details
+INFO - 2020-05-21 05:41:09 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:41:09 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:41:09 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:41:09 --> Fetching Category details
+INFO - 2020-05-21 05:41:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:41:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:41:09 --> Fetching All Leave details
+INFO - 2020-05-21 05:41:09 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:41:09 --> Fetching Sections details
+INFO - 2020-05-21 05:41:09 --> Fetching Sections details
+INFO - 2020-05-21 05:47:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:47:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:47:48 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:47:48 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:47:48 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:47:48 --> Fetching Category details
+INFO - 2020-05-21 05:47:48 --> Fetching All Leave details
+INFO - 2020-05-21 05:47:48 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:47:48 --> Fetching Sections details
+INFO - 2020-05-21 05:47:48 --> Fetching Sections details
+INFO - 2020-05-21 05:54:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:54:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:54:50 --> Fetching Sections details
+INFO - 2020-05-21 05:54:50 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:54:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:54:50 --> Fetching Category details
+INFO - 2020-05-21 05:54:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:54:50 --> Fetching All Leave details
+INFO - 2020-05-21 05:54:50 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:54:50 --> Fetching Sections details
+INFO - 2020-05-21 05:55:27 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:55:27 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:55:27 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:55:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:55:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:55:27 --> Fetching All Leave details
+INFO - 2020-05-21 05:55:27 --> Fetching Category details
+INFO - 2020-05-21 05:55:27 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:55:27 --> Fetching Sections details
+INFO - 2020-05-21 05:55:27 --> Fetching Sections details
+INFO - 2020-05-21 05:58:17 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:58:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:58:17 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:58:17 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:58:17 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:58:17 --> Fetching Category details
+INFO - 2020-05-21 05:58:17 --> Fetching All Leave details
+INFO - 2020-05-21 05:58:17 --> Fetching Sections details
+INFO - 2020-05-21 05:58:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:58:17 --> Fetching Sections details
+INFO - 2020-05-21 05:58:39 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:58:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:58:39 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:58:39 --> Fetching Sections details
+INFO - 2020-05-21 05:58:39 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:58:39 --> Fetching All Leave details
+INFO - 2020-05-21 05:58:39 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:58:39 --> Fetching Category details
+INFO - 2020-05-21 05:58:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:58:39 --> Fetching Sections details
+INFO - 2020-05-21 05:59:34 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 05:59:34 --> Fetching FeeMaster details
+INFO - 2020-05-21 05:59:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:59:34 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 05:59:34 --> Fetching All Leave details
+INFO - 2020-05-21 05:59:34 --> Fetching Sections details
+INFO - 2020-05-21 05:59:34 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 05:59:34 --> Fetching Category details
+INFO - 2020-05-21 05:59:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 05:59:34 --> Fetching Sections details
+INFO - 2020-05-21 06:00:11 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:00:11 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:00:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:00:11 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:00:11 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:00:11 --> Fetching Category details
+INFO - 2020-05-21 06:00:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:00:11 --> Fetching Sections details
+INFO - 2020-05-21 06:00:11 --> Fetching All Leave details
+INFO - 2020-05-21 06:00:11 --> Fetching Sections details
+INFO - 2020-05-21 06:02:37 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:02:37 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:02:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:02:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:02:37 --> Fetching All Leave details
+INFO - 2020-05-21 06:02:37 --> Fetching Sections details
+INFO - 2020-05-21 06:02:37 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:02:37 --> Fetching Category details
+INFO - 2020-05-21 06:02:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:02:37 --> Fetching Sections details
+INFO - 2020-05-21 06:03:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:03:06 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:03:06 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:03:06 --> Fetching Sections details
+INFO - 2020-05-21 06:03:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:03:06 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:03:06 --> Fetching All Leave details
+INFO - 2020-05-21 06:03:06 --> Fetching Category details
+INFO - 2020-05-21 06:03:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:03:06 --> Fetching Sections details
+INFO - 2020-05-21 06:05:29 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:05:29 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:05:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:05:29 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:05:29 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:05:29 --> Fetching Category details
+INFO - 2020-05-21 06:05:29 --> Fetching All Leave details
+INFO - 2020-05-21 06:05:29 --> Fetching Sections details
+INFO - 2020-05-21 06:05:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:05:29 --> Fetching Sections details
+INFO - 2020-05-21 06:07:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:07:08 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:07:08 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:07:08 --> Fetching Sections details
+INFO - 2020-05-21 06:07:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:07:08 --> Fetching All Leave details
+INFO - 2020-05-21 06:07:09 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:07:09 --> Fetching Category details
+INFO - 2020-05-21 06:07:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:07:09 --> Fetching Sections details
+INFO - 2020-05-21 06:08:47 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:08:47 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:16:49 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:16:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:16:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:16:49 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:16:49 --> Fetching All Leave details
+INFO - 2020-05-21 06:16:49 --> Fetching Sections details
+INFO - 2020-05-21 06:16:49 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:16:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:16:49 --> Fetching Category details
+INFO - 2020-05-21 06:16:49 --> Fetching Sections details
+INFO - 2020-05-21 06:17:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:17:52 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:17:52 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:17:52 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:17:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:17:52 --> Fetching Category details
+INFO - 2020-05-21 06:17:52 --> Fetching All Leave details
+INFO - 2020-05-21 06:17:52 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:17:52 --> Fetching Sections details
+INFO - 2020-05-21 06:17:52 --> Fetching Sections details
+INFO - 2020-05-21 06:31:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:31:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:31:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:31:08 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:31:08 --> Fetching All Leave details
+INFO - 2020-05-21 06:31:08 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:31:08 --> Fetching Sections details
+INFO - 2020-05-21 06:31:08 --> Fetching Category details
+INFO - 2020-05-21 06:31:08 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:31:08 --> Fetching Sections details
+INFO - 2020-05-21 06:34:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:34:16 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:34:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:34:16 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:34:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:34:16 --> Fetching Category details
+INFO - 2020-05-21 06:34:16 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:34:16 --> Fetching All Leave details
+INFO - 2020-05-21 06:34:16 --> Fetching Sections details
+INFO - 2020-05-21 06:34:17 --> Fetching Sections details
+INFO - 2020-05-21 06:35:09 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:35:09 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:35:09 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:35:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:35:09 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:35:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:35:09 --> Fetching Category details
+INFO - 2020-05-21 06:35:09 --> Fetching All Leave details
+INFO - 2020-05-21 06:35:09 --> Fetching Sections details
+INFO - 2020-05-21 06:35:09 --> Fetching Sections details
+INFO - 2020-05-21 06:42:36 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:42:36 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:42:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:42:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:42:37 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:42:37 --> Fetching Category details
+INFO - 2020-05-21 06:42:37 --> Fetching All Leave details
+INFO - 2020-05-21 06:42:37 --> Fetching Sections details
+INFO - 2020-05-21 06:42:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:42:37 --> Fetching Sections details
+INFO - 2020-05-21 06:45:47 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:45:47 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:45:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:45:47 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:45:47 --> Fetching Category details
+INFO - 2020-05-21 06:45:47 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:45:47 --> Fetching All Leave details
+INFO - 2020-05-21 06:45:47 --> Fetching Sections details
+INFO - 2020-05-21 06:45:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:45:47 --> Fetching Sections details
+INFO - 2020-05-21 06:48:43 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:48:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:48:43 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:48:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:48:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:48:43 --> Fetching All Leave details
+INFO - 2020-05-21 06:48:43 --> Fetching Category details
+INFO - 2020-05-21 06:48:43 --> Fetching Sections details
+INFO - 2020-05-21 06:48:43 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:48:43 --> Fetching Sections details
+INFO - 2020-05-21 06:49:24 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:49:24 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:49:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:49:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:49:24 --> Fetching Category details
+INFO - 2020-05-21 06:49:24 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:49:24 --> Fetching All Leave details
+INFO - 2020-05-21 06:49:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:49:24 --> Fetching Sections details
+INFO - 2020-05-21 06:49:24 --> Fetching Sections details
+INFO - 2020-05-21 06:52:10 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:52:10 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:52:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:52:10 --> Fetching Sections details
+INFO - 2020-05-21 06:52:10 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:52:10 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:52:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:52:10 --> Fetching Category details
+INFO - 2020-05-21 06:52:10 --> Fetching All Leave details
+INFO - 2020-05-21 06:52:10 --> Fetching Sections details
+INFO - 2020-05-21 06:56:19 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:56:19 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:56:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:56:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:56:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:56:19 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:56:19 --> Fetching Category details
+INFO - 2020-05-21 06:56:19 --> Fetching All Leave details
+INFO - 2020-05-21 06:56:19 --> Fetching Sections details
+INFO - 2020-05-21 06:56:19 --> Fetching Sections details
+INFO - 2020-05-21 06:56:54 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:56:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:56:54 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:56:54 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:56:54 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:56:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:56:54 --> Fetching Sections details
+INFO - 2020-05-21 06:56:54 --> Fetching All Leave details
+INFO - 2020-05-21 06:56:54 --> Fetching Category details
+INFO - 2020-05-21 06:56:54 --> Fetching Sections details
+INFO - 2020-05-21 06:58:47 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 06:58:47 --> Fetching FeeMaster details
+INFO - 2020-05-21 06:58:48 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 06:58:48 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 06:58:48 --> Fetching All Leave details
+INFO - 2020-05-21 06:58:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:58:48 --> Fetching Category details
+INFO - 2020-05-21 06:58:48 --> Fetching Sections details
+INFO - 2020-05-21 06:58:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 06:58:48 --> Fetching Sections details
+INFO - 2020-05-21 07:06:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:06:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:06:14 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:06:14 --> Fetching Sections details
+INFO - 2020-05-21 07:06:14 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:06:14 --> Fetching All Leave details
+INFO - 2020-05-21 07:06:14 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:06:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:06:14 --> Fetching Category details
+INFO - 2020-05-21 07:06:14 --> Fetching Sections details
+INFO - 2020-05-21 07:06:51 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:06:51 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:06:51 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:06:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:06:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:06:51 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:06:51 --> Fetching Category details
+INFO - 2020-05-21 07:06:51 --> Fetching All Leave details
+INFO - 2020-05-21 07:06:51 --> Fetching Sections details
+INFO - 2020-05-21 07:06:51 --> Fetching Sections details
+INFO - 2020-05-21 07:07:35 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:07:35 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:07:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:07:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:07:35 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:07:35 --> Fetching All Leave details
+INFO - 2020-05-21 07:07:35 --> Fetching Sections details
+INFO - 2020-05-21 07:07:35 --> Fetching Category details
+INFO - 2020-05-21 07:07:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:07:35 --> Fetching Sections details
+INFO - 2020-05-21 07:09:44 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:09:44 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:09:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:09:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:09:44 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:09:44 --> Fetching Category details
+INFO - 2020-05-21 07:09:44 --> Fetching All Leave details
+INFO - 2020-05-21 07:09:44 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:09:44 --> Fetching Sections details
+INFO - 2020-05-21 07:09:44 --> Fetching Sections details
+INFO - 2020-05-21 07:31:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:31:19 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:31:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:31:19 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:31:19 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:31:19 --> Fetching Category details
+INFO - 2020-05-21 07:31:19 --> Fetching All Leave details
+INFO - 2020-05-21 07:31:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:31:19 --> Fetching Sections details
+INFO - 2020-05-21 07:31:19 --> Fetching Sections details
+INFO - 2020-05-21 07:32:28 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:32:28 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:32:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:32:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:32:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:32:28 --> Fetching All Leave details
+INFO - 2020-05-21 07:32:28 --> Fetching Category details
+INFO - 2020-05-21 07:32:28 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:32:28 --> Fetching Sections details
+INFO - 2020-05-21 07:32:28 --> Fetching Sections details
+INFO - 2020-05-21 07:33:31 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:33:31 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:33:31 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:33:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:33:31 --> Fetching Category details
+INFO - 2020-05-21 07:33:31 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:33:31 --> Fetching All Leave details
+INFO - 2020-05-21 07:33:31 --> Fetching Sections details
+INFO - 2020-05-21 07:33:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:33:31 --> Fetching Sections details
+INFO - 2020-05-21 07:38:52 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:38:52 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:38:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:38:52 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:38:52 --> Fetching Sections details
+INFO - 2020-05-21 07:38:52 --> Fetching All Leave details
+INFO - 2020-05-21 07:38:52 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:38:52 --> Fetching Category details
+INFO - 2020-05-21 07:38:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:38:52 --> Fetching Sections details
+INFO - 2020-05-21 07:39:56 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-21 07:39:56 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-21 07:39:56 --> Fetching Institution details
+INFO - 2020-05-21 07:39:56 --> Fetching Organizations details
+INFO - 2020-05-21 07:48:30 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:48:30 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:48:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:48:32 --> Fetching Sections details
+INFO - 2020-05-21 07:48:32 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:48:32 --> Fetching All Leave details
+INFO - 2020-05-21 07:48:32 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:48:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:48:32 --> Fetching Category details
+INFO - 2020-05-21 07:48:32 --> Fetching Sections details
+INFO - 2020-05-21 07:54:14 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:54:14 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:54:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:54:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:54:14 --> Fetching Category details
+INFO - 2020-05-21 07:54:14 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:54:14 --> Fetching All Leave details
+INFO - 2020-05-21 07:54:14 --> Fetching Sections details
+INFO - 2020-05-21 07:54:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:54:14 --> Fetching Sections details
+INFO - 2020-05-21 07:56:06 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:56:06 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:56:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:56:06 --> Fetching Sections details
+INFO - 2020-05-21 07:56:06 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:56:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:56:06 --> Fetching Category details
+INFO - 2020-05-21 07:56:06 --> Fetching All Leave details
+INFO - 2020-05-21 07:56:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:56:06 --> Fetching Sections details
+INFO - 2020-05-21 07:57:47 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:57:47 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:57:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:57:47 --> Fetching Sections details
+INFO - 2020-05-21 07:57:48 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:57:48 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:57:48 --> Fetching Category details
+INFO - 2020-05-21 07:57:48 --> Fetching All Leave details
+INFO - 2020-05-21 07:57:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:57:48 --> Fetching Sections details
+INFO - 2020-05-21 07:59:23 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 07:59:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:59:23 --> Fetching FeeMaster details
+INFO - 2020-05-21 07:59:23 --> Fetching Sections details
+INFO - 2020-05-21 07:59:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 07:59:23 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 07:59:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 07:59:23 --> Fetching All Leave details
+INFO - 2020-05-21 07:59:23 --> Fetching Category details
+INFO - 2020-05-21 07:59:23 --> Fetching Sections details
+INFO - 2020-05-21 08:04:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:04:04 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:04:04 --> Fetching Sections details
+INFO - 2020-05-21 08:04:04 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:04:04 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:04:04 --> Fetching All Leave details
+INFO - 2020-05-21 08:04:04 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:04:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:04:04 --> Fetching Category details
+INFO - 2020-05-21 08:04:04 --> Fetching Sections details
+INFO - 2020-05-21 08:09:30 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:09:30 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:09:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:09:30 --> Fetching Sections details
+INFO - 2020-05-21 08:09:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:09:30 --> Fetching All Leave details
+INFO - 2020-05-21 08:09:31 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:09:31 --> Fetching Category details
+INFO - 2020-05-21 08:09:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:09:31 --> Fetching Sections details
+INFO - 2020-05-21 08:11:49 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:11:49 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:11:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:11:49 --> Fetching Sections details
+INFO - 2020-05-21 08:11:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:11:49 --> Fetching All Leave details
+INFO - 2020-05-21 08:11:49 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:11:49 --> Fetching Category details
+INFO - 2020-05-21 08:11:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:11:49 --> Fetching Sections details
+INFO - 2020-05-21 08:15:02 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:15:02 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:15:02 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:15:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:15:02 --> Fetching Category details
+INFO - 2020-05-21 08:15:02 --> Fetching All Leave details
+INFO - 2020-05-21 08:15:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:15:02 --> Fetching Sections details
+INFO - 2020-05-21 08:15:02 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:15:02 --> Fetching Sections details
+INFO - 2020-05-21 08:29:21 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:29:21 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:29:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:29:21 --> Fetching Sections details
+INFO - 2020-05-21 08:29:21 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:29:21 --> Fetching Category details
+INFO - 2020-05-21 08:29:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:29:21 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:29:21 --> Fetching All Leave details
+INFO - 2020-05-21 08:29:21 --> Fetching Sections details
+INFO - 2020-05-21 08:33:26 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:33:26 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:33:26 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:33:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:33:26 --> Fetching All Leave details
+INFO - 2020-05-21 08:33:26 --> Fetching Category details
+INFO - 2020-05-21 08:33:26 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:33:26 --> Fetching Sections details
+INFO - 2020-05-21 08:33:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:33:27 --> Fetching Sections details
+INFO - 2020-05-21 08:34:04 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:34:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:34:04 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:34:04 --> Fetching Sections details
+INFO - 2020-05-21 08:34:04 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:34:04 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:34:04 --> Fetching Category details
+INFO - 2020-05-21 08:34:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:34:04 --> Fetching All Leave details
+INFO - 2020-05-21 08:34:04 --> Fetching Sections details
+INFO - 2020-05-21 08:37:21 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:37:21 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:37:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:37:21 --> Fetching Sections details
+INFO - 2020-05-21 08:37:21 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:37:21 --> Fetching All Leave details
+INFO - 2020-05-21 08:37:21 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:37:21 --> Fetching Category details
+INFO - 2020-05-21 08:37:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:37:21 --> Fetching Sections details
+INFO - 2020-05-21 08:39:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:39:38 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:39:38 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:39:38 --> Fetching All Leave details
+INFO - 2020-05-21 08:39:38 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:39:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:39:38 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:39:38 --> Fetching Category details
+INFO - 2020-05-21 08:39:38 --> Fetching Sections details
+INFO - 2020-05-21 08:39:38 --> Fetching Sections details
+INFO - 2020-05-21 08:42:08 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:42:08 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:42:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:42:08 --> Fetching Sections details
+INFO - 2020-05-21 08:42:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:42:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:42:08 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:42:08 --> Fetching Category details
+INFO - 2020-05-21 08:42:08 --> Fetching All Leave details
+INFO - 2020-05-21 08:42:08 --> Fetching Sections details
+INFO - 2020-05-21 08:44:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:44:06 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:44:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:44:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:44:06 --> Fetching All Leave details
+INFO - 2020-05-21 08:44:06 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:44:06 --> Fetching Category details
+INFO - 2020-05-21 08:44:06 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:44:06 --> Fetching Sections details
+INFO - 2020-05-21 08:44:06 --> Fetching Sections details
+INFO - 2020-05-21 08:47:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:47:16 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:47:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:47:16 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:47:16 --> Fetching Sections details
+INFO - 2020-05-21 08:47:16 --> Fetching All Leave details
+INFO - 2020-05-21 08:47:16 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:47:16 --> Fetching Category details
+INFO - 2020-05-21 08:47:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:47:16 --> Fetching Sections details
+INFO - 2020-05-21 08:53:09 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:53:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:53:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 08:53:09 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 08:53:09 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 08:53:09 --> Fetching Category details
+INFO - 2020-05-21 08:53:09 --> Fetching FeeMaster details
+INFO - 2020-05-21 08:53:09 --> Fetching All Leave details
+INFO - 2020-05-21 08:53:09 --> Fetching Sections details
+INFO - 2020-05-21 08:53:09 --> Fetching Sections details
+INFO - 2020-05-21 08:58:51 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 08:58:51 --> Fetching All Leave details
+INFO - 2020-05-21 09:01:45 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 09:01:45 --> Fetching All Leave details
+INFO - 2020-05-21 09:05:40 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 09:05:40 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 09:05:40 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 09:05:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 09:05:40 --> Fetching FeeMaster details
+INFO - 2020-05-21 09:05:40 --> Fetching All Leave details
+INFO - 2020-05-21 09:05:40 --> Fetching Category details
+INFO - 2020-05-21 09:05:40 --> Fetching Sections details
+INFO - 2020-05-21 09:05:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 09:05:40 --> Fetching Sections details
+INFO - 2020-05-21 10:52:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 10:52:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 10:52:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 10:52:42 --> Fetching Sections details
+INFO - 2020-05-21 10:52:42 --> Fetching All Leave details
+INFO - 2020-05-21 10:52:42 --> Fetching FeeMaster details
+INFO - 2020-05-21 10:52:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 10:52:42 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 10:52:42 --> Fetching Category details
+INFO - 2020-05-21 10:52:42 --> Fetching Sections details
+INFO - 2020-05-21 22:54:12 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-21 22:54:12 --> Fetching Users details
+INFO - 2020-05-21 22:54:17 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-21 22:54:17 --> Fetching Users details
+INFO - 2020-05-21 22:54:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 22:54:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 22:54:24 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 22:54:24 --> Fetching Sections details
+INFO - 2020-05-21 22:54:24 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 22:54:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 22:54:24 --> Fetching Category details
+INFO - 2020-05-21 22:54:24 --> Fetching All Leave details
+INFO - 2020-05-21 22:54:24 --> Fetching FeeMaster details
+INFO - 2020-05-21 22:54:24 --> Fetching Sections details
+INFO - 2020-05-21 22:54:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 22:54:42 --> Fetching FeeMaster details
+INFO - 2020-05-21 22:54:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 22:54:49 --> Fetching All Leave details
+INFO - 2020-05-21 22:56:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 22:56:29 --> Fetching Sections details
+INFO - 2020-05-21 22:56:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 22:56:31 --> Fetching Sections details
+INFO - 2020-05-21 22:56:31 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-05-21 22:56:32 --> Fetching Dashboard details
+INFO - 2020-05-21 22:56:35 --> Controller "App\Controllers\Exams" loaded.
+INFO - 2020-05-21 22:56:35 --> Fetching Exams details
+INFO - 2020-05-21 22:56:35 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-05-21 22:56:35 --> Fetching Subjects details
+INFO - 2020-05-21 22:56:35 --> Controller "App\Controllers\ExamTimetables" loaded.
+INFO - 2020-05-21 22:56:35 --> Fetching Exams details
+INFO - 2020-05-21 22:57:33 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 22:57:33 --> Fetching FeeMaster details
+INFO - 2020-05-21 22:57:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 22:57:33 --> Fetching Sections details
+INFO - 2020-05-21 22:57:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 22:57:33 --> Fetching All Leave details
+INFO - 2020-05-21 22:57:33 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 22:57:33 --> Fetching Category details
+INFO - 2020-05-21 22:57:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 22:57:33 --> Fetching Sections details
+INFO - 2020-05-21 22:58:28 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-05-21 22:58:28 --> Fetching Feedback details
+INFO - 2020-05-21 22:58:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 22:58:31 --> Fetching Sections details
+INFO - 2020-05-21 22:58:31 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-05-21 22:58:31 --> Fetching MessageGroups details
+INFO - 2020-05-21 22:58:31 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-05-21 22:58:31 --> Fetching Dashboard details
+INFO - 2020-05-21 22:58:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 22:58:34 --> Fetching Sections details
+INFO - 2020-05-21 22:58:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 22:58:37 --> Fetching All Leave details
+INFO - 2020-05-21 22:58:44 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-21 22:58:44 --> Fetching All Leave details
+INFO - 2020-05-21 22:58:46 --> Controller "App\Controllers\LeaveTypes" loaded.
+INFO - 2020-05-21 22:58:46 --> Fetching LeaveTypes details
+INFO - 2020-05-21 23:04:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:04:37 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:04:37 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:04:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:04:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:04:37 --> Fetching Category details
+INFO - 2020-05-21 23:04:37 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:04:37 --> Fetching Sections details
+INFO - 2020-05-21 23:04:37 --> Fetching All Leave details
+INFO - 2020-05-21 23:04:37 --> Fetching Sections details
+INFO - 2020-05-21 23:05:54 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:05:54 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:05:54 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:05:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:05:54 --> Fetching All Leave details
+INFO - 2020-05-21 23:05:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:05:54 --> Fetching Category details
+INFO - 2020-05-21 23:05:54 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:05:54 --> Fetching Sections details
+INFO - 2020-05-21 23:05:54 --> Fetching Sections details
+INFO - 2020-05-21 23:06:26 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:06:26 --> Fetching All Leave details
+INFO - 2020-05-21 23:07:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:07:18 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:07:18 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:07:18 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:07:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:07:18 --> Fetching Category details
+INFO - 2020-05-21 23:07:18 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:07:18 --> Fetching Sections details
+INFO - 2020-05-21 23:07:18 --> Fetching All Leave details
+INFO - 2020-05-21 23:07:18 --> Fetching Sections details
+INFO - 2020-05-21 23:13:18 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:13:18 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:13:18 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:13:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:13:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:13:18 --> Fetching All Leave details
+INFO - 2020-05-21 23:13:18 --> Fetching Category details
+INFO - 2020-05-21 23:13:18 --> Fetching Sections details
+INFO - 2020-05-21 23:13:18 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:13:18 --> Fetching Sections details
+INFO - 2020-05-21 23:14:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:14:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:14:50 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:14:50 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:14:50 --> Fetching Sections details
+INFO - 2020-05-21 23:14:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:14:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:14:50 --> Fetching Category details
+INFO - 2020-05-21 23:14:50 --> Fetching All Leave details
+INFO - 2020-05-21 23:14:50 --> Fetching Sections details
+INFO - 2020-05-21 23:15:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:15:49 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:15:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:15:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:15:49 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:15:49 --> Fetching All Leave details
+INFO - 2020-05-21 23:15:49 --> Fetching Category details
+INFO - 2020-05-21 23:15:49 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:15:49 --> Fetching Sections details
+INFO - 2020-05-21 23:15:49 --> Fetching Sections details
+INFO - 2020-05-21 23:21:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:21:56 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:21:56 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:21:56 --> Fetching Sections details
+INFO - 2020-05-21 23:21:56 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:21:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:21:56 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:21:56 --> Fetching Sections details
+INFO - 2020-05-21 23:21:56 --> Fetching Category details
+INFO - 2020-05-21 23:21:56 --> Fetching All Leave details
+INFO - 2020-05-21 23:23:05 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:23:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:23:05 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:23:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:23:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:23:05 --> Fetching Category details
+INFO - 2020-05-21 23:23:05 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:23:05 --> Fetching All Leave details
+INFO - 2020-05-21 23:23:05 --> Fetching Sections details
+INFO - 2020-05-21 23:23:05 --> Fetching Sections details
+INFO - 2020-05-21 23:25:23 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:25:23 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:26:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:26:49 --> Fetching All Leave details
+INFO - 2020-05-21 23:27:33 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-05-21 23:27:33 --> Fetching Boards details
+INFO - 2020-05-21 23:27:35 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-21 23:27:35 --> Fetching room details
+INFO - 2020-05-21 23:27:37 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-05-21 23:27:37 --> Fetching MessageGroups details
+INFO - 2020-05-21 23:27:39 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-21 23:27:39 --> Fetching Standards details
+INFO - 2020-05-21 23:27:39 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-05-21 23:27:39 --> Fetching Boards details
+INFO - 2020-05-21 23:27:39 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-21 23:27:39 --> Fetching Standards details
+INFO - 2020-05-21 23:27:39 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-21 23:27:39 --> Fetching Standards details
+INFO - 2020-05-21 23:27:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:27:45 --> Fetching Sections details
+INFO - 2020-05-21 23:27:45 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-05-21 23:27:45 --> Fetching Boards details
+INFO - 2020-05-21 23:27:45 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-21 23:27:45 --> Fetching Standards details
+INFO - 2020-05-21 23:28:11 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:28:11 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:28:11 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:28:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:28:11 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:28:11 --> Fetching Category details
+INFO - 2020-05-21 23:28:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:28:11 --> Fetching All Leave details
+INFO - 2020-05-21 23:28:11 --> Fetching Sections details
+INFO - 2020-05-21 23:28:11 --> Fetching Sections details
+INFO - 2020-05-21 23:28:19 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:28:19 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:28:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:28:22 --> Fetching All Leave details
+INFO - 2020-05-21 23:28:31 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:28:31 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:28:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:28:37 --> Fetching All Leave details
+INFO - 2020-05-21 23:30:22 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:30:22 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:30:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:30:22 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:22 --> Fetching Category details
+INFO - 2020-05-21 23:30:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:30:22 --> Fetching All Leave details
+INFO - 2020-05-21 23:30:22 --> Fetching Sections details
+INFO - 2020-05-21 23:30:22 --> Fetching Sections details
+INFO - 2020-05-21 23:30:30 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:30 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:37 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:37 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:39 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:30:39 --> Fetching All Leave details
+INFO - 2020-05-21 23:30:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:42 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:42 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:44 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:30:44 --> Fetching All Leave details
+INFO - 2020-05-21 23:30:45 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:45 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:46 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:46 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:47 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:30:47 --> Fetching All Leave details
+INFO - 2020-05-21 23:30:48 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:48 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:49 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:49 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:30:50 --> Fetching All Leave details
+INFO - 2020-05-21 23:30:51 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:51 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:52 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:30:52 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:30:53 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:30:53 --> Fetching All Leave details
+INFO - 2020-05-21 23:31:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:31:08 --> Fetching All Leave details
+INFO - 2020-05-21 23:31:45 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:31:45 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:32:09 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:32:09 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:32:10 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:32:10 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:32:11 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:32:11 --> Fetching All Leave details
+INFO - 2020-05-21 23:32:11 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:32:11 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:35:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:35:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:35:50 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:35:50 --> Fetching Category details
+INFO - 2020-05-21 23:35:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:35:50 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:35:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:35:50 --> Fetching All Leave details
+INFO - 2020-05-21 23:35:50 --> Fetching Sections details
+INFO - 2020-05-21 23:35:50 --> Fetching Sections details
+INFO - 2020-05-21 23:38:27 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:38:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:38:27 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:38:27 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:38:27 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:38:27 --> Fetching All Leave details
+INFO - 2020-05-21 23:38:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:38:27 --> Fetching Sections details
+INFO - 2020-05-21 23:38:27 --> Fetching Category details
+INFO - 2020-05-21 23:38:27 --> Fetching Sections details
+INFO - 2020-05-21 23:39:00 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:39:00 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:39:00 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:39:00 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:39:00 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:39:00 --> Fetching All Leave details
+INFO - 2020-05-21 23:39:00 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:39:00 --> Fetching Category details
+INFO - 2020-05-21 23:39:00 --> Fetching Sections details
+INFO - 2020-05-21 23:39:00 --> Fetching Sections details
+INFO - 2020-05-21 23:39:05 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:39:05 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:39:29 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:39:29 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:39:29 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:39:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:39:29 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:39:29 --> Fetching All Leave details
+INFO - 2020-05-21 23:39:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:39:29 --> Fetching Category details
+INFO - 2020-05-21 23:39:29 --> Fetching Sections details
+INFO - 2020-05-21 23:39:29 --> Fetching Sections details
+INFO - 2020-05-21 23:39:33 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:39:33 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:40:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:40:16 --> Fetching All Leave details
+INFO - 2020-05-21 23:42:20 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:42:20 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:42:20 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:42:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:42:20 --> Fetching Category details
+INFO - 2020-05-21 23:42:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:42:20 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:42:20 --> Fetching Sections details
+INFO - 2020-05-21 23:42:20 --> Fetching All Leave details
+INFO - 2020-05-21 23:42:20 --> Fetching Sections details
+INFO - 2020-05-21 23:42:24 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:42:24 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:42:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:42:43 --> Fetching All Leave details
+INFO - 2020-05-21 23:42:52 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:42:52 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:43:03 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:43:03 --> Fetching All Leave details
+INFO - 2020-05-21 23:43:13 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:43:13 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:43:31 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:43:31 --> Fetching All Leave details
+INFO - 2020-05-21 23:44:08 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:44:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:44:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:44:08 --> Fetching Sections details
+INFO - 2020-05-21 23:44:08 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:44:08 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:44:08 --> Fetching Category details
+INFO - 2020-05-21 23:44:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:44:08 --> Fetching All Leave details
+INFO - 2020-05-21 23:44:08 --> Fetching Sections details
+INFO - 2020-05-21 23:44:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:44:12 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:45:11 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:45:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:45:11 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:45:11 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:45:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:45:11 --> Fetching All Leave details
+INFO - 2020-05-21 23:45:11 --> Fetching Category details
+INFO - 2020-05-21 23:45:11 --> Fetching Sections details
+INFO - 2020-05-21 23:45:11 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:45:11 --> Fetching Sections details
+INFO - 2020-05-21 23:49:15 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-05-21 23:49:15 --> Fetching Boards details
+INFO - 2020-05-21 23:49:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:49:26 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:49:26 --> Fetching Sections details
+INFO - 2020-05-21 23:49:26 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:49:26 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:49:26 --> Fetching All Leave details
+INFO - 2020-05-21 23:49:26 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:49:26 --> Fetching Category details
+INFO - 2020-05-21 23:49:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:49:26 --> Fetching Sections details
+INFO - 2020-05-21 23:59:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:59:41 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-21 23:59:41 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-05-21 23:59:41 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-21 23:59:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-21 23:59:41 --> Fetching FeeMaster details
+INFO - 2020-05-21 23:59:41 --> Fetching Category details
+INFO - 2020-05-21 23:59:41 --> Fetching All Leave details
+INFO - 2020-05-21 23:59:41 --> Fetching Sections details
+INFO - 2020-05-21 23:59:41 --> Fetching Sections details

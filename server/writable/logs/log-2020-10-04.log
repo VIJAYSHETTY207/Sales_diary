@@ -1,0 +1,500 @@
+INFO - 2020-10-04 03:45:54 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 03:45:54 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 03:45:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 03:45:54 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 03:45:54 --> Fetching Circular Details details
+ERROR - 2020-10-04 03:45:54 --> Unknown column 't1.id_section' in 'field list'
+ERROR - 2020-10-04 03:45:54 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 03:45:54 --> Fetching Exam Details details
+INFO - 2020-10-04 03:46:05 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 03:46:05 --> Fetching Exam Details details
+INFO - 2020-10-04 03:46:05 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 03:46:05 --> Fetching Exam Details details
+INFO - 2020-10-04 03:46:06 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 03:46:06 --> Fetching Exam Details details
+INFO - 2020-10-04 03:47:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 03:47:28 --> Fetching All User details
+INFO - 2020-10-04 03:49:48 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 03:49:48 --> Fetching Exam Details details
+INFO - 2020-10-04 03:51:04 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 03:51:04 --> Fetching Exam Details details
+INFO - 2020-10-04 03:56:24 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 03:56:24 --> Fetching Exam Details details
+INFO - 2020-10-04 03:57:51 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 03:57:51 --> Fetching Exam Details details
+INFO - 2020-10-04 03:59:06 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 03:59:06 --> Fetching Exam Details details
+INFO - 2020-10-04 04:20:35 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 04:21:40 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 04:24:22 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 04:40:15 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 06:01:32 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 06:03:30 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 06:03:30 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 06:11:26 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 06:11:26 --> Fetching Exam Details details
+INFO - 2020-10-04 06:33:21 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 06:33:21 --> Fetching Exam Details details
+INFO - 2020-10-04 06:33:51 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 06:33:51 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 06:33:54 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 06:33:54 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 06:35:04 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 06:35:04 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 06:35:04 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 06:35:04 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 06:35:04 --> Fetching Exam Details details
+INFO - 2020-10-04 06:35:04 --> Fetching Circular Details details
+ERROR - 2020-10-04 06:35:04 --> Unknown column 't1.id_subject' in 'field list'
+ERROR - 2020-10-04 06:35:04 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-04 06:35:13 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 06:35:13 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 06:48:00 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 06:48:00 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 06:48:00 --> Controller "App\Controllers\ExamDetails" loaded.
+ERROR - 2020-10-04 06:48:00 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-04 06:48:00 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 06:48:00 --> Fetching Circular Details details
+INFO - 2020-10-04 06:48:00 --> Fetching Exam Details details
+ERROR - 2020-10-04 06:48:00 --> Unknown column 't1.exam_date' in 'field list'
+INFO - 2020-10-04 06:48:10 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 06:48:10 --> Unknown column 't1.exam_date' in 'field list'
+INFO - 2020-10-04 06:50:37 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 06:50:37 --> Fetching Exam Details details
+INFO - 2020-10-04 06:50:44 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 06:50:44 --> Controller "App\Controllers\ExamDetails" loaded.
+ERROR - 2020-10-04 06:50:44 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-04 06:50:44 --> Fetching Circular Details details
+INFO - 2020-10-04 06:50:44 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 06:50:44 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 06:50:44 --> Fetching Exam Details details
+ERROR - 2020-10-04 06:50:44 --> Unknown column 't1.exam_date' in 'field list'
+INFO - 2020-10-04 06:50:51 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 06:50:51 --> Unknown column 't1.exam_date' in 'field list'
+INFO - 2020-10-04 07:29:24 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-10-04 07:29:27 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-10-04 07:29:28 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-04 07:29:32 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-10-04 07:29:33 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-10-04 07:29:35 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 07:29:38 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-04 07:29:38 --> Fetching All Leave details
+INFO - 2020-10-04 07:29:41 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-10-04 07:29:45 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-10-04 07:29:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-04 07:29:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-04 07:29:51 --> Fetching Sections details
+INFO - 2020-10-04 07:29:54 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-10-04 07:30:01 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-04 07:30:04 --> Controller "App\Controllers\LeaveTypes" loaded.
+INFO - 2020-10-04 07:30:04 --> Fetching LeaveTypes details
+INFO - 2020-10-04 07:30:07 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-04 07:30:11 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-04 07:30:14 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-10-04 07:30:20 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-10-04 07:30:20 --> Fetching FeesConfigs details
+INFO - 2020-10-04 07:30:24 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-10-04 07:30:27 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-10-04 07:30:30 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-10-04 07:30:36 --> Controller "App\Controllers\Staffs" loaded.
+ERROR - 2020-10-04 07:30:36 --> Creating default object from empty value
+INFO - 2020-10-04 07:30:43 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-10-04 07:30:46 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-10-04 07:30:46 --> Fetching MessageGroups details
+INFO - 2020-10-04 07:30:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 07:30:53 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-10-04 07:30:59 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-10-04 07:30:59 --> Fetching vendor details
+INFO - 2020-10-04 07:31:02 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-04 07:31:06 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-10-04 07:31:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-04 07:31:12 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-10-04 07:31:22 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-04 07:31:22 --> Fetching SubjectMasters details
+INFO - 2020-10-04 07:31:25 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 07:31:28 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-10-04 07:31:38 --> Controller "App\Controllers\RouteMasters" loaded.
+ERROR - 2020-10-04 07:31:38 --> Table 'institute.bus_route_master' doesn't exist
+INFO - 2020-10-04 07:31:41 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-04 07:31:45 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-04 07:31:45 --> Fetching Subjects details
+INFO - 2020-10-04 07:31:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-04 07:31:51 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-10-04 07:31:54 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-10-04 07:31:58 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-04 07:31:58 --> Fetching SubjectMasters details
+INFO - 2020-10-04 07:32:10 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-10-04 07:32:10 --> Fetching Feedback details
+INFO - 2020-10-04 07:32:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-04 07:32:19 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-10-04 07:32:22 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-10-04 07:32:25 --> Controller "App\Controllers\Students" loaded.
+ERROR - 2020-10-04 07:32:25 --> Creating default object from empty value
+INFO - 2020-10-04 07:32:28 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 07:32:31 --> Controller "App\Controllers\CSTR" loaded.
+INFO - 2020-10-04 07:32:31 --> Fetching CSTR Dashboard details
+INFO - 2020-10-04 07:32:33 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 07:32:37 --> Controller "App\Controllers\MenuRoleMappings" loaded.
+INFO - 2020-10-04 07:32:37 --> Fetching MenuMappind details
+INFO - 2020-10-04 07:32:48 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-04 07:32:48 --> Fetching Subjects details
+INFO - 2020-10-04 07:32:51 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-10-04 07:32:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-10-04 07:33:00 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-10-04 07:33:03 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-10-04 07:33:05 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-10-04 07:33:11 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-10-04 07:33:11 --> Fetching GroupMembers details
+INFO - 2020-10-04 07:33:16 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-10-04 07:33:16 --> Fetching vendor heading details
+INFO - 2020-10-04 07:33:20 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-10-04 07:33:23 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-10-04 07:33:26 --> Controller "App\Controllers\LeaveTypes" loaded.
+INFO - 2020-10-04 07:33:33 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-10-04 07:33:33 --> Fetching All Leave details
+INFO - 2020-10-04 07:33:38 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 07:33:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 07:33:43 --> Controller "App\Controllers\LeaveTypes" loaded.
+INFO - 2020-10-04 07:33:48 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 07:33:55 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-10-04 07:34:01 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-10-04 07:34:03 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-10-04 07:34:08 --> Controller "App\Controllers\StudentRouteMappings" loaded.
+ERROR - 2020-10-04 07:34:08 --> Table 'institute.bus_route_master' doesn't exist
+INFO - 2020-10-04 07:34:13 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-10-04 07:34:13 --> Fetching FeeMaster details
+INFO - 2020-10-04 07:34:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 07:34:26 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 07:34:28 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-10-04 07:34:28 --> Fetching Dashboard details
+INFO - 2020-10-04 07:34:33 --> Controller "App\Controllers\Standards" loaded.
+CRITICAL - 2020-10-04 07:34:36 --> syntax error, unexpected '$insert_fee' (T_VARIABLE)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('cron/insert_led...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('cron/insert_led...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-10-04 07:34:40 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-10-04 07:34:43 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-04 07:34:53 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-10-04 07:34:56 --> Controller "App\Controllers\RouteMasters" loaded.
+INFO - 2020-10-04 07:34:58 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-10-04 07:35:05 --> Controller "App\Controllers\SubjectStandards" loaded.
+ERROR - 2020-10-04 07:35:05 --> array_flip() expects parameter 1 to be array, null given
+INFO - 2020-10-04 07:35:10 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-04 07:35:13 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-10-04 07:35:16 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-10-04 07:35:18 --> Controller "App\Controllers\RouteMasters" loaded.
+INFO - 2020-10-04 07:35:21 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-10-04 07:35:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 07:35:26 --> Controller "App\Controllers\RouteMasters" loaded.
+INFO - 2020-10-04 07:35:28 --> Controller "App\Controllers\RouteMappings" loaded.
+INFO - 2020-10-04 07:35:31 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-10-04 07:35:33 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-10-04 07:35:33 --> Fetching MessageCenter details
+INFO - 2020-10-04 07:35:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-04 07:35:40 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-10-04 07:35:45 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-04 07:35:45 --> Fetching Subjects details
+INFO - 2020-10-04 07:35:48 --> Controller "App\Controllers\RouteMappings" loaded.
+INFO - 2020-10-04 07:35:53 --> Controller "App\Controllers\StudentRouteMappings" loaded.
+INFO - 2020-10-04 07:35:56 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-04 07:35:56 --> Fetching SubjectMasters details
+INFO - 2020-10-04 07:36:00 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-10-04 07:36:00 --> Fetching Leave details with Id
+INFO - 2020-10-04 07:36:03 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-10-04 07:36:05 --> Controller "App\Controllers\MenuRoleMappings" loaded.
+INFO - 2020-10-04 07:36:08 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-04 07:36:11 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-10-04 07:36:13 --> Controller "App\Controllers\MenuRoleMappings" loaded.
+INFO - 2020-10-04 07:36:15 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-10-04 07:36:18 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-04 07:36:20 --> Controller "App\Controllers\MenuRoleMappings" loaded.
+INFO - 2020-10-04 07:36:23 --> Controller "App\Controllers\RouteMappings" loaded.
+INFO - 2020-10-04 07:36:25 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-10-04 07:36:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 07:36:35 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-10-04 07:36:35 --> Fetching FeeDashboardDetails details
+INFO - 2020-10-04 07:36:45 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-04 07:36:45 --> Fetching SubjectStandards details
+INFO - 2020-10-04 07:36:53 --> Controller "App\Controllers\RouteMappings" loaded.
+ERROR - 2020-10-04 07:36:53 --> Table 'institute.bus_route_master' doesn't exist
+INFO - 2020-10-04 07:36:56 --> Controller "App\Controllers\StudentRouteMappings" loaded.
+INFO - 2020-10-04 07:36:58 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-10-04 07:37:00 --> Controller "App\Controllers\StudentRouteMappings" loaded.
+INFO - 2020-10-04 07:37:03 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-10-04 07:37:03 --> Fetching All Leave details
+INFO - 2020-10-04 07:37:06 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-10-04 07:37:06 --> Fetching Feedbacks Details details
+INFO - 2020-10-04 07:37:08 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-10-04 07:37:08 --> Fetching All Leave details
+INFO - 2020-10-04 07:37:11 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-10-04 07:37:13 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-10-04 07:37:13 --> Fetching FeeMasterStudent details
+INFO - 2020-10-04 07:37:20 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-10-04 07:37:20 --> Fetching All Leave details
+INFO - 2020-10-04 08:59:54 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 08:59:54 --> Fetching Exam Details details
+INFO - 2020-10-04 09:00:24 --> Controller "App\Controllers\ClassDetails" loaded.
+ERROR - 2020-10-04 09:00:24 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-04 09:00:24 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:00:24 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:00:24 --> Fetching Exam Details details
+INFO - 2020-10-04 09:00:24 --> Fetching Circular Details details
+INFO - 2020-10-04 09:00:24 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:00:24 --> Unknown column 't1.exam_date' in 'field list'
+INFO - 2020-10-04 09:00:39 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:00:39 --> Unknown column 't1.exam_date' in 'field list'
+INFO - 2020-10-04 09:05:40 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:05:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:05:40 --> Fetching Circular Details details
+ERROR - 2020-10-04 09:05:40 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-04 09:05:41 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:05:41 --> Fetching Exam Details details
+INFO - 2020-10-04 09:05:41 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:05:41 --> Unknown column 't1.exam_date' in 'field list'
+INFO - 2020-10-04 09:05:56 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:05:56 --> Unknown column 't1.exam_date' in 'field list'
+INFO - 2020-10-04 09:08:48 --> Controller "App\Controllers\ClassDetails" loaded.
+ERROR - 2020-10-04 09:08:48 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-04 09:08:48 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:08:48 --> Fetching Circular Details details
+INFO - 2020-10-04 09:08:48 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:08:49 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:08:49 --> Fetching Exam Details details
+ERROR - 2020-10-04 09:08:49 --> Unknown column 't2.id_section' in 'field list'
+INFO - 2020-10-04 09:09:01 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:09:01 --> Unknown column 't2.id_section' in 'field list'
+INFO - 2020-10-04 09:11:15 --> Controller "App\Controllers\ClassDetails" loaded.
+ERROR - 2020-10-04 09:11:15 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-04 09:11:16 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:11:16 --> Fetching Circular Details details
+INFO - 2020-10-04 09:11:16 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:11:16 --> Fetching Exam Details details
+INFO - 2020-10-04 09:11:16 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:11:16 --> Fetching Exam Details details
+INFO - 2020-10-04 09:11:40 --> Controller "App\Controllers\ClassDetails" loaded.
+ERROR - 2020-10-04 09:11:40 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-04 09:21:35 --> Controller "App\Controllers\ClassDetails" loaded.
+ERROR - 2020-10-04 09:21:35 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-04 09:21:35 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:21:35 --> Fetching Circular Details details
+INFO - 2020-10-04 09:21:35 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:21:35 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:21:35 --> Fetching Exam Details details
+INFO - 2020-10-04 09:21:35 --> Fetching Exam Details details
+INFO - 2020-10-04 09:21:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 09:21:49 --> Fetching All User details
+INFO - 2020-10-04 09:22:07 --> Controller "App\Controllers\ClassDetails" loaded.
+ERROR - 2020-10-04 09:22:07 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-04 09:32:38 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:32:38 --> Fetching Sections details
+INFO - 2020-10-04 09:32:38 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:32:38 --> Fetching Circular Details details
+INFO - 2020-10-04 09:32:38 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:32:38 --> Fetching Exam Details details
+INFO - 2020-10-04 09:32:38 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:32:38 --> Fetching Exam Details details
+INFO - 2020-10-04 09:33:11 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:33:11 --> Fetching Sections details
+INFO - 2020-10-04 09:33:14 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:33:14 --> Fetching Circular Details details
+INFO - 2020-10-04 09:33:14 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:33:14 --> Fetching Exam Details details
+INFO - 2020-10-04 09:33:14 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:33:14 --> Fetching Exam Details details
+INFO - 2020-10-04 09:33:24 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:33:24 --> Fetching Sections details
+INFO - 2020-10-04 09:33:42 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:33:42 --> Fetching Sections details
+INFO - 2020-10-04 09:34:22 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:34:22 --> Fetching Sections details
+INFO - 2020-10-04 09:37:03 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:37:03 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 09:37:15 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:37:15 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 09:37:18 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:37:18 --> Fetching Sections details
+INFO - 2020-10-04 09:37:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:37:43 --> Fetching Sections details
+INFO - 2020-10-04 09:37:43 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:37:43 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:37:43 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:37:43 --> Fetching Circular Details details
+INFO - 2020-10-04 09:37:43 --> Fetching Exam Details details
+INFO - 2020-10-04 09:37:43 --> Fetching Exam Details details
+INFO - 2020-10-04 09:37:53 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:37:53 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 09:38:05 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:38:05 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 09:38:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 09:38:18 --> Fetching All User details
+INFO - 2020-10-04 09:38:25 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:38:25 --> Fetching Sections details
+INFO - 2020-10-04 09:38:36 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:38:36 --> Fetching Exam Details details
+INFO - 2020-10-04 09:38:37 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:38:37 --> Fetching Exam Details details
+INFO - 2020-10-04 09:38:38 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:38:38 --> Fetching Exam Details details
+INFO - 2020-10-04 09:43:22 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:43:22 --> Fetching Circular Details details
+INFO - 2020-10-04 09:43:22 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:43:22 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:43:22 --> Fetching Sections details
+INFO - 2020-10-04 09:43:22 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:43:22 --> Fetching Exam Details details
+INFO - 2020-10-04 09:43:22 --> Fetching Exam Details details
+INFO - 2020-10-04 09:43:34 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 09:43:34 --> Fetching Sections details
+INFO - 2020-10-04 09:43:34 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 09:43:34 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:43:34 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 09:43:34 --> Fetching Circular Details details
+INFO - 2020-10-04 09:43:34 --> Fetching Exam Details details
+INFO - 2020-10-04 09:43:34 --> Fetching Exam Details details
+INFO - 2020-10-04 09:43:45 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:43:45 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 09:43:52 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 09:43:52 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 10:03:18 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 10:03:18 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:03:18 --> Fetching Sections details
+INFO - 2020-10-04 10:03:18 --> Fetching Circular Details details
+INFO - 2020-10-04 10:03:18 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:03:18 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 10:03:18 --> Fetching Exam Details details
+INFO - 2020-10-04 10:03:18 --> Fetching Exam Details details
+INFO - 2020-10-04 10:04:03 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 10:04:03 --> Fetching Sections details
+INFO - 2020-10-04 10:04:13 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:04:13 --> Fetching Circular Details details
+INFO - 2020-10-04 10:04:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 10:04:13 --> Fetching Sections details
+INFO - 2020-10-04 10:04:13 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:04:13 --> Fetching Exam Details details
+INFO - 2020-10-04 10:04:13 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 10:04:13 --> Fetching Exam Details details
+INFO - 2020-10-04 10:04:17 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 10:04:17 --> Fetching All User details
+INFO - 2020-10-04 10:04:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 10:04:27 --> Fetching All User details
+INFO - 2020-10-04 10:05:10 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-04 10:05:10 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 10:05:10 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-04 10:05:10 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-04 10:05:10 --> Fetching Academic year details
+INFO - 2020-10-04 10:05:10 --> Fetching Subjects details
+INFO - 2020-10-04 10:05:10 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 10:05:10 --> Fetching Assignments Details details
+INFO - 2020-10-04 10:05:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-04 10:05:10 --> Fetching Assignments details
+INFO - 2020-10-04 10:05:10 --> Fetching Boards details
+INFO - 2020-10-04 10:05:10 --> Fetching Sections details
+INFO - 2020-10-04 10:05:10 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 10:05:10 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 20:35:10 --> Fetching Assignments Mapped Id details
+INFO - 2020-10-04 10:05:10 --> Fetching Assignments Id details
+INFO - 2020-10-04 10:05:10 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 10:05:10 --> Fetching Assignments Grade details
+INFO - 2020-10-04 10:05:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-04 10:05:11 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-04 10:05:11 --> Fetching Assignments Details details
+INFO - 2020-10-04 10:05:11 --> Fetching Sections details
+INFO - 2020-10-04 10:05:38 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 10:05:38 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:05:38 --> Fetching Sections details
+INFO - 2020-10-04 10:05:38 --> Fetching Circular Details details
+INFO - 2020-10-04 10:05:38 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 10:05:38 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:05:38 --> Fetching Exam Details details
+INFO - 2020-10-04 10:05:38 --> Fetching Exam Details details
+INFO - 2020-10-04 10:05:44 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 10:05:44 --> Fetching All User details
+INFO - 2020-10-04 10:05:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 10:05:56 --> Fetching Sections details
+INFO - 2020-10-04 10:09:01 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 10:09:01 --> Fetching Exam Details details
+INFO - 2020-10-04 10:11:33 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 10:11:33 --> Fetching Exam Details details
+INFO - 2020-10-04 10:11:33 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 10:11:33 --> Fetching Exam Details details
+INFO - 2020-10-04 10:11:35 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 10:11:35 --> Fetching Exam Details details
+INFO - 2020-10-04 10:17:07 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 10:17:07 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 10:17:17 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 10:17:17 --> Unknown column 't1.id_subject' in 'field list'
+INFO - 2020-10-04 10:19:24 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 10:19:24 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:19:24 --> Fetching Sections details
+INFO - 2020-10-04 10:19:24 --> Fetching Circular Details details
+INFO - 2020-10-04 10:19:24 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:19:24 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 10:19:25 --> Fetching Exam Details details
+INFO - 2020-10-04 10:19:25 --> Fetching Exam Details details
+INFO - 2020-10-04 10:28:36 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 10:28:36 --> Fetching Sections details
+INFO - 2020-10-04 10:28:36 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:28:36 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:28:36 --> Fetching Circular Details details
+INFO - 2020-10-04 10:28:36 --> Fetching Exam Details details
+INFO - 2020-10-04 10:28:36 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 10:28:36 --> Fetching Exam Details details
+INFO - 2020-10-04 10:28:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 10:28:39 --> Fetching All User details
+INFO - 2020-10-04 10:28:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 10:28:46 --> Fetching All User details
+INFO - 2020-10-04 10:32:52 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 10:32:52 --> Fetching Exam Details details
+INFO - 2020-10-04 11:52:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-04 11:52:43 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-10-04 11:52:43 --> Fetching Boards details
+INFO - 2020-10-04 11:52:43 --> Fetching All Management details
+INFO - 2020-10-04 11:54:16 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-04 11:54:16 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 11:54:16 --> Fetching Boards details
+INFO - 2020-10-04 11:54:16 --> Fetching Sections details
+INFO - 2020-10-04 11:54:16 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-10-04 11:54:16 --> Fetching All Leave details
+INFO - 2020-10-04 11:54:16 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-04 11:54:16 --> Fetching Category details
+INFO - 2020-10-04 11:54:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-04 11:54:16 --> Fetching All Leave details
+INFO - 2020-10-04 21:40:14 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 21:40:14 --> Fetching Sections details
+INFO - 2020-10-04 21:40:14 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 21:40:14 --> Controller "App\Controllers\ExamsTimetable" loaded.
+INFO - 2020-10-04 21:40:14 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-04 21:40:14 --> Fetching Exam Details details
+INFO - 2020-10-04 21:40:14 --> Fetching Exam Details details
+INFO - 2020-10-04 21:40:14 --> Fetching Circular Details details
+INFO - 2020-10-04 21:42:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 21:42:01 --> Fetching All User details
+INFO - 2020-10-04 21:45:45 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 21:45:45 --> Unknown column 't2.id_section' in 'field list'
+INFO - 2020-10-04 21:45:46 --> Controller "App\Controllers\ExamsTimetable" loaded.
+ERROR - 2020-10-04 21:45:46 --> Unknown column 't2.id_section' in 'field list'
+INFO - 2020-10-04 21:55:12 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-04 21:55:12 --> Fetching All User details
+INFO - 2020-10-04 22:28:56 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-04 22:28:56 --> Fetching Boards details
+INFO - 2020-10-04 22:28:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 22:28:56 --> Fetching Sections details
+INFO - 2020-10-04 22:28:56 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-04 22:28:56 --> Fetching All Leave details
+INFO - 2020-10-04 22:28:56 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-10-04 22:28:56 --> Fetching All Leave details
+INFO - 2020-10-04 22:28:56 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-04 22:28:56 --> Fetching Category details
+INFO - 2020-10-04 22:29:40 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-04 22:29:40 --> Fetching Boards details
+INFO - 2020-10-04 22:29:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-04 22:29:40 --> Fetching Sections details
+INFO - 2020-10-04 22:29:40 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-10-04 22:29:40 --> Fetching All Leave details
+INFO - 2020-10-04 22:29:40 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-04 22:29:40 --> Fetching Category details
+INFO - 2020-10-04 22:29:40 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-04 22:29:40 --> Fetching All Leave details

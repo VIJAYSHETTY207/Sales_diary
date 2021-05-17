@@ -1,0 +1,266 @@
+INFO - 2020-04-26 06:05:00 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-26 06:05:00 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 06:05:00 --> Fetching SubjectMasters details
+INFO - 2020-04-26 06:05:00 --> Fetching Standards Section details
+INFO - 2020-04-26 06:07:03 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 06:07:03 --> Fetching SubjectMasters details
+INFO - 2020-04-26 06:07:07 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-26 06:07:07 --> Fetching Standards Section details
+INFO - 2020-04-26 06:07:07 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 06:07:07 --> Fetching SubjectMasters details
+INFO - 2020-04-26 06:40:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 06:40:17 --> Fetching Sections details
+INFO - 2020-04-26 13:12:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 13:12:14 --> Fetching Sections details
+INFO - 2020-04-26 13:12:14 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 13:12:14 --> Fetching SubjectMasters details
+INFO - 2020-04-26 13:12:14 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 13:12:14 --> Fetching Subjects details
+INFO - 2020-04-26 13:12:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+ERROR - 2020-04-26 13:12:41 --> [ERROR] Object of class stdClass could not be converted to string SYSTEMPATH/Database/Query.php:443
+INFO - 2020-04-26 13:15:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 13:15:35 --> Fetching Sections details
+INFO - 2020-04-26 13:15:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 13:15:35 --> Fetching SubjectMasters details
+INFO - 2020-04-26 13:15:35 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 13:15:35 --> Fetching Subjects details
+INFO - 2020-04-26 13:15:59 --> Controller "App\Controllers\SubjectMasters" loaded.
+ERROR - 2020-04-26 13:15:59 --> [ERROR] Object of class stdClass could not be converted to string SYSTEMPATH/Database/Query.php:443
+INFO - 2020-04-26 13:16:44 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-26 13:16:44 --> Argument 3 passed to log_message() must be of the type array, null given, called in /var/www/html/server_4/app/Controllers/SubjectMasters.php on line 53
+#0 /var/www/html/server_4/app/Controllers/SubjectMasters.php(53): log_message('info', 'Inserting Subje...', NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\SubjectMasters->insert_subjectmaster()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-26 13:19:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 13:19:20 --> Fetching Sections details
+INFO - 2020-04-26 13:19:20 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 13:19:20 --> Fetching Subjects details
+INFO - 2020-04-26 13:19:20 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 13:19:20 --> Fetching SubjectMasters details
+INFO - 2020-04-26 13:19:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+ERROR - 2020-04-26 13:19:35 --> [ERROR] Object of class stdClass could not be converted to string SYSTEMPATH/Database/Query.php:443
+INFO - 2020-04-26 13:21:16 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-26 13:21:16 --> Fetching Standards Section details
+INFO - 2020-04-26 13:21:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 13:21:16 --> Fetching SubjectMasters details
+INFO - 2020-04-26 13:21:37 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-26 13:21:37 --> Fetching Standards Section details
+INFO - 2020-04-26 13:21:37 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 13:21:37 --> Fetching SubjectMasters details
+INFO - 2020-04-26 20:55:35 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 20:55:35 --> Fetching Subjects details
+INFO - 2020-04-26 20:55:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 20:55:35 --> Fetching Sections details
+INFO - 2020-04-26 20:55:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 20:55:35 --> Fetching SubjectMasters details
+INFO - 2020-04-26 20:55:40 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 20:55:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 20:55:40 --> Fetching Subjects details
+INFO - 2020-04-26 20:55:40 --> Fetching Sections details
+INFO - 2020-04-26 20:55:40 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 20:55:40 --> Fetching SubjectMasters details
+INFO - 2020-04-26 20:58:38 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 20:58:38 --> Fetching Subjects details
+INFO - 2020-04-26 20:58:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 20:58:38 --> Fetching Sections details
+INFO - 2020-04-26 20:58:38 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 20:58:38 --> Fetching SubjectMasters details
+INFO - 2020-04-26 20:58:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+ERROR - 2020-04-26 20:58:53 --> [ERROR] Invalid argument supplied for foreach() APPPATH/Controllers/SubjectMasters.php:45
+INFO - 2020-04-26 20:59:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-26 20:59:27 --> Argument 3 passed to log_message() must be of the type array, null given, called in /var/www/html/server_4/app/Controllers/SubjectMasters.php on line 53
+#0 /var/www/html/server_4/app/Controllers/SubjectMasters.php(53): log_message('info', 'Inserting Subje...', NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\SubjectMasters->insert_subjectmaster()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-26 21:00:20 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 21:00:20 --> Fetching Subjects details
+INFO - 2020-04-26 21:00:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 21:00:20 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 21:00:20 --> Fetching SubjectMasters details
+INFO - 2020-04-26 21:00:20 --> Fetching Sections details
+INFO - 2020-04-26 21:03:11 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 21:03:11 --> Fetching Subjects details
+INFO - 2020-04-26 21:03:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 21:03:11 --> Fetching Sections details
+INFO - 2020-04-26 21:03:11 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 21:03:11 --> Fetching SubjectMasters details
+INFO - 2020-04-26 21:03:22 --> Controller "App\Controllers\SubjectMasters" loaded.
+ERROR - 2020-04-26 21:03:22 --> [ERROR] Invalid argument supplied for foreach() APPPATH/Controllers/SubjectMasters.php:45
+INFO - 2020-04-26 21:03:34 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-26 21:03:34 --> Argument 3 passed to log_message() must be of the type array, null given, called in /var/www/html/server_4/app/Controllers/SubjectMasters.php on line 53
+#0 /var/www/html/server_4/app/Controllers/SubjectMasters.php(53): log_message('info', 'Inserting Subje...', NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\SubjectMasters->insert_subjectmaster()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-26 21:04:46 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 21:04:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 21:04:46 --> Fetching Subjects details
+INFO - 2020-04-26 21:04:46 --> Fetching Sections details
+INFO - 2020-04-26 21:04:46 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 21:04:46 --> Fetching SubjectMasters details
+INFO - 2020-04-26 22:32:32 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 22:32:32 --> Fetching Subjects details
+INFO - 2020-04-26 22:32:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 22:32:32 --> Fetching Sections details
+INFO - 2020-04-26 22:32:32 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 22:32:32 --> Fetching SubjectMasters details
+INFO - 2020-04-26 22:38:29 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 22:38:29 --> Fetching Subjects details
+INFO - 2020-04-26 22:38:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 22:38:29 --> Fetching Sections details
+INFO - 2020-04-26 22:38:29 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 22:38:29 --> Fetching SubjectMasters details
+INFO - 2020-04-26 22:41:52 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 22:41:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 22:41:52 --> Fetching Subjects details
+INFO - 2020-04-26 22:41:52 --> Fetching Sections details
+INFO - 2020-04-26 22:41:52 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 22:41:52 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:25:47 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:25:47 --> Fetching Subjects details
+INFO - 2020-04-26 23:25:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:25:47 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:25:47 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:25:47 --> Fetching Sections details
+INFO - 2020-04-26 23:30:16 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:30:16 --> Fetching Subjects details
+INFO - 2020-04-26 23:30:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:30:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:30:16 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:30:16 --> Fetching Sections details
+INFO - 2020-04-26 23:32:08 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:32:08 --> Fetching Subjects details
+INFO - 2020-04-26 23:32:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:32:08 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:32:08 --> Fetching Sections details
+INFO - 2020-04-26 23:32:08 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:33:11 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:33:11 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:33:11 --> Fetching Subjects details
+INFO - 2020-04-26 23:33:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:33:11 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:33:11 --> Fetching Sections details
+INFO - 2020-04-26 23:38:23 --> Controller "App\Controllers\SubjectMasters" loaded.
+ERROR - 2020-04-26 23:38:23 --> [ERROR] Invalid argument supplied for foreach() APPPATH/Controllers/SubjectMasters.php:45
+INFO - 2020-04-26 23:40:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:40:53 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:44:52 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:44:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:44:52 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:44:52 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:44:52 --> Fetching Sections details
+INFO - 2020-04-26 23:44:52 --> Fetching Subjects details
+INFO - 2020-04-26 23:46:30 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:46:30 --> Fetching Subjects details
+INFO - 2020-04-26 23:46:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:46:30 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:46:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:46:30 --> Fetching Sections details
+INFO - 2020-04-26 23:46:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:46:30 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:47:11 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:11 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:11 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:11 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:12 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:12 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:12 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:12 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:13 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:13 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:13 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:13 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:15 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:15 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:16 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:16 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:16 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:16 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:16 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:16 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:16 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:16 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:17 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:17 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:17 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:17 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:18 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:18 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:18 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:18 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:18 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:18 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:18 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:18 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:18 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:18 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:18 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:26 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:26 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:27 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:27 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:27 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:27 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:27 --> Fetching Subjects details
+INFO - 2020-04-26 23:47:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:47:27 --> Deleting SubjectMasters details
+INFO - 2020-04-26 23:47:27 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:47:27 --> Fetching Subjects details
+INFO - 2020-04-26 23:50:19 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:50:19 --> Fetching Subjects details
+INFO - 2020-04-26 23:50:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:50:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:50:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:50:19 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:50:19 --> Fetching Sections details
+INFO - 2020-04-26 23:50:19 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:52:45 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:52:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:52:45 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:52:45 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:52:45 --> Fetching Subjects details
+INFO - 2020-04-26 23:52:45 --> Fetching Sections details
+INFO - 2020-04-26 23:52:45 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:52:45 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:55:32 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:55:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:55:32 --> Fetching Subjects details
+INFO - 2020-04-26 23:55:32 --> Fetching Sections details
+INFO - 2020-04-26 23:55:32 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:55:32 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:55:32 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:55:32 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:55:43 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:55:43 --> Fetching Subjects details
+INFO - 2020-04-26 23:56:43 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:56:43 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:56:43 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:56:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:56:43 --> Fetching Subjects details
+INFO - 2020-04-26 23:56:43 --> Fetching Sections details
+INFO - 2020-04-26 23:56:43 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:56:43 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:56:49 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:56:49 --> Fetching Subjects details
+INFO - 2020-04-26 23:58:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-26 23:58:52 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-26 23:58:52 --> Fetching SubjectMasters details
+INFO - 2020-04-26 23:58:52 --> Fetching Sections details
+INFO - 2020-04-26 23:59:24 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-04-26 23:59:24 --> Fetching Subjects details

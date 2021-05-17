@@ -1,0 +1,11 @@
+INFO - 2021-01-31 23:58:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-01-31 23:58:48 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2021-01-31 23:58:48 --> Too few arguments to function App\Models\Common_model::get_user_details(), 1 passed in /var/www/html/salesdiary.egenius.in/server/app/Controllers/Users.php on line 83 and exactly 2 expected
+#0 /var/www/html/salesdiary.egenius.in/server/app/Controllers/Users.php(83): App\Models\Common_model->get_user_details('100001')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-01-31 23:59:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-01-31 23:59:54 --> Controller "App\Controllers\Users" loaded.

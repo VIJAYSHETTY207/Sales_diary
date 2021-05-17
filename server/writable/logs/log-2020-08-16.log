@@ -1,0 +1,700 @@
+INFO - 2020-08-16 09:22:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-16 09:22:39 --> Fetching Users details
+INFO - 2020-08-16 09:22:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-16 09:22:43 --> Fetching Users details
+INFO - 2020-08-16 09:24:53 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:24:53 --> Fetching Dashboard details
+INFO - 2020-08-16 09:24:56 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:24:56 --> Fetching All Leave details
+INFO - 2020-08-16 09:24:56 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:24:56 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-16 09:24:56 --> Fetching All staff details
+INFO - 2020-08-16 09:25:00 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:25:00 --> Fetching Dashboard details
+INFO - 2020-08-16 09:25:01 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:25:01 --> Fetching All Leave details
+INFO - 2020-08-16 09:25:01 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-16 09:25:01 --> Fetching All staff details
+INFO - 2020-08-16 09:25:01 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:25:17 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:25:17 --> Fetching Dashboard details
+INFO - 2020-08-16 09:25:22 --> Controller "App\Controllers\Gallery" loaded.
+INFO - 2020-08-16 09:25:22 --> Fetching Gallery Details details
+INFO - 2020-08-16 09:25:22 --> Controller "App\Controllers\Gallery" loaded.
+INFO - 2020-08-16 09:25:22 --> Fetching gallery details
+INFO - 2020-08-16 09:25:32 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:25:32 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-08-16 09:25:32 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 09:25:32 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-08-16 09:25:32 --> Fetching Circular Details details
+INFO - 2020-08-16 09:25:32 --> Fetching Exam Details details
+INFO - 2020-08-16 09:25:32 --> Fetching All Leave details
+INFO - 2020-08-16 09:25:32 --> Fetching Sections details
+INFO - 2020-08-16 09:25:48 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:25:48 --> Fetching Dashboard details
+INFO - 2020-08-16 09:25:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:25:49 --> Fetching All Leave details
+INFO - 2020-08-16 09:25:49 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-16 09:25:49 --> Fetching All staff details
+INFO - 2020-08-16 09:25:49 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:29:13 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:29:13 --> Fetching Dashboard details
+INFO - 2020-08-16 09:30:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:30:35 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-16 09:30:35 --> Fetching All staff details
+INFO - 2020-08-16 09:30:35 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:30:35 --> Fetching All Leave details
+INFO - 2020-08-16 09:30:50 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:30:50 --> Fetching Dashboard details
+INFO - 2020-08-16 09:32:24 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:32:24 --> Fetching Dashboard details
+INFO - 2020-08-16 09:32:55 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:32:55 --> Fetching Dashboard details
+INFO - 2020-08-16 09:32:56 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:32:56 --> Fetching All Leave details
+INFO - 2020-08-16 09:32:56 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:32:56 --> Fetching Dashboard details
+INFO - 2020-08-16 09:32:56 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:37:55 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:37:55 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:37:55 --> Fetching All Leave details
+INFO - 2020-08-16 09:38:00 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:38:00 --> Fetching Dashboard details
+INFO - 2020-08-16 09:38:01 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:38:01 --> Fetching All Leave details
+INFO - 2020-08-16 09:38:01 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:38:20 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:38:20 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:38:29 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:38:29 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:38:36 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:38:36 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:38:36 --> Fetching All Leave details
+INFO - 2020-08-16 09:47:10 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:47:10 --> Fetching Dashboard details
+INFO - 2020-08-16 09:47:11 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:47:11 --> Fetching All Leave details
+INFO - 2020-08-16 09:47:11 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:47:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:47:33 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:47:33 --> Fetching All Leave details
+INFO - 2020-08-16 09:54:38 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:55:06 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:55:06 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:55:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:55:14 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:55:14 --> Fetching All Leave details
+INFO - 2020-08-16 09:55:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:55:22 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:55:22 --> Fetching All Leave details
+INFO - 2020-08-16 09:55:27 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:55:27 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:55:32 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:55:32 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:55:32 --> Fetching All Leave details
+INFO - 2020-08-16 09:55:43 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:58:17 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:58:17 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 09:58:17 --> Fetching All Leave details
+INFO - 2020-08-16 09:58:28 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 09:58:28 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 10:00:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 10:00:19 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 10:00:19 --> Fetching All Leave details
+INFO - 2020-08-16 10:00:26 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 10:00:26 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 10:01:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 10:01:16 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 10:01:16 --> Fetching All Leave details
+INFO - 2020-08-16 10:04:25 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 10:04:25 --> Fetching Dashboard details
+INFO - 2020-08-16 10:04:27 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 10:04:27 --> Fetching All Leave details
+INFO - 2020-08-16 10:04:27 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 10:17:13 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 10:17:13 --> Fetching Dashboard details
+INFO - 2020-08-16 10:17:54 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 10:17:54 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 10:17:54 --> Fetching All Leave details
+INFO - 2020-08-16 11:29:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:29:14 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:29:14 --> Fetching All Leave details
+INFO - 2020-08-16 11:31:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:31:28 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:31:28 --> Fetching All Leave details
+INFO - 2020-08-16 11:33:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:33:49 --> Fetching All Leave details
+INFO - 2020-08-16 11:33:49 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:36:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:36:22 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:36:22 --> Fetching All Leave details
+INFO - 2020-08-16 11:39:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:39:23 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:39:23 --> Fetching All Leave details
+INFO - 2020-08-16 11:39:40 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:39:40 --> Fetching All Leave details
+INFO - 2020-08-16 11:39:40 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:45:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:45:12 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:45:12 --> Fetching All Leave details
+INFO - 2020-08-16 11:45:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:45:49 --> Fetching All Leave details
+INFO - 2020-08-16 11:45:49 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:47:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:47:22 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:47:22 --> Fetching All Leave details
+INFO - 2020-08-16 11:52:06 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:52:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:52:06 --> Fetching All Leave details
+INFO - 2020-08-16 11:53:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:53:16 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:53:16 --> Fetching All Leave details
+INFO - 2020-08-16 11:54:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:54:37 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:54:37 --> Fetching All Leave details
+INFO - 2020-08-16 11:54:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:54:42 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:54:42 --> Fetching All Leave details
+INFO - 2020-08-16 11:55:27 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 11:55:27 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 11:55:27 --> Fetching All Leave details
+INFO - 2020-08-16 12:00:26 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:00:26 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:00:26 --> Fetching All Leave details
+INFO - 2020-08-16 12:02:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:02:30 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:02:30 --> Fetching All Leave details
+INFO - 2020-08-16 12:03:01 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:03:01 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:07:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:07:05 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:07:05 --> Fetching All Leave details
+INFO - 2020-08-16 12:07:50 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:07:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:07:50 --> Fetching All Leave details
+INFO - 2020-08-16 12:08:12 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:08:12 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:09:06 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:09:06 --> Fetching Dashboard details
+INFO - 2020-08-16 12:09:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:09:08 --> Fetching All Leave details
+INFO - 2020-08-16 12:09:08 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:09:38 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:09:38 --> Fetching Dashboard details
+INFO - 2020-08-16 12:09:39 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:09:39 --> Fetching All Leave details
+INFO - 2020-08-16 12:09:39 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:10:47 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:10:47 --> Fetching Dashboard details
+INFO - 2020-08-16 12:10:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:10:49 --> Fetching All Leave details
+INFO - 2020-08-16 12:10:49 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:13:15 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:13:15 --> Fetching Dashboard details
+INFO - 2020-08-16 12:13:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:13:16 --> Fetching All Leave details
+INFO - 2020-08-16 12:13:16 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:16:38 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:16:38 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:16:38 --> Fetching All Leave details
+INFO - 2020-08-16 12:17:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:17:16 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:17:16 --> Fetching All Leave details
+INFO - 2020-08-16 12:19:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:19:08 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:19:08 --> Fetching All Leave details
+INFO - 2020-08-16 12:21:10 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:21:10 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:21:10 --> Fetching All Leave details
+INFO - 2020-08-16 12:22:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:22:30 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:22:30 --> Fetching All Leave details
+INFO - 2020-08-16 12:24:40 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:24:40 --> Fetching Dashboard details
+INFO - 2020-08-16 12:24:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:24:42 --> Fetching All Leave details
+INFO - 2020-08-16 12:24:42 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:24:42 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-16 12:24:42 --> Fetching All staff details
+INFO - 2020-08-16 12:28:08 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:28:08 --> Fetching Dashboard details
+INFO - 2020-08-16 12:28:09 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 12:28:09 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:28:09 --> Fetching All Leave details
+INFO - 2020-08-16 12:37:50 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:37:50 --> Fetching Message details
+INFO - 2020-08-16 12:43:29 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 12:43:29 --> Fetching Dashboard details
+INFO - 2020-08-16 12:43:37 --> Controller "App\Controllers\Gallery" loaded.
+INFO - 2020-08-16 12:43:37 --> Fetching Gallery Details details
+INFO - 2020-08-16 12:43:37 --> Controller "App\Controllers\Gallery" loaded.
+INFO - 2020-08-16 12:43:37 --> Fetching gallery details
+INFO - 2020-08-16 12:43:42 --> Controller "App\Controllers\Gallery" loaded.
+INFO - 2020-08-16 12:43:42 --> Fetching galleryIamge details
+INFO - 2020-08-16 12:44:59 --> Controller "App\Controllers\Gallery" loaded.
+INFO - 2020-08-16 12:44:59 --> Fetching galleryIamge details
+INFO - 2020-08-16 13:29:24 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 13:29:24 --> Fetching Dashboard details
+INFO - 2020-08-16 13:29:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 13:29:25 --> Fetching All Leave details
+INFO - 2020-08-16 13:29:25 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 13:29:29 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 13:29:29 --> Fetching Sections details
+INFO - 2020-08-16 14:02:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:02:14 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:02:14 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:02:14 --> Fetching Message details
+INFO - 2020-08-16 14:02:14 --> Fetching All Leave details
+INFO - 2020-08-16 14:03:11 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:03:11 --> Fetching Dashboard details
+INFO - 2020-08-16 14:03:24 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:03:24 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:03:24 --> Fetching Message details
+INFO - 2020-08-16 14:03:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:03:24 --> Fetching All Leave details
+INFO - 2020-08-16 14:03:36 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:03:36 --> Fetching Sections details
+INFO - 2020-08-16 14:19:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:19:43 --> Fetching Sections details
+INFO - 2020-08-16 14:20:58 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:20:58 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:20:58 --> Fetching All Leave details
+INFO - 2020-08-16 14:20:58 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:20:58 --> Fetching Message details
+INFO - 2020-08-16 14:22:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:22:42 --> Fetching All Leave details
+INFO - 2020-08-16 14:22:42 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:22:42 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:22:42 --> Fetching Message details
+INFO - 2020-08-16 14:23:20 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:23:20 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:23:20 --> Fetching Message details
+INFO - 2020-08-16 14:23:20 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:23:20 --> Fetching All Leave details
+INFO - 2020-08-16 14:23:25 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:23:25 --> Fetching Sections details
+INFO - 2020-08-16 14:24:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:24:35 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:24:35 --> Fetching All Leave details
+INFO - 2020-08-16 14:24:35 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:24:35 --> Fetching Message details
+INFO - 2020-08-16 14:24:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:24:40 --> Fetching Sections details
+INFO - 2020-08-16 14:25:37 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:25:37 --> Fetching Message details
+INFO - 2020-08-16 14:25:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:25:37 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:25:37 --> Fetching All Leave details
+INFO - 2020-08-16 14:27:15 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:27:15 --> Fetching Dashboard details
+INFO - 2020-08-16 14:27:25 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:27:25 --> Fetching Dashboard details
+INFO - 2020-08-16 14:27:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:27:49 --> Fetching All Leave details
+INFO - 2020-08-16 14:27:49 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:27:49 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:27:49 --> Fetching Message details
+INFO - 2020-08-16 14:27:58 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:27:58 --> Fetching Dashboard details
+INFO - 2020-08-16 14:28:01 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:28:01 --> Fetching Dashboard details
+INFO - 2020-08-16 14:28:19 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:28:19 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:28:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:28:19 --> Fetching Message details
+INFO - 2020-08-16 14:28:19 --> Fetching All Leave details
+INFO - 2020-08-16 14:28:34 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:28:34 --> Fetching Sections details
+INFO - 2020-08-16 14:30:53 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:30:53 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:30:53 --> Fetching All Leave details
+INFO - 2020-08-16 14:30:53 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:30:53 --> Fetching Message details
+INFO - 2020-08-16 14:31:02 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:31:02 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:31:02 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:31:02 --> Fetching All Leave details
+INFO - 2020-08-16 14:31:02 --> Fetching Message details
+INFO - 2020-08-16 14:31:05 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:31:05 --> Fetching Sections details
+INFO - 2020-08-16 14:33:46 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:33:46 --> Fetching All Leave details
+INFO - 2020-08-16 14:33:46 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:33:46 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:33:46 --> Fetching Message details
+INFO - 2020-08-16 14:33:49 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:33:49 --> Fetching Sections details
+INFO - 2020-08-16 14:33:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:33:56 --> Fetching Sections details
+INFO - 2020-08-16 14:34:10 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:34:10 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:34:10 --> Fetching Message details
+INFO - 2020-08-16 14:34:15 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:34:15 --> Fetching Message details
+INFO - 2020-08-16 14:34:41 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:34:41 --> Fetching Dashboard details
+INFO - 2020-08-16 14:34:56 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:34:56 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-16 14:34:56 --> Fetching All Leave details
+INFO - 2020-08-16 14:34:56 --> Fetching All staff details
+INFO - 2020-08-16 14:34:56 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:38:58 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 14:38:58 --> Fetching Dashboard details
+INFO - 2020-08-16 14:39:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 14:39:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 14:39:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 14:39:46 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 14:39:46 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-16 14:39:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 14:39:46 --> Fetching Subjects details
+INFO - 2020-08-16 14:39:46 --> Fetching Assignments Details details
+INFO - 2020-08-16 14:39:46 --> Fetching Assignments details
+INFO - 2020-08-16 14:39:46 --> Fetching Boards details
+INFO - 2020-08-16 14:39:46 --> Fetching Sections details
+INFO - 2020-08-16 14:39:46 --> Fetching Assignments Id details
+INFO - 2020-08-16 14:39:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 14:39:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 14:39:46 --> Fetching Assignments Grade details
+INFO - 2020-08-16 14:39:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 14:39:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 14:39:46 --> Fetching Assignments Details details
+INFO - 2020-08-16 14:39:46 --> Fetching Sections details
+INFO - 2020-08-16 14:40:19 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 14:40:19 --> Fetching Assignments details
+INFO - 2020-08-16 14:40:19 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 14:40:19 --> Fetching Subjects details
+INFO - 2020-08-16 14:42:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 14:42:46 --> Fetching Sections details
+INFO - 2020-08-16 14:42:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 14:42:47 --> Fetching Sections details
+INFO - 2020-08-16 14:42:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 14:42:48 --> Fetching Sections details
+INFO - 2020-08-16 14:42:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 14:42:50 --> Fetching Sections details
+INFO - 2020-08-16 14:42:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 14:42:53 --> Fetching Sections details
+INFO - 2020-08-16 14:42:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 14:42:55 --> Fetching Sections details
+INFO - 2020-08-16 14:44:31 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:44:31 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:44:31 --> Fetching All Leave details
+INFO - 2020-08-16 14:44:31 --> Fetching Sections details
+INFO - 2020-08-16 14:44:31 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-08-16 14:44:31 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-08-16 14:44:31 --> Fetching Circular Details details
+INFO - 2020-08-16 14:44:31 --> Fetching Exam Details details
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-16 14:46:09 --> Fetching SubjectMasters details
+INFO - 2020-08-16 14:46:09 --> Fetching Boards details
+INFO - 2020-08-16 14:46:09 --> Fetching Sections details
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:46:09 --> Fetching Sections details
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 14:46:09 --> Fetching Academic year details
+INFO - 2020-08-16 14:46:09 --> Fetching All staff details
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-16 14:46:09 --> Fetching Academic year details
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-16 14:46:09 --> Fetching Subjects details
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 14:46:09 --> Fetching SubjectMasters details
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-16 14:46:09 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 14:46:09 --> Fetching class details
+INFO - 2020-08-16 14:46:09 --> Fetching Sections details
+INFO - 2020-08-16 14:46:09 --> Fetching Sections details
+INFO - 2020-08-16 14:46:10 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 14:46:10 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 14:46:10 --> Fetching Subjects details
+INFO - 2020-08-16 14:46:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 14:46:10 --> Fetching Assignments Details details
+INFO - 2020-08-16 14:46:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 14:46:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 14:46:10 --> Fetching Permission details
+INFO - 2020-08-16 14:46:10 --> Fetching Roles details
+INFO - 2020-08-16 14:48:51 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 14:48:51 --> Fetching All Leave details
+INFO - 2020-08-16 14:49:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 14:49:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 14:49:00 --> Fetching Roles details
+INFO - 2020-08-16 14:49:00 --> Fetching Assignments Details details
+INFO - 2020-08-16 14:49:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 14:49:00 --> Fetching Permission details
+INFO - 2020-08-16 22:34:16 --> Controller "App\Controllers\Gallery" loaded.
+INFO - 2020-08-16 22:34:16 --> Controller "App\Controllers\Gallery" loaded.
+INFO - 2020-08-16 22:34:16 --> Fetching gallery details
+INFO - 2020-08-16 22:34:16 --> Fetching Gallery Details details
+INFO - 2020-08-16 22:34:23 --> Controller "App\Controllers\Gallery" loaded.
+INFO - 2020-08-16 22:34:23 --> Fetching galleryIamge details
+INFO - 2020-08-16 22:34:32 --> Controller "App\Controllers\Gallery" loaded.
+INFO - 2020-08-16 22:34:32 --> Fetching galleryIamge details
+INFO - 2020-08-16 22:35:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 22:35:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 22:35:19 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-08-16 22:35:19 --> Fetching Circular Details details
+INFO - 2020-08-16 22:35:19 --> Fetching All Leave details
+INFO - 2020-08-16 22:35:19 --> Fetching Sections details
+INFO - 2020-08-16 22:35:19 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-08-16 22:35:19 --> Fetching Exam Details details
+INFO - 2020-08-16 23:07:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:07:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 23:07:43 --> Fetching All Leave details
+INFO - 2020-08-16 23:07:43 --> Fetching Sections details
+INFO - 2020-08-16 23:07:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-16 23:07:52 --> Fetching Users details
+INFO - 2020-08-16 23:07:58 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-16 23:07:58 --> Fetching Users details
+INFO - 2020-08-16 23:08:15 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 23:08:15 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 23:08:15 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-08-16 23:08:15 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-08-16 23:08:15 --> Fetching Circular Details details
+INFO - 2020-08-16 23:08:15 --> Fetching Exam Details details
+INFO - 2020-08-16 23:08:15 --> Fetching Sections details
+INFO - 2020-08-16 23:08:15 --> Fetching All Leave details
+INFO - 2020-08-16 23:09:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:09:40 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 23:09:40 --> Fetching All Leave details
+INFO - 2020-08-16 23:09:40 --> Fetching Sections details
+INFO - 2020-08-16 23:10:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:10:04 --> Fetching Sections details
+INFO - 2020-08-16 23:10:04 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 23:10:04 --> Fetching All Leave details
+INFO - 2020-08-16 23:13:59 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-16 23:13:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:13:59 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 23:13:59 --> Fetching Boards details
+INFO - 2020-08-16 23:13:59 --> Fetching Subjects details
+INFO - 2020-08-16 23:13:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:13:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:13:59 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:13:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:13:59 --> Fetching Assignments Id details
+INFO - 2020-08-16 23:13:59 --> Fetching Assignments details
+INFO - 2020-08-16 23:13:59 --> Fetching Sections details
+INFO - 2020-08-16 23:13:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:13:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:13:59 --> Fetching Assignments Grade details
+INFO - 2020-08-16 23:13:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:13:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:13:59 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:13:59 --> Fetching Sections details
+INFO - 2020-08-16 23:14:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:14:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-16 23:14:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:14:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:14:08 --> Fetching Boards details
+INFO - 2020-08-16 23:14:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:14:08 --> Fetching Sections details
+INFO - 2020-08-16 23:14:08 --> Fetching Assignments details
+INFO - 2020-08-16 23:14:08 --> Fetching Assignments Id details
+INFO - 2020-08-16 23:14:08 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:14:08 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 23:14:08 --> Fetching Subjects details
+INFO - 2020-08-16 23:14:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:14:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:14:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:14:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:14:08 --> Fetching Assignments Grade details
+INFO - 2020-08-16 23:14:08 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:14:08 --> Fetching Sections details
+INFO - 2020-08-16 23:24:12 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 23:24:12 --> Fetching Sections details
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-16 23:28:07 --> Fetching Boards details
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:28:07 --> Fetching Sections details
+INFO - 2020-08-16 23:28:07 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-16 23:28:07 --> Fetching Academic year details
+INFO - 2020-08-16 23:28:07 --> Fetching Assignments details
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 23:28:07 --> Fetching Subjects details
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:28:07 --> Fetching Assignments Id details
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:28:07 --> Fetching Assignments Grade details
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:28:07 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:28:07 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:28:07 --> Fetching Sections details
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 23:28:34 --> Fetching Boards details
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 23:28:34 --> Fetching Sections details
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-16 23:28:34 --> Fetching Sections details
+INFO - 2020-08-16 23:28:34 --> Fetching SubjectMasters details
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-16 23:28:34 --> Fetching Academic year details
+INFO - 2020-08-16 23:28:34 --> Fetching All staff details
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-16 23:28:34 --> Fetching Academic year details
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-16 23:28:34 --> Fetching Subjects details
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 23:28:34 --> Fetching class details
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 23:28:34 --> Fetching SubjectMasters details
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 23:28:34 --> Fetching Sections details
+INFO - 2020-08-16 23:28:34 --> Fetching Sections details
+INFO - 2020-08-16 23:28:34 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 23:28:34 --> Fetching Subjects details
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-16 23:38:35 --> Fetching Academic year details
+INFO - 2020-08-16 23:38:35 --> Fetching Assignments details
+INFO - 2020-08-16 23:38:35 --> Fetching Boards details
+INFO - 2020-08-16 23:38:35 --> Fetching Subjects details
+INFO - 2020-08-16 23:38:35 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:38:35 --> Fetching Sections details
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:38:35 --> Fetching Assignments Id details
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:38:35 --> Fetching Assignments Grade details
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:38:35 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:38:35 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:38:35 --> Fetching Sections details
+INFO - 2020-08-16 23:39:56 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-16 23:39:57 --> Fetching Boards details
+INFO - 2020-08-16 23:39:57 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:39:57 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 23:39:57 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:39:57 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:39:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:39:57 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-16 23:39:57 --> Fetching Assignments details
+INFO - 2020-08-16 23:39:57 --> Fetching Subjects details
+INFO - 2020-08-16 23:39:57 --> Fetching Academic year details
+INFO - 2020-08-16 23:39:57 --> Fetching Sections details
+INFO - 2020-08-16 23:39:57 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:39:57 --> Fetching Assignments Id details
+INFO - 2020-08-16 23:39:57 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:39:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:39:57 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:39:57 --> Fetching Sections details
+INFO - 2020-08-16 23:39:57 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:39:57 --> Fetching Assignments Grade details
+INFO - 2020-08-16 23:39:57 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-16 23:40:36 --> Fetching Subjects details
+INFO - 2020-08-16 23:40:36 --> Fetching Boards details
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:40:36 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:40:36 --> Fetching Academic year details
+INFO - 2020-08-16 23:40:36 --> Fetching Sections details
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:40:36 --> Fetching Assignments details
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:40:36 --> Fetching Assignments Id details
+INFO - 2020-08-16 23:40:36 --> Fetching Assignments Grade details
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:40:36 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:40:36 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:40:36 --> Fetching Sections details
+INFO - 2020-08-16 23:43:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-16 23:43:17 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 23:43:17 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-16 23:43:17 --> Fetching All Leave details
+INFO - 2020-08-16 23:43:17 --> Fetching Assignments details
+INFO - 2020-08-16 23:43:17 --> Fetching Sections details
+INFO - 2020-08-16 23:43:32 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 23:43:32 --> Fetching All Leave details
+INFO - 2020-08-16 23:43:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:43:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:43:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:43:42 --> Fetching Roles details
+INFO - 2020-08-16 23:43:42 --> Fetching Permission details
+INFO - 2020-08-16 23:43:42 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:44:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:44:04 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:44:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:44:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:44:04 --> Fetching Permission details
+INFO - 2020-08-16 23:44:04 --> Fetching Roles details
+INFO - 2020-08-16 23:44:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:44:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:44:09 --> Fetching Roles details
+INFO - 2020-08-16 23:44:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:44:09 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:44:09 --> Fetching Permission details
+INFO - 2020-08-16 23:44:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:44:12 --> Fetching Permission details
+INFO - 2020-08-16 23:45:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:45:13 --> Fetching Roles details
+INFO - 2020-08-16 23:45:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:45:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-16 23:45:13 --> Fetching Permission details
+INFO - 2020-08-16 23:45:13 --> Fetching Assignments Details details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching Boards details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching SubjectMasters details
+INFO - 2020-08-16 23:45:15 --> Fetching Sections details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching Sections details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching All staff details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching Academic year details
+INFO - 2020-08-16 23:45:15 --> Fetching Academic year details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching Subjects details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching class details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching Sections details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching Sections details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching SubjectMasters details
+INFO - 2020-08-16 23:45:15 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-16 23:45:15 --> Fetching Subjects details
+INFO - 2020-08-16 23:59:17 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-08-16 23:59:17 --> Fetching Dashboard details
+INFO - 2020-08-16 23:59:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-16 23:59:19 --> Fetching All Leave details
+INFO - 2020-08-16 23:59:19 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-16 23:59:19 --> Fetching All staff details
+INFO - 2020-08-16 23:59:19 --> Controller "App\Controllers\Attendance" loaded.

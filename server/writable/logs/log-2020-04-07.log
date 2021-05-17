@@ -1,0 +1,94 @@
+INFO - 2020-04-07 07:16:24 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-07 07:16:26 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\egenius_api_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\egenius_api_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\egenius_api_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `UID`\nFR...', Array, false)
+#3 C:\xampp\htdocs\egenius_api_4\system\Model.php(387): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\egenius_api_4\system\Model.php(419): CodeIgniter\Model->find()
+#5 C:\xampp\htdocs\egenius_api_4\app\Controllers\Users.php(23): CodeIgniter\Model->findColumn('UID')
+#6 C:\xampp\htdocs\egenius_api_4\system\CodeIgniter.php(910): App\Controllers\Users->get_data()
+#7 C:\xampp\htdocs\egenius_api_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#8 C:\xampp\htdocs\egenius_api_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\egenius_api_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-07 07:21:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-07 07:21:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-07 07:22:04 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-07 07:22:05 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-07 07:22:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-07 07:22:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-07 07:22:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-07 07:22:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-07 08:10:17 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-07 08:10:18 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\Circulars.php(23): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-07 08:10:43 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-07 08:10:43 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\Circulars.php(23): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-07 08:11:29 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-07 08:14:14 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-07 08:17:03 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-07 08:17:22 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-07 08:21:03 --> Controller "App\Controllers\Rooms" loaded.
+ERROR - 2020-04-07 08:21:03 --> Some variable did not contain a value.
+INFO - 2020-04-07 08:23:43 --> Controller "App\Controllers\Rooms" loaded.
+DEBUG - 2020-04-07 08:23:44 --> debug
+INFO - 2020-04-07 08:23:44 --> info
+ERROR - 2020-04-07 08:23:44 --> error
+INFO - 2020-04-07 08:25:20 --> Controller "App\Controllers\Rooms" loaded.
+DEBUG - 2020-04-07 08:25:20 --> debug
+INFO - 2020-04-07 08:25:20 --> info
+ERROR - 2020-04-07 08:25:20 --> error
+INFO - 2020-04-07 08:25:31 --> Controller "App\Controllers\Rooms" loaded.
+DEBUG - 2020-04-07 08:25:31 --> debug
+INFO - 2020-04-07 08:25:31 --> info
+ERROR - 2020-04-07 08:25:31 --> error
+INFO - 2020-04-07 08:29:52 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-04-07 09:03:25 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-07 09:26:39 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-07 09:27:21 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-07 10:48:23 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-07 10:56:05 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-07 10:56:38 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-07 10:57:17 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-04-07 11:14:09 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-07 11:14:18 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-07 11:14:28 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-07 11:24:34 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-07 11:26:19 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-07 11:26:40 --> Controller "App\Controllers\GroupMembers" loaded.
+INFO - 2020-04-07 11:44:30 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-04-07 11:55:14 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-04-07 11:56:01 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-04-07 11:56:44 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-04-07 12:41:50 --> Controller "App\Controllers\MessageGroups" loaded.
+CRITICAL - 2020-04-07 12:41:54 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\MessageGroups.php(16): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\MessageGroups->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageGroups))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-07 12:42:25 --> Controller "App\Controllers\MessageGroups" loaded.

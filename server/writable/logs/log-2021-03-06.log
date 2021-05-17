@@ -1,0 +1,401 @@
+INFO - 2021-03-06 11:03:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:03:13 --> Fetching All User details
+INFO - 2021-03-06 11:04:00 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:04:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:04:00 --> Fetching All User details
+INFO - 2021-03-06 11:04:00 --> Fetching Dashboard details
+INFO - 2021-03-06 11:07:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:07:43 --> Fetching All User details
+INFO - 2021-03-06 11:07:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:07:43 --> Fetching All User details
+INFO - 2021-03-06 11:07:43 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:07:43 --> Fetching Dashboard details
+INFO - 2021-03-06 11:14:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:14:46 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:14:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:14:46 --> Fetching Dashboard details
+INFO - 2021-03-06 11:14:46 --> Fetching All User details
+INFO - 2021-03-06 11:14:46 --> Fetching All User details
+INFO - 2021-03-06 11:15:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:15:56 --> Fetching All User details
+INFO - 2021-03-06 11:15:56 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:15:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:15:56 --> Fetching All User details
+INFO - 2021-03-06 11:15:56 --> Fetching Dashboard details
+INFO - 2021-03-06 11:17:20 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:17:20 --> Fetching All User details
+INFO - 2021-03-06 11:17:20 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:17:20 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:17:20 --> Fetching Dashboard details
+INFO - 2021-03-06 11:17:20 --> Fetching All User details
+INFO - 2021-03-06 11:19:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:19:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:19:56 --> Fetching All User details
+INFO - 2021-03-06 11:19:56 --> Fetching All User details
+INFO - 2021-03-06 11:19:56 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:19:56 --> Fetching Dashboard details
+INFO - 2021-03-06 11:25:11 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:25:11 --> Fetching All User details
+INFO - 2021-03-06 11:25:11 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:25:11 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:25:11 --> Fetching All User details
+INFO - 2021-03-06 11:25:11 --> Fetching Dashboard details
+INFO - 2021-03-06 11:25:34 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-06 11:27:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:27:49 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:27:49 --> Fetching All User details
+INFO - 2021-03-06 11:27:49 --> Fetching Dashboard details
+INFO - 2021-03-06 11:27:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:27:49 --> Fetching All User details
+INFO - 2021-03-06 11:29:48 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-06 11:29:54 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-06 11:29:59 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-06 11:31:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:31:18 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:31:18 --> Fetching All User details
+INFO - 2021-03-06 11:31:18 --> Fetching Dashboard details
+INFO - 2021-03-06 11:31:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:31:18 --> Fetching All User details
+INFO - 2021-03-06 11:31:36 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-06 11:31:43 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-06 11:35:15 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:35:15 --> Fetching All User details
+INFO - 2021-03-06 11:35:15 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:35:15 --> Fetching All User details
+INFO - 2021-03-06 11:35:15 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:35:15 --> Fetching Dashboard details
+INFO - 2021-03-06 11:35:30 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-06 11:37:33 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-06 11:43:45 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 11:43:45 --> Fetching IIQA Details
+INFO - 2021-03-06 11:43:47 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:43:47 --> Fetching Dashboard details
+INFO - 2021-03-06 11:43:49 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 11:43:49 --> Fetching IIQA Details
+INFO - 2021-03-06 11:43:52 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 11:43:52 --> Fetching IIQA Details
+INFO - 2021-03-06 11:43:52 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 11:43:52 --> Fetching IIQA Details
+INFO - 2021-03-06 11:44:37 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 11:44:37 --> Fetching IIQA Details
+INFO - 2021-03-06 11:45:15 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 11:45:15 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 11:45:15 --> Fetching IIQA Details
+INFO - 2021-03-06 11:45:15 --> Fetching IIQA Details
+INFO - 2021-03-06 11:45:19 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 11:45:19 --> Fetching IIQA Details
+INFO - 2021-03-06 11:55:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:55:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 11:55:06 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 11:55:06 --> Fetching All User details
+INFO - 2021-03-06 11:55:06 --> Fetching Dashboard details
+INFO - 2021-03-06 11:55:06 --> Fetching All User details
+INFO - 2021-03-06 11:55:09 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 11:55:09 --> Fetching IIQA Details
+INFO - 2021-03-06 11:55:11 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 11:55:11 --> Fetching IIQA Details
+INFO - 2021-03-06 11:55:12 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 11:55:12 --> Fetching IIQA Details
+INFO - 2021-03-06 11:55:16 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 11:55:16 --> Fetching IIQA Details
+INFO - 2021-03-06 16:29:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 16:29:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 16:29:55 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 16:29:55 --> Fetching All User details
+INFO - 2021-03-06 16:29:55 --> Fetching All User details
+INFO - 2021-03-06 16:29:55 --> Fetching Dashboard details
+INFO - 2021-03-06 16:30:06 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:30:06 --> Fetching IIQA Details
+INFO - 2021-03-06 16:30:08 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 16:30:08 --> Fetching IIQA Details
+INFO - 2021-03-06 16:30:08 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:30:08 --> Fetching IIQA Details
+INFO - 2021-03-06 16:30:15 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:30:15 --> Fetching IIQA Details
+INFO - 2021-03-06 16:35:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 16:35:00 --> Fetching All User details
+INFO - 2021-03-06 16:38:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 16:38:36 --> Fetching All User details
+INFO - 2021-03-06 16:38:36 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 16:38:36 --> Fetching Dashboard details
+INFO - 2021-03-06 16:38:47 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:38:47 --> Fetching IIQA Details
+INFO - 2021-03-06 16:38:59 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 16:38:59 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:38:59 --> Fetching IIQA Details
+INFO - 2021-03-06 16:38:59 --> Fetching IIQA Details
+INFO - 2021-03-06 16:39:03 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:39:03 --> Fetching IIQA Details
+INFO - 2021-03-06 16:41:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 16:41:31 --> Fetching All User details
+INFO - 2021-03-06 16:41:35 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 16:41:35 --> Fetching All User details
+INFO - 2021-03-06 16:41:35 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 16:41:35 --> Fetching Dashboard details
+INFO - 2021-03-06 16:41:38 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:41:38 --> Fetching IIQA Details
+INFO - 2021-03-06 16:45:54 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 16:45:54 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:45:54 --> Fetching IIQA Details
+INFO - 2021-03-06 16:45:54 --> Fetching IIQA Details
+INFO - 2021-03-06 16:45:58 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:45:58 --> Fetching IIQA Details
+INFO - 2021-03-06 16:46:59 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 16:46:59 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 16:46:59 --> Fetching All User details
+INFO - 2021-03-06 16:46:59 --> Fetching All User details
+INFO - 2021-03-06 16:46:59 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 16:46:59 --> Fetching Dashboard details
+INFO - 2021-03-06 16:47:13 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:47:13 --> Fetching IIQA Details
+INFO - 2021-03-06 16:47:16 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:47:16 --> Fetching IIQA Details
+INFO - 2021-03-06 16:49:39 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 16:49:39 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:49:39 --> Fetching IIQA Details
+INFO - 2021-03-06 16:49:39 --> Fetching IIQA Details
+INFO - 2021-03-06 16:51:42 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:51:42 --> Fetching IIQA Details
+INFO - 2021-03-06 16:52:34 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:52:34 --> Fetching IIQA Details
+INFO - 2021-03-06 16:54:26 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 16:54:26 --> Fetching All User details
+INFO - 2021-03-06 16:54:26 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 16:54:26 --> Fetching Dashboard details
+INFO - 2021-03-06 16:54:26 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 16:54:26 --> Fetching All User details
+INFO - 2021-03-06 16:56:40 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:56:40 --> Fetching IIQA Details
+INFO - 2021-03-06 16:56:42 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 16:56:42 --> Fetching IIQA Details
+INFO - 2021-03-06 16:56:42 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:56:42 --> Fetching IIQA Details
+INFO - 2021-03-06 16:56:46 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 16:56:46 --> Fetching IIQA Details
+INFO - 2021-03-06 17:05:39 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:05:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:05:39 --> Fetching All User details
+INFO - 2021-03-06 17:05:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:05:39 --> Fetching All User details
+INFO - 2021-03-06 17:05:39 --> Fetching Dashboard details
+INFO - 2021-03-06 17:07:57 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:07:57 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:07:57 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:07:57 --> Fetching All User details
+INFO - 2021-03-06 17:07:57 --> Fetching Dashboard details
+INFO - 2021-03-06 17:07:57 --> Fetching All User details
+INFO - 2021-03-06 17:08:01 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:08:01 --> Fetching IIQA Details
+INFO - 2021-03-06 17:08:03 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 17:08:03 --> Fetching IIQA Details
+INFO - 2021-03-06 17:08:03 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:08:03 --> Fetching IIQA Details
+INFO - 2021-03-06 17:08:07 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:08:07 --> Fetching IIQA Details
+INFO - 2021-03-06 17:16:25 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:16:25 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:16:25 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:16:25 --> Fetching All User details
+INFO - 2021-03-06 17:16:25 --> Fetching Dashboard details
+INFO - 2021-03-06 17:16:25 --> Fetching All User details
+INFO - 2021-03-06 17:25:04 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:25:04 --> Fetching IIQA Details
+INFO - 2021-03-06 17:25:06 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 17:25:06 --> Fetching IIQA Details
+INFO - 2021-03-06 17:25:06 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:25:06 --> Fetching IIQA Details
+INFO - 2021-03-06 17:26:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:26:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:26:53 --> Fetching All User details
+INFO - 2021-03-06 17:26:53 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:26:53 --> Fetching All User details
+INFO - 2021-03-06 17:26:53 --> Fetching Dashboard details
+INFO - 2021-03-06 17:31:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:31:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:31:09 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:31:09 --> Fetching All User details
+INFO - 2021-03-06 17:31:09 --> Fetching All User details
+INFO - 2021-03-06 17:31:09 --> Fetching Dashboard details
+INFO - 2021-03-06 17:32:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:32:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:32:18 --> Fetching All User details
+INFO - 2021-03-06 17:32:18 --> Fetching All User details
+INFO - 2021-03-06 17:32:18 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:32:18 --> Fetching Dashboard details
+INFO - 2021-03-06 17:46:31 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:46:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:46:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:46:31 --> Fetching All User details
+INFO - 2021-03-06 17:46:31 --> Fetching Dashboard details
+INFO - 2021-03-06 17:46:31 --> Fetching All User details
+INFO - 2021-03-06 17:47:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:47:18 --> Fetching All User details
+INFO - 2021-03-06 17:47:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:47:18 --> Fetching All User details
+INFO - 2021-03-06 17:47:18 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:47:18 --> Fetching Dashboard details
+INFO - 2021-03-06 17:48:04 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:48:04 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:48:04 --> Fetching All User details
+INFO - 2021-03-06 17:48:04 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:48:04 --> Fetching Dashboard details
+INFO - 2021-03-06 17:48:04 --> Fetching All User details
+INFO - 2021-03-06 17:48:58 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:48:58 --> Fetching IIQA Details
+INFO - 2021-03-06 17:49:01 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 17:49:01 --> Fetching IIQA Details
+INFO - 2021-03-06 17:49:01 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:49:01 --> Fetching IIQA Details
+INFO - 2021-03-06 17:49:07 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:49:07 --> Fetching IIQA Details
+INFO - 2021-03-06 17:54:52 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:54:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:54:52 --> Fetching All User details
+INFO - 2021-03-06 17:54:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:54:52 --> Fetching Dashboard details
+INFO - 2021-03-06 17:54:52 --> Fetching All User details
+INFO - 2021-03-06 17:55:07 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:55:07 --> Fetching IIQA Details
+INFO - 2021-03-06 17:55:09 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 17:55:09 --> Fetching IIQA Details
+INFO - 2021-03-06 17:55:09 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:55:09 --> Fetching IIQA Details
+INFO - 2021-03-06 17:55:13 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:55:13 --> Fetching IIQA Details
+INFO - 2021-03-06 17:56:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:56:10 --> Fetching All User details
+INFO - 2021-03-06 17:56:10 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 17:56:10 --> Fetching Dashboard details
+INFO - 2021-03-06 17:56:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 17:56:10 --> Fetching All User details
+INFO - 2021-03-06 17:56:16 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:56:16 --> Fetching IIQA Details
+INFO - 2021-03-06 17:56:18 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 17:56:18 --> Fetching IIQA Details
+INFO - 2021-03-06 17:56:18 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:56:18 --> Fetching IIQA Details
+INFO - 2021-03-06 17:56:23 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:56:23 --> Fetching IIQA Details
+INFO - 2021-03-06 17:56:45 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:56:45 --> Fetching IIQA Details
+INFO - 2021-03-06 17:56:45 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:56:45 --> Fetching IIQA Details
+INFO - 2021-03-06 17:56:48 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:56:48 --> Fetching IIQA Details
+INFO - 2021-03-06 17:59:14 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:59:14 --> Fetching IIQA Details
+INFO - 2021-03-06 17:59:14 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:59:14 --> Fetching IIQA Details
+INFO - 2021-03-06 17:59:21 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 17:59:21 --> Fetching IIQA Details
+INFO - 2021-03-06 18:02:29 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:02:29 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:02:29 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:02:29 --> Fetching All User details
+INFO - 2021-03-06 18:02:29 --> Fetching All User details
+INFO - 2021-03-06 18:02:29 --> Fetching Dashboard details
+INFO - 2021-03-06 18:03:16 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:03:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:03:16 --> Fetching All User details
+INFO - 2021-03-06 18:03:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:03:16 --> Fetching Dashboard details
+INFO - 2021-03-06 18:03:16 --> Fetching All User details
+INFO - 2021-03-06 18:08:05 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:08:05 --> Fetching IIQA Details
+INFO - 2021-03-06 18:08:07 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 18:08:07 --> Fetching IIQA Details
+INFO - 2021-03-06 18:08:07 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:08:07 --> Fetching IIQA Details
+INFO - 2021-03-06 18:08:11 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:08:11 --> Fetching IIQA Details
+INFO - 2021-03-06 18:09:13 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:09:13 --> Fetching IIQA Details
+INFO - 2021-03-06 18:09:13 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:09:13 --> Fetching IIQA Details
+INFO - 2021-03-06 18:09:47 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:09:47 --> Fetching IIQA Details
+INFO - 2021-03-06 18:11:04 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:11:04 --> Fetching IIQA Details
+INFO - 2021-03-06 18:11:04 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:11:04 --> Fetching IIQA Details
+INFO - 2021-03-06 18:11:09 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:11:09 --> Fetching IIQA Details
+INFO - 2021-03-06 18:12:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:12:10 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:12:10 --> Fetching All User details
+INFO - 2021-03-06 18:12:10 --> Fetching Dashboard details
+INFO - 2021-03-06 18:12:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:12:10 --> Fetching All User details
+INFO - 2021-03-06 18:15:57 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:15:57 --> Fetching IIQA Details
+INFO - 2021-03-06 18:16:01 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-06 18:16:01 --> Fetching IIQA Details
+INFO - 2021-03-06 18:16:01 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:16:01 --> Fetching IIQA Details
+INFO - 2021-03-06 18:16:04 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-06 18:16:04 --> Fetching IIQA Details
+INFO - 2021-03-06 18:18:46 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:18:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:18:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:18:46 --> Fetching Dashboard details
+INFO - 2021-03-06 18:18:46 --> Fetching All User details
+INFO - 2021-03-06 18:18:46 --> Fetching All User details
+INFO - 2021-03-06 18:23:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:23:56 --> Fetching All User details
+INFO - 2021-03-06 18:23:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:23:56 --> Fetching All User details
+INFO - 2021-03-06 18:23:56 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:23:56 --> Fetching Dashboard details
+INFO - 2021-03-06 18:25:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:25:27 --> Fetching All User details
+INFO - 2021-03-06 18:25:27 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:25:27 --> Fetching Dashboard details
+INFO - 2021-03-06 18:25:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:25:28 --> Fetching All User details
+INFO - 2021-03-06 18:28:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:28:28 --> Fetching All User details
+INFO - 2021-03-06 18:28:28 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:28:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:28:28 --> Fetching Dashboard details
+INFO - 2021-03-06 18:28:28 --> Fetching All User details
+INFO - 2021-03-06 18:32:53 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:32:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:32:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:32:53 --> Fetching Dashboard details
+INFO - 2021-03-06 18:32:53 --> Fetching All User details
+INFO - 2021-03-06 18:32:53 --> Fetching All User details
+INFO - 2021-03-06 18:33:32 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:33:32 --> Fetching Dashboard details
+INFO - 2021-03-06 18:33:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:33:39 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:33:39 --> Fetching Dashboard details
+INFO - 2021-03-06 18:33:39 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-06 18:33:39 --> Fetching IIQA Details
+INFO - 2021-03-06 18:34:42 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:34:42 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:34:42 --> Fetching All User details
+INFO - 2021-03-06 18:34:42 --> Fetching Dashboard details
+INFO - 2021-03-06 18:35:31 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:35:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:35:31 --> Fetching All User details
+INFO - 2021-03-06 18:35:31 --> Fetching Dashboard details
+INFO - 2021-03-06 18:35:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:35:31 --> Fetching All User details
+INFO - 2021-03-06 18:37:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:37:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:37:16 --> Fetching All User details
+INFO - 2021-03-06 18:37:16 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:37:16 --> Fetching All User details
+INFO - 2021-03-06 18:37:16 --> Fetching Dashboard details
+INFO - 2021-03-06 18:43:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:43:08 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:43:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:43:08 --> Fetching All User details
+INFO - 2021-03-06 18:43:08 --> Fetching All User details
+INFO - 2021-03-06 18:43:08 --> Fetching Dashboard details
+INFO - 2021-03-06 18:44:30 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:44:30 --> Fetching All User details
+INFO - 2021-03-06 18:44:30 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-06 18:44:30 --> Fetching Dashboard details
+INFO - 2021-03-06 18:44:30 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-06 18:44:30 --> Fetching All User details

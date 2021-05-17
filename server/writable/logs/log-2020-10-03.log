@@ -1,0 +1,273 @@
+INFO - 2020-10-03 09:21:56 --> Controller "App\Controllers\AttendanceDetails" loaded.
+INFO - 2020-10-03 09:21:56 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-03 09:21:56 --> Fetching Dashboard details
+INFO - 2020-10-03 09:21:56 --> Fetching Attendance details
+INFO - 2020-10-03 09:22:13 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-03 09:22:13 --> Fetching Dashboard details
+INFO - 2020-10-03 09:22:13 --> Controller "App\Controllers\AttendanceDetails" loaded.
+INFO - 2020-10-03 09:22:13 --> Fetching Attendance details
+INFO - 2020-10-03 09:22:20 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-03 09:22:20 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 09:22:20 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 09:22:20 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2020-10-03 09:22:20 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 09:22:20 --> Fetching All User details
+INFO - 2020-10-03 09:22:20 --> Fetching All staff details
+INFO - 2020-10-03 09:22:20 --> Fetching All Leave details
+INFO - 2020-10-03 09:23:25 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-03 09:23:25 --> Controller "App\Controllers\AttendanceDetails" loaded.
+INFO - 2020-10-03 09:23:25 --> Fetching Dashboard details
+INFO - 2020-10-03 09:23:25 --> Fetching Attendance details
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 09:23:44 --> Fetching Boards details
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-10-03 09:23:44 --> Fetching Sections details
+INFO - 2020-10-03 09:23:44 --> Fetching Subjects details
+INFO - 2020-10-03 09:23:44 --> Fetching Academic year details
+INFO - 2020-10-03 09:23:44 --> Fetching Assignments Details details
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:23:44 --> Fetching Assignments details
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 19:53:44 --> Fetching Assignments Mapped Id details
+INFO - 2020-10-03 09:23:44 --> Fetching Assignments Id details
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:23:44 --> Fetching Assignments Grade details
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-03 09:23:44 --> Fetching Sections details
+INFO - 2020-10-03 09:23:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:23:44 --> Fetching Assignments Details details
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-03 09:24:24 --> Fetching Category details
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-03 09:24:24 --> Fetching FeeMaster details
+INFO - 2020-10-03 09:24:24 --> Fetching FeeMaster details
+INFO - 2020-10-03 09:24:24 --> Fetching FeeMaster details
+INFO - 2020-10-03 09:24:24 --> Fetching Sections details
+INFO - 2020-10-03 09:24:24 --> Fetching All Leave details
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-03 09:24:24 --> Fetching Sections details
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 09:24:24 --> Fetching Boards details
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\FeeCollectionNonStudents" loaded.
+INFO - 2020-10-03 09:24:24 --> Fetching FeeDashboardDetails details
+INFO - 2020-10-03 09:24:24 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-10-03 09:24:24 --> Fetching vendor details
+INFO - 2020-10-03 09:26:35 --> Controller "App\Controllers\ClassDetails" loaded.
+ERROR - 2020-10-03 09:26:35 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 09:26:35 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-10-03 09:26:35 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-10-03 09:26:35 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-03 09:26:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 09:26:35 --> Fetching Dashboard details
+INFO - 2020-10-03 09:26:35 --> Fetching MessageGroups details
+INFO - 2020-10-03 09:26:35 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 09:26:35 --> Fetching All User details
+INFO - 2020-10-03 09:26:35 --> Fetching All Leave details
+INFO - 2020-10-03 09:26:35 --> Fetching Boards details
+INFO - 2020-10-03 09:26:38 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-10-03 09:26:38 --> Fetching MessageCenter details
+INFO - 2020-10-03 09:27:30 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 09:27:30 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-03 09:27:30 --> Fetching Academic year details
+INFO - 2020-10-03 09:27:30 --> Fetching Boards details
+INFO - 2020-10-03 09:27:30 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-03 09:27:30 --> Controller "App\Controllers\Assignments" loaded.
+ERROR - 2020-10-03 09:27:30 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 09:27:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:27:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:27:30 --> Fetching Assignments Id details
+INFO - 2020-10-03 09:27:30 --> Fetching Assignments details
+INFO - 2020-10-03 09:27:30 --> Fetching Assignments Details details
+INFO - 2020-10-03 09:27:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:27:30 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 19:57:30 --> Fetching Assignments Mapped Id details
+INFO - 2020-10-03 09:27:30 --> Fetching Assignments Grade details
+INFO - 2020-10-03 09:27:30 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-03 09:27:30 --> Controller "App\Controllers\Assignments" loaded.
+ERROR - 2020-10-03 09:27:30 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 09:27:30 --> Fetching Assignments Details details
+INFO - 2020-10-03 09:27:40 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:27:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-03 09:27:40 --> Fetching Assignments Details details
+ERROR - 2020-10-03 09:27:40 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 09:28:02 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-03 09:28:02 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:28:02 --> Fetching Assignments Details details
+ERROR - 2020-10-03 09:28:02 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 09:28:15 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 09:28:15 --> Fetching Boards details
+INFO - 2020-10-03 09:28:15 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-03 09:28:15 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-03 09:28:15 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 09:28:15 --> Fetching All Leave details
+INFO - 2020-10-03 09:28:15 --> Fetching Sections details
+INFO - 2020-10-03 09:28:15 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-03 09:28:15 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-03 09:28:15 --> Fetching Department details
+INFO - 2020-10-03 09:28:15 --> Fetching All staff details
+INFO - 2020-10-03 09:28:15 --> Fetching All Leave details
+INFO - 2020-10-03 09:28:15 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-03 09:28:15 --> Fetching Department details
+INFO - 2020-10-03 09:28:37 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 09:28:37 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-03 09:28:37 --> Fetching All staff details
+INFO - 2020-10-03 09:28:37 --> Fetching All User details
+INFO - 2020-10-03 09:28:45 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 09:28:45 --> Fetching All staff details
+INFO - 2020-10-03 09:28:45 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-03 09:28:45 --> Fetching All User details
+INFO - 2020-10-03 09:28:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-03 09:28:56 --> Fetching All User details
+INFO - 2020-10-03 09:29:07 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 09:29:07 --> Fetching All staff details
+INFO - 2020-10-03 09:29:21 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 09:29:21 --> Fetching All staff details
+INFO - 2020-10-03 09:29:24 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 09:29:24 --> Fetching All staff details
+INFO - 2020-10-03 09:29:28 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 09:29:28 --> Fetching All staff details
+INFO - 2020-10-03 09:29:30 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 09:29:30 --> Fetching All staff details
+INFO - 2020-10-03 09:29:51 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 09:29:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-03 09:29:51 --> Fetching All staff details
+INFO - 2020-10-03 09:29:51 --> Fetching All User details
+INFO - 2020-10-03 09:30:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-03 09:30:51 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 09:30:51 --> Fetching Sections details
+INFO - 2020-10-03 09:30:51 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:30:51 --> Fetching Assignments details
+INFO - 2020-10-03 09:30:51 --> Fetching All Leave details
+INFO - 2020-10-03 09:33:34 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 09:33:34 --> Fetching All Leave details
+INFO - 2020-10-03 09:35:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-10-03 09:35:23 --> Fetching Assignments details
+INFO - 2020-10-03 09:35:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-03 09:35:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 09:35:23 --> Fetching All Leave details
+INFO - 2020-10-03 09:35:23 --> Fetching Sections details
+INFO - 2020-10-03 09:36:04 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 09:36:04 --> Fetching All Leave details
+INFO - 2020-10-03 09:36:55 --> Controller "App\Controllers\ClassDetails" loaded.
+ERROR - 2020-10-03 09:36:55 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 09:36:55 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-10-03 09:36:55 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 09:36:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 09:36:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-03 09:36:55 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-10-03 09:36:55 --> Fetching All User details
+INFO - 2020-10-03 09:36:55 --> Fetching Boards details
+INFO - 2020-10-03 09:36:55 --> Fetching MessageGroups details
+INFO - 2020-10-03 09:36:55 --> Fetching All Leave details
+INFO - 2020-10-03 09:36:55 --> Fetching Dashboard details
+INFO - 2020-10-03 09:36:58 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-10-03 09:36:58 --> Fetching MessageCenter details
+INFO - 2020-10-03 11:31:25 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-03 11:31:25 --> Fetching Category details
+INFO - 2020-10-03 11:31:25 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-03 11:31:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 11:31:25 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 11:31:25 --> Fetching All Leave details
+INFO - 2020-10-03 11:31:25 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-10-03 11:31:25 --> Fetching Boards details
+ERROR - 2020-10-03 11:31:25 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 11:31:25 --> Fetching All Leave details
+INFO - 2020-10-03 11:31:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 11:31:55 --> Fetching Boards details
+INFO - 2020-10-03 11:31:55 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-03 11:31:55 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 11:31:55 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-10-03 11:31:55 --> Fetching All Leave details
+INFO - 2020-10-03 11:31:55 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-03 11:31:55 --> Fetching Category details
+INFO - 2020-10-03 11:31:55 --> Fetching All Leave details
+ERROR - 2020-10-03 11:31:55 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 11:32:06 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 11:32:06 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-10-03 11:32:06 --> Fetching All Leave details
+INFO - 2020-10-03 11:32:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 11:32:06 --> Fetching Boards details
+INFO - 2020-10-03 11:32:06 --> Fetching All Leave details
+INFO - 2020-10-03 11:32:06 --> Controller "App\Controllers\ClassDetails" loaded.
+ERROR - 2020-10-03 11:32:06 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 11:32:06 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-10-03 11:32:06 --> Fetching Category details
+INFO - 2020-10-03 11:32:23 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 11:32:23 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 11:32:23 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-03 11:32:23 --> Fetching Boards details
+INFO - 2020-10-03 11:32:23 --> Fetching All Leave details
+INFO - 2020-10-03 11:32:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-03 11:32:23 --> Fetching All staff details
+INFO - 2020-10-03 11:32:23 --> Fetching Sections details
+INFO - 2020-10-03 11:32:23 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-03 11:32:23 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-03 11:32:23 --> Fetching Department details
+INFO - 2020-10-03 11:32:23 --> Fetching All Leave details
+INFO - 2020-10-03 11:32:24 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-03 11:32:24 --> Fetching Department details
+INFO - 2020-10-03 11:36:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-03 11:36:49 --> Fetching All User details
+INFO - 2020-10-03 11:37:03 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-10-03 11:37:03 --> Fetching All User details
+INFO - 2020-10-03 11:37:03 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-10-03 11:37:03 --> Fetching All staff details
+INFO - 2020-10-03 11:37:28 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-10-03 11:37:28 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 11:37:28 --> Fetching All Management details
+INFO - 2020-10-03 11:37:28 --> Fetching Boards details
+INFO - 2020-10-03 11:38:12 --> Controller "App\Controllers\Alumnus" loaded.
+INFO - 2020-10-03 11:38:12 --> Fetching All Leave details
+INFO - 2020-10-03 11:38:12 --> Controller "App\Controllers\Alumnus" loaded.
+INFO - 2020-10-03 11:38:12 --> Fetching Alumni details
+INFO - 2020-10-03 11:39:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-10-03 11:39:18 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 11:39:18 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 11:39:18 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-03 11:39:18 --> Fetching Boards details
+INFO - 2020-10-03 11:39:18 --> Fetching Academic year details
+INFO - 2020-10-03 11:39:18 --> Fetching Sections details
+INFO - 2020-10-03 11:39:18 --> Fetching All Leave details
+INFO - 2020-10-03 11:39:18 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-10-03 11:39:18 --> Fetching preadmission details
+INFO - 2020-10-03 11:39:18 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-10-03 11:39:18 --> Fetching All Leave details
+INFO - 2020-10-03 11:39:18 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-10-03 11:39:18 --> Fetching All Leave details
+INFO - 2020-10-03 11:39:18 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-10-03 11:39:18 --> Fetching All Leave details
+INFO - 2020-10-03 13:07:48 --> Controller "App\Controllers\Attendance" loaded.
+INFO - 2020-10-03 13:07:48 --> Fetching Dashboard details
+INFO - 2020-10-03 13:07:48 --> Controller "App\Controllers\AttendanceDetails" loaded.
+INFO - 2020-10-03 13:07:48 --> Fetching Attendance details
+INFO - 2020-10-03 13:07:57 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-10-03 13:07:57 --> Fetching All Leave details
+INFO - 2020-10-03 13:07:57 --> Controller "App\Controllers\ExamsAttendance" loaded.
+INFO - 2020-10-03 13:07:57 --> Controller "App\Controllers\ExamDetails" loaded.
+INFO - 2020-10-03 13:07:57 --> Fetching Exam Details details
+INFO - 2020-10-03 13:07:57 --> Fetching Exam Details details
+INFO - 2020-10-03 13:08:02 --> Controller "App\Controllers\ClassDetails" loaded.
+ERROR - 2020-10-03 13:08:02 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 13:08:02 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-10-03 13:08:02 --> Fetching Boards details
+INFO - 2020-10-03 13:08:02 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-03 13:08:02 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-10-03 13:08:02 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-10-03 13:08:02 --> Fetching Academic year details
+INFO - 2020-10-03 13:08:02 --> Controller "App\Controllers\DailyDairy" loaded.
+INFO - 2020-10-03 13:08:02 --> Fetching Role details
+ERROR - 2020-10-03 13:08:02 --> Unknown column 't1.id_section' in 'field list'
+INFO - 2020-10-03 23:38:02 --> Fetching Circulars Mapped Id details
+INFO - 2020-10-03 13:08:02 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-10-03 13:08:02 --> Controller "App\Controllers\DailyDairy" loaded.
+INFO - 2020-10-03 13:08:02 --> Fetching Dairies Details details
+ERROR - 2020-10-03 13:08:02 --> Unknown column 't1.id_section' in 'field list'

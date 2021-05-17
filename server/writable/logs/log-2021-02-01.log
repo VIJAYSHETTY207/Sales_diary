@@ -1,0 +1,126 @@
+INFO - 2021-02-01 00:00:04 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2021-02-01 00:00:04 --> Too few arguments to function App\Models\Common_model::get_user_details(), 1 passed in /var/www/html/salesdiary.egenius.in/server/app/Controllers/Users.php on line 83 and exactly 2 expected
+#0 /var/www/html/salesdiary.egenius.in/server/app/Controllers/Users.php(83): App\Models\Common_model->get_user_details('100001')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-02-01 00:00:39 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2021-02-01 00:00:39 --> Too few arguments to function App\Models\Common_model::get_user_details(), 1 passed in /var/www/html/salesdiary.egenius.in/server/app/Controllers/Users.php on line 83 and exactly 2 expected
+#0 /var/www/html/salesdiary.egenius.in/server/app/Controllers/Users.php(83): App\Models\Common_model->get_user_details('100001')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-02-01 00:01:34 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2021-02-01 00:01:34 --> Too few arguments to function App\Models\Common_model::get_user_details(), 1 passed in /var/www/html/salesdiary.egenius.in/server/app/Controllers/Users.php on line 83 and exactly 2 expected
+#0 /var/www/html/salesdiary.egenius.in/server/app/Controllers/Users.php(83): App\Models\Common_model->get_user_details('100001')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-02-01 00:04:29 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 00:05:32 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 00:06:03 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 00:09:21 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2021-02-01 00:09:21 --> Attempt to assign property 'token' of non-object
+INFO - 2021-02-01 00:09:40 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2021-02-01 00:09:40 --> Attempt to assign property 'token' of non-object
+INFO - 2021-02-01 00:10:04 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 09:56:29 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 09:56:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 09:57:58 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 09:58:17 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 10:02:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 10:03:35 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 10:09:25 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 10:09:25 --> Fetching Dashboard details
+INFO - 2021-02-01 10:19:05 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-01 10:19:05 --> Fetching IIQA Details
+INFO - 2021-02-01 10:19:12 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-01 10:19:12 --> Fetching IIQA Details
+INFO - 2021-02-01 10:19:12 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-01 10:19:12 --> Fetching IIQA Details
+INFO - 2021-02-01 10:33:01 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-01 10:33:01 --> Fetching IIQA Details
+INFO - 2021-02-01 10:36:41 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-01 10:36:41 --> Fetching IIQA Details
+INFO - 2021-02-01 10:36:52 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 10:36:52 --> Fetching Dashboard details
+INFO - 2021-02-01 10:39:47 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 10:39:47 --> Fetching Dashboard details
+INFO - 2021-02-01 10:41:33 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 10:41:33 --> Fetching Dashboard details
+INFO - 2021-02-01 11:01:14 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:01:14 --> Fetching Dashboard details
+INFO - 2021-02-01 11:08:58 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:08:58 --> Fetching Dashboard details
+INFO - 2021-02-01 11:12:58 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:12:58 --> Fetching Dashboard details
+INFO - 2021-02-01 11:15:24 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:15:24 --> Fetching Dashboard details
+INFO - 2021-02-01 11:16:08 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:16:08 --> Fetching Dashboard details
+INFO - 2021-02-01 11:17:53 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:17:53 --> Fetching Dashboard details
+INFO - 2021-02-01 11:24:19 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:24:19 --> Fetching Dashboard details
+INFO - 2021-02-01 11:30:35 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:30:35 --> Fetching Dashboard details
+INFO - 2021-02-01 11:34:22 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:34:22 --> Fetching Dashboard details
+INFO - 2021-02-01 11:42:06 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:42:06 --> Fetching Dashboard details
+INFO - 2021-02-01 11:49:58 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:49:58 --> Fetching Dashboard details
+INFO - 2021-02-01 11:57:34 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:57:34 --> Fetching Dashboard details
+INFO - 2021-02-01 11:59:22 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:59:22 --> Fetching Dashboard details
+INFO - 2021-02-01 11:59:50 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 11:59:50 --> Fetching Dashboard details
+INFO - 2021-02-01 12:08:25 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:08:25 --> Fetching Dashboard details
+INFO - 2021-02-01 12:10:07 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:10:07 --> Fetching Dashboard details
+INFO - 2021-02-01 12:10:52 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:10:52 --> Fetching Dashboard details
+INFO - 2021-02-01 12:14:58 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:14:58 --> Fetching Dashboard details
+INFO - 2021-02-01 12:18:12 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 12:18:18 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:18:18 --> Fetching Dashboard details
+INFO - 2021-02-01 12:18:26 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:18:26 --> Fetching Dashboard details
+INFO - 2021-02-01 12:18:26 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-01 12:18:26 --> Fetching IIQA Details
+INFO - 2021-02-01 12:18:29 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-01 12:18:29 --> Fetching IIQA Details
+INFO - 2021-02-01 12:18:30 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-01 12:18:30 --> Fetching IIQA Details
+INFO - 2021-02-01 12:18:30 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-01 12:18:30 --> Fetching IIQA Details
+INFO - 2021-02-01 12:18:42 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-01 12:18:42 --> Fetching IIQA Details
+INFO - 2021-02-01 12:18:42 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-01 12:18:42 --> Fetching IIQA Details
+INFO - 2021-02-01 12:18:48 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-01 12:18:50 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-01 12:18:50 --> Fetching IIQA Details
+INFO - 2021-02-01 12:18:50 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-01 12:18:50 --> Fetching IIQA Details
+INFO - 2021-02-01 12:22:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 12:22:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-01 12:24:36 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:24:36 --> Fetching Dashboard details
+INFO - 2021-02-01 12:32:01 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:32:01 --> Fetching Dashboard details
+INFO - 2021-02-01 12:34:36 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:34:36 --> Fetching Dashboard details
+INFO - 2021-02-01 12:36:21 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:36:21 --> Fetching Dashboard details
+INFO - 2021-02-01 12:38:51 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-01 12:38:51 --> Fetching Dashboard details

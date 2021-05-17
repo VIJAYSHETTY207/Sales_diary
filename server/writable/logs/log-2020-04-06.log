@@ -1,0 +1,262 @@
+INFO - 2020-04-06 01:09:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-06 01:09:11 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-06 01:44:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:44:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:44:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:44:51 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:44:51 --> You must set the database table to be used with your query.
+#0 /var/www/html/server_4/system/Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 /var/www/html/server_4/system/Model.php(1700): CodeIgniter\Model->builder()
+#2 /var/www/html/server_4/app/Controllers/Roles.php(78): CodeIgniter\Model->__call('insert_roles_pe...', Array)
+#3 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insert_role()
+#4 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#5 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-06 01:44:56 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:44:56 --> You must set the database table to be used with your query.
+#0 /var/www/html/server_4/system/Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 /var/www/html/server_4/system/Model.php(1700): CodeIgniter\Model->builder()
+#2 /var/www/html/server_4/app/Controllers/Roles.php(78): CodeIgniter\Model->__call('insert_roles_pe...', Array)
+#3 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insert_role()
+#4 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#5 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-06 01:45:05 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:45:05 --> You must set the database table to be used with your query.
+#0 /var/www/html/server_4/system/Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 /var/www/html/server_4/system/Model.php(1700): CodeIgniter\Model->builder()
+#2 /var/www/html/server_4/app/Controllers/Roles.php(78): CodeIgniter\Model->__call('insert_roles_pe...', Array)
+#3 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insert_role()
+#4 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#5 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-06 01:45:12 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:45:12 --> Column 'name' cannot be null
+#0 /var/www/html/server_4/system/Database/MySQLi/Connection.php(330): mysqli->query('INSERT INTO `ro...')
+#1 /var/www/html/server_4/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ro...')
+#2 /var/www/html/server_4/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ro...')
+#3 /var/www/html/server_4/system/Database/BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /var/www/html/server_4/system/Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/server_4/app/Controllers/Roles.php(60): CodeIgniter\Model->insert(Array)
+#6 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insert_role()
+#7 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#8 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-06 01:45:52 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:45:52 --> You must set the database table to be used with your query.
+#0 /var/www/html/server_4/system/Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 /var/www/html/server_4/system/Model.php(1700): CodeIgniter\Model->builder()
+#2 /var/www/html/server_4/app/Controllers/Roles.php(78): CodeIgniter\Model->__call('insert_roles_pe...', Array)
+#3 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insert_role()
+#4 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#5 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-06 01:46:11 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-06 01:46:12 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-06 01:46:12 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-06 01:46:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:46:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:47:14 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-06 01:47:21 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-06 01:47:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:47:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:47:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:47:45 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:47:45 --> You must set the database table to be used with your query.
+#0 /var/www/html/server_4/system/Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 /var/www/html/server_4/system/Model.php(1700): CodeIgniter\Model->builder()
+#2 /var/www/html/server_4/app/Controllers/Roles.php(78): CodeIgniter\Model->__call('insert_roles_pe...', Array)
+#3 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insert_role()
+#4 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#5 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2020-04-06 01:49:12 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:49:12 --> Column 'name' cannot be null
+#0 /var/www/html/server_4/system/Database/MySQLi/Connection.php(330): mysqli->query('INSERT INTO `ro...')
+#1 /var/www/html/server_4/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ro...')
+#2 /var/www/html/server_4/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ro...')
+#3 /var/www/html/server_4/system/Database/BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /var/www/html/server_4/system/Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/server_4/app/Controllers/Roles.php(60): CodeIgniter\Model->insert(Array)
+#6 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insert_role()
+#7 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#8 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-06 01:49:20 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-06 01:53:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:53:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:54:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:54:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:54:14 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:54:14 --> Unknown column 'status' in 'field list'
+#0 /var/www/html/server_4/system/Database/MySQLi/Connection.php(330): mysqli->query('UPDATE `roles_p...')
+#1 /var/www/html/server_4/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `roles_p...')
+#2 /var/www/html/server_4/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `roles_p...')
+#3 /var/www/html/server_4/system/Database/BaseBuilder.php(2410): CodeIgniter\Database\BaseConnection->query('UPDATE `roles_p...', Array, false)
+#4 /var/www/html/server_4/app/Models/Common_model.php(90): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 /var/www/html/server_4/app/Controllers/Roles.php(144): App\Models\Common_model->update_deleterole(Array, Array)
+#6 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->delete_role()
+#7 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#8 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-06 01:54:22 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:54:22 --> Unknown column 'status' in 'field list'
+#0 /var/www/html/server_4/system/Database/MySQLi/Connection.php(330): mysqli->query('UPDATE `roles_p...')
+#1 /var/www/html/server_4/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `roles_p...')
+#2 /var/www/html/server_4/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `roles_p...')
+#3 /var/www/html/server_4/system/Database/BaseBuilder.php(2410): CodeIgniter\Database\BaseConnection->query('UPDATE `roles_p...', Array, false)
+#4 /var/www/html/server_4/app/Models/Common_model.php(90): CodeIgniter\Database\BaseBuilder->update(Array)
+#5 /var/www/html/server_4/app/Controllers/Roles.php(144): App\Models\Common_model->update_deleterole(Array, Array)
+#6 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->delete_role()
+#7 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#8 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-06 01:54:30 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:54:30 --> Unknown column 'rp.status' in 'where clause'
+#0 /var/www/html/server_4/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `rp`.`ca...')
+#1 /var/www/html/server_4/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rp`.`ca...')
+#2 /var/www/html/server_4/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rp`.`ca...')
+#3 /var/www/html/server_4/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `rp`.`ca...', Array, false)
+#4 /var/www/html/server_4/app/Models/Common_model.php(97): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/server_4/app/Controllers/Roles.php(39): App\Models\Common_model->permission_dataWithData('6')
+#6 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->get_permission()
+#7 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#8 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-06 01:54:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:54:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:54:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:54:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:54:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:55:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:55:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:55:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:55:11 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 01:55:11 --> Unknown column 'rp.status' in 'where clause'
+#0 /var/www/html/server_4/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `rp`.`ca...')
+#1 /var/www/html/server_4/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rp`.`ca...')
+#2 /var/www/html/server_4/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rp`.`ca...')
+#3 /var/www/html/server_4/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `rp`.`ca...', Array, false)
+#4 /var/www/html/server_4/app/Models/Common_model.php(97): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/server_4/app/Controllers/Roles.php(39): App\Models\Common_model->permission_dataWithData('7')
+#6 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->get_permission()
+#7 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#8 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-06 01:57:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 01:57:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:01:34 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-06 02:08:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:08:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:08:55 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 02:08:55 --> Unknown column 'rp.status' in 'where clause'
+#0 /var/www/html/server_4/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `rp`.`ca...')
+#1 /var/www/html/server_4/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rp`.`ca...')
+#2 /var/www/html/server_4/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rp`.`ca...')
+#3 /var/www/html/server_4/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `rp`.`ca...', Array, false)
+#4 /var/www/html/server_4/app/Models/Common_model.php(97): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/server_4/app/Controllers/Roles.php(39): App\Models\Common_model->permission_dataWithData('7')
+#6 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->get_permission()
+#7 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#8 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-06 02:09:08 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 02:09:08 --> Unknown column 'rp.status' in 'where clause'
+#0 /var/www/html/server_4/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `rp`.`ca...')
+#1 /var/www/html/server_4/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `rp`.`ca...')
+#2 /var/www/html/server_4/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `rp`.`ca...')
+#3 /var/www/html/server_4/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `rp`.`ca...', Array, false)
+#4 /var/www/html/server_4/app/Models/Common_model.php(97): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/server_4/app/Controllers/Roles.php(39): App\Models\Common_model->permission_dataWithData(NULL)
+#6 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->get_permission()
+#7 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#8 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-06 02:10:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:10:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:10:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:10:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:10:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:10:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:10:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:11:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:11:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:11:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:11:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:11:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:11:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:11:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:11:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:11:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:16:47 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-06 02:16:53 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-06 02:16:53 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-06 02:16:59 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-06 02:16:59 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-06 02:17:01 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-06 02:17:01 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-06 02:17:01 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-06 02:17:01 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-06 02:17:01 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-06 02:17:02 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-06 02:17:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-06 02:17:02 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-06 02:17:02 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-06 02:17:03 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-06 02:17:11 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-06 02:17:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-06 02:17:12 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-06 02:17:12 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-06 02:17:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-06 02:17:20 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-06 02:17:20 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-06 02:17:20 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-06 02:17:20 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-06 02:17:20 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-06 02:17:29 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-06 02:17:30 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-06 02:17:30 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-06 02:17:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:17:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-06 02:17:33 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-06 02:17:33 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-06 02:56:52 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 02:56:52 --> Column 'name' cannot be null
+#0 /var/www/html/server_4/system/Database/MySQLi/Connection.php(330): mysqli->query('INSERT INTO `ro...')
+#1 /var/www/html/server_4/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ro...')
+#2 /var/www/html/server_4/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ro...')
+#3 /var/www/html/server_4/system/Database/BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /var/www/html/server_4/system/Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/server_4/app/Controllers/Roles.php(60): CodeIgniter\Model->insert(Array)
+#6 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insert_role()
+#7 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#8 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-06 02:56:55 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-04-06 02:56:55 --> Column 'name' cannot be null
+#0 /var/www/html/server_4/system/Database/MySQLi/Connection.php(330): mysqli->query('INSERT INTO `ro...')
+#1 /var/www/html/server_4/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ro...')
+#2 /var/www/html/server_4/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ro...')
+#3 /var/www/html/server_4/system/Database/BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ro...', Array, false)
+#4 /var/www/html/server_4/system/Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 /var/www/html/server_4/app/Controllers/Roles.php(60): CodeIgniter\Model->insert(Array)
+#6 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insert_role()
+#7 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#8 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-06 02:57:01 --> Controller "App\Controllers\Roles" loaded.

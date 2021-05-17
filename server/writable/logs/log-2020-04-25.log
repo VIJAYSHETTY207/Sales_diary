@@ -1,0 +1,8 @@
+INFO - 2020-04-25 00:56:12 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-25 00:56:12 --> Argument 3 passed to log_message() must be of the type array, null given, called in /var/www/html/server_4/app/Controllers/SubjectMasters.php on line 53
+#0 /var/www/html/server_4/app/Controllers/SubjectMasters.php(53): log_message('info', 'Inserting Subje...', NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\SubjectMasters->insert_subjectmaster()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

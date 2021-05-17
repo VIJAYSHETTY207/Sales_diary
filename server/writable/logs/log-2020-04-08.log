@@ -1,0 +1,658 @@
+INFO - 2020-04-08 01:00:06 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-08 01:02:01 --> Controller "App\Controllers\Academicyears" loaded.
+CRITICAL - 2020-04-08 01:02:01 --> Call to a member function insert() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Academicyears->insert_academicyear()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Academicyears))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 01:02:18 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-08 01:04:35 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-08 01:06:24 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-08 01:19:34 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-08 01:19:34 --> Class 'App\Models\SubjectMaster_model' not found
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->get_data()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 01:20:36 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-08 01:20:36 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(17): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-08 01:21:15 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-08 01:21:15 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(17): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-08 01:21:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-08 01:21:16 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(17): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-08 01:21:23 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-08 01:21:23 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(17): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-08 01:21:29 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-08 01:21:29 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(17): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-08 01:21:56 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-08 01:21:56 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(17): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-08 01:22:01 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-08 01:22:01 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(17): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-08 01:24:22 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-08 01:24:22 --> Access denied for user '****'@'localhost' (using password: YES)
+#0 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(377): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(643): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\server_4\system\Model.php(445): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\server_4\app\Controllers\SubjectMasters.php(17): CodeIgniter\Model->findAll()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\SubjectMasters->get_data()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SubjectMasters))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-08 01:25:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+CRITICAL - 2020-04-08 01:29:24 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:29:29 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:30:21 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:30:23 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:30:35 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:30:36 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:30:54 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:30:57 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:30:58 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:31:07 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectMasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectMasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:31:22 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectMasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectMasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:31:23 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectMasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectMasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:31:23 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectMasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectMasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:31:40 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-08 01:32:52 --> Controller "App\Controllers\Academicyears" loaded.
+CRITICAL - 2020-04-08 01:33:01 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-08 01:33:09 --> Controller "App\Controllers\Academicyears" loaded.
+CRITICAL - 2020-04-08 01:34:13 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:34:15 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:34:40 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:34:41 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:35:08 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:35:30 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:35:31 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 01:35:32 --> syntax error, unexpected 'public' (T_PUBLIC)
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjectmasters/...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjectmasters/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-08 01:35:45 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 01:36:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 01:36:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 01:38:05 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 01:38:27 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 01:38:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 01:43:33 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 01:46:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 01:47:39 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 01:47:47 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 01:55:50 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 02:19:34 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-08 02:19:34 --> Unknown column 's.standard_id' in 'on clause'
+#0 C:\xampp\htdocs\server_4\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT `sm`.`na...')
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sm`.`na...')
+#2 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sm`.`na...')
+#3 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `sm`.`na...', Array, false)
+#4 C:\xampp\htdocs\server_4\app\Models\Common_model.php(113): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\server_4\app\Controllers\Subjects.php(20): App\Models\Common_model->getSubjects('1')
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->get_data()
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#8 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-08 02:20:16 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-08 02:20:16 --> Unknown column 's.standard_id' in 'on clause'
+#0 C:\xampp\htdocs\server_4\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT `sm`.`na...')
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sm`.`na...')
+#2 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sm`.`na...')
+#3 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `sm`.`na...', Array, false)
+#4 C:\xampp\htdocs\server_4\app\Models\Common_model.php(113): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\server_4\app\Controllers\Subjects.php(20): App\Models\Common_model->getSubjects('1')
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->get_data()
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#8 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-08 02:20:18 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-08 02:20:18 --> Unknown column 's.standard_id' in 'on clause'
+#0 C:\xampp\htdocs\server_4\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT `sm`.`na...')
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sm`.`na...')
+#2 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sm`.`na...')
+#3 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `sm`.`na...', Array, false)
+#4 C:\xampp\htdocs\server_4\app\Models\Common_model.php(113): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\server_4\app\Controllers\Subjects.php(20): App\Models\Common_model->getSubjects('1')
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->get_data()
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#8 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-08 02:20:35 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-08 02:20:35 --> Unknown column 's.standard_id' in 'on clause'
+#0 C:\xampp\htdocs\server_4\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT `sm`.`na...')
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sm`.`na...')
+#2 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sm`.`na...')
+#3 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `sm`.`na...', Array, false)
+#4 C:\xampp\htdocs\server_4\app\Models\Common_model.php(113): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\server_4\app\Controllers\Subjects.php(20): App\Models\Common_model->getSubjects('11')
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->get_data()
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#8 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-08 02:20:54 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-08 02:20:56 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-08 02:20:57 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-08 02:21:27 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-08 02:23:15 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-08 02:23:15 --> Unknown column 'sm.standard' in 'where clause'
+#0 C:\xampp\htdocs\server_4\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT `sm`.`na...')
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sm`.`na...')
+#2 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sm`.`na...')
+#3 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `sm`.`na...', Array, false)
+#4 C:\xampp\htdocs\server_4\app\Models\Common_model.php(113): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\server_4\app\Controllers\Subjects.php(20): App\Models\Common_model->getSubjects('11')
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->get_data()
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#8 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-08 02:23:17 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-08 02:23:17 --> Unknown column 'sm.standard' in 'where clause'
+#0 C:\xampp\htdocs\server_4\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT `sm`.`na...')
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sm`.`na...')
+#2 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sm`.`na...')
+#3 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `sm`.`na...', Array, false)
+#4 C:\xampp\htdocs\server_4\app\Models\Common_model.php(113): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\server_4\app\Controllers\Subjects.php(20): App\Models\Common_model->getSubjects('11')
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->get_data()
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#8 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-08 02:23:17 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-08 02:23:17 --> Unknown column 'sm.standard' in 'where clause'
+#0 C:\xampp\htdocs\server_4\system\Database\MySQLi\Connection.php(330): mysqli->query('SELECT `sm`.`na...')
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `sm`.`na...')
+#2 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `sm`.`na...')
+#3 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `sm`.`na...', Array, false)
+#4 C:\xampp\htdocs\server_4\app\Models\Common_model.php(113): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\server_4\app\Controllers\Subjects.php(20): App\Models\Common_model->getSubjects('11')
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->get_data()
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#8 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-08 02:23:43 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-08 02:36:52 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-08 02:38:02 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-08 02:39:57 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-08 02:39:59 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-08 02:40:05 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-08 03:06:03 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-08 03:06:28 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:07:05 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:07:40 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:07:41 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:07:42 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:08:18 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:08:28 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:08:29 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:09:19 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:09:37 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:09:39 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:09:50 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:10:40 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:11:17 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:11:35 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:12:03 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:23:29 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:24:28 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:26:01 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:32:23 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:33:06 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:33:18 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:33:59 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:35:06 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:35:14 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:35:18 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:36:10 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:36:11 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:36:11 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:36:15 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-04-08 03:36:19 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:36:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:36:42 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:36:43 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:38:51 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:40:45 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:40:51 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:40:51 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:40:57 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:46:31 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:47:37 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:48:05 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:49:42 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:49:49 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:50:06 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:50:25 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:50:33 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:50:36 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:51:05 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:52:12 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:57:46 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:58:32 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:58:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 03:59:31 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-04-08 08:41:44 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 08:47:17 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 08:52:06 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 08:52:06 --> Call to a member function isValid() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 08:54:58 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 08:54:58 --> Call to a member function getRandomName() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 08:55:23 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 08:55:23 --> Call to a member function getRandomName() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 08:55:32 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 08:55:32 --> Call to a member function getRandomName() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 08:55:37 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 08:55:43 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 08:55:43 --> Call to a member function getRandomName() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 08:57:27 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 08:57:27 --> mkdir(): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mkdir(): No suc...', 'C:\\xampp\\htdocs...', 212, Array)
+#1 C:\xampp\htdocs\server_4\system\HTTP\Files\UploadedFile.php(212): mkdir('C:\\xampp\\htdocs...', 511, true)
+#2 C:\xampp\htdocs\server_4\system\HTTP\Files\UploadedFile.php(163): CodeIgniter\HTTP\Files\UploadedFile->setPath('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\server_4\system\HTTP\Files\UploadedFile.php(409): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', 'user_name.jpg')
+#4 C:\xampp\htdocs\server_4\app\Controllers\Circulars.php(51): CodeIgniter\HTTP\Files\UploadedFile->store('http://localhos...', 'user_name.jpg')
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2020-04-08 08:58:30 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 08:58:49 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 08:59:22 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 08:59:22 --> Call to a member function getRandomName() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 09:09:12 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:09:57 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:13:29 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 09:13:29 --> Call to a member function getRandomName() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 09:16:00 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 09:16:00 --> Call to a member function move() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 09:18:47 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 09:18:47 --> Call to a member function move() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 09:18:50 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 09:18:50 --> Call to a member function move() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 09:25:48 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 09:25:49 --> Call to a member function move() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 09:25:50 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 09:25:50 --> Call to a member function move() on array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-08 09:26:06 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:28:16 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:28:18 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:31:02 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:31:15 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:31:16 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:31:24 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:31:26 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:31:41 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:32:09 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:32:44 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 09:37:36 --> syntax error, unexpected ')'
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/inser...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/inser...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 09:37:39 --> syntax error, unexpected ')'
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/inser...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/inser...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 09:37:41 --> syntax error, unexpected ')'
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/inser...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/inser...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 09:37:52 --> syntax error, unexpected ')'
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/inser...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/inser...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-08 09:37:55 --> syntax error, unexpected ')'
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/inser...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/inser...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-08 09:38:09 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:38:35 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:39:41 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:40:45 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:41:34 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 09:44:56 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 10:03:46 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 10:05:29 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 10:08:25 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 10:12:24 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 10:18:50 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 10:19:15 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 11:42:00 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 11:44:34 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 11:46:41 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 11:46:42 --> Could not move file {0} to {1} ({2})
+#0 C:\xampp\htdocs\server_4\system\HTTP\Files\UploadedFile.php(187): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed('php9BDF.tmp', 'C:\\xampp\\htdocs...', '')
+#1 C:\xampp\htdocs\server_4\app\Controllers\Circulars.php(54): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '/2020/04/08/cir...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-08 11:48:19 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 11:50:00 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 11:51:08 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 11:51:08 --> Could not move file {0} to {1} ({2})
+#0 C:\xampp\htdocs\server_4\system\HTTP\Files\UploadedFile.php(187): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed('phpB830.tmp', 'C:\\xampp\\htdocs...', '')
+#1 C:\xampp\htdocs\server_4\app\Controllers\Circulars.php(54): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '/circular/2020/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-08 11:51:50 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 11:51:50 --> Could not move file {0} to {1} ({2})
+#0 C:\xampp\htdocs\server_4\system\HTTP\Files\UploadedFile.php(187): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed('php59F0.tmp', 'C:\\xampp\\htdocs...', '')
+#1 C:\xampp\htdocs\server_4\app\Controllers\Circulars.php(54): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '/circular/2020/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-08 11:51:51 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 11:51:51 --> Could not move file {0} to {1} ({2})
+#0 C:\xampp\htdocs\server_4\system\HTTP\Files\UploadedFile.php(187): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed('php5E65.tmp', 'C:\\xampp\\htdocs...', '')
+#1 C:\xampp\htdocs\server_4\app\Controllers\Circulars.php(54): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '/circular/2020/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-08 11:52:24 --> Controller "App\Controllers\Circulars" loaded.
+CRITICAL - 2020-04-08 11:52:24 --> Could not move file {0} to {1} ({2})
+#0 C:\xampp\htdocs\server_4\system\HTTP\Files\UploadedFile.php(187): CodeIgniter\HTTP\Exceptions\HTTPException::forMoveFailed('phpE152.tmp', 'C:\\xampp\\htdocs...', '')
+#1 C:\xampp\htdocs\server_4\app\Controllers\Circulars.php(54): CodeIgniter\HTTP\Files\UploadedFile->move('C:\\xampp\\htdocs...', '/circular/2020/...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Circulars->insert_circular()
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Circulars))
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+INFO - 2020-04-08 11:52:35 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 11:53:37 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-08 12:00:08 --> Controller "App\Controllers\Circulars" loaded.

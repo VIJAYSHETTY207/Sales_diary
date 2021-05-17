@@ -1,0 +1,1895 @@
+INFO - 2021-03-03 09:40:26 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 09:40:26 --> Fetching All User details
+INFO - 2021-03-03 09:40:30 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:40:30 --> Fetching Dashboard details
+INFO - 2021-03-03 09:40:30 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 09:40:30 --> Fetching All User details
+INFO - 2021-03-03 09:40:39 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:40:39 --> Fetching IIQA Details
+INFO - 2021-03-03 09:40:40 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:40:40 --> Fetching IIQA Details
+INFO - 2021-03-03 09:40:40 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:40:40 --> Fetching IIQA Details
+INFO - 2021-03-03 09:41:08 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:41:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 09:41:08 --> Fetching All User details
+INFO - 2021-03-03 09:41:08 --> Fetching Dashboard details
+INFO - 2021-03-03 09:42:34 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:42:34 --> Fetching IIQA Details
+INFO - 2021-03-03 09:42:35 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:42:35 --> Fetching IIQA Details
+INFO - 2021-03-03 09:42:35 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:42:35 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:02 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:43:02 --> Fetching Dashboard details
+INFO - 2021-03-03 09:43:02 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 09:43:02 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:04 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:43:04 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:04 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 09:43:04 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:04 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:43:04 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:04 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:43:04 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:16 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:43:16 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:43:17 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:43:17 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:21 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:43:21 --> Fetching Dashboard details
+INFO - 2021-03-03 09:43:21 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 09:43:21 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:22 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:43:22 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:22 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 09:43:22 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:22 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:43:22 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:22 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:43:22 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:29 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:43:29 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:29 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 09:43:29 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:29 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:43:29 --> Fetching IIQA Details
+INFO - 2021-03-03 09:43:29 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:43:29 --> Fetching IIQA Details
+INFO - 2021-03-03 09:44:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 09:44:00 --> Fetching All User details
+INFO - 2021-03-03 09:44:00 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:44:00 --> Fetching Dashboard details
+INFO - 2021-03-03 09:46:15 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:46:15 --> Fetching IIQA Details
+INFO - 2021-03-03 09:46:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:46:17 --> Fetching IIQA Details
+INFO - 2021-03-03 09:46:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:46:17 --> Fetching IIQA Details
+INFO - 2021-03-03 09:46:58 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:46:58 --> Fetching IIQA Details
+INFO - 2021-03-03 09:46:58 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:46:58 --> Fetching IIQA Details
+INFO - 2021-03-03 09:48:36 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:48:36 --> Fetching Dashboard details
+INFO - 2021-03-03 09:48:36 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 09:48:36 --> Fetching IIQA Details
+INFO - 2021-03-03 09:48:38 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:48:38 --> Fetching IIQA Details
+INFO - 2021-03-03 09:48:38 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 09:48:38 --> Fetching IIQA Details
+INFO - 2021-03-03 09:48:38 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:48:38 --> Fetching IIQA Details
+INFO - 2021-03-03 09:48:38 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:48:38 --> Fetching IIQA Details
+INFO - 2021-03-03 09:48:45 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:48:45 --> Fetching IIQA Details
+INFO - 2021-03-03 09:48:47 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:48:47 --> Fetching IIQA Details
+INFO - 2021-03-03 09:48:47 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:48:47 --> Fetching IIQA Details
+INFO - 2021-03-03 09:48:59 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:48:59 --> Fetching IIQA Details
+INFO - 2021-03-03 09:48:59 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:48:59 --> Fetching IIQA Details
+INFO - 2021-03-03 09:49:05 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:49:05 --> Fetching IIQA Details
+INFO - 2021-03-03 09:49:05 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:49:05 --> Fetching IIQA Details
+INFO - 2021-03-03 09:49:08 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:49:08 --> Fetching IIQA Details
+INFO - 2021-03-03 09:49:08 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:49:08 --> Fetching IIQA Details
+INFO - 2021-03-03 09:49:24 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:49:24 --> Fetching IIQA Details
+INFO - 2021-03-03 09:49:24 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:49:24 --> Fetching IIQA Details
+INFO - 2021-03-03 09:51:50 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:51:50 --> Fetching IIQA Details
+INFO - 2021-03-03 09:51:50 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:51:50 --> Fetching IIQA Details
+INFO - 2021-03-03 09:51:52 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:51:52 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:51:52 --> Fetching IIQA Details
+INFO - 2021-03-03 09:51:52 --> Fetching IIQA Details
+INFO - 2021-03-03 09:52:46 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:52:46 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:52:46 --> Fetching IIQA Details
+INFO - 2021-03-03 09:52:46 --> Fetching IIQA Details
+INFO - 2021-03-03 09:53:05 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:53:05 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:53:05 --> Fetching IIQA Details
+INFO - 2021-03-03 09:53:05 --> Fetching IIQA Details
+INFO - 2021-03-03 09:53:08 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:53:08 --> Fetching IIQA Details
+INFO - 2021-03-03 09:53:08 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:53:08 --> Fetching IIQA Details
+INFO - 2021-03-03 09:53:37 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:53:37 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:53:37 --> Fetching IIQA Details
+INFO - 2021-03-03 09:53:37 --> Fetching IIQA Details
+INFO - 2021-03-03 09:54:15 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:54:15 --> Fetching Dashboard details
+INFO - 2021-03-03 09:54:15 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 09:54:15 --> Fetching IIQA Details
+INFO - 2021-03-03 09:54:19 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:54:19 --> Fetching IIQA Details
+INFO - 2021-03-03 09:54:19 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 09:54:19 --> Fetching IIQA Details
+INFO - 2021-03-03 09:54:19 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:54:19 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:54:19 --> Fetching IIQA Details
+INFO - 2021-03-03 09:54:19 --> Fetching IIQA Details
+INFO - 2021-03-03 09:54:26 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 09:54:26 --> Fetching IIQA Details
+INFO - 2021-03-03 09:54:26 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:54:26 --> Fetching IIQA Details
+INFO - 2021-03-03 09:54:26 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:54:26 --> Fetching IIQA Details
+INFO - 2021-03-03 09:54:26 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:54:26 --> Fetching IIQA Details
+INFO - 2021-03-03 09:54:54 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:54:54 --> Fetching IIQA Details
+INFO - 2021-03-03 09:55:04 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:55:04 --> Fetching Dashboard details
+INFO - 2021-03-03 09:55:04 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 09:55:04 --> Fetching IIQA Details
+INFO - 2021-03-03 09:55:05 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:55:05 --> Fetching IIQA Details
+INFO - 2021-03-03 09:55:05 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 09:55:05 --> Fetching IIQA Details
+INFO - 2021-03-03 09:55:05 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:55:05 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:55:05 --> Fetching IIQA Details
+INFO - 2021-03-03 09:55:05 --> Fetching IIQA Details
+INFO - 2021-03-03 09:55:18 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:55:18 --> Fetching Dashboard details
+INFO - 2021-03-03 09:55:18 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 09:55:18 --> Fetching IIQA Details
+INFO - 2021-03-03 09:55:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 09:55:18 --> Fetching All User details
+INFO - 2021-03-03 09:55:21 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:55:21 --> Fetching IIQA Details
+INFO - 2021-03-03 09:55:23 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:55:23 --> Fetching IIQA Details
+INFO - 2021-03-03 09:55:23 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 09:55:23 --> Fetching IIQA Details
+INFO - 2021-03-03 09:56:18 --> Controller "App\Controllers\InstitutePricingHistory" loaded.
+INFO - 2021-03-03 09:56:18 --> Fetching IIQA Details
+INFO - 2021-03-03 09:56:20 --> Controller "App\Controllers\InstitutePricingDetails" loaded.
+INFO - 2021-03-03 09:56:20 --> Fetching IIQA Details
+INFO - 2021-03-03 09:56:21 --> Controller "App\Controllers\InstitutePricingHistory" loaded.
+INFO - 2021-03-03 09:56:21 --> Fetching IIQA Details
+INFO - 2021-03-03 09:56:24 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 09:56:24 --> Fetching IIQA Details
+INFO - 2021-03-03 09:56:24 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:56:24 --> Fetching Dashboard details
+INFO - 2021-03-03 09:56:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 09:56:24 --> Fetching All User details
+INFO - 2021-03-03 09:56:25 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:56:25 --> Fetching IIQA Details
+INFO - 2021-03-03 09:56:25 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 09:56:25 --> Fetching IIQA Details
+INFO - 2021-03-03 09:56:25 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:56:25 --> Fetching IIQA Details
+INFO - 2021-03-03 09:56:25 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:56:25 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:08 --> Controller "App\Controllers\InstitutePricingHistory" loaded.
+INFO - 2021-03-03 09:57:08 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:10 --> Controller "App\Controllers\InstitutePricingDetails" loaded.
+INFO - 2021-03-03 09:57:10 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:36 --> Controller "App\Controllers\InstitutePricingHistory" loaded.
+INFO - 2021-03-03 09:57:36 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:37 --> Controller "App\Controllers\InstitutePricingDetails" loaded.
+INFO - 2021-03-03 09:57:37 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:46 --> Controller "App\Controllers\InstitutePricingHistory" loaded.
+INFO - 2021-03-03 09:57:46 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:46 --> Controller "App\Controllers\InstitutePricingDetails" loaded.
+INFO - 2021-03-03 09:57:46 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:53 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:57:53 --> Fetching Dashboard details
+INFO - 2021-03-03 09:57:53 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 09:57:53 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 09:57:53 --> Fetching All User details
+INFO - 2021-03-03 09:57:55 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 09:57:55 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:55 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:57:55 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:55 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:57:55 --> Fetching IIQA Details
+INFO - 2021-03-03 09:57:55 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:57:55 --> Fetching IIQA Details
+INFO - 2021-03-03 09:58:24 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:58:24 --> Fetching Dashboard details
+INFO - 2021-03-03 09:58:24 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 09:58:24 --> Fetching IIQA Details
+INFO - 2021-03-03 09:58:24 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:58:24 --> Fetching IIQA Details
+INFO - 2021-03-03 09:58:26 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:58:26 --> Fetching IIQA Details
+INFO - 2021-03-03 09:58:26 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:58:26 --> Fetching IIQA Details
+INFO - 2021-03-03 09:58:35 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 09:58:35 --> Fetching Dashboard details
+INFO - 2021-03-03 09:58:35 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 09:58:35 --> Fetching IIQA Details
+INFO - 2021-03-03 09:58:36 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:58:36 --> Fetching IIQA Details
+INFO - 2021-03-03 09:58:36 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 09:58:36 --> Fetching IIQA Details
+INFO - 2021-03-03 09:58:36 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:58:36 --> Fetching IIQA Details
+INFO - 2021-03-03 09:58:36 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 09:58:36 --> Fetching IIQA Details
+INFO - 2021-03-03 09:59:59 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 09:59:59 --> Fetching IIQA Details
+INFO - 2021-03-03 10:00:34 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:00:34 --> Fetching IIQA Details
+INFO - 2021-03-03 10:00:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 10:00:34 --> Fetching All User details
+INFO - 2021-03-03 10:00:37 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 10:00:37 --> Fetching IIQA Details
+INFO - 2021-03-03 10:00:37 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:00:37 --> Fetching Dashboard details
+INFO - 2021-03-03 10:00:39 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:00:39 --> Fetching IIQA Details
+INFO - 2021-03-03 10:00:39 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:00:39 --> Fetching IIQA Details
+INFO - 2021-03-03 10:00:39 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:00:39 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:00:39 --> Fetching IIQA Details
+INFO - 2021-03-03 10:00:39 --> Fetching IIQA Details
+INFO - 2021-03-03 10:01:43 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:01:43 --> Fetching IIQA Details
+INFO - 2021-03-03 10:01:49 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:01:49 --> Fetching Dashboard details
+INFO - 2021-03-03 10:01:49 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 10:01:49 --> Fetching IIQA Details
+INFO - 2021-03-03 10:01:51 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:01:51 --> Fetching IIQA Details
+INFO - 2021-03-03 10:01:51 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:01:51 --> Fetching IIQA Details
+INFO - 2021-03-03 10:01:51 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:01:51 --> Fetching IIQA Details
+INFO - 2021-03-03 10:01:51 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:01:51 --> Fetching IIQA Details
+INFO - 2021-03-03 10:04:06 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:04:06 --> Fetching Dashboard details
+INFO - 2021-03-03 10:04:06 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 10:04:06 --> Fetching IIQA Details
+INFO - 2021-03-03 10:04:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 10:04:06 --> Fetching All User details
+INFO - 2021-03-03 10:04:09 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:04:09 --> Fetching IIQA Details
+INFO - 2021-03-03 10:04:09 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:04:09 --> Fetching IIQA Details
+INFO - 2021-03-03 10:04:09 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:04:09 --> Fetching IIQA Details
+INFO - 2021-03-03 10:04:09 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:04:09 --> Fetching IIQA Details
+INFO - 2021-03-03 10:04:58 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:04:58 --> Fetching IIQA Details
+INFO - 2021-03-03 10:04:58 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:04:58 --> Fetching IIQA Details
+INFO - 2021-03-03 10:05:08 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:05:08 --> Fetching IIQA Details
+INFO - 2021-03-03 10:05:08 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:05:08 --> Fetching IIQA Details
+INFO - 2021-03-03 10:07:38 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:07:38 --> Fetching IIQA Details
+INFO - 2021-03-03 10:07:38 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:07:38 --> Fetching IIQA Details
+INFO - 2021-03-03 10:07:55 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:07:55 --> Fetching IIQA Details
+INFO - 2021-03-03 10:07:56 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:07:56 --> Fetching IIQA Details
+INFO - 2021-03-03 10:08:47 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:08:49 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:08:49 --> Fetching IIQA Details
+INFO - 2021-03-03 10:08:49 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:08:49 --> Fetching IIQA Details
+INFO - 2021-03-03 10:09:02 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:09:02 --> Fetching IIQA Details
+INFO - 2021-03-03 10:09:02 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:09:02 --> Fetching IIQA Details
+INFO - 2021-03-03 10:09:18 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:09:18 --> Fetching IIQA Details
+INFO - 2021-03-03 10:09:18 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:09:18 --> Fetching IIQA Details
+INFO - 2021-03-03 10:10:03 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:10:03 --> Fetching IIQA Details
+INFO - 2021-03-03 10:11:11 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:11:11 --> Fetching IIQA Details
+INFO - 2021-03-03 10:11:11 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:11:11 --> Fetching IIQA Details
+INFO - 2021-03-03 10:11:30 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:11:32 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:11:32 --> Fetching IIQA Details
+INFO - 2021-03-03 10:11:32 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:11:32 --> Fetching IIQA Details
+INFO - 2021-03-03 10:11:46 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:11:48 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:11:48 --> Fetching IIQA Details
+INFO - 2021-03-03 10:11:48 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:11:48 --> Fetching IIQA Details
+INFO - 2021-03-03 10:12:10 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:12:10 --> Fetching IIQA Details
+INFO - 2021-03-03 10:12:11 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:12:11 --> Fetching IIQA Details
+INFO - 2021-03-03 10:13:25 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:13:25 --> Fetching IIQA Details
+INFO - 2021-03-03 10:13:25 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:13:25 --> Fetching IIQA Details
+INFO - 2021-03-03 10:13:46 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:13:46 --> Fetching IIQA Details
+INFO - 2021-03-03 10:13:46 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:13:46 --> Fetching IIQA Details
+INFO - 2021-03-03 10:13:55 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:13:55 --> Fetching IIQA Details
+INFO - 2021-03-03 10:13:55 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:13:55 --> Fetching IIQA Details
+INFO - 2021-03-03 10:14:24 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:14:24 --> Fetching IIQA Details
+INFO - 2021-03-03 10:14:24 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:14:24 --> Fetching IIQA Details
+INFO - 2021-03-03 10:17:07 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 10:17:07 --> Fetching All User details
+INFO - 2021-03-03 10:17:07 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:17:07 --> Fetching Dashboard details
+INFO - 2021-03-03 10:17:15 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:17:15 --> Fetching Dashboard details
+INFO - 2021-03-03 10:17:15 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 10:17:15 --> Fetching IIQA Details
+INFO - 2021-03-03 10:17:19 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:17:19 --> Fetching IIQA Details
+INFO - 2021-03-03 10:17:24 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:17:24 --> Fetching Dashboard details
+INFO - 2021-03-03 10:17:24 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 10:17:24 --> Fetching IIQA Details
+INFO - 2021-03-03 10:17:27 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:17:27 --> Fetching IIQA Details
+INFO - 2021-03-03 10:17:27 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:17:27 --> Fetching IIQA Details
+INFO - 2021-03-03 10:17:27 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:17:27 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:17:27 --> Fetching IIQA Details
+INFO - 2021-03-03 10:17:27 --> Fetching IIQA Details
+INFO - 2021-03-03 10:17:41 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 10:17:41 --> Fetching All User details
+INFO - 2021-03-03 10:17:41 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:17:41 --> Fetching Dashboard details
+INFO - 2021-03-03 10:24:27 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:24:27 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:31 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:24:31 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:36 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:24:36 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:36 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:24:36 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:37 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:24:37 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:39 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:24:39 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:42 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:24:42 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:42 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:24:42 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:47 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:24:47 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:47 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:24:47 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:57 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:24:57 --> Fetching IIQA Details
+INFO - 2021-03-03 10:24:57 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:24:57 --> Fetching IIQA Details
+INFO - 2021-03-03 10:25:34 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:25:34 --> Fetching IIQA Details
+INFO - 2021-03-03 10:25:34 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:25:34 --> Fetching IIQA Details
+INFO - 2021-03-03 10:25:54 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:25:54 --> Fetching IIQA Details
+INFO - 2021-03-03 10:25:54 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:25:54 --> Fetching IIQA Details
+INFO - 2021-03-03 10:26:06 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:26:06 --> Fetching IIQA Details
+INFO - 2021-03-03 10:26:30 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:26:30 --> Fetching IIQA Details
+INFO - 2021-03-03 10:26:30 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:26:30 --> Fetching IIQA Details
+INFO - 2021-03-03 10:26:34 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:26:34 --> Fetching IIQA Details
+INFO - 2021-03-03 10:26:34 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:26:34 --> Fetching IIQA Details
+INFO - 2021-03-03 10:27:47 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:27:47 --> Fetching IIQA Details
+INFO - 2021-03-03 10:27:50 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:27:50 --> Fetching IIQA Details
+INFO - 2021-03-03 10:27:50 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:27:50 --> Fetching IIQA Details
+INFO - 2021-03-03 10:27:58 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:27:58 --> Fetching IIQA Details
+INFO - 2021-03-03 10:28:35 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:28:35 --> Fetching IIQA Details
+INFO - 2021-03-03 10:28:37 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:28:37 --> Fetching IIQA Details
+INFO - 2021-03-03 10:28:37 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:28:37 --> Fetching IIQA Details
+INFO - 2021-03-03 10:29:26 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:29:26 --> Fetching IIQA Details
+INFO - 2021-03-03 10:29:26 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:29:26 --> Fetching IIQA Details
+INFO - 2021-03-03 10:29:41 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:29:41 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:29:41 --> Fetching IIQA Details
+INFO - 2021-03-03 10:29:41 --> Fetching IIQA Details
+INFO - 2021-03-03 10:29:47 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 10:29:47 --> Fetching IIQA Details
+INFO - 2021-03-03 10:29:47 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:29:47 --> Fetching IIQA Details
+INFO - 2021-03-03 10:30:10 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:30:10 --> Fetching IIQA Details
+INFO - 2021-03-03 10:30:13 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:30:13 --> Fetching Dashboard details
+INFO - 2021-03-03 10:30:13 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 10:30:13 --> Fetching IIQA Details
+INFO - 2021-03-03 10:30:17 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:30:17 --> Fetching IIQA Details
+INFO - 2021-03-03 10:30:17 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:30:17 --> Fetching IIQA Details
+INFO - 2021-03-03 10:30:17 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:30:17 --> Fetching IIQA Details
+INFO - 2021-03-03 10:30:17 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:30:17 --> Fetching IIQA Details
+INFO - 2021-03-03 10:30:40 --> Controller "App\Controllers\InstitutePricingHistory" loaded.
+INFO - 2021-03-03 10:30:40 --> Fetching IIQA Details
+INFO - 2021-03-03 10:30:41 --> Controller "App\Controllers\InstitutePricingDetails" loaded.
+INFO - 2021-03-03 10:30:41 --> Fetching IIQA Details
+INFO - 2021-03-03 10:30:45 --> Controller "App\Controllers\InstitutePricingHistory" loaded.
+INFO - 2021-03-03 10:30:45 --> Fetching IIQA Details
+INFO - 2021-03-03 10:34:46 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 10:34:46 --> Fetching IIQA Details
+INFO - 2021-03-03 10:34:46 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:34:46 --> Fetching Dashboard details
+INFO - 2021-03-03 10:34:49 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:34:49 --> Fetching IIQA Details
+INFO - 2021-03-03 10:34:49 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:34:49 --> Fetching IIQA Details
+INFO - 2021-03-03 10:34:49 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:34:49 --> Fetching IIQA Details
+INFO - 2021-03-03 10:34:49 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 10:34:49 --> Fetching IIQA Details
+INFO - 2021-03-03 10:44:18 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:44:18 --> Fetching IIQA Details
+INFO - 2021-03-03 10:44:22 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:44:22 --> Fetching IIQA Details
+INFO - 2021-03-03 10:44:22 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:44:22 --> Fetching IIQA Details
+INFO - 2021-03-03 10:52:07 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:52:07 --> Fetching IIQA Details
+INFO - 2021-03-03 10:52:07 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:52:07 --> Fetching IIQA Details
+INFO - 2021-03-03 10:53:32 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 10:53:32 --> Fetching All User details
+INFO - 2021-03-03 10:53:32 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:53:32 --> Fetching Dashboard details
+INFO - 2021-03-03 10:53:42 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:53:42 --> Fetching IIQA Details
+INFO - 2021-03-03 10:57:37 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 10:57:37 --> Fetching All User details
+INFO - 2021-03-03 10:58:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 10:58:06 --> Fetching All User details
+INFO - 2021-03-03 10:58:06 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 10:58:06 --> Fetching Dashboard details
+INFO - 2021-03-03 10:58:11 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 10:58:11 --> Fetching IIQA Details
+INFO - 2021-03-03 10:59:12 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 10:59:12 --> Fetching IIQA Details
+INFO - 2021-03-03 10:59:14 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:59:14 --> Fetching IIQA Details
+INFO - 2021-03-03 10:59:14 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:59:14 --> Fetching IIQA Details
+INFO - 2021-03-03 10:59:24 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:59:24 --> Fetching IIQA Details
+INFO - 2021-03-03 10:59:24 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 10:59:24 --> Fetching IIQA Details
+INFO - 2021-03-03 11:00:18 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:00:18 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:00:18 --> Fetching IIQA Details
+INFO - 2021-03-03 11:00:18 --> Fetching IIQA Details
+INFO - 2021-03-03 11:00:44 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:00:44 --> Fetching IIQA Details
+INFO - 2021-03-03 11:00:44 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:00:44 --> Fetching IIQA Details
+INFO - 2021-03-03 11:00:59 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:00:59 --> Fetching IIQA Details
+INFO - 2021-03-03 11:00:59 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:00:59 --> Fetching IIQA Details
+INFO - 2021-03-03 11:01:04 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:01:04 --> Fetching IIQA Details
+INFO - 2021-03-03 11:01:04 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:01:04 --> Fetching IIQA Details
+INFO - 2021-03-03 11:05:01 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:05:01 --> Fetching IIQA Details
+INFO - 2021-03-03 11:05:01 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:05:01 --> Fetching IIQA Details
+INFO - 2021-03-03 11:05:03 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:05:03 --> Fetching IIQA Details
+INFO - 2021-03-03 11:05:03 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:05:03 --> Fetching IIQA Details
+INFO - 2021-03-03 11:11:09 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:11:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:11:09 --> Fetching IIQA Details
+INFO - 2021-03-03 11:11:09 --> Fetching All User details
+INFO - 2021-03-03 11:11:11 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:11:11 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:11:11 --> Fetching IIQA Details
+INFO - 2021-03-03 11:11:11 --> Fetching IIQA Details
+INFO - 2021-03-03 11:15:21 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:15:21 --> Fetching All User details
+INFO - 2021-03-03 11:15:22 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:15:22 --> Fetching IIQA Details
+INFO - 2021-03-03 11:15:25 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:15:25 --> Fetching IIQA Details
+INFO - 2021-03-03 11:15:25 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:15:25 --> Fetching IIQA Details
+INFO - 2021-03-03 11:22:27 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:22:27 --> Fetching IIQA Details
+INFO - 2021-03-03 11:22:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:22:27 --> Fetching All User details
+INFO - 2021-03-03 11:22:30 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:22:30 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:22:30 --> Fetching IIQA Details
+INFO - 2021-03-03 11:22:30 --> Fetching IIQA Details
+INFO - 2021-03-03 11:23:32 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:23:32 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:23:32 --> Fetching IIQA Details
+INFO - 2021-03-03 11:23:32 --> Fetching All User details
+INFO - 2021-03-03 11:23:38 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:23:38 --> Fetching IIQA Details
+INFO - 2021-03-03 11:23:38 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:23:38 --> Fetching IIQA Details
+INFO - 2021-03-03 11:24:55 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:24:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:24:55 --> Fetching IIQA Details
+INFO - 2021-03-03 11:24:55 --> Fetching All User details
+INFO - 2021-03-03 11:24:58 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:24:58 --> Fetching Dashboard details
+INFO - 2021-03-03 11:25:53 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:25:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:25:53 --> Fetching All User details
+INFO - 2021-03-03 11:25:53 --> Fetching Dashboard details
+INFO - 2021-03-03 11:26:07 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:26:07 --> Fetching IIQA Details
+INFO - 2021-03-03 11:26:08 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:26:08 --> Fetching IIQA Details
+INFO - 2021-03-03 11:26:08 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:26:08 --> Fetching IIQA Details
+INFO - 2021-03-03 11:27:02 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:27:02 --> Fetching Dashboard details
+INFO - 2021-03-03 11:27:02 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 11:27:02 --> Fetching IIQA Details
+INFO - 2021-03-03 11:27:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:27:02 --> Fetching All User details
+INFO - 2021-03-03 11:27:49 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:27:49 --> Fetching Dashboard details
+INFO - 2021-03-03 11:27:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:27:49 --> Fetching All User details
+INFO - 2021-03-03 11:27:52 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:27:52 --> Fetching IIQA Details
+INFO - 2021-03-03 11:27:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:27:52 --> Fetching All User details
+INFO - 2021-03-03 11:28:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:28:38 --> Fetching All User details
+INFO - 2021-03-03 11:28:38 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:28:38 --> Fetching Dashboard details
+INFO - 2021-03-03 11:28:48 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:28:48 --> Fetching IIQA Details
+INFO - 2021-03-03 11:28:48 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:28:48 --> Fetching All User details
+INFO - 2021-03-03 11:28:51 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:28:51 --> Fetching IIQA Details
+INFO - 2021-03-03 11:28:51 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:28:51 --> Fetching IIQA Details
+INFO - 2021-03-03 11:29:39 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:29:39 --> Fetching Dashboard details
+INFO - 2021-03-03 11:29:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:29:39 --> Fetching All User details
+INFO - 2021-03-03 11:29:44 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:29:44 --> Fetching IIQA Details
+INFO - 2021-03-03 11:29:44 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:29:44 --> Fetching All User details
+INFO - 2021-03-03 11:32:35 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:32:35 --> Fetching Dashboard details
+INFO - 2021-03-03 11:32:35 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:32:35 --> Fetching All User details
+INFO - 2021-03-03 11:33:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:33:49 --> Fetching All User details
+INFO - 2021-03-03 11:33:49 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:33:49 --> Fetching IIQA Details
+INFO - 2021-03-03 11:33:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:33:52 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:33:52 --> Fetching All User details
+INFO - 2021-03-03 11:33:52 --> Fetching Dashboard details
+INFO - 2021-03-03 11:34:11 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:34:11 --> Fetching IIQA Details
+INFO - 2021-03-03 11:34:11 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:34:11 --> Fetching IIQA Details
+INFO - 2021-03-03 11:43:55 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:43:55 --> Fetching IIQA Details
+INFO - 2021-03-03 11:43:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:43:55 --> Fetching All User details
+INFO - 2021-03-03 11:44:27 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:44:27 --> Fetching IIQA Details
+INFO - 2021-03-03 11:44:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:44:27 --> Fetching All User details
+INFO - 2021-03-03 11:45:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:45:24 --> Fetching All User details
+INFO - 2021-03-03 11:45:24 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:45:24 --> Fetching Dashboard details
+INFO - 2021-03-03 11:45:32 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:45:32 --> Fetching IIQA Details
+INFO - 2021-03-03 11:45:32 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:45:32 --> Fetching IIQA Details
+INFO - 2021-03-03 11:46:19 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:46:19 --> Fetching IIQA Details
+INFO - 2021-03-03 11:46:19 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:46:19 --> Fetching All User details
+INFO - 2021-03-03 11:46:21 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:46:21 --> Fetching IIQA Details
+INFO - 2021-03-03 11:46:21 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:46:21 --> Fetching IIQA Details
+INFO - 2021-03-03 11:50:51 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:50:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:50:51 --> Fetching IIQA Details
+INFO - 2021-03-03 11:50:51 --> Fetching All User details
+INFO - 2021-03-03 11:50:53 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:50:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:50:53 --> Fetching Dashboard details
+INFO - 2021-03-03 11:50:53 --> Fetching All User details
+INFO - 2021-03-03 11:50:55 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:50:55 --> Fetching IIQA Details
+INFO - 2021-03-03 11:50:55 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:50:55 --> Fetching IIQA Details
+INFO - 2021-03-03 11:52:07 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:52:07 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:52:07 --> Fetching All User details
+INFO - 2021-03-03 11:52:07 --> Fetching IIQA Details
+INFO - 2021-03-03 11:52:10 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:52:10 --> Fetching Dashboard details
+INFO - 2021-03-03 11:52:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:52:10 --> Fetching All User details
+INFO - 2021-03-03 11:52:12 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:52:12 --> Fetching IIQA Details
+INFO - 2021-03-03 11:52:12 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:52:12 --> Fetching IIQA Details
+INFO - 2021-03-03 11:53:00 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 11:53:00 --> Fetching Dashboard details
+INFO - 2021-03-03 11:53:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:53:00 --> Fetching All User details
+INFO - 2021-03-03 11:53:06 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 11:53:06 --> Fetching IIQA Details
+INFO - 2021-03-03 11:53:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 11:53:06 --> Fetching All User details
+INFO - 2021-03-03 11:53:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:53:17 --> Fetching IIQA Details
+INFO - 2021-03-03 11:53:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 11:53:17 --> Fetching IIQA Details
+INFO - 2021-03-03 12:25:09 --> Controller "App\Controllers\UtilFunction" loaded.
+CRITICAL - 2021-03-03 12:25:09 --> Unknown column 'select' in 'field list'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `select`...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `select`...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `select`...')
+#3 /var/www/html/salesdiary.egenius.in/server/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `select`...', Array, false)
+#4 /var/www/html/salesdiary.egenius.in/server/app/Controllers/UtilFunction.php(16): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\UtilFunction->getDataByQueryId()
+#6 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UtilFunction))
+#7 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-03-03 12:27:13 --> Controller "App\Controllers\UtilFunction" loaded.
+CRITICAL - 2021-03-03 12:27:13 --> Unknown column 'select' in 'field list'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Database/MySQLi/Connection.php(330): mysqli->query('SELECT `select`...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/Database/BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `select`...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/Database/BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `select`...')
+#3 /var/www/html/salesdiary.egenius.in/server/system/Database/BaseBuilder.php(1819): CodeIgniter\Database\BaseConnection->query('SELECT `select`...', Array, false)
+#4 /var/www/html/salesdiary.egenius.in/server/app/Controllers/UtilFunction.php(16): CodeIgniter\Database\BaseBuilder->get()
+#5 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\UtilFunction->getDataByQueryId()
+#6 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UtilFunction))
+#7 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+INFO - 2021-03-03 12:30:34 --> Controller "App\Controllers\UtilFunction" loaded.
+ERROR - 2021-03-03 12:30:34 --> Unknown column 'select' in 'field list'
+INFO - 2021-03-03 12:31:00 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 12:47:05 --> Controller "App\Controllers\UtilFunction" loaded.
+ERROR - 2021-03-03 12:47:05 --> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DISTINCT(main_module) AS VALUE FROM user_menu' at line 1
+INFO - 2021-03-03 12:49:03 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 12:49:52 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 12:50:50 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 12:50:50 --> Fetching Dashboard details
+INFO - 2021-03-03 12:50:50 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 12:50:50 --> Fetching IIQA Details
+INFO - 2021-03-03 12:50:50 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 12:50:50 --> Fetching All User details
+INFO - 2021-03-03 13:20:25 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 13:20:25 --> Fetching IIQA Details
+INFO - 2021-03-03 13:20:25 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 13:20:25 --> Fetching All User details
+INFO - 2021-03-03 13:20:30 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 13:20:30 --> Fetching IIQA Details
+INFO - 2021-03-03 13:20:30 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 13:20:30 --> Fetching IIQA Details
+INFO - 2021-03-03 13:21:38 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 13:21:38 --> Fetching IIQA Details
+INFO - 2021-03-03 13:21:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 13:21:38 --> Fetching All User details
+INFO - 2021-03-03 13:21:50 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 13:21:50 --> Fetching IIQA Details
+INFO - 2021-03-03 13:21:50 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 13:21:50 --> Fetching IIQA Details
+INFO - 2021-03-03 13:24:00 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 13:24:00 --> Fetching IIQA Details
+INFO - 2021-03-03 13:24:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 13:24:00 --> Fetching All User details
+INFO - 2021-03-03 13:24:54 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 13:24:54 --> Fetching IIQA Details
+INFO - 2021-03-03 13:24:54 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 13:24:54 --> Fetching IIQA Details
+INFO - 2021-03-03 13:24:55 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 13:57:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 13:57:38 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 13:57:38 --> Fetching All User details
+INFO - 2021-03-03 13:57:38 --> Fetching IIQA Details
+INFO - 2021-03-03 13:58:26 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 13:58:26 --> Fetching IIQA Details
+INFO - 2021-03-03 13:58:26 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 13:58:26 --> Fetching All User details
+INFO - 2021-03-03 13:58:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 13:58:28 --> Fetching IIQA Details
+INFO - 2021-03-03 13:58:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 13:58:28 --> Fetching IIQA Details
+INFO - 2021-03-03 13:58:29 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 13:59:57 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 13:59:57 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 13:59:57 --> Fetching All User details
+INFO - 2021-03-03 13:59:57 --> Fetching IIQA Details
+INFO - 2021-03-03 14:01:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:01:28 --> Fetching All User details
+INFO - 2021-03-03 14:01:28 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:01:28 --> Fetching IIQA Details
+INFO - 2021-03-03 14:03:38 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:03:38 --> Fetching IIQA Details
+INFO - 2021-03-03 14:03:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:03:38 --> Fetching All User details
+INFO - 2021-03-03 14:03:45 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:03:45 --> Fetching IIQA Details
+INFO - 2021-03-03 14:03:45 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:03:45 --> Fetching IIQA Details
+INFO - 2021-03-03 14:03:50 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:03:51 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:05:18 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:05:18 --> Fetching IIQA Details
+INFO - 2021-03-03 14:05:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:05:18 --> Fetching All User details
+INFO - 2021-03-03 14:05:20 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:05:20 --> Fetching IIQA Details
+INFO - 2021-03-03 14:05:20 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:05:20 --> Fetching IIQA Details
+INFO - 2021-03-03 14:05:21 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:11:38 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:11:38 --> Fetching IIQA Details
+INFO - 2021-03-03 14:11:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:11:38 --> Fetching All User details
+INFO - 2021-03-03 14:18:15 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:18:15 --> Fetching IIQA Details
+INFO - 2021-03-03 14:18:15 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:18:15 --> Fetching All User details
+INFO - 2021-03-03 14:18:31 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:18:31 --> Fetching IIQA Details
+INFO - 2021-03-03 14:18:31 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:18:31 --> Fetching IIQA Details
+INFO - 2021-03-03 14:18:32 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:19:48 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:19:48 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:19:48 --> Fetching IIQA Details
+INFO - 2021-03-03 14:19:48 --> Fetching All User details
+INFO - 2021-03-03 14:19:50 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:19:50 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:19:50 --> Fetching IIQA Details
+INFO - 2021-03-03 14:19:50 --> Fetching IIQA Details
+INFO - 2021-03-03 14:19:51 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:20:51 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:20:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:20:51 --> Fetching IIQA Details
+INFO - 2021-03-03 14:20:51 --> Fetching All User details
+INFO - 2021-03-03 14:20:52 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:20:52 --> Fetching IIQA Details
+INFO - 2021-03-03 14:20:52 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:20:52 --> Fetching IIQA Details
+INFO - 2021-03-03 14:20:54 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:22:02 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:22:02 --> Fetching IIQA Details
+INFO - 2021-03-03 14:22:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:22:02 --> Fetching All User details
+INFO - 2021-03-03 14:25:03 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:25:03 --> Fetching IIQA Details
+INFO - 2021-03-03 14:25:03 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:25:03 --> Fetching All User details
+INFO - 2021-03-03 14:25:06 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:25:06 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:25:06 --> Fetching IIQA Details
+INFO - 2021-03-03 14:25:06 --> Fetching IIQA Details
+INFO - 2021-03-03 14:25:07 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:27:11 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:27:11 --> Fetching IIQA Details
+INFO - 2021-03-03 14:27:11 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:27:12 --> Fetching All User details
+INFO - 2021-03-03 14:27:13 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:27:13 --> Fetching IIQA Details
+INFO - 2021-03-03 14:27:13 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:27:13 --> Fetching IIQA Details
+INFO - 2021-03-03 14:27:16 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:31:13 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:31:13 --> Fetching IIQA Details
+INFO - 2021-03-03 14:31:14 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:31:14 --> Fetching All User details
+INFO - 2021-03-03 14:31:15 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:31:15 --> Fetching IIQA Details
+INFO - 2021-03-03 14:31:15 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:31:15 --> Fetching IIQA Details
+INFO - 2021-03-03 14:31:17 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:32:13 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:32:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:32:13 --> Fetching IIQA Details
+INFO - 2021-03-03 14:32:13 --> Fetching All User details
+INFO - 2021-03-03 14:32:15 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:32:15 --> Fetching IIQA Details
+INFO - 2021-03-03 14:32:15 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:32:15 --> Fetching IIQA Details
+INFO - 2021-03-03 14:32:17 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:32:53 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:32:53 --> Fetching IIQA Details
+INFO - 2021-03-03 14:32:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:32:53 --> Fetching All User details
+INFO - 2021-03-03 14:32:55 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:32:55 --> Fetching IIQA Details
+INFO - 2021-03-03 14:32:55 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:32:55 --> Fetching IIQA Details
+INFO - 2021-03-03 14:32:57 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:33:57 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:33:57 --> Fetching IIQA Details
+INFO - 2021-03-03 14:33:57 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:33:57 --> Fetching All User details
+INFO - 2021-03-03 14:34:41 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:34:41 --> Fetching IIQA Details
+INFO - 2021-03-03 14:34:41 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:34:41 --> Fetching All User details
+INFO - 2021-03-03 14:35:32 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:35:32 --> Fetching IIQA Details
+INFO - 2021-03-03 14:35:32 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:35:32 --> Fetching IIQA Details
+INFO - 2021-03-03 14:35:34 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:35:42 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:35:44 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:35:44 --> Fetching IIQA Details
+INFO - 2021-03-03 14:35:44 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:35:44 --> Fetching IIQA Details
+INFO - 2021-03-03 14:45:59 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:47:02 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:47:02 --> Fetching IIQA Details
+INFO - 2021-03-03 14:47:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:47:02 --> Fetching All User details
+INFO - 2021-03-03 14:48:51 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:48:51 --> Fetching IIQA Details
+INFO - 2021-03-03 14:48:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:48:52 --> Fetching All User details
+INFO - 2021-03-03 14:48:54 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:48:54 --> Fetching IIQA Details
+INFO - 2021-03-03 14:48:54 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:48:54 --> Fetching IIQA Details
+INFO - 2021-03-03 14:48:55 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:49:01 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:51:15 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:51:15 --> Fetching All User details
+INFO - 2021-03-03 14:51:15 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:51:15 --> Fetching IIQA Details
+INFO - 2021-03-03 14:51:21 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:51:21 --> Fetching IIQA Details
+INFO - 2021-03-03 14:51:21 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:51:21 --> Fetching IIQA Details
+INFO - 2021-03-03 14:51:22 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:51:27 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:53:36 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:53:36 --> Fetching IIQA Details
+INFO - 2021-03-03 14:53:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:53:36 --> Fetching All User details
+INFO - 2021-03-03 14:54:17 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:54:17 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:54:17 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:17 --> Fetching All User details
+INFO - 2021-03-03 14:54:23 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:23 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:23 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:23 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:27 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:27 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:28 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:54:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:31 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:31 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:31 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:31 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:54:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:54:39 --> Fetching IIQA Details
+INFO - 2021-03-03 14:55:22 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:55:22 --> Fetching IIQA Details
+INFO - 2021-03-03 14:55:22 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:55:22 --> Fetching All User details
+INFO - 2021-03-03 14:56:03 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:56:03 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:56:03 --> Fetching IIQA Details
+INFO - 2021-03-03 14:56:03 --> Fetching IIQA Details
+INFO - 2021-03-03 14:56:04 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 14:56:12 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:56:14 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:56:14 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 14:56:14 --> Fetching IIQA Details
+INFO - 2021-03-03 14:56:14 --> Fetching IIQA Details
+INFO - 2021-03-03 14:57:25 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 14:57:25 --> Fetching IIQA Details
+INFO - 2021-03-03 14:57:25 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:57:25 --> Fetching All User details
+INFO - 2021-03-03 14:58:04 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 14:58:04 --> Fetching All User details
+INFO - 2021-03-03 14:58:04 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 14:58:04 --> Fetching Dashboard details
+INFO - 2021-03-03 14:58:22 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 14:58:22 --> Fetching IIQA Details
+INFO - 2021-03-03 15:00:17 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:00:17 --> Fetching All User details
+INFO - 2021-03-03 15:00:17 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 15:00:17 --> Fetching Dashboard details
+INFO - 2021-03-03 15:00:17 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:00:17 --> Fetching All User details
+INFO - 2021-03-03 15:00:19 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 15:00:19 --> Fetching IIQA Details
+INFO - 2021-03-03 15:00:39 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:00:39 --> Fetching IIQA Details
+INFO - 2021-03-03 15:00:42 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:00:42 --> Fetching IIQA Details
+INFO - 2021-03-03 15:00:42 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:00:42 --> Fetching IIQA Details
+INFO - 2021-03-03 15:00:43 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:01:33 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:01:33 --> Fetching IIQA Details
+INFO - 2021-03-03 15:01:33 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:01:33 --> Fetching All User details
+INFO - 2021-03-03 15:01:37 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:01:37 --> Fetching IIQA Details
+INFO - 2021-03-03 15:01:37 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:01:37 --> Fetching IIQA Details
+INFO - 2021-03-03 15:01:38 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:03:11 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:03:11 --> Fetching IIQA Details
+INFO - 2021-03-03 15:03:11 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:03:11 --> Fetching All User details
+INFO - 2021-03-03 15:04:09 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:04:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:04:09 --> Fetching IIQA Details
+INFO - 2021-03-03 15:04:09 --> Fetching All User details
+INFO - 2021-03-03 15:04:37 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:04:37 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:04:37 --> Fetching IIQA Details
+INFO - 2021-03-03 15:04:37 --> Fetching All User details
+CRITICAL - 2021-03-03 15:05:59 --> syntax error, unexpected '}', expecting ';'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 15:05:59 --> syntax error, unexpected '}', expecting ';'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 15:06:35 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:06:35 --> Fetching IIQA Details
+INFO - 2021-03-03 15:06:35 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:06:35 --> Fetching All User details
+CRITICAL - 2021-03-03 15:06:37 --> syntax error, unexpected '}', expecting ';'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 15:06:37 --> syntax error, unexpected '}', expecting ';'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 15:07:46 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:07:46 --> Fetching IIQA Details
+INFO - 2021-03-03 15:07:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:07:46 --> Fetching All User details
+CRITICAL - 2021-03-03 15:07:53 --> syntax error, unexpected '}', expecting ';'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 15:07:53 --> syntax error, unexpected '}', expecting ';'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 15:08:34 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:08:34 --> Fetching IIQA Details
+INFO - 2021-03-03 15:08:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:08:34 --> Fetching All User details
+CRITICAL - 2021-03-03 15:08:44 --> syntax error, unexpected '}', expecting ';'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 15:08:44 --> syntax error, unexpected '}', expecting ';'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 15:09:23 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:09:23 --> Fetching IIQA Details
+INFO - 2021-03-03 15:09:23 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:09:23 --> Fetching All User details
+CRITICAL - 2021-03-03 15:09:31 --> syntax error, unexpected '}', expecting ';'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 15:09:31 --> syntax error, unexpected '}', expecting ';'
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 15:09:39 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:11:10 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:11:10 --> Fetching IIQA Details
+INFO - 2021-03-03 15:11:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:11:10 --> Fetching All User details
+INFO - 2021-03-03 15:11:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:11:17 --> Fetching IIQA Details
+INFO - 2021-03-03 15:11:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:11:18 --> Fetching IIQA Details
+INFO - 2021-03-03 15:12:14 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:12:32 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:18:03 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 15:18:03 --> Fetching Dashboard details
+INFO - 2021-03-03 15:18:03 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:18:03 --> Fetching All User details
+INFO - 2021-03-03 15:20:25 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 15:20:25 --> Fetching Dashboard details
+INFO - 2021-03-03 15:20:25 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:20:25 --> Fetching All User details
+INFO - 2021-03-03 15:20:26 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:20:26 --> Fetching IIQA Details
+INFO - 2021-03-03 15:20:26 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:20:26 --> Fetching All User details
+INFO - 2021-03-03 15:22:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:22:13 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 15:22:13 --> Fetching All User details
+INFO - 2021-03-03 15:22:13 --> Fetching Dashboard details
+INFO - 2021-03-03 15:22:25 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:22:25 --> Fetching IIQA Details
+INFO - 2021-03-03 15:22:25 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:22:25 --> Fetching All User details
+INFO - 2021-03-03 15:23:14 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 15:23:14 --> Fetching Dashboard details
+INFO - 2021-03-03 15:23:14 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:23:14 --> Fetching All User details
+INFO - 2021-03-03 15:23:30 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 15:23:30 --> Fetching Dashboard details
+INFO - 2021-03-03 15:23:30 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:23:30 --> Fetching All User details
+INFO - 2021-03-03 15:23:36 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:23:36 --> Fetching IIQA Details
+INFO - 2021-03-03 15:23:38 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:23:38 --> Fetching IIQA Details
+INFO - 2021-03-03 15:23:38 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:23:38 --> Fetching IIQA Details
+INFO - 2021-03-03 15:23:40 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:24:36 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:24:36 --> Fetching IIQA Details
+INFO - 2021-03-03 15:24:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:24:36 --> Fetching All User details
+INFO - 2021-03-03 15:24:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:24:39 --> Fetching IIQA Details
+INFO - 2021-03-03 15:24:39 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:24:39 --> Fetching IIQA Details
+INFO - 2021-03-03 15:24:42 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:24:50 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:24:53 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:24:53 --> Fetching IIQA Details
+INFO - 2021-03-03 15:26:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:26:10 --> Fetching All User details
+INFO - 2021-03-03 15:26:10 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:26:10 --> Fetching IIQA Details
+INFO - 2021-03-03 15:26:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:26:17 --> Fetching IIQA Details
+INFO - 2021-03-03 15:26:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:26:17 --> Fetching IIQA Details
+INFO - 2021-03-03 15:32:52 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:32:52 --> Fetching IIQA Details
+INFO - 2021-03-03 15:32:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:32:52 --> Fetching All User details
+INFO - 2021-03-03 15:32:54 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:32:54 --> Fetching IIQA Details
+INFO - 2021-03-03 15:32:54 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:32:54 --> Fetching IIQA Details
+INFO - 2021-03-03 15:32:59 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:01 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:01 --> Fetching IIQA Details
+INFO - 2021-03-03 15:33:01 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:01 --> Fetching IIQA Details
+INFO - 2021-03-03 15:33:07 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:33:07 --> Fetching IIQA Details
+INFO - 2021-03-03 15:33:07 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:33:07 --> Fetching All User details
+INFO - 2021-03-03 15:33:09 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:09 --> Fetching IIQA Details
+INFO - 2021-03-03 15:33:09 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:09 --> Fetching IIQA Details
+INFO - 2021-03-03 15:33:17 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:19 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:19 --> Fetching IIQA Details
+INFO - 2021-03-03 15:33:19 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:19 --> Fetching IIQA Details
+INFO - 2021-03-03 15:33:26 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:28 --> Fetching IIQA Details
+INFO - 2021-03-03 15:33:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:33:28 --> Fetching IIQA Details
+INFO - 2021-03-03 15:33:39 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:33:47 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:38:33 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:39:28 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:42:10 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:43:31 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:50:40 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:53:53 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:53:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:53:53 --> Fetching IIQA Details
+INFO - 2021-03-03 15:53:53 --> Fetching All User details
+INFO - 2021-03-03 15:56:02 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:56:02 --> Fetching IIQA Details
+INFO - 2021-03-03 15:56:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:56:02 --> Fetching All User details
+INFO - 2021-03-03 15:56:46 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:56:46 --> Fetching IIQA Details
+INFO - 2021-03-03 15:56:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:56:46 --> Fetching All User details
+INFO - 2021-03-03 15:57:23 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 15:57:23 --> Fetching IIQA Details
+INFO - 2021-03-03 15:57:23 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 15:57:23 --> Fetching All User details
+INFO - 2021-03-03 15:57:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:57:28 --> Fetching IIQA Details
+INFO - 2021-03-03 15:57:28 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 15:57:28 --> Fetching IIQA Details
+INFO - 2021-03-03 15:57:34 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 15:58:06 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:02:07 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:02:07 --> Fetching IIQA Details
+INFO - 2021-03-03 16:02:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:02:08 --> Fetching All User details
+INFO - 2021-03-03 16:02:11 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:02:11 --> Fetching IIQA Details
+INFO - 2021-03-03 16:02:11 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:02:11 --> Fetching IIQA Details
+INFO - 2021-03-03 16:02:14 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:07:05 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:07:05 --> Fetching IIQA Details
+INFO - 2021-03-03 16:07:05 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:07:05 --> Fetching All User details
+INFO - 2021-03-03 16:07:12 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:07:12 --> Fetching IIQA Details
+INFO - 2021-03-03 16:07:12 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:07:12 --> Fetching IIQA Details
+INFO - 2021-03-03 16:07:14 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:09:11 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:09:11 --> Fetching IIQA Details
+INFO - 2021-03-03 16:09:11 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:09:11 --> Fetching All User details
+INFO - 2021-03-03 16:09:15 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:09:15 --> Fetching IIQA Details
+INFO - 2021-03-03 16:09:16 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:09:16 --> Fetching IIQA Details
+INFO - 2021-03-03 16:09:17 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:11:24 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:11:24 --> Fetching IIQA Details
+INFO - 2021-03-03 16:11:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:11:24 --> Fetching All User details
+INFO - 2021-03-03 16:11:30 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:11:30 --> Fetching IIQA Details
+INFO - 2021-03-03 16:11:30 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:11:30 --> Fetching IIQA Details
+INFO - 2021-03-03 16:11:32 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:14:18 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:14:18 --> Fetching IIQA Details
+INFO - 2021-03-03 16:14:19 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:14:19 --> Fetching All User details
+INFO - 2021-03-03 16:15:07 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:15:07 --> Fetching All User details
+INFO - 2021-03-03 16:15:07 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:15:07 --> Fetching IIQA Details
+INFO - 2021-03-03 16:16:34 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:16:34 --> Fetching IIQA Details
+INFO - 2021-03-03 16:16:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:16:34 --> Fetching All User details
+INFO - 2021-03-03 16:17:34 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:17:34 --> Fetching IIQA Details
+INFO - 2021-03-03 16:17:34 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:17:34 --> Fetching IIQA Details
+INFO - 2021-03-03 16:17:40 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:17:50 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:17:52 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:17:52 --> Fetching IIQA Details
+INFO - 2021-03-03 16:20:28 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:20:28 --> Fetching IIQA Details
+INFO - 2021-03-03 16:20:29 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:20:29 --> Fetching All User details
+INFO - 2021-03-03 16:21:05 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:21:05 --> Fetching IIQA Details
+INFO - 2021-03-03 16:21:05 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:21:05 --> Fetching All User details
+INFO - 2021-03-03 16:21:08 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:21:08 --> Fetching IIQA Details
+INFO - 2021-03-03 16:21:08 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:21:08 --> Fetching IIQA Details
+INFO - 2021-03-03 16:21:10 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:21:23 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:21:25 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:21:25 --> Fetching IIQA Details
+INFO - 2021-03-03 16:22:34 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:22:34 --> Fetching IIQA Details
+INFO - 2021-03-03 16:22:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:22:34 --> Fetching All User details
+INFO - 2021-03-03 16:22:36 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:22:36 --> Fetching IIQA Details
+INFO - 2021-03-03 16:22:36 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:22:36 --> Fetching IIQA Details
+INFO - 2021-03-03 16:22:44 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:22:46 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:22:46 --> Fetching IIQA Details
+INFO - 2021-03-03 16:22:47 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:22:47 --> Fetching IIQA Details
+INFO - 2021-03-03 16:27:19 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:27:19 --> Fetching IIQA Details
+INFO - 2021-03-03 16:27:19 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:27:19 --> Fetching All User details
+INFO - 2021-03-03 16:27:59 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:27:59 --> Fetching IIQA Details
+INFO - 2021-03-03 16:27:59 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:27:59 --> Fetching All User details
+INFO - 2021-03-03 16:30:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:30:00 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:30:00 --> Fetching IIQA Details
+INFO - 2021-03-03 16:30:00 --> Fetching All User details
+INFO - 2021-03-03 16:30:13 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:30:13 --> Fetching IIQA Details
+INFO - 2021-03-03 16:30:13 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:30:13 --> Fetching IIQA Details
+INFO - 2021-03-03 16:30:14 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:35:16 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:35:16 --> Fetching IIQA Details
+INFO - 2021-03-03 16:35:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:35:16 --> Fetching All User details
+INFO - 2021-03-03 16:36:10 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:36:10 --> Fetching IIQA Details
+INFO - 2021-03-03 16:36:10 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:36:10 --> Fetching IIQA Details
+INFO - 2021-03-03 16:36:13 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:37:39 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:37:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:37:39 --> Fetching IIQA Details
+INFO - 2021-03-03 16:37:39 --> Fetching All User details
+INFO - 2021-03-03 16:37:43 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:37:43 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:37:43 --> Fetching IIQA Details
+INFO - 2021-03-03 16:37:43 --> Fetching IIQA Details
+INFO - 2021-03-03 16:37:44 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:38:04 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:38:06 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:38:06 --> Fetching IIQA Details
+INFO - 2021-03-03 16:38:16 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:38:16 --> Fetching IIQA Details
+INFO - 2021-03-03 16:38:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:38:16 --> Fetching All User details
+INFO - 2021-03-03 16:38:19 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:38:19 --> Fetching IIQA Details
+INFO - 2021-03-03 16:38:19 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:38:19 --> Fetching IIQA Details
+INFO - 2021-03-03 16:40:50 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:40:50 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:40:50 --> Fetching IIQA Details
+INFO - 2021-03-03 16:40:50 --> Fetching All User details
+INFO - 2021-03-03 16:44:33 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:44:33 --> Fetching IIQA Details
+INFO - 2021-03-03 16:44:35 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:44:35 --> Fetching All User details
+CRITICAL - 2021-03-03 16:44:35 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 16:44:35 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 16:46:06 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:46:06 --> Fetching IIQA Details
+INFO - 2021-03-03 16:46:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:46:06 --> Fetching All User details
+CRITICAL - 2021-03-03 16:46:08 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 16:46:08 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 16:46:50 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:46:50 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:46:50 --> Fetching All User details
+INFO - 2021-03-03 16:46:50 --> Fetching IIQA Details
+CRITICAL - 2021-03-03 16:47:04 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 16:47:04 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 16:47:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:47:13 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:47:13 --> Fetching IIQA Details
+INFO - 2021-03-03 16:47:13 --> Fetching All User details
+CRITICAL - 2021-03-03 16:47:16 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 16:47:16 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 16:47:43 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:47:43 --> Fetching IIQA Details
+INFO - 2021-03-03 16:47:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:47:43 --> Fetching All User details
+INFO - 2021-03-03 16:47:58 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:47:58 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:47:58 --> Fetching IIQA Details
+INFO - 2021-03-03 16:47:58 --> Fetching All User details
+CRITICAL - 2021-03-03 16:48:01 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 16:48:01 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 16:48:08 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:50:52 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:50:52 --> Fetching IIQA Details
+INFO - 2021-03-03 16:50:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:50:52 --> Fetching All User details
+INFO - 2021-03-03 16:51:33 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:51:33 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:51:33 --> Fetching IIQA Details
+INFO - 2021-03-03 16:51:33 --> Fetching All User details
+CRITICAL - 2021-03-03 16:51:35 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-03-03 16:51:35 --> syntax error, unexpected '->' (T_OBJECT_OPERATOR)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('UserMenu/GetAll...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('UserMenu/GetAll...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-03-03 16:52:12 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:52:12 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:52:12 --> Fetching IIQA Details
+INFO - 2021-03-03 16:52:12 --> Fetching All User details
+INFO - 2021-03-03 16:53:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:53:27 --> Fetching All User details
+INFO - 2021-03-03 16:53:27 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:53:27 --> Fetching IIQA Details
+INFO - 2021-03-03 16:53:31 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:53:31 --> Fetching IIQA Details
+INFO - 2021-03-03 16:53:32 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:53:32 --> Fetching IIQA Details
+INFO - 2021-03-03 16:53:36 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:53:45 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:53:48 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:53:48 --> Fetching IIQA Details
+INFO - 2021-03-03 16:54:26 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:54:34 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:54:36 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:54:36 --> Fetching IIQA Details
+INFO - 2021-03-03 16:54:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:54:46 --> Fetching All User details
+INFO - 2021-03-03 16:54:47 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:54:47 --> Fetching IIQA Details
+INFO - 2021-03-03 16:54:49 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:54:49 --> Fetching IIQA Details
+INFO - 2021-03-03 16:54:49 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:54:49 --> Fetching IIQA Details
+INFO - 2021-03-03 16:55:03 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:55:05 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:55:05 --> Fetching IIQA Details
+INFO - 2021-03-03 16:55:05 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:55:05 --> Fetching IIQA Details
+INFO - 2021-03-03 16:55:11 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:55:11 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:55:11 --> Fetching IIQA Details
+INFO - 2021-03-03 16:55:11 --> Fetching All User details
+INFO - 2021-03-03 16:56:03 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:56:03 --> Fetching IIQA Details
+INFO - 2021-03-03 16:56:03 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:56:03 --> Fetching All User details
+INFO - 2021-03-03 16:56:08 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:56:08 --> Fetching IIQA Details
+INFO - 2021-03-03 16:56:08 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:56:08 --> Fetching IIQA Details
+INFO - 2021-03-03 16:56:11 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:56:18 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:56:20 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:56:20 --> Fetching IIQA Details
+INFO - 2021-03-03 16:56:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:56:39 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 16:56:39 --> Fetching All User details
+INFO - 2021-03-03 16:56:39 --> Fetching Dashboard details
+INFO - 2021-03-03 16:56:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:56:43 --> Fetching All User details
+INFO - 2021-03-03 16:56:43 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:56:43 --> Fetching IIQA Details
+INFO - 2021-03-03 16:56:44 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:56:44 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:56:44 --> Fetching IIQA Details
+INFO - 2021-03-03 16:56:44 --> Fetching IIQA Details
+INFO - 2021-03-03 16:56:53 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:58:58 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:58:58 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:58:58 --> Fetching IIQA Details
+INFO - 2021-03-03 16:58:58 --> Fetching All User details
+INFO - 2021-03-03 16:59:00 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:59:00 --> Fetching IIQA Details
+INFO - 2021-03-03 16:59:01 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:59:01 --> Fetching IIQA Details
+INFO - 2021-03-03 16:59:01 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 16:59:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 16:59:27 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 16:59:27 --> Fetching IIQA Details
+INFO - 2021-03-03 16:59:27 --> Fetching All User details
+INFO - 2021-03-03 16:59:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:59:29 --> Fetching IIQA Details
+INFO - 2021-03-03 16:59:30 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 16:59:30 --> Fetching IIQA Details
+INFO - 2021-03-03 16:59:31 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 17:36:56 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 17:36:56 --> Fetching Dashboard details
+INFO - 2021-03-03 17:36:56 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 17:36:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:36:56 --> Fetching IIQA Details
+INFO - 2021-03-03 17:36:56 --> Fetching All User details
+INFO - 2021-03-03 17:37:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:37:00 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 17:37:00 --> Fetching All User details
+INFO - 2021-03-03 17:37:00 --> Fetching Dashboard details
+INFO - 2021-03-03 17:37:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:37:00 --> Fetching All User details
+INFO - 2021-03-03 17:37:04 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 17:37:04 --> Fetching IIQA Details
+INFO - 2021-03-03 17:37:08 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 17:37:08 --> Fetching IIQA Details
+INFO - 2021-03-03 17:37:10 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 17:37:10 --> Fetching IIQA Details
+INFO - 2021-03-03 17:37:10 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 17:37:10 --> Fetching IIQA Details
+INFO - 2021-03-03 17:37:14 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 17:37:42 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:37:42 --> Fetching All User details
+INFO - 2021-03-03 17:38:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:38:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:38:28 --> Fetching All User details
+INFO - 2021-03-03 17:38:57 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 17:38:57 --> Fetching Dashboard details
+INFO - 2021-03-03 17:38:57 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:38:57 --> Fetching All User details
+INFO - 2021-03-03 17:39:00 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 17:39:00 --> Fetching IIQA Details
+INFO - 2021-03-03 17:39:09 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 17:39:09 --> Fetching IIQA Details
+INFO - 2021-03-03 17:39:10 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 17:39:10 --> Fetching IIQA Details
+INFO - 2021-03-03 17:39:10 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-03-03 17:39:10 --> Fetching IIQA Details
+INFO - 2021-03-03 17:39:14 --> Controller "App\Controllers\UtilFunction" loaded.
+INFO - 2021-03-03 17:39:20 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 17:39:20 --> Fetching Dashboard details
+INFO - 2021-03-03 17:39:20 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 17:39:20 --> Fetching IIQA Details
+INFO - 2021-03-03 17:39:21 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 17:39:21 --> Fetching IIQA Details
+INFO - 2021-03-03 17:39:21 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 17:39:21 --> Fetching IIQA Details
+INFO - 2021-03-03 17:39:21 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 17:39:21 --> Fetching IIQA Details
+INFO - 2021-03-03 17:39:21 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 17:39:21 --> Fetching IIQA Details
+INFO - 2021-03-03 17:41:22 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:41:22 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:41:22 --> Fetching All User details
+INFO - 2021-03-03 17:54:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:54:07 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:54:07 --> Fetching All User details
+INFO - 2021-03-03 17:54:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:54:28 --> Fetching All User details
+INFO - 2021-03-03 17:54:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:54:55 --> Fetching All User details
+INFO - 2021-03-03 17:55:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:55:06 --> Fetching All User details
+INFO - 2021-03-03 17:55:33 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:55:33 --> Fetching All User details
+INFO - 2021-03-03 17:55:45 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:55:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:55:46 --> Fetching All User details
+INFO - 2021-03-03 17:56:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 17:56:00 --> Fetching All User details
+INFO - 2021-03-03 17:56:00 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 17:56:00 --> Fetching Dashboard details
+INFO - 2021-03-03 17:56:14 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 17:56:14 --> Fetching IIQA Details
+INFO - 2021-03-03 18:00:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 18:00:24 --> Fetching All User details
+INFO - 2021-03-03 18:00:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 18:00:24 --> Fetching All User details
+INFO - 2021-03-03 18:00:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 18:00:31 --> Fetching All User details
+INFO - 2021-03-03 18:00:31 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 18:00:31 --> Fetching Dashboard details
+INFO - 2021-03-03 18:00:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 18:00:38 --> Fetching All User details
+INFO - 2021-03-03 18:00:38 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 18:00:38 --> Fetching Dashboard details
+INFO - 2021-03-03 18:00:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 18:00:38 --> Fetching All User details
+INFO - 2021-03-03 18:00:43 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 18:00:43 --> Fetching IIQA Details
+INFO - 2021-03-03 18:00:52 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 18:00:52 --> Fetching Dashboard details
+INFO - 2021-03-03 18:00:52 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 18:00:52 --> Fetching IIQA Details
+INFO - 2021-03-03 18:00:59 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 18:00:59 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 18:00:59 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 18:00:59 --> Fetching IIQA Details
+INFO - 2021-03-03 18:00:59 --> Fetching Dashboard details
+INFO - 2021-03-03 18:00:59 --> Fetching All User details
+INFO - 2021-03-03 18:01:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 18:01:36 --> Fetching All User details
+INFO - 2021-03-03 18:01:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 18:01:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 18:01:53 --> Fetching All User details
+INFO - 2021-03-03 18:02:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 18:02:00 --> Fetching All User details
+INFO - 2021-03-03 18:02:00 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 18:02:00 --> Fetching Dashboard details
+INFO - 2021-03-03 18:02:17 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:02:29 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:02:37 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:02:45 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:03:49 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:11:33 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:11:53 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:12:09 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:12:22 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:12:28 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:12:35 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:12:39 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:12:46 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:12:51 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:13:00 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:13:05 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:13:10 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:13:13 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:13:19 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:13:53 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:13:59 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:14:34 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:14:40 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:14:46 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:14:50 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:14:55 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 18:14:55 --> Fetching IIQA Details
+INFO - 2021-03-03 18:15:01 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:15:06 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:15:12 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:15:16 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:15:20 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:15:23 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:15:27 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:15:33 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:15:37 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:15:42 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 18:23:48 --> Controller "App\Controllers\Pincode" loaded.
+INFO - 2021-03-03 19:27:32 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 19:27:32 --> Fetching All User details
+INFO - 2021-03-03 19:27:34 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 19:27:34 --> Fetching Dashboard details
+INFO - 2021-03-03 19:27:34 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 19:27:34 --> Fetching IIQA Details
+INFO - 2021-03-03 19:27:37 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-03-03 19:27:37 --> Fetching IIQA Details
+INFO - 2021-03-03 19:27:37 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 19:27:37 --> Fetching IIQA Details
+INFO - 2021-03-03 19:27:38 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 19:27:38 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-03-03 19:27:38 --> Fetching IIQA Details
+INFO - 2021-03-03 19:27:38 --> Fetching IIQA Details
+INFO - 2021-03-03 19:30:23 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 19:30:23 --> Fetching Dashboard details
+INFO - 2021-03-03 19:30:23 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-03-03 19:30:23 --> Fetching IIQA Details
+INFO - 2021-03-03 19:30:47 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 19:30:47 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 19:30:47 --> Fetching All User details
+INFO - 2021-03-03 19:30:47 --> Fetching Dashboard details
+INFO - 2021-03-03 19:30:48 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 19:30:48 --> Fetching IIQA Details
+INFO - 2021-03-03 19:30:51 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-03-03 19:30:51 --> Fetching IIQA Details
+INFO - 2021-03-03 19:30:51 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2021-03-03 19:30:51 --> Fetching IIQA Details
+INFO - 2021-03-03 19:31:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-03-03 19:31:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-03-03 19:31:55 --> Fetching Permission details
+INFO - 2021-03-03 19:31:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-03-03 19:31:55 --> Fetching Assignments Details details
+INFO - 2021-03-03 19:31:55 --> Fetching Roles details
+INFO - 2021-03-03 19:32:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 19:32:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-03-03 19:32:24 --> Fetching Roles details
+INFO - 2021-03-03 19:32:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-03-03 19:32:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-03-03 19:32:24 --> Fetching Permission details
+INFO - 2021-03-03 19:32:24 --> Fetching Assignments Details details
+INFO - 2021-03-03 19:32:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-03-03 19:32:28 --> Fetching Permission details
+INFO - 2021-03-03 19:32:33 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 19:33:57 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-03-03 19:33:57 --> Fetching Dashboard details
+INFO - 2021-03-03 19:35:25 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 19:35:25 --> Fetching All User details
+INFO - 2021-03-03 19:35:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 19:35:37 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-03-03 19:35:37 --> Fetching All User details

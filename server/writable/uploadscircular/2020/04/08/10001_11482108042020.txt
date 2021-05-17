@@ -1,0 +1,14 @@
+add phone number in user
+password as encrypted.
+other details as json consists as json.
+prefix is removed(staff_pincode).
+generate color dynamically for standard and random color.do it in frontend.
+config table->define =>featues enabled,attendance  type,key value pair.
+user table===>store otp,again required,
+configuration for otp(requred otp).
+session id  wen logged in (ui).
+subject table(yoga,pe).
+
+
+
+

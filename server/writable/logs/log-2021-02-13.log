@@ -1,0 +1,814 @@
+INFO - 2021-02-13 17:13:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 17:16:43 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2021-02-13 17:16:43 --> Class 'App\Models\ModuleDashboard_model' not found
+#0 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Roles->getUserManagementDashboardDetails()
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-02-13 17:16:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:16:43 --> Fetching Roles details
+INFO - 2021-02-13 17:16:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:16:43 --> Fetching Permission details
+INFO - 2021-02-13 17:16:52 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2021-02-13 17:16:52 --> Class 'App\Models\ModuleDashboard_model' not found
+#0 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Roles->getUserManagementDashboardDetails()
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2021-02-13 17:17:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:17:32 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:17:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:17:32 --> Fetching Roles details
+INFO - 2021-02-13 17:17:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:17:32 --> Fetching Permission details
+INFO - 2021-02-13 17:20:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:20:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:20:05 --> Fetching Permission details
+INFO - 2021-02-13 17:20:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:20:05 --> Fetching Roles details
+INFO - 2021-02-13 17:20:05 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:24:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:24:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:24:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:24:44 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:24:44 --> Fetching Permission details
+CRITICAL - 2021-02-13 17:24:44 --> Too few arguments to function App\Models\Common_model::getRoleData(), 0 passed in /var/www/html/salesdiary.egenius.in/server/app/Controllers/Roles.php on line 45 and exactly 1 expected
+#0 /var/www/html/salesdiary.egenius.in/server/app/Controllers/Roles.php(45): App\Models\Common_model->getRoleData()
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Roles->getData()
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-02-13 17:24:50 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2021-02-13 17:24:50 --> Too few arguments to function App\Models\Common_model::getRoleData(), 0 passed in /var/www/html/salesdiary.egenius.in/server/app/Controllers/Roles.php on line 45 and exactly 1 expected
+#0 /var/www/html/salesdiary.egenius.in/server/app/Controllers/Roles.php(45): App\Models\Common_model->getRoleData()
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Roles->getData()
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-02-13 17:25:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:25:13 --> Fetching Roles details
+INFO - 2021-02-13 17:25:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:25:19 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:25:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:25:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:25:19 --> Fetching Permission details
+INFO - 2021-02-13 17:25:19 --> Fetching Roles details
+INFO - 2021-02-13 17:27:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:27:20 --> Fetching Permission details
+INFO - 2021-02-13 17:27:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:27:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:27:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:27:34 --> Fetching Permission details
+INFO - 2021-02-13 17:27:34 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:27:34 --> Fetching Roles details
+INFO - 2021-02-13 17:27:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:27:45 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:27:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:27:45 --> Fetching Roles details
+INFO - 2021-02-13 17:27:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:27:45 --> Fetching Permission details
+INFO - 2021-02-13 17:28:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:28:16 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:28:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:28:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:28:16 --> Fetching Permission details
+INFO - 2021-02-13 17:28:16 --> Fetching Roles details
+INFO - 2021-02-13 17:32:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:32:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:32:55 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:32:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:32:55 --> Fetching Roles details
+INFO - 2021-02-13 17:32:55 --> Fetching Permission details
+INFO - 2021-02-13 17:32:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:32:59 --> Fetching Permission details
+INFO - 2021-02-13 17:34:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:34:24 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:34:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:34:24 --> Fetching Roles details
+INFO - 2021-02-13 17:34:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:34:24 --> Fetching Permission details
+INFO - 2021-02-13 17:34:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:34:28 --> Fetching Permission details
+INFO - 2021-02-13 17:37:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 17:37:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:37:51 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:37:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:37:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:37:51 --> Fetching Permission details
+INFO - 2021-02-13 17:37:51 --> Fetching Roles details
+INFO - 2021-02-13 17:39:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:39:07 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:39:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:39:07 --> Fetching Roles details
+INFO - 2021-02-13 17:39:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:39:07 --> Fetching Permission details
+INFO - 2021-02-13 17:46:17 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:46:17 --> Fetching Dashboard details
+INFO - 2021-02-13 17:46:19 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:46:19 --> Fetching Dashboard details
+INFO - 2021-02-13 17:46:19 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:46:19 --> Fetching IIQA Details
+INFO - 2021-02-13 17:46:21 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 17:46:21 --> Fetching IIQA Details
+INFO - 2021-02-13 17:46:21 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:46:21 --> Fetching Dashboard details
+INFO - 2021-02-13 17:46:21 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:46:21 --> Fetching IIQA Details
+INFO - 2021-02-13 17:46:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:46:23 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:46:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:46:23 --> Fetching Roles details
+INFO - 2021-02-13 17:46:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:46:23 --> Fetching Permission details
+INFO - 2021-02-13 17:46:29 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:46:29 --> Fetching Dashboard details
+INFO - 2021-02-13 17:46:29 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:46:29 --> Fetching Dashboard details
+INFO - 2021-02-13 17:46:29 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:46:29 --> Fetching IIQA Details
+INFO - 2021-02-13 17:46:30 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 17:46:30 --> Fetching IIQA Details
+INFO - 2021-02-13 17:46:30 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:46:30 --> Fetching Dashboard details
+INFO - 2021-02-13 17:46:30 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:46:30 --> Fetching IIQA Details
+INFO - 2021-02-13 17:46:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:46:31 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:46:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:46:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:46:31 --> Fetching Permission details
+INFO - 2021-02-13 17:46:31 --> Fetching Roles details
+INFO - 2021-02-13 17:46:33 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:46:33 --> Fetching Dashboard details
+INFO - 2021-02-13 17:46:34 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:46:34 --> Fetching IIQA Details
+INFO - 2021-02-13 17:46:34 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:46:34 --> Fetching Dashboard details
+INFO - 2021-02-13 17:46:34 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 17:46:34 --> Fetching IIQA Details
+INFO - 2021-02-13 17:46:35 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:46:35 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:46:35 --> Fetching IIQA Details
+INFO - 2021-02-13 17:46:35 --> Fetching Dashboard details
+INFO - 2021-02-13 17:46:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:46:37 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:46:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:46:37 --> Fetching Permission details
+INFO - 2021-02-13 17:46:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:46:37 --> Fetching Roles details
+INFO - 2021-02-13 17:46:58 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:46:58 --> Fetching Dashboard details
+INFO - 2021-02-13 17:47:01 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:47:01 --> Fetching Dashboard details
+INFO - 2021-02-13 17:47:02 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:47:02 --> Fetching Dashboard details
+INFO - 2021-02-13 17:47:02 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:47:02 --> Fetching IIQA Details
+INFO - 2021-02-13 17:47:03 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 17:47:03 --> Fetching IIQA Details
+INFO - 2021-02-13 17:47:04 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:47:04 --> Fetching Dashboard details
+INFO - 2021-02-13 17:47:04 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:47:04 --> Fetching IIQA Details
+INFO - 2021-02-13 17:47:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:47:05 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:47:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:47:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:47:05 --> Fetching Permission details
+INFO - 2021-02-13 17:47:05 --> Fetching Roles details
+INFO - 2021-02-13 17:47:14 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:47:14 --> Fetching Dashboard details
+INFO - 2021-02-13 17:47:15 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:47:15 --> Fetching Dashboard details
+INFO - 2021-02-13 17:47:15 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:47:15 --> Fetching IIQA Details
+INFO - 2021-02-13 17:47:16 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 17:47:16 --> Fetching IIQA Details
+INFO - 2021-02-13 17:47:16 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:47:16 --> Fetching Dashboard details
+INFO - 2021-02-13 17:47:17 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:47:17 --> Fetching IIQA Details
+INFO - 2021-02-13 17:47:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:47:18 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:47:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:47:18 --> Fetching Roles details
+INFO - 2021-02-13 17:47:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:47:18 --> Fetching Permission details
+INFO - 2021-02-13 17:52:09 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:52:09 --> Fetching Dashboard details
+INFO - 2021-02-13 17:52:09 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:52:09 --> Fetching IIQA Details
+INFO - 2021-02-13 17:52:10 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 17:52:10 --> Fetching IIQA Details
+INFO - 2021-02-13 17:52:29 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-13 17:52:29 --> Controller "App\Controllers\UserMenu" loaded.
+ERROR - 2021-02-13 17:52:29 --> Table 'egenius_salesdiary.user_menu' doesn't exist
+ERROR - 2021-02-13 17:52:29 --> Table 'egenius_salesdiary.user_menu' doesn't exist
+INFO - 2021-02-13 17:52:51 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 17:52:51 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 17:52:51 --> Fetching IIQA Details
+INFO - 2021-02-13 17:52:51 --> Fetching Dashboard details
+INFO - 2021-02-13 17:52:53 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 17:52:53 --> Fetching IIQA Details
+INFO - 2021-02-13 17:52:53 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-02-13 17:52:53 --> Fetching IIQA Details
+INFO - 2021-02-13 17:52:53 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-02-13 17:52:53 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-02-13 17:52:53 --> Fetching IIQA Details
+INFO - 2021-02-13 17:52:53 --> Fetching IIQA Details
+INFO - 2021-02-13 17:53:54 --> Controller "App\Controllers\InstitutePricingHistory" loaded.
+INFO - 2021-02-13 17:53:54 --> Fetching IIQA Details
+INFO - 2021-02-13 17:53:57 --> Controller "App\Controllers\InstitutePricingDetails" loaded.
+INFO - 2021-02-13 17:53:57 --> Fetching IIQA Details
+INFO - 2021-02-13 17:54:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:54:41 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 17:54:41 --> Table 'egenius_salesdiary.user_menu' doesn't exist
+ERROR - 2021-02-13 17:54:41 --> Table 'egenius_salesdiary.user_menu' doesn't exist
+INFO - 2021-02-13 17:54:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:54:41 --> Fetching Permission details
+ERROR - 2021-02-13 17:54:41 --> Table 'egenius_salesdiary.user_menu' doesn't exist
+INFO - 2021-02-13 17:54:53 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 17:54:53 --> Table 'egenius_salesdiary.user_menu' doesn't exist
+INFO - 2021-02-13 17:57:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:57:00 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:57:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:57:00 --> Fetching Roles details
+INFO - 2021-02-13 17:57:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:57:00 --> Fetching Permission details
+INFO - 2021-02-13 17:58:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:58:33 --> Fetching Assignments Details details
+INFO - 2021-02-13 17:58:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:58:33 --> Fetching Roles details
+INFO - 2021-02-13 17:58:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 17:58:34 --> Fetching Permission details
+INFO - 2021-02-13 18:00:18 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 18:00:18 --> Fetching IIQA Details
+INFO - 2021-02-13 18:01:36 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-13 18:01:36 --> Fetching IIQA Details
+INFO - 2021-02-13 18:01:36 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-13 18:01:36 --> Fetching IIQA Details
+INFO - 2021-02-13 18:05:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:05:55 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:05:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:05:55 --> Fetching Roles details
+INFO - 2021-02-13 18:05:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:05:55 --> Fetching Permission details
+INFO - 2021-02-13 18:09:31 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 18:09:31 --> Fetching IIQA Details
+INFO - 2021-02-13 18:09:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:09:33 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:09:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:09:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:09:33 --> Fetching Permission details
+INFO - 2021-02-13 18:09:33 --> Fetching Roles details
+INFO - 2021-02-13 18:13:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:13:26 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:13:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:13:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:13:26 --> Fetching Permission details
+INFO - 2021-02-13 18:13:26 --> Fetching Roles details
+INFO - 2021-02-13 18:13:40 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 18:13:40 --> Fetching IIQA Details
+INFO - 2021-02-13 18:13:40 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-13 18:13:40 --> Fetching IIQA Details
+INFO - 2021-02-13 18:13:41 --> Controller "App\Controllers\UserMenu" loaded.
+INFO - 2021-02-13 18:13:41 --> Fetching IIQA Details
+INFO - 2021-02-13 18:13:59 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:13:59 --> Fetching Dashboard details
+INFO - 2021-02-13 18:13:59 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:13:59 --> Fetching IIQA Details
+INFO - 2021-02-13 18:14:00 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 18:14:00 --> Fetching IIQA Details
+INFO - 2021-02-13 18:14:00 --> Controller "App\Controllers\InstituteDetails" loaded.
+INFO - 2021-02-13 18:14:00 --> Fetching IIQA Details
+INFO - 2021-02-13 18:14:00 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-02-13 18:14:00 --> Controller "App\Controllers\PricingDetails" loaded.
+INFO - 2021-02-13 18:14:00 --> Fetching IIQA Details
+INFO - 2021-02-13 18:14:00 --> Fetching IIQA Details
+INFO - 2021-02-13 18:14:20 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:14:20 --> Fetching Dashboard details
+INFO - 2021-02-13 18:14:31 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:14:31 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:14:31 --> Fetching IIQA Details
+INFO - 2021-02-13 18:14:31 --> Fetching Dashboard details
+INFO - 2021-02-13 18:14:32 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:14:32 --> Fetching Dashboard details
+INFO - 2021-02-13 18:15:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:15:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:15:07 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:15:07 --> Fetching Roles details
+INFO - 2021-02-13 18:15:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:15:07 --> Fetching Permission details
+INFO - 2021-02-13 18:15:39 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:15:39 --> Fetching Dashboard details
+INFO - 2021-02-13 18:16:20 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:16:20 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:16:20 --> Fetching IIQA Details
+INFO - 2021-02-13 18:16:20 --> Fetching Dashboard details
+INFO - 2021-02-13 18:17:04 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 18:17:04 --> Fetching IIQA Details
+INFO - 2021-02-13 18:17:05 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:17:05 --> Fetching Dashboard details
+INFO - 2021-02-13 18:17:05 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:17:05 --> Fetching IIQA Details
+INFO - 2021-02-13 18:17:06 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 18:17:06 --> Fetching IIQA Details
+INFO - 2021-02-13 18:20:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:20:56 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:20:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:20:56 --> Fetching Permission details
+INFO - 2021-02-13 18:20:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:20:56 --> Fetching Roles details
+INFO - 2021-02-13 18:21:53 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:21:53 --> Fetching Dashboard details
+INFO - 2021-02-13 18:21:54 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:21:54 --> Fetching Dashboard details
+INFO - 2021-02-13 18:21:54 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:21:54 --> Fetching IIQA Details
+INFO - 2021-02-13 18:21:55 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 18:21:55 --> Fetching IIQA Details
+INFO - 2021-02-13 18:21:55 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:21:55 --> Fetching Dashboard details
+INFO - 2021-02-13 18:21:55 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:21:55 --> Fetching IIQA Details
+INFO - 2021-02-13 18:21:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:21:56 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:21:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:21:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:21:56 --> Fetching Permission details
+INFO - 2021-02-13 18:21:56 --> Fetching Roles details
+INFO - 2021-02-13 18:21:59 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:21:59 --> Fetching Dashboard details
+INFO - 2021-02-13 18:21:59 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:21:59 --> Fetching IIQA Details
+INFO - 2021-02-13 18:21:59 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:21:59 --> Fetching Dashboard details
+INFO - 2021-02-13 18:22:00 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 18:22:00 --> Fetching IIQA Details
+INFO - 2021-02-13 18:22:00 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:22:00 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:22:00 --> Fetching IIQA Details
+INFO - 2021-02-13 18:22:00 --> Fetching Dashboard details
+INFO - 2021-02-13 18:22:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:22:02 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:22:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:22:02 --> Fetching Roles details
+INFO - 2021-02-13 18:22:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:22:02 --> Fetching Permission details
+INFO - 2021-02-13 18:22:04 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:22:04 --> Fetching Dashboard details
+INFO - 2021-02-13 18:22:05 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:22:05 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:22:05 --> Fetching IIQA Details
+INFO - 2021-02-13 18:22:05 --> Fetching Dashboard details
+INFO - 2021-02-13 18:22:52 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:22:52 --> Fetching Dashboard details
+INFO - 2021-02-13 18:22:53 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:22:53 --> Fetching Dashboard details
+INFO - 2021-02-13 18:22:53 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:22:53 --> Fetching IIQA Details
+INFO - 2021-02-13 18:22:54 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 18:22:54 --> Fetching IIQA Details
+INFO - 2021-02-13 18:22:55 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:22:55 --> Fetching Dashboard details
+INFO - 2021-02-13 18:22:55 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:22:55 --> Fetching IIQA Details
+INFO - 2021-02-13 18:22:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:22:56 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:22:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:22:56 --> Fetching Roles details
+INFO - 2021-02-13 18:22:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:22:56 --> Fetching Permission details
+INFO - 2021-02-13 18:22:58 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:22:58 --> Fetching Dashboard details
+INFO - 2021-02-13 18:22:58 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:22:58 --> Fetching IIQA Details
+INFO - 2021-02-13 18:22:58 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:22:59 --> Fetching Dashboard details
+INFO - 2021-02-13 18:22:59 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 18:22:59 --> Fetching IIQA Details
+INFO - 2021-02-13 18:23:00 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 18:23:00 --> Fetching IIQA Details
+INFO - 2021-02-13 18:23:00 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 18:23:00 --> Fetching Dashboard details
+INFO - 2021-02-13 18:23:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:23:01 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:23:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:23:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:23:01 --> Fetching Permission details
+INFO - 2021-02-13 18:23:01 --> Fetching Roles details
+INFO - 2021-02-13 18:25:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:25:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:25:05 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:25:05 --> Fetching Roles details
+INFO - 2021-02-13 18:25:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:25:05 --> Fetching Permission details
+INFO - 2021-02-13 18:29:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:29:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:29:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:29:34 --> Fetching Permission details
+INFO - 2021-02-13 18:29:34 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:29:34 --> Fetching Roles details
+INFO - 2021-02-13 18:29:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:29:45 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:29:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:29:45 --> Fetching Roles details
+INFO - 2021-02-13 18:29:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:29:45 --> Fetching Permission details
+INFO - 2021-02-13 18:30:12 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:30:12 --> role is not a validation rules group.
+INFO - 2021-02-13 18:30:21 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:30:21 --> role is not a validation rules group.
+INFO - 2021-02-13 18:32:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:32:48 --> Fetching Roles details
+INFO - 2021-02-13 18:32:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:32:48 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:32:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:32:48 --> Fetching Permission details
+INFO - 2021-02-13 18:33:02 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:33:02 --> role is not a validation rules group.
+INFO - 2021-02-13 18:35:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:35:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:35:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:35:57 --> Fetching Permission details
+INFO - 2021-02-13 18:35:57 --> Fetching Roles details
+INFO - 2021-02-13 18:35:57 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:36:18 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:36:18 --> array_merge(): Argument #2 is not an array
+INFO - 2021-02-13 18:36:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:37:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:37:46 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:37:46 --> array_merge(): Argument #2 is not an array
+INFO - 2021-02-13 18:37:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:38:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:38:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:38:49 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:38:49 --> Fetching Roles details
+INFO - 2021-02-13 18:38:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:38:49 --> Fetching Permission details
+INFO - 2021-02-13 18:39:20 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:39:20 --> array_merge(): Argument #2 is not an array
+INFO - 2021-02-13 18:39:25 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:39:25 --> Column 'name' cannot be null
+INFO - 2021-02-13 18:40:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:40:14 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:40:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:40:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:40:14 --> Fetching Permission details
+INFO - 2021-02-13 18:40:14 --> Fetching Roles details
+INFO - 2021-02-13 18:40:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:40:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:41:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:41:23 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:41:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:41:23 --> Fetching Roles details
+INFO - 2021-02-13 18:41:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:41:23 --> Fetching Permission details
+INFO - 2021-02-13 18:42:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:42:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:42:50 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:42:50 --> Fetching Roles details
+INFO - 2021-02-13 18:42:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:42:50 --> Fetching Permission details
+INFO - 2021-02-13 18:44:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:44:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:44:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:44:24 --> Fetching Roles details
+INFO - 2021-02-13 18:44:24 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:44:24 --> Fetching Permission details
+INFO - 2021-02-13 18:45:14 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:45:14 --> Unknown column 'id_institute' in 'field list'
+INFO - 2021-02-13 18:45:18 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:45:19 --> Unknown column 'id_institute' in 'field list'
+INFO - 2021-02-13 18:46:12 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:46:12 --> Unknown column 'id_institute' in 'field list'
+INFO - 2021-02-13 18:46:16 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:46:16 --> Unknown column 'id_institute' in 'field list'
+INFO - 2021-02-13 18:51:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:51:03 --> Fetching Permission details
+INFO - 2021-02-13 18:51:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:51:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:51:03 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:51:03 --> Fetching Roles details
+INFO - 2021-02-13 18:51:14 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:51:14 --> Unknown column 'id_institute' in 'field list'
+INFO - 2021-02-13 18:51:18 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:51:18 --> Unknown column 'id_institute' in 'field list'
+INFO - 2021-02-13 18:53:34 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:53:34 --> array_merge(): Argument #2 is not an array
+INFO - 2021-02-13 18:53:38 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:53:38 --> Column 'name' cannot be null
+INFO - 2021-02-13 18:54:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:54:30 --> Fetching Permission details
+INFO - 2021-02-13 18:54:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:54:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:54:30 --> Fetching Roles details
+INFO - 2021-02-13 18:54:30 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:54:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:54:35 --> Fetching Permission details
+INFO - 2021-02-13 18:54:39 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:54:39 --> role is not a validation rules group.
+INFO - 2021-02-13 18:54:45 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:54:45 --> role is not a validation rules group.
+INFO - 2021-02-13 18:56:04 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:56:04 --> role is not a validation rules group.
+INFO - 2021-02-13 18:56:10 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:56:10 --> role is not a validation rules group.
+INFO - 2021-02-13 18:57:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:57:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:57:38 --> Fetching Roles details
+INFO - 2021-02-13 18:57:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:57:38 --> Fetching Permission details
+INFO - 2021-02-13 18:57:38 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:57:45 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 18:57:45 --> array_merge(): Argument #2 is not an array
+INFO - 2021-02-13 18:57:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:58:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:58:38 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:58:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:58:38 --> Fetching Roles details
+INFO - 2021-02-13 18:58:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:58:38 --> Fetching Permission details
+INFO - 2021-02-13 18:59:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:59:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:59:58 --> Fetching Assignments Details details
+INFO - 2021-02-13 18:59:58 --> Fetching Roles details
+INFO - 2021-02-13 18:59:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 18:59:58 --> Fetching Permission details
+INFO - 2021-02-13 19:00:09 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 19:00:09 --> array_merge(): Argument #2 is not an array
+INFO - 2021-02-13 19:00:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:08:39 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 19:08:39 --> Column 'name' cannot be null
+INFO - 2021-02-13 19:09:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:09:21 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 19:09:21 --> array_merge(): Argument #2 is not an array
+INFO - 2021-02-13 19:09:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:09:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:09:34 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:09:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:09:34 --> Fetching Roles details
+INFO - 2021-02-13 19:09:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:09:34 --> Fetching Permission details
+INFO - 2021-02-13 19:09:51 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 19:09:51 --> array_merge(): Argument #2 is not an array
+INFO - 2021-02-13 19:09:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:11:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:11:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:11:12 --> Fetching Roles details
+INFO - 2021-02-13 19:11:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:11:12 --> Fetching Permission details
+INFO - 2021-02-13 19:11:12 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:11:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:11:21 --> Inserting Role details
+INFO - 2021-02-13 19:11:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:11:28 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:11:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:11:28 --> Fetching Roles details
+INFO - 2021-02-13 19:11:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:11:28 --> Fetching Permission details
+INFO - 2021-02-13 19:11:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:11:30 --> Fetching Permission details
+INFO - 2021-02-13 19:12:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:12:54 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:12:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:12:54 --> Fetching Roles details
+INFO - 2021-02-13 19:12:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:12:54 --> Fetching Permission details
+INFO - 2021-02-13 19:12:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:12:58 --> Fetching Permission details
+INFO - 2021-02-13 19:13:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:13:04 --> Fetching Permission details
+INFO - 2021-02-13 19:14:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:14:43 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:14:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:14:43 --> Fetching Roles details
+INFO - 2021-02-13 19:14:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:14:43 --> Fetching Permission details
+INFO - 2021-02-13 19:15:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:15:35 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:15:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:15:35 --> Fetching Permission details
+INFO - 2021-02-13 19:15:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:15:35 --> Fetching Roles details
+INFO - 2021-02-13 19:15:40 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:15:40 --> Fetching Permission details
+INFO - 2021-02-13 19:19:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:19:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:19:18 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:19:18 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2021-02-13 19:19:18 --> Too few arguments to function App\Models\Common_model::getRoleData(), 0 passed in /var/www/html/salesdiary.egenius.in/server/app/Controllers/Roles.php on line 45 and exactly 1 expected
+#0 /var/www/html/salesdiary.egenius.in/server/app/Controllers/Roles.php(45): App\Models\Common_model->getRoleData()
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Roles->getData()
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-02-13 19:19:18 --> Fetching Permission details
+INFO - 2021-02-13 19:19:24 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2021-02-13 19:19:24 --> Too few arguments to function App\Models\Common_model::getRoleData(), 0 passed in /var/www/html/salesdiary.egenius.in/server/app/Controllers/Roles.php on line 45 and exactly 1 expected
+#0 /var/www/html/salesdiary.egenius.in/server/app/Controllers/Roles.php(45): App\Models\Common_model->getRoleData()
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Roles->getData()
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-02-13 19:20:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:20:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:20:23 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:20:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:20:23 --> Fetching Roles details
+INFO - 2021-02-13 19:20:23 --> Fetching Permission details
+INFO - 2021-02-13 19:20:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:20:57 --> Fetching Permission details
+INFO - 2021-02-13 19:21:01 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 19:21:01 --> role is not a validation rules group.
+INFO - 2021-02-13 19:21:05 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2021-02-13 19:21:05 --> role is not a validation rules group.
+INFO - 2021-02-13 19:22:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:22:24 --> Updating Role details
+INFO - 2021-02-13 19:22:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:22:30 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:22:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:22:30 --> Fetching Roles details
+INFO - 2021-02-13 19:22:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:22:30 --> Fetching Permission details
+INFO - 2021-02-13 19:23:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:23:11 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:23:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:23:11 --> Fetching Roles details
+INFO - 2021-02-13 19:23:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:23:11 --> Fetching Permission details
+INFO - 2021-02-13 19:23:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:23:35 --> Inserting Role details
+INFO - 2021-02-13 19:23:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:23:43 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:23:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:23:43 --> Fetching Roles details
+INFO - 2021-02-13 19:23:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:23:43 --> Fetching Permission details
+INFO - 2021-02-13 19:23:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:23:48 --> Fetching Permission details
+INFO - 2021-02-13 19:24:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:24:52 --> Fetching Permission details
+INFO - 2021-02-13 19:25:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:25:59 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:25:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:25:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:25:59 --> Fetching Roles details
+INFO - 2021-02-13 19:25:59 --> Fetching Permission details
+INFO - 2021-02-13 19:28:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:28:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:28:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:28:03 --> Fetching Assignments Details details
+INFO - 2021-02-13 19:28:03 --> Fetching Permission details
+INFO - 2021-02-13 19:28:03 --> Fetching Roles details
+INFO - 2021-02-13 19:28:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:28:07 --> Fetching Permission details
+INFO - 2021-02-13 19:28:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:28:12 --> Updating Role details
+INFO - 2021-02-13 19:28:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:28:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:28:17 --> Fetching Permission details
+INFO - 2021-02-13 19:28:17 --> Fetching Roles details
+INFO - 2021-02-13 19:28:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 19:28:17 --> Fetching Assignments Details details
+INFO - 2021-02-13 21:31:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:31:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:31:35 --> Fetching Assignments Details details
+INFO - 2021-02-13 21:31:35 --> Fetching Roles details
+INFO - 2021-02-13 21:31:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:31:35 --> Fetching Permission details
+INFO - 2021-02-13 21:34:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:34:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:34:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:34:10 --> Fetching Assignments Details details
+INFO - 2021-02-13 21:34:10 --> Fetching Permission details
+INFO - 2021-02-13 21:34:10 --> Fetching Roles details
+INFO - 2021-02-13 21:35:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:35:16 --> Fetching Assignments Details details
+INFO - 2021-02-13 21:35:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:35:16 --> Fetching Roles details
+INFO - 2021-02-13 21:35:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:35:16 --> Fetching Permission details
+INFO - 2021-02-13 21:36:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:36:03 --> Fetching Roles details
+INFO - 2021-02-13 21:36:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:36:03 --> Fetching Assignments Details details
+INFO - 2021-02-13 21:36:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:36:03 --> Fetching Permission details
+INFO - 2021-02-13 21:36:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:36:08 --> Fetching Permission details
+INFO - 2021-02-13 21:36:40 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:36:40 --> Inserting Role details
+INFO - 2021-02-13 21:36:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:36:44 --> Fetching Assignments Details details
+INFO - 2021-02-13 21:36:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:36:44 --> Fetching Permission details
+INFO - 2021-02-13 21:36:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:36:44 --> Fetching Roles details
+INFO - 2021-02-13 21:37:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:37:10 --> Inserting Role details
+INFO - 2021-02-13 21:37:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:37:13 --> Fetching Assignments Details details
+INFO - 2021-02-13 21:37:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:37:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 21:37:14 --> Fetching Roles details
+INFO - 2021-02-13 21:37:14 --> Fetching Permission details
+INFO - 2021-02-13 21:38:59 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2021-02-13 21:38:59 --> You must set the database table to be used with your query.
+#0 /var/www/html/salesdiary.egenius.in/server/system/Model.php(1190): CodeIgniter\Database\BaseConnection->table(NULL)
+#1 /var/www/html/salesdiary.egenius.in/server/system/Model.php(1700): CodeIgniter\Model->builder()
+#2 /var/www/html/salesdiary.egenius.in/server/app/Controllers/Users.php(138): CodeIgniter\Model->__call('recursion', Array)
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Users->getHierarchy()
+#4 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#5 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+INFO - 2021-02-13 21:39:57 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 21:41:40 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2021-02-13 21:41:40 --> Unknown column 'm.maild_id' in 'field list'
+INFO - 2021-02-13 21:42:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 21:42:40 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 21:43:14 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 21:43:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:03:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:06:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:06:45 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:07:44 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:09:32 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2021-02-13 22:09:32 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResultArray()
+#0 /var/www/html/salesdiary.egenius.in/server/app/Controllers/Users.php(140): App\Models\Common_model->recursion('1')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(910): App\Controllers\Users->getHierarchy()
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2021-02-13 22:09:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:09:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:10:48 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2021-02-13 22:10:49 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-13 22:10:59 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2021-02-13 22:10:59 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2021-02-13 22:11:12 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:23:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:23:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 22:23:12 --> Fetching Assignments Details details
+INFO - 2021-02-13 22:23:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 22:23:12 --> Fetching Roles details
+INFO - 2021-02-13 22:23:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 22:23:12 --> Fetching Permission details
+INFO - 2021-02-13 22:24:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 22:24:15 --> Fetching Roles details
+INFO - 2021-02-13 22:24:58 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:27:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:27:20 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:27:25 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:28:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:28:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:29:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:30:30 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 22:31:12 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 23:34:50 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 23:35:17 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 23:35:17 --> Fetching Dashboard details
+INFO - 2021-02-13 23:35:19 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 23:35:19 --> Fetching Dashboard details
+INFO - 2021-02-13 23:35:20 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 23:35:20 --> Fetching IIQA Details
+INFO - 2021-02-13 23:35:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 23:35:22 --> Fetching Assignments Details details
+INFO - 2021-02-13 23:35:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 23:35:22 --> Fetching Roles details
+INFO - 2021-02-13 23:35:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 23:35:22 --> Fetching Permission details
+INFO - 2021-02-13 23:35:23 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 23:37:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 23:38:19 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 23:38:19 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 23:38:19 --> Fetching IIQA Details
+INFO - 2021-02-13 23:38:19 --> Fetching Dashboard details
+INFO - 2021-02-13 23:38:20 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 23:38:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 23:38:23 --> Fetching Assignments Details details
+INFO - 2021-02-13 23:38:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 23:38:23 --> Fetching Roles details
+INFO - 2021-02-13 23:38:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2021-02-13 23:38:23 --> Fetching Permission details
+INFO - 2021-02-13 23:38:26 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-13 23:38:26 --> Fetching Dashboard details
+INFO - 2021-02-13 23:38:26 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-13 23:38:26 --> Fetching IIQA Details
+INFO - 2021-02-13 23:38:26 --> Controller "App\Controllers\PricingHistory" loaded.
+INFO - 2021-02-13 23:38:26 --> Fetching IIQA Details
+INFO - 2021-02-13 23:40:22 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 23:40:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-13 23:53:23 --> Controller "App\Controllers\Users" loaded.

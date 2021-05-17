@@ -1,0 +1,852 @@
+INFO - 2020-04-15 00:31:33 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 00:31:33 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 00:31:33 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 00:31:34 --> Fetching SubjectMasters details
+INFO - 2020-04-15 00:31:34 --> Fetching Standards Section details
+INFO - 2020-04-15 00:31:34 --> Fetching Subjects details
+INFO - 2020-04-15 00:31:38 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 00:31:38 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 00:31:38 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 00:31:38 --> Fetching SubjectMasters details
+INFO - 2020-04-15 00:35:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 00:35:16 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 00:35:16 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 00:35:16 --> Fetching Standards Section details
+INFO - 2020-04-15 00:35:16 --> Fetching SubjectMasters details
+INFO - 2020-04-15 00:35:16 --> Fetching Subjects details
+INFO - 2020-04-15 00:35:26 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 00:35:26 --> Fetching Subjects details
+INFO - 2020-04-15 00:35:29 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 00:35:29 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 00:35:29 --> Fetching Standards Section details
+INFO - 2020-04-15 00:35:29 --> Fetching Subjects details
+INFO - 2020-04-15 00:35:29 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 00:35:29 --> Fetching SubjectMasters details
+INFO - 2020-04-15 00:46:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 00:46:41 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 00:46:43 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 00:46:43 --> Fetching SubjectMasters details
+INFO - 2020-04-15 00:49:27 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 00:49:28 --> Fetching Subjects details
+INFO - 2020-04-15 00:56:26 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 00:56:26 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 00:58:13 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 00:58:13 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 00:58:14 --> Fetching SubjectMasters details
+INFO - 2020-04-15 00:58:14 --> Fetching Standards Section details
+INFO - 2020-04-15 00:58:14 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 00:58:14 --> Fetching Subjects details
+INFO - 2020-04-15 00:58:16 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 00:58:16 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 00:58:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 00:58:16 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:01:24 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:01:24 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:01:24 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:01:25 --> Fetching Standards Section details
+INFO - 2020-04-15 01:01:25 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:01:25 --> Fetching Subjects details
+INFO - 2020-04-15 01:01:29 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:01:29 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:01:29 --> Fetching SubjectMasters details
+CRITICAL - 2020-04-15 01:01:29 --> Too few arguments to function App\Models\Common_model::getSubjectsStandardStatus(), 0 passed in C:\xampp\htdocs\server_4\app\Controllers\Subjects.php on line 105 and exactly 1 expected
+#0 C:\xampp\htdocs\server_4\app\Controllers\Subjects.php(105): App\Models\Common_model->getSubjectsStandardStatus()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->get_data_status()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-15 01:02:06 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 01:02:07 --> Too few arguments to function App\Models\Common_model::getSubjectsStandardStatus(), 0 passed in C:\xampp\htdocs\server_4\app\Controllers\Subjects.php on line 105 and exactly 1 expected
+#0 C:\xampp\htdocs\server_4\app\Controllers\Subjects.php(105): App\Models\Common_model->getSubjectsStandardStatus()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->get_data_status()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-15 01:02:46 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:02:46 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:02:50 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:02:50 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:02:51 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:02:51 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:03:46 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:03:46 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:03:50 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:03:50 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:03:51 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:03:51 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:03:51 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:03:51 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:04:24 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:04:25 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:04:25 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:04:25 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:04:26 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:04:26 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:04:26 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:04:26 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:04:40 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:04:40 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:05:08 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:05:08 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:07:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:07:18 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:07:18 --> Fetching Subjects details
+INFO - 2020-04-15 01:07:18 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:07:18 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:07:19 --> Fetching Standards Section details
+INFO - 2020-04-15 01:08:01 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:08:01 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:08:01 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:08:02 --> Fetching Standards Section details
+INFO - 2020-04-15 01:08:02 --> Fetching Subjects details
+INFO - 2020-04-15 01:08:02 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:08:04 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:08:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:08:04 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:08:04 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:08:17 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:08:17 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:08:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:08:17 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:08:17 --> Fetching Subjects details
+INFO - 2020-04-15 01:08:17 --> Fetching Standards Section details
+INFO - 2020-04-15 01:08:20 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:08:20 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:08:20 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:08:20 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:08:22 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:08:22 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:08:22 --> Fetching Subjects details
+INFO - 2020-04-15 01:08:22 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:08:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:08:22 --> Fetching Standards Section details
+INFO - 2020-04-15 01:08:23 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:08:23 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:08:23 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:08:23 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:08:25 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:08:25 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:08:25 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:08:25 --> Fetching Standards Section details
+INFO - 2020-04-15 01:08:25 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:08:25 --> Fetching Subjects details
+INFO - 2020-04-15 01:08:40 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:08:40 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:08:40 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:08:40 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:08:40 --> Fetching Standards Section details
+INFO - 2020-04-15 01:08:40 --> Fetching Subjects details
+INFO - 2020-04-15 01:10:59 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:10:59 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:10:59 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:11:01 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:11:01 --> Fetching Subjects details
+INFO - 2020-04-15 01:11:01 --> Fetching Standards Section details
+INFO - 2020-04-15 01:11:11 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:11:11 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:11:22 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:11:22 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:11:41 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:11:41 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:16:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:16:17 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:20:12 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:20:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:20:12 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:20:14 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:20:14 --> Fetching Standards Section details
+INFO - 2020-04-15 01:20:14 --> Fetching Subjects details
+INFO - 2020-04-15 01:21:25 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:21:25 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:21:25 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:21:25 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:21:54 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:21:54 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:21:54 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:21:54 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:21:54 --> Fetching Standards Section details
+INFO - 2020-04-15 01:21:55 --> Fetching Subjects details
+INFO - 2020-04-15 01:21:56 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:21:56 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:21:56 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:21:56 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:37:33 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:37:33 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:37:33 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:37:37 --> Fetching Standards Section details
+INFO - 2020-04-15 01:37:37 --> Fetching Subjects details
+INFO - 2020-04-15 01:37:37 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:37:44 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:37:44 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:37:44 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:37:44 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 01:43:10 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:43:10 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:43:10 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 01:43:12 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:43:12 --> Fetching Subjects details
+INFO - 2020-04-15 01:43:12 --> Fetching Standards Section details
+INFO - 2020-04-15 01:43:56 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 01:43:56 --> Fetching SubjectMasters details
+INFO - 2020-04-15 01:43:56 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 01:43:56 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 03:17:22 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-15 03:17:24 --> Inserting Circular details
+INFO - 2020-04-15 03:29:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:29:30 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 03:29:30 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:29:33 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:29:33 --> Fetching Standards Section details
+INFO - 2020-04-15 03:29:33 --> Fetching Subjects details
+INFO - 2020-04-15 03:29:36 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:29:37 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:29:37 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 03:29:37 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:32:14 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:32:14 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:32:14 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 03:32:18 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:32:18 --> Fetching Subjects details
+INFO - 2020-04-15 03:32:18 --> Fetching Standards Section details
+INFO - 2020-04-15 03:32:35 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:32:35 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 03:32:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:32:36 --> Fetching Standards Section details
+INFO - 2020-04-15 03:32:36 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:32:36 --> Fetching Subjects details
+INFO - 2020-04-15 03:32:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:32:41 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:32:41 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:32:41 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 03:34:35 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:34:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:34:35 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 03:34:37 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:34:37 --> Fetching Standards Section details
+INFO - 2020-04-15 03:34:37 --> Fetching Subjects details
+INFO - 2020-04-15 03:34:41 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:34:41 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:34:41 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:34:41 --> Fetching Subjects Section Status details
+CRITICAL - 2020-04-15 03:54:34 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjects/get_da...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjects/get_da...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-15 03:54:34 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 03:54:34 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:54:34 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:54:34 --> Fetching Standards Section details
+CRITICAL - 2020-04-15 03:54:39 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(861): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(388): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-15 03:55:42 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:55:42 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 03:55:42 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:55:43 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:55:43 --> Fetching Standards Section details
+INFO - 2020-04-15 03:55:43 --> Fetching Subjects details
+INFO - 2020-04-15 03:55:57 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:55:57 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:55:57 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:55:57 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 03:56:07 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 03:56:07 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 03:56:55 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 03:56:55 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:56:55 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:56:55 --> Fetching Subjects details
+INFO - 2020-04-15 03:56:55 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:56:56 --> Fetching Standards Section details
+INFO - 2020-04-15 03:56:58 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:56:58 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:56:58 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:56:58 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 03:57:05 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 03:57:05 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 03:59:57 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:59:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 03:59:57 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 03:59:57 --> Fetching SubjectMasters details
+INFO - 2020-04-15 03:59:57 --> Fetching Standards Section details
+INFO - 2020-04-15 03:59:57 --> Fetching Subjects details
+INFO - 2020-04-15 03:59:59 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 03:59:59 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:00:00 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:00:00 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 04:00:04 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:00:04 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:01:18 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 04:01:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:01:18 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:01:18 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:01:18 --> Fetching Standards Section details
+INFO - 2020-04-15 04:01:18 --> Fetching Subjects details
+INFO - 2020-04-15 04:01:33 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:01:33 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:01:33 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:01:33 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 04:01:36 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:01:36 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:03:26 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 04:03:26 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:03:26 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:03:26 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:03:26 --> Fetching Subjects details
+INFO - 2020-04-15 04:03:26 --> Fetching Standards Section details
+INFO - 2020-04-15 04:03:34 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:03:34 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:03:34 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:03:34 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 04:03:36 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:03:36 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:04:10 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 04:04:10 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:04:10 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:04:10 --> Fetching Standards Section details
+INFO - 2020-04-15 04:04:10 --> Fetching Subjects details
+INFO - 2020-04-15 04:04:10 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:04:12 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:04:12 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:04:12 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:04:12 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 04:04:14 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:04:15 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:04:33 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:06:13 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:06:13 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 04:06:13 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:06:13 --> Fetching Standards Section details
+INFO - 2020-04-15 04:06:13 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:06:13 --> Fetching Subjects details
+INFO - 2020-04-15 04:06:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:06:19 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:06:20 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 04:06:20 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:06:23 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:06:23 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:08:03 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:08:03 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 04:08:03 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:08:03 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:08:03 --> Fetching Subjects details
+INFO - 2020-04-15 04:08:03 --> Fetching Standards Section details
+INFO - 2020-04-15 04:08:08 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:08:08 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:08:08 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:08:08 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 04:08:12 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:08:12 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:22:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:22:04 --> Controller "App\Controllers\Standards" loaded.
+CRITICAL - 2020-04-15 04:22:04 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 C:\xampp\htdocs\server_4\system\Router\Router.php(192): CodeIgniter\Router\Router->autoRoute('subjects/get_da...')
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(785): CodeIgniter\Router\Router->handle('subjects/get_da...')
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-15 04:22:05 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:22:05 --> Fetching Standards Section details
+INFO - 2020-04-15 04:22:44 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:22:44 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 04:22:44 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:22:44 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:22:44 --> Fetching Standards Section details
+INFO - 2020-04-15 04:22:45 --> Fetching Subjects details
+INFO - 2020-04-15 04:22:48 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:22:48 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:22:48 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:22:48 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 04:22:53 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:22:53 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:28:18 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:28:19 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:30:10 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:30:10 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:30:16 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:30:16 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:30:44 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:30:44 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:30:46 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:30:46 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:30:48 --> Controller "App\Controllers\Subjects" loaded.
+CRITICAL - 2020-04-15 04:30:48 --> Call to a member function getSubjectsStandardStatus() on null
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Subjects->insert_subject()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Subjects))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 04:31:26 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:39:37 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 04:39:37 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:39:37 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:39:45 --> Fetching Standards Section details
+INFO - 2020-04-15 04:39:45 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:39:45 --> Fetching Subjects details
+INFO - 2020-04-15 04:39:53 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:39:53 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:39:53 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:39:53 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 04:39:59 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:40:03 --> Inserting Subjects details
+INFO - 2020-04-15 04:40:08 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 04:40:08 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:40:08 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:40:08 --> Fetching Standards Section details
+INFO - 2020-04-15 04:40:08 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:40:08 --> Fetching Subjects details
+INFO - 2020-04-15 04:40:10 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:40:10 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:40:10 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 04:40:10 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:40:16 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:40:16 --> Inserting Subjects details
+INFO - 2020-04-15 04:40:19 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 04:40:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:40:19 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:40:19 --> Fetching Standards Section details
+INFO - 2020-04-15 04:40:19 --> Fetching SubjectMasters details
+INFO - 2020-04-15 04:40:19 --> Fetching Subjects details
+INFO - 2020-04-15 04:40:20 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 04:40:20 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 04:40:21 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 04:40:21 --> Fetching SubjectMasters details
+INFO - 2020-04-15 05:38:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 05:38:52 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 05:38:52 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 05:38:52 --> Fetching Standards Section details
+INFO - 2020-04-15 05:38:52 --> Fetching Subjects details
+INFO - 2020-04-15 05:38:52 --> Fetching SubjectMasters details
+INFO - 2020-04-15 05:38:54 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 05:38:54 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 05:38:54 --> Fetching SubjectMasters details
+INFO - 2020-04-15 05:38:54 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 05:38:57 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 05:38:57 --> Inserting Subjects details
+INFO - 2020-04-15 05:38:59 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 05:38:59 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 05:38:59 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 05:38:59 --> Fetching SubjectMasters details
+INFO - 2020-04-15 05:38:59 --> Fetching Standards Section details
+INFO - 2020-04-15 05:38:59 --> Fetching Subjects details
+INFO - 2020-04-15 05:39:00 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 05:39:00 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 05:39:00 --> Fetching SubjectMasters details
+INFO - 2020-04-15 05:39:00 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 07:54:58 --> Controller "App\Controllers\LeaveManagements" loaded.
+INFO - 2020-04-15 07:54:59 --> Fetching All Leave details
+INFO - 2020-04-15 07:57:58 --> Controller "App\Controllers\LeaveManagements" loaded.
+CRITICAL - 2020-04-15 07:57:58 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::where()
+#0 C:\xampp\htdocs\server_4\app\Controllers\LeaveManagements.php(18): App\Models\Common_model->getLeavesApplied(NULL)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\LeaveManagements->get_data()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LeaveManagements))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-15 07:58:03 --> Controller "App\Controllers\LeaveManagements" loaded.
+CRITICAL - 2020-04-15 07:58:03 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::where()
+#0 C:\xampp\htdocs\server_4\app\Controllers\LeaveManagements.php(18): App\Models\Common_model->getLeavesApplied(NULL)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\LeaveManagements->get_data()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LeaveManagements))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-15 07:58:43 --> Controller "App\Controllers\LeaveManagements" loaded.
+INFO - 2020-04-15 07:58:43 --> Fetching All Leave details
+INFO - 2020-04-15 08:00:10 --> Controller "App\Controllers\LeaveManagements" loaded.
+INFO - 2020-04-15 08:00:10 --> Fetching All Leave details
+INFO - 2020-04-15 08:01:48 --> Controller "App\Controllers\LeaveManagements" loaded.
+INFO - 2020-04-15 08:01:48 --> Fetching Leave details with Id
+INFO - 2020-04-15 08:11:12 --> Controller "App\Controllers\LeaveManagements" loaded.
+CRITICAL - 2020-04-15 08:11:12 --> Class 'App\Controllers\DateTime' not found
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\LeaveManagements->insert_leavemanagement()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LeaveManagements))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 08:12:56 --> Controller "App\Controllers\LeaveManagements" loaded.
+CRITICAL - 2020-04-15 08:12:56 --> Class 'App\Controllers\DateTime' not found
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\LeaveManagements->insert_leavemanagement()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LeaveManagements))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 08:14:09 --> Controller "App\Controllers\LeaveManagements" loaded.
+INFO - 2020-04-15 08:26:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-15 08:26:25 --> Fetching All Leave details
+INFO - 2020-04-15 08:27:48 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-15 08:27:48 --> Fetching Leave details with Id
+INFO - 2020-04-15 08:27:53 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-15 08:27:53 --> Fetching Leave details with Id
+INFO - 2020-04-15 08:27:56 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-15 08:27:56 --> Fetching Leave details with Id
+INFO - 2020-04-15 08:30:56 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-04-15 08:30:56 --> Fetching Leave details with Id
+INFO - 2020-04-15 08:31:02 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-04-15 08:31:02 --> Fetching Leave details with Id
+INFO - 2020-04-15 08:31:10 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-04-15 08:31:10 --> Fetching All Leave details
+INFO - 2020-04-15 08:33:23 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 08:40:02 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 08:40:02 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 08:40:02 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 08:40:02 --> Fetching Standards Section details
+INFO - 2020-04-15 08:40:02 --> Fetching SubjectMasters details
+INFO - 2020-04-15 08:40:02 --> Fetching Subjects details
+INFO - 2020-04-15 08:40:04 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 08:40:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 08:40:04 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 08:40:04 --> Fetching SubjectMasters details
+INFO - 2020-04-15 08:40:07 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 08:40:07 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 08:40:07 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 08:40:07 --> Fetching Subjects details
+INFO - 2020-04-15 08:40:07 --> Fetching SubjectMasters details
+INFO - 2020-04-15 08:40:07 --> Fetching Standards Section details
+INFO - 2020-04-15 09:00:02 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 09:00:02 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 09:00:03 --> Fetching SubjectMasters details
+INFO - 2020-04-15 09:00:04 --> Fetching Subjects Section Status details
+INFO - 2020-04-15 09:00:15 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-15 09:00:15 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-15 09:00:15 --> Fetching Standards Section details
+INFO - 2020-04-15 09:00:15 --> Fetching SubjectMasters details
+INFO - 2020-04-15 09:00:15 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 09:00:15 --> Fetching Subjects details
+INFO - 2020-04-15 09:20:59 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:21:05 --> Fetching Vehicles details
+INFO - 2020-04-15 09:26:36 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:26:37 --> Fetching Vehicles details
+INFO - 2020-04-15 09:35:40 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:35:44 --> Fetching Vehicles details
+INFO - 2020-04-15 09:43:09 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:43:11 --> Fetching Vehicles details
+INFO - 2020-04-15 09:54:09 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:54:10 --> Fetching Vehicles details
+INFO - 2020-04-15 09:54:39 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:54:39 --> Fetching Vehicles details
+INFO - 2020-04-15 09:57:13 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:57:14 --> Fetching Vehicles details
+INFO - 2020-04-15 09:57:31 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:57:31 --> Updating Vehicles details
+INFO - 2020-04-15 09:57:37 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:57:37 --> Fetching Vehicles details
+INFO - 2020-04-15 09:57:42 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:57:42 --> Deleting Vehicles details
+INFO - 2020-04-15 09:57:42 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:57:42 --> Fetching Vehicles details
+INFO - 2020-04-15 09:57:47 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:57:47 --> Fetching Vehicles details
+INFO - 2020-04-15 09:58:22 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:58:22 --> Fetching Vehicles details
+INFO - 2020-04-15 09:58:55 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:58:55 --> Fetching Vehicles details
+INFO - 2020-04-15 09:59:24 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 09:59:24 --> Fetching Vehicles details
+INFO - 2020-04-15 10:04:03 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-15 10:06:30 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:06:31 --> Fetching Vehicles details
+INFO - 2020-04-15 10:07:13 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:07:13 --> Fetching Vehicles details
+INFO - 2020-04-15 10:09:20 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:09:20 --> Fetching Vehicles details
+INFO - 2020-04-15 10:09:59 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:09:59 --> Fetching Vehicles details
+INFO - 2020-04-15 10:19:56 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:19:57 --> Fetching Vehicles details
+INFO - 2020-04-15 10:24:30 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:24:32 --> Fetching Vehicles details
+INFO - 2020-04-15 10:25:10 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:25:11 --> Fetching Vehicles details
+INFO - 2020-04-15 10:28:03 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:28:03 --> Fetching Vehicles details
+INFO - 2020-04-15 10:28:43 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:28:43 --> Fetching Vehicles details
+INFO - 2020-04-15 10:29:35 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:29:35 --> Fetching Vehicles details
+INFO - 2020-04-15 10:30:10 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:30:11 --> Fetching Vehicles details
+INFO - 2020-04-15 10:37:40 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:37:44 --> Fetching Vehicles details
+INFO - 2020-04-15 10:42:58 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 10:43:02 --> Fetching Vehicles details
+INFO - 2020-04-15 11:02:09 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:02:13 --> Fetching Vehicles details
+INFO - 2020-04-15 11:09:03 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:09:05 --> Fetching Vehicles details
+INFO - 2020-04-15 11:10:47 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:10:48 --> Fetching Vehicles details
+INFO - 2020-04-15 11:14:37 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:14:38 --> Fetching Vehicles details
+INFO - 2020-04-15 11:20:18 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:20:20 --> Fetching Vehicles details
+INFO - 2020-04-15 11:21:45 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:21:46 --> Fetching Vehicles details
+INFO - 2020-04-15 11:23:04 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:23:05 --> Fetching Vehicles details
+INFO - 2020-04-15 11:26:06 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:26:06 --> Fetching Vehicles details
+INFO - 2020-04-15 11:26:36 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:26:36 --> Fetching Vehicles details
+INFO - 2020-04-15 11:27:43 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:27:43 --> Fetching Vehicles details
+INFO - 2020-04-15 11:31:27 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:31:29 --> Fetching Vehicles details
+INFO - 2020-04-15 11:34:48 --> Controller "App\Controllers\Vehicles" loaded.
+ERROR - 2020-04-15 11:34:48 --> [ERROR] Operand should contain 1 column(s) SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-15 11:36:16 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:36:17 --> Fetching Vehicles details
+INFO - 2020-04-15 11:36:52 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:36:52 --> Fetching Vehicles details
+INFO - 2020-04-15 11:37:38 --> Controller "App\Controllers\Vehicles" loaded.
+ERROR - 2020-04-15 11:37:38 --> [ERROR] Operand should contain 1 column(s) SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-15 11:39:19 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:39:22 --> Fetching Vehicles details
+INFO - 2020-04-15 11:43:34 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 11:43:35 --> Fetching Vehicles details
+INFO - 2020-04-15 11:44:08 --> Controller "App\Controllers\Vehicles" loaded.
+ERROR - 2020-04-15 11:44:08 --> [ERROR] Operand should contain 1 column(s) SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-15 11:51:11 --> Controller "App\Controllers\Vehicles" loaded.
+ERROR - 2020-04-15 11:51:12 --> [ERROR] Invalid argument supplied for foreach() APPPATH/Controllers\Vehicles.php:42
+INFO - 2020-04-15 11:51:23 --> Controller "App\Controllers\Vehicles" loaded.
+ERROR - 2020-04-15 11:51:23 --> [ERROR] Invalid argument supplied for foreach() APPPATH/Controllers\Vehicles.php:42
+INFO - 2020-04-15 12:00:03 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:00:13 --> Fetching Vehicles details
+INFO - 2020-04-15 12:00:36 --> Controller "App\Controllers\Vehicles" loaded.
+ERROR - 2020-04-15 12:00:36 --> [ERROR] Operand should contain 1 column(s) SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-15 12:04:47 --> Controller "App\Controllers\Vehicles" loaded.
+ERROR - 2020-04-15 12:04:48 --> [ERROR] Invalid argument supplied for foreach() APPPATH/Controllers\Vehicles.php:42
+INFO - 2020-04-15 12:04:50 --> Controller "App\Controllers\Vehicles" loaded.
+ERROR - 2020-04-15 12:04:50 --> [ERROR] Invalid argument supplied for foreach() APPPATH/Controllers\Vehicles.php:42
+INFO - 2020-04-15 12:06:17 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:06:18 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\server_4\app\Controllers\Vehicles.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-15 12:06:23 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:06:23 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\server_4\app\Controllers\Vehicles.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-15 12:06:43 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:06:43 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\server_4\app\Controllers\Vehicles.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-15 12:06:46 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:06:46 --> Invalid argument supplied for foreach()
+#0 C:\xampp\htdocs\server_4\app\Controllers\Vehicles.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argumen...', 'C:\\xampp\\htdocs...', 40, Array)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-15 12:10:19 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:10:19 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:10:41 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:11:13 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:11:14 --> Operand should contain 1 column(s)
+#0 C:\xampp\htdocs\server_4\system\Database\MySQLi\Connection.php(330): mysqli->query('INSERT INTO `bu...')
+#1 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `bu...')
+#2 C:\xampp\htdocs\server_4\system\Database\BaseConnection.php(666): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `bu...')
+#3 C:\xampp\htdocs\server_4\system\Database\BaseBuilder.php(2206): CodeIgniter\Database\BaseConnection->query('INSERT INTO `bu...', Array, false)
+#4 C:\xampp\htdocs\server_4\system\Model.php(722): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\server_4\app\Controllers\Vehicles.php(49): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#7 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#8 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+INFO - 2020-04-15 12:11:33 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:11:34 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:11:37 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:11:37 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:13:31 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:13:32 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:13:38 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:13:38 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:13:41 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:13:41 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:13:47 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:13:47 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:14:13 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:14:14 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:14:37 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:14:37 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:14:41 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:14:41 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:15:01 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:15:01 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:15:03 --> Controller "App\Controllers\Vehicles" loaded.
+CRITICAL - 2020-04-15 12:15:04 --> Cannot use string offset as an array
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Vehicles->insert_vehicle()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicles))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-15 12:15:10 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:15:33 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:15:57 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:16:06 --> Inserting SubjectMasters details
+INFO - 2020-04-15 12:22:01 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:22:08 --> Fetching Vehicles details
+INFO - 2020-04-15 12:23:31 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:23:32 --> Inserting SubjectMasters details
+INFO - 2020-04-15 12:23:32 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:23:33 --> Fetching Vehicles details
+INFO - 2020-04-15 12:24:21 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:24:23 --> Fetching Vehicles details
+INFO - 2020-04-15 12:25:19 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:25:22 --> Fetching Vehicles details
+INFO - 2020-04-15 12:25:27 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:25:27 --> Fetching Vehicles details
+INFO - 2020-04-15 12:25:59 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:26:00 --> Inserting SubjectMasters details
+INFO - 2020-04-15 12:26:00 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-15 12:26:00 --> Fetching Vehicles details

@@ -1,0 +1,13 @@
+.deactiveCompany{
+    background-color: #ffffff !important;
+    color: rgb(0, 0, 0) !important;
+    font-size: 0.875rem !important;
+    margin: 5px !important;
+}
+
+.activeCompany{
+    background-color: #00acc1 !important;
+    color:  #ffffff !important;
+    font-size: 0.875rem !important;
+    margin: 5px !important;
+}

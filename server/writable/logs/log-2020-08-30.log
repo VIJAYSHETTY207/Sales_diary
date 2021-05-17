@@ -1,0 +1,868 @@
+INFO - 2020-08-30 09:51:53 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-30 03:44:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 03:44:23 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 03:44:23 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 03:44:23 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 03:44:23 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 03:44:23 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 03:44:23 --> Fetching Dashboard details
+INFO - 2020-08-30 03:44:23 --> Fetching All Leave details
+INFO - 2020-08-30 03:44:23 --> Fetching Sections details
+INFO - 2020-08-30 03:44:23 --> Fetching Boards details
+INFO - 2020-08-30 03:44:23 --> Fetching All User details
+INFO - 2020-08-30 03:44:23 --> Fetching MessageGroups details
+INFO - 2020-08-30 03:44:23 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 03:44:23 --> Fetching MessageCenter details
+INFO - 2020-08-30 03:44:25 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 03:44:25 --> Fetching MessageCenter details
+INFO - 2020-08-30 03:44:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 03:44:26 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 03:44:26 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 03:44:26 --> Fetching Sections details
+INFO - 2020-08-30 03:44:26 --> Fetching MessageGroups details
+INFO - 2020-08-30 03:44:26 --> Fetching Dashboard details
+INFO - 2020-08-30 03:47:16 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 03:47:16 --> Fetching MessageGroups details
+INFO - 2020-08-30 03:47:16 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 03:47:16 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 03:47:16 --> Fetching Sections details
+INFO - 2020-08-30 03:47:16 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 03:47:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 03:47:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 03:47:16 --> Fetching All User details
+INFO - 2020-08-30 03:47:16 --> Fetching Boards details
+INFO - 2020-08-30 03:47:16 --> Fetching Dashboard details
+INFO - 2020-08-30 03:47:16 --> Fetching All Leave details
+INFO - 2020-08-30 03:47:16 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 03:47:16 --> Fetching MessageCenter details
+INFO - 2020-08-30 03:47:19 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 03:47:19 --> Fetching MessageCenter details
+INFO - 2020-08-30 03:47:21 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 03:47:21 --> Fetching Sections details
+INFO - 2020-08-30 03:47:21 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 03:47:21 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 03:47:21 --> Fetching MessageGroups details
+INFO - 2020-08-30 03:47:21 --> Fetching Dashboard details
+INFO - 2020-08-30 03:51:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 03:51:17 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 03:51:17 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 03:51:17 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 03:51:17 --> Fetching Sections details
+INFO - 2020-08-30 03:51:17 --> Fetching MessageGroups details
+INFO - 2020-08-30 03:51:17 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 03:51:17 --> Fetching All Leave details
+INFO - 2020-08-30 03:51:17 --> Fetching All User details
+INFO - 2020-08-30 03:51:17 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 03:51:17 --> Fetching Boards details
+INFO - 2020-08-30 03:51:17 --> Fetching Dashboard details
+INFO - 2020-08-30 03:51:18 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 03:51:18 --> Fetching MessageCenter details
+INFO - 2020-08-30 03:51:22 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 03:51:22 --> Fetching MessageCenter details
+INFO - 2020-08-30 03:51:23 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 03:51:23 --> Fetching Sections details
+INFO - 2020-08-30 03:51:23 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 03:51:23 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 03:51:23 --> Fetching MessageGroups details
+INFO - 2020-08-30 03:51:23 --> Fetching Dashboard details
+INFO - 2020-08-30 03:53:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 03:53:26 --> Fetching Sections details
+INFO - 2020-08-30 03:53:26 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 03:53:26 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 03:53:26 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 03:53:26 --> Fetching MessageGroups details
+INFO - 2020-08-30 03:53:26 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 03:53:26 --> Fetching All User details
+INFO - 2020-08-30 03:53:26 --> Fetching All Leave details
+INFO - 2020-08-30 03:53:26 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 03:53:26 --> Fetching Boards details
+INFO - 2020-08-30 03:53:26 --> Fetching Dashboard details
+INFO - 2020-08-30 03:53:26 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 03:53:26 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:02:33 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:02:33 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:02:36 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:02:36 --> Fetching Sections details
+INFO - 2020-08-30 04:02:36 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:02:36 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:02:36 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:02:36 --> Fetching Dashboard details
+INFO - 2020-08-30 04:04:07 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:04:07 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:04:07 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:04:07 --> Fetching Sections details
+INFO - 2020-08-30 04:04:07 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:04:07 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 04:04:07 --> Fetching Dashboard details
+INFO - 2020-08-30 04:04:07 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 04:04:07 --> Fetching All Leave details
+INFO - 2020-08-30 04:04:07 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 04:04:07 --> Fetching Boards details
+INFO - 2020-08-30 04:04:07 --> Fetching All User details
+INFO - 2020-08-30 04:04:07 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:04:07 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:04:11 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:04:11 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:04:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:04:13 --> Fetching Sections details
+INFO - 2020-08-30 04:04:13 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:04:13 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:04:13 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:04:13 --> Fetching Dashboard details
+INFO - 2020-08-30 04:04:53 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:04:53 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:04:53 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:04:53 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 04:04:53 --> Fetching Boards details
+INFO - 2020-08-30 04:04:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 04:04:53 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 04:04:53 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:04:53 --> Fetching All User details
+INFO - 2020-08-30 04:04:53 --> Fetching Sections details
+INFO - 2020-08-30 04:04:53 --> Fetching All Leave details
+INFO - 2020-08-30 04:04:53 --> Fetching Dashboard details
+INFO - 2020-08-30 04:04:53 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:04:53 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:04:57 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:04:57 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:04:58 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:04:58 --> Fetching Sections details
+INFO - 2020-08-30 04:04:58 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:04:58 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:04:58 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:04:58 --> Fetching Dashboard details
+INFO - 2020-08-30 04:10:45 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 04:10:45 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:10:45 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 04:10:45 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:10:45 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 04:10:45 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:10:45 --> Fetching Boards details
+INFO - 2020-08-30 04:10:45 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:10:45 --> Fetching All User details
+INFO - 2020-08-30 04:10:45 --> Fetching All Leave details
+INFO - 2020-08-30 04:10:45 --> Fetching Dashboard details
+INFO - 2020-08-30 04:10:45 --> Fetching Sections details
+INFO - 2020-08-30 04:10:45 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:10:45 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:10:48 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:10:48 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:10:49 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:10:49 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:10:49 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:10:49 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:10:49 --> Fetching Sections details
+INFO - 2020-08-30 04:10:49 --> Fetching Dashboard details
+INFO - 2020-08-30 04:14:40 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 04:14:40 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:14:40 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:14:40 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:14:40 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 04:14:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:14:40 --> Fetching All User details
+INFO - 2020-08-30 04:14:40 --> Fetching Boards details
+INFO - 2020-08-30 04:14:40 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 04:14:40 --> Fetching Dashboard details
+INFO - 2020-08-30 04:14:40 --> Fetching All Leave details
+INFO - 2020-08-30 04:14:40 --> Fetching Sections details
+INFO - 2020-08-30 04:14:40 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:14:40 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:14:43 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:14:43 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:14:44 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:14:44 --> Fetching Sections details
+INFO - 2020-08-30 04:14:44 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:14:44 --> Fetching Dashboard details
+INFO - 2020-08-30 04:14:44 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:14:44 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:15:36 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:15:36 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:15:36 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:15:36 --> Fetching Sections details
+INFO - 2020-08-30 04:15:36 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 04:15:36 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 04:15:36 --> Fetching Boards details
+INFO - 2020-08-30 04:15:36 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:15:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 04:15:36 --> Fetching All User details
+INFO - 2020-08-30 04:15:36 --> Fetching All Leave details
+INFO - 2020-08-30 04:15:36 --> Fetching Dashboard details
+INFO - 2020-08-30 04:15:36 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:15:36 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:15:38 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:15:38 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:15:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:15:39 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:15:39 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:15:39 --> Fetching Sections details
+INFO - 2020-08-30 04:15:39 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:15:39 --> Fetching Dashboard details
+INFO - 2020-08-30 04:21:43 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:21:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:21:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 04:21:43 --> Fetching All Leave details
+INFO - 2020-08-30 04:21:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 04:21:43 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:21:43 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:21:43 --> Fetching All User details
+INFO - 2020-08-30 04:21:43 --> Fetching Sections details
+INFO - 2020-08-30 04:21:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 04:21:43 --> Fetching Dashboard details
+INFO - 2020-08-30 04:21:43 --> Fetching Boards details
+INFO - 2020-08-30 04:21:44 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:21:44 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:22:31 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:22:31 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:22:32 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:22:32 --> Fetching Sections details
+INFO - 2020-08-30 04:22:33 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:22:33 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:22:33 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:22:33 --> Fetching Dashboard details
+INFO - 2020-08-30 04:28:12 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:28:12 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:28:12 --> Fetching Sections details
+INFO - 2020-08-30 04:28:12 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:28:12 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:28:12 --> Fetching Dashboard details
+INFO - 2020-08-30 04:28:12 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 04:28:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 04:28:12 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 04:28:12 --> Fetching Boards details
+INFO - 2020-08-30 04:28:12 --> Fetching All User details
+INFO - 2020-08-30 04:28:12 --> Fetching All Leave details
+INFO - 2020-08-30 04:28:12 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:28:12 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:28:15 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:28:15 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:28:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:28:17 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:28:17 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:28:17 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:28:17 --> Fetching Sections details
+INFO - 2020-08-30 04:28:17 --> Fetching Dashboard details
+INFO - 2020-08-30 04:29:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:29:43 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:29:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 04:29:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 04:29:43 --> Fetching Boards details
+INFO - 2020-08-30 04:29:43 --> Fetching Sections details
+INFO - 2020-08-30 04:29:43 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:29:43 --> Fetching All Leave details
+INFO - 2020-08-30 04:29:43 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:29:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 04:29:43 --> Fetching Dashboard details
+INFO - 2020-08-30 04:29:43 --> Fetching All User details
+INFO - 2020-08-30 04:29:43 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:29:43 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:35:09 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:35:09 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:35:11 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:35:11 --> Fetching Sections details
+INFO - 2020-08-30 04:35:11 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:35:11 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:35:11 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:35:11 --> Fetching Dashboard details
+INFO - 2020-08-30 04:38:22 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 04:38:22 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 04:38:22 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:38:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 04:38:22 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:38:22 --> Fetching Boards details
+INFO - 2020-08-30 04:38:22 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:38:22 --> Fetching All Leave details
+INFO - 2020-08-30 04:38:22 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:38:22 --> Fetching All User details
+INFO - 2020-08-30 04:38:22 --> Fetching Dashboard details
+INFO - 2020-08-30 04:38:22 --> Fetching Sections details
+INFO - 2020-08-30 04:38:22 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:38:22 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:38:55 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 04:38:55 --> Fetching MessageCenter details
+INFO - 2020-08-30 04:38:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 04:38:56 --> Fetching Sections details
+INFO - 2020-08-30 04:38:56 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 04:38:56 --> Fetching MessageGroups details
+INFO - 2020-08-30 04:38:56 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 04:38:56 --> Fetching Dashboard details
+INFO - 2020-08-30 05:15:02 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:15:02 --> Fetching All Leave details
+INFO - 2020-08-30 05:15:12 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:15:12 --> Fetching Sections details
+INFO - 2020-08-30 05:15:12 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 05:15:12 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 05:15:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:15:12 --> Fetching Boards details
+INFO - 2020-08-30 05:15:12 --> Fetching MessageGroups details
+INFO - 2020-08-30 05:15:12 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 05:15:12 --> Fetching All Leave details
+INFO - 2020-08-30 05:15:12 --> Fetching Dashboard details
+INFO - 2020-08-30 05:15:12 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 05:15:12 --> Fetching All User details
+INFO - 2020-08-30 05:15:12 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 05:15:12 --> Fetching MessageCenter details
+INFO - 2020-08-30 05:15:14 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 05:15:14 --> Fetching MessageCenter details
+INFO - 2020-08-30 05:15:15 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:15:15 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 05:15:15 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 05:15:15 --> Fetching MessageGroups details
+INFO - 2020-08-30 05:15:15 --> Fetching Sections details
+INFO - 2020-08-30 05:15:15 --> Fetching Dashboard details
+INFO - 2020-08-30 05:15:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:15:19 --> Fetching All Leave details
+INFO - 2020-08-30 05:16:05 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:16:05 --> Fetching Sections details
+INFO - 2020-08-30 05:16:05 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 05:16:05 --> Fetching MessageGroups details
+INFO - 2020-08-30 05:16:05 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 05:16:05 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 05:16:05 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 05:16:05 --> Fetching All User details
+INFO - 2020-08-30 05:16:05 --> Fetching Boards details
+INFO - 2020-08-30 05:16:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:16:05 --> Fetching Dashboard details
+INFO - 2020-08-30 05:16:05 --> Fetching All Leave details
+INFO - 2020-08-30 05:16:05 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 05:16:05 --> Fetching MessageCenter details
+INFO - 2020-08-30 05:16:07 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 05:16:07 --> Fetching MessageCenter details
+INFO - 2020-08-30 05:16:07 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 05:16:07 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:16:07 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 05:16:07 --> Fetching Sections details
+INFO - 2020-08-30 05:16:07 --> Fetching MessageGroups details
+INFO - 2020-08-30 05:16:07 --> Fetching Dashboard details
+INFO - 2020-08-30 05:16:11 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 05:16:11 --> Fetching MessageGroups details
+INFO - 2020-08-30 05:16:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:16:17 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 05:16:17 --> Fetching MessageGroups details
+INFO - 2020-08-30 05:16:17 --> Fetching Sections details
+INFO - 2020-08-30 05:16:17 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 05:16:17 --> Fetching Dashboard details
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-30 05:19:04 --> Fetching Boards details
+INFO - 2020-08-30 05:19:04 --> Fetching SubjectMasters details
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-30 05:19:04 --> Fetching Sections details
+INFO - 2020-08-30 05:19:04 --> Fetching Sections details
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-30 05:19:04 --> Fetching Academic year details
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:19:04 --> Fetching Subjects details
+INFO - 2020-08-30 05:19:04 --> Fetching Academic year details
+INFO - 2020-08-30 05:19:04 --> Fetching All staff details
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:19:04 --> Fetching class details
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-30 05:19:04 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:19:04 --> Fetching SubjectMasters details
+INFO - 2020-08-30 05:19:04 --> Fetching Sections details
+INFO - 2020-08-30 05:19:04 --> Fetching Sections details
+INFO - 2020-08-30 05:19:05 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:19:05 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-30 05:19:05 --> Fetching Subjects details
+INFO - 2020-08-30 05:19:08 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:19:08 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-30 05:19:08 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:19:08 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:19:08 --> Fetching SubjectMasters details
+INFO - 2020-08-30 05:19:08 --> Fetching class details
+INFO - 2020-08-30 05:19:08 --> Fetching Sections details
+INFO - 2020-08-30 05:19:08 --> Fetching Sections details
+INFO - 2020-08-30 05:19:14 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:19:37 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-30 05:19:37 --> Fetching Subjects details
+INFO - 2020-08-30 05:19:37 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-30 05:19:37 --> Fetching Subjects details
+INFO - 2020-08-30 05:19:53 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:19:53 --> Fetching Sections details
+INFO - 2020-08-30 05:19:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:19:56 --> Fetching Sections details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching Boards details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching Sections details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching SubjectMasters details
+INFO - 2020-08-30 05:20:09 --> Fetching Sections details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching All staff details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching Academic year details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching Academic year details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching Subjects details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching class details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching Sections details
+INFO - 2020-08-30 05:20:09 --> Fetching SubjectMasters details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching Sections details
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-30 05:20:09 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-30 05:20:09 --> Fetching Subjects details
+INFO - 2020-08-30 05:20:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 05:20:13 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-30 05:20:13 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:20:13 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-30 05:20:13 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 05:20:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 05:20:13 --> Fetching Boards details
+INFO - 2020-08-30 05:20:13 --> Fetching All User details
+INFO - 2020-08-30 05:20:13 --> Fetching All Leave details
+INFO - 2020-08-30 05:20:13 --> Fetching Dashboard details
+INFO - 2020-08-30 05:20:13 --> Fetching MessageGroups details
+INFO - 2020-08-30 05:20:13 --> Fetching Sections details
+INFO - 2020-08-30 05:20:14 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-30 05:20:14 --> Fetching MessageCenter details
+INFO - 2020-08-30 05:21:26 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:21:26 --> Fetching All Leave details
+INFO - 2020-08-30 05:21:26 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 05:21:26 --> Fetching Boards details
+INFO - 2020-08-30 05:21:37 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 05:21:37 --> Fetching Rooms details
+INFO - 2020-08-30 05:21:47 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 05:21:47 --> Fetching Rooms details
+INFO - 2020-08-30 05:22:21 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 05:22:21 --> Fetching Rooms details
+INFO - 2020-08-30 05:22:37 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 05:22:37 --> Updating Block details
+INFO - 2020-08-30 05:22:38 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 05:22:38 --> Fetching Boards details
+INFO - 2020-08-30 05:24:19 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 05:24:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:24:19 --> Fetching Boards details
+INFO - 2020-08-30 05:24:19 --> Fetching All Leave details
+INFO - 2020-08-30 05:26:07 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:26:07 --> Fetching All Leave details
+INFO - 2020-08-30 05:26:07 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 05:26:07 --> Fetching Boards details
+INFO - 2020-08-30 05:28:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 05:28:08 --> Fetching Sections details
+INFO - 2020-08-30 05:28:08 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 05:28:08 --> Fetching Assignments details
+INFO - 2020-08-30 05:28:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:28:08 --> Fetching All Leave details
+INFO - 2020-08-30 05:34:41 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 05:34:41 --> Fetching Users details
+INFO - 2020-08-30 05:34:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-30 05:34:49 --> Fetching Users details
+INFO - 2020-08-30 05:35:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 05:35:49 --> Fetching Sections details
+INFO - 2020-08-30 05:35:49 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 05:35:49 --> Fetching Assignments details
+INFO - 2020-08-30 05:35:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:35:49 --> Fetching All Leave details
+INFO - 2020-08-30 05:37:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 05:37:49 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 05:37:49 --> Fetching Assignments details
+INFO - 2020-08-30 05:37:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:37:49 --> Fetching All Leave details
+INFO - 2020-08-30 05:37:49 --> Fetching Sections details
+INFO - 2020-08-30 05:40:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 05:40:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 05:40:44 --> Fetching Assignments details
+INFO - 2020-08-30 05:40:44 --> Fetching Sections details
+INFO - 2020-08-30 05:40:44 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:40:44 --> Fetching All Leave details
+INFO - 2020-08-30 05:56:12 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 05:56:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 05:56:12 --> Fetching Assignments details
+INFO - 2020-08-30 05:56:12 --> Fetching Sections details
+INFO - 2020-08-30 05:56:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 05:56:12 --> Fetching All Leave details
+INFO - 2020-08-30 06:01:01 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 06:01:01 --> Updating Block details
+INFO - 2020-08-30 06:01:18 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 06:01:18 --> Fetching Boards details
+INFO - 2020-08-30 06:02:16 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 06:02:16 --> Fetching Rooms details
+INFO - 2020-08-30 06:05:27 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 06:05:27 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 06:05:27 --> Fetching FeeMaster details
+INFO - 2020-08-30 06:05:27 --> Fetching FeeMaster details
+INFO - 2020-08-30 06:05:27 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 06:05:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 06:05:27 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 06:05:27 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-30 06:05:27 --> Fetching Category details
+INFO - 2020-08-30 06:05:27 --> Fetching All Leave details
+INFO - 2020-08-30 06:05:27 --> Fetching FeeMaster details
+INFO - 2020-08-30 06:05:27 --> Fetching Sections details
+INFO - 2020-08-30 06:05:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 06:05:27 --> Fetching Sections details
+INFO - 2020-08-30 06:05:27 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-08-30 06:05:27 --> Fetching FeeDashboardDetails details
+INFO - 2020-08-30 06:05:27 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 06:05:27 --> Fetching Boards details
+INFO - 2020-08-30 06:05:28 --> Controller "App\Controllers\FeeCollectionNonStudents" loaded.
+INFO - 2020-08-30 06:05:28 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-08-30 06:05:28 --> Fetching vendor details
+INFO - 2020-08-30 07:02:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-30 07:02:19 --> Fetching Assignments Details details
+INFO - 2020-08-30 07:02:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-30 07:02:19 --> Fetching Roles details
+INFO - 2020-08-30 07:02:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-30 07:02:19 --> Fetching Permission details
+INFO - 2020-08-30 07:02:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 07:02:26 --> Fetching Sections details
+INFO - 2020-08-30 07:02:26 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 07:02:26 --> Fetching Assignments details
+INFO - 2020-08-30 07:02:26 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 07:02:26 --> Fetching All Leave details
+INFO - 2020-08-30 07:17:05 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 07:18:36 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 07:18:36 --> Fetching All Leave details
+INFO - 2020-08-30 07:18:36 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 07:18:36 --> Fetching Boards details
+INFO - 2020-08-30 07:19:12 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 07:19:12 --> Fetching Rooms details
+INFO - 2020-08-30 07:22:32 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 07:22:32 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 07:22:32 --> Fetching Boards details
+INFO - 2020-08-30 07:22:32 --> Fetching All Leave details
+INFO - 2020-08-30 07:22:42 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 07:22:42 --> Fetching Rooms details
+INFO - 2020-08-30 07:22:58 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 07:22:58 --> Fetching Rooms details
+INFO - 2020-08-30 07:23:04 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 07:23:04 --> Fetching Rooms details
+INFO - 2020-08-30 07:23:31 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 07:23:31 --> Fetching Rooms details
+INFO - 2020-08-30 07:24:20 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 07:24:20 --> Fetching Rooms details
+INFO - 2020-08-30 07:24:39 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 07:24:39 --> Fetching Rooms details
+INFO - 2020-08-30 07:27:30 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 07:27:30 --> Fetching Rooms details
+INFO - 2020-08-30 07:28:58 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 07:28:58 --> Fetching Rooms details
+INFO - 2020-08-30 07:29:32 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 07:38:08 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-08-30 07:38:08 --> Fetching Rooms details
+INFO - 2020-08-30 07:38:11 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 07:38:11 --> Fetching questionpaper details
+INFO - 2020-08-30 07:38:26 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 07:38:26 --> Fetching questionpaper details
+INFO - 2020-08-30 07:39:33 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+CRITICAL - 2020-08-30 07:39:33 --> Call to a member function getResultArray() on string
+#0 /var/www/html/server_4/app/Controllers/HostelExistingStudents.php(20): App\Models\Hostel_Queries_model->getHostelExistingStudentsData(Array)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\HostelExistingStudents->getData()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HostelExistingStudents))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-30 07:39:45 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+CRITICAL - 2020-08-30 07:39:45 --> Call to a member function getResultArray() on string
+#0 /var/www/html/server_4/app/Controllers/HostelExistingStudents.php(20): App\Models\Hostel_Queries_model->getHostelExistingStudentsData(Array)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\HostelExistingStudents->getData()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HostelExistingStudents))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-30 07:44:21 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+CRITICAL - 2020-08-30 07:44:21 --> Call to a member function getResultArray() on string
+#0 /var/www/html/server_4/app/Controllers/HostelExistingStudents.php(20): App\Models\Hostel_Queries_model->getHostelExistingStudentsData(Array)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\HostelExistingStudents->getData()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HostelExistingStudents))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-30 07:44:32 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+CRITICAL - 2020-08-30 07:44:32 --> Call to a member function getResultArray() on string
+#0 /var/www/html/server_4/app/Controllers/HostelExistingStudents.php(20): App\Models\Hostel_Queries_model->getHostelExistingStudentsData(Array)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\HostelExistingStudents->getData()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HostelExistingStudents))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-30 07:44:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 07:44:42 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 07:44:42 --> Fetching Boards details
+INFO - 2020-08-30 07:44:42 --> Fetching All Leave details
+INFO - 2020-08-30 07:45:51 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 07:45:51 --> Controller "App\Controllers\HostelBlocks" loaded.
+ERROR - 2020-08-30 07:45:51 --> Table 'institute.hostel_floor' doesn't exist
+INFO - 2020-08-30 07:45:51 --> Fetching All Leave details
+INFO - 2020-08-30 07:45:57 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 07:45:57 --> Controller "App\Controllers\Students" loaded.
+ERROR - 2020-08-30 07:45:57 --> Table 'institute.hostel_floor' doesn't exist
+INFO - 2020-08-30 07:45:57 --> Fetching All Leave details
+INFO - 2020-08-30 07:46:13 --> Controller "App\Controllers\HostelBlocks" loaded.
+ERROR - 2020-08-30 07:46:13 --> Table 'institute.hostel_floor' doesn't exist
+INFO - 2020-08-30 07:48:24 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 07:48:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 07:48:24 --> Fetching All Leave details
+INFO - 2020-08-30 07:48:24 --> Fetching Boards details
+INFO - 2020-08-30 07:48:28 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-08-30 07:48:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 07:48:28 --> Fetching Boards details
+INFO - 2020-08-30 07:48:28 --> Fetching All Leave details
+INFO - 2020-08-30 07:49:03 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 07:49:03 --> Fetching questionpaper details
+INFO - 2020-08-30 08:05:44 --> Controller "App\Controllers\HostelRents" loaded.
+ERROR - 2020-08-30 08:05:44 --> Unknown column 'id_floor' in 'field list'
+INFO - 2020-08-30 08:06:58 --> Controller "App\Controllers\HostelRents" loaded.
+INFO - 2020-08-30 08:06:58 --> Inserting Hostels details
+INFO - 2020-08-30 08:08:26 --> Controller "App\Controllers\HostelRents" loaded.
+INFO - 2020-08-30 08:08:26 --> Inserting Hostels details
+INFO - 2020-08-30 08:09:35 --> Controller "App\Controllers\HostelRents" loaded.
+INFO - 2020-08-30 08:09:35 --> Fetching Rooms Rent details
+INFO - 2020-08-30 08:09:46 --> Controller "App\Controllers\HostelRents" loaded.
+INFO - 2020-08-30 08:09:46 --> Fetching Rooms Rent details
+INFO - 2020-08-30 08:10:09 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:10:09 --> Fetching questionpaper details
+INFO - 2020-08-30 08:10:29 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:10:29 --> Fetching questionpaper details
+INFO - 2020-08-30 08:17:19 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+CRITICAL - 2020-08-30 08:17:19 --> Call to a member function getResultArray() on string
+#0 /var/www/html/server_4/app/Controllers/HostelExistingStudents.php(20): App\Models\Hostel_Queries_model->getHostelExistingStudentsData(Array)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\HostelExistingStudents->getData()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HostelExistingStudents))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-30 08:17:30 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+CRITICAL - 2020-08-30 08:17:30 --> Call to a member function getResultArray() on string
+#0 /var/www/html/server_4/app/Controllers/HostelExistingStudents.php(20): App\Models\Hostel_Queries_model->getHostelExistingStudentsData(Array)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\HostelExistingStudents->getData()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HostelExistingStudents))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-30 08:21:29 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:21:29 --> Fetching questionpaper details
+INFO - 2020-08-30 08:23:43 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:23:43 --> Fetching questionpaper details
+INFO - 2020-08-30 08:24:52 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:24:52 --> Fetching questionpaper details
+INFO - 2020-08-30 08:24:59 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:24:59 --> Fetching questionpaper details
+INFO - 2020-08-30 08:33:59 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:33:59 --> Fetching questionpaper details
+INFO - 2020-08-30 08:41:38 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:41:38 --> Fetching questionpaper details
+INFO - 2020-08-30 08:43:20 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:43:20 --> Fetching questionpaper details
+INFO - 2020-08-30 08:46:12 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:46:12 --> Fetching questionpaper details
+INFO - 2020-08-30 08:48:06 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:48:06 --> Fetching questionpaper details
+INFO - 2020-08-30 08:49:42 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:49:42 --> Fetching questionpaper details
+INFO - 2020-08-30 08:50:50 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:50:50 --> Fetching questionpaper details
+INFO - 2020-08-30 08:52:00 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:52:00 --> Fetching questionpaper details
+INFO - 2020-08-30 08:54:27 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:54:27 --> Fetching questionpaper details
+INFO - 2020-08-30 08:56:31 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:56:31 --> Fetching questionpaper details
+INFO - 2020-08-30 08:58:37 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 08:58:37 --> Fetching questionpaper details
+INFO - 2020-08-30 09:01:28 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:01:28 --> Fetching questionpaper details
+INFO - 2020-08-30 09:03:07 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:03:07 --> Fetching questionpaper details
+INFO - 2020-08-30 09:10:09 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:10:09 --> Fetching questionpaper details
+INFO - 2020-08-30 09:12:48 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:12:48 --> Fetching questionpaper details
+INFO - 2020-08-30 09:13:14 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:14:37 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:15:11 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:15:26 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:16:19 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:25:06 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 09:26:37 --> Fetching Sections details
+INFO - 2020-08-30 09:26:37 --> Fetching All Leave details
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-30 09:26:37 --> Fetching Boards details
+INFO - 2020-08-30 09:26:37 --> Fetching Academic year details
+INFO - 2020-08-30 09:26:37 --> Fetching Category details
+INFO - 2020-08-30 09:26:37 --> Fetching All Leave details
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-30 09:26:37 --> Fetching All Leave details
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 09:26:37 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-30 09:26:37 --> Fetching Sections details
+INFO - 2020-08-30 09:26:37 --> Fetching All Leave details
+INFO - 2020-08-30 09:26:37 --> Fetching Sections details
+INFO - 2020-08-30 09:26:37 --> Fetching Sections details
+INFO - 2020-08-30 09:26:38 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-30 09:26:38 --> Fetching All Leave details
+INFO - 2020-08-30 09:26:38 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-30 09:26:38 --> Fetching Sections details
+INFO - 2020-08-30 09:26:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 09:26:42 --> Fetching All Leave details
+INFO - 2020-08-30 09:27:09 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:32:29 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:34:41 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+ERROR - 2020-08-30 09:34:41 --> Unknown column 'articles' in 'field list'
+INFO - 2020-08-30 09:35:37 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+ERROR - 2020-08-30 09:35:37 --> Unknown column 'articles' in 'field list'
+INFO - 2020-08-30 09:36:34 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:37:52 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+ERROR - 2020-08-30 09:37:52 --> Unknown column 'articles' in 'field list'
+INFO - 2020-08-30 09:38:03 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:40:39 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:42:28 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+ERROR - 2020-08-30 09:42:28 --> Duplicate entry '1' for key 'PRIMARY'
+INFO - 2020-08-30 09:44:02 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 09:44:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 09:44:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 09:44:44 --> Fetching Sections details
+INFO - 2020-08-30 09:44:44 --> Fetching Assignments details
+INFO - 2020-08-30 09:44:44 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 09:44:44 --> Fetching All Leave details
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 09:52:22 --> Fetching All Leave details
+INFO - 2020-08-30 09:52:22 --> Fetching FeeMaster details
+INFO - 2020-08-30 09:52:22 --> Fetching Sections details
+INFO - 2020-08-30 09:52:22 --> Fetching FeeMaster details
+INFO - 2020-08-30 09:52:22 --> Fetching FeeMaster details
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-30 09:52:22 --> Fetching Category details
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 09:52:22 --> Fetching Sections details
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-08-30 09:52:22 --> Fetching FeeDashboardDetails details
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\FeeCollectionNonStudents" loaded.
+INFO - 2020-08-30 09:52:22 --> Fetching Boards details
+INFO - 2020-08-30 09:52:22 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-08-30 09:52:22 --> Fetching vendor details
+INFO - 2020-08-30 10:01:25 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 10:01:25 --> Fetching FeeMaster details
+INFO - 2020-08-30 10:01:44 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 10:01:44 --> Fetching All Leave details
+INFO - 2020-08-30 10:02:32 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 10:02:32 --> Fetching All Leave details
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 10:03:54 --> Fetching FeeMaster details
+INFO - 2020-08-30 10:03:54 --> Fetching FeeMaster details
+INFO - 2020-08-30 10:03:54 --> Fetching Sections details
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 10:03:54 --> Fetching All Leave details
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-30 10:03:54 --> Fetching FeeMaster details
+INFO - 2020-08-30 10:03:54 --> Fetching Category details
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 10:03:54 --> Fetching Sections details
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\FeeCollectionNonStudents" loaded.
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-08-30 10:03:54 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-08-30 10:03:54 --> Fetching Boards details
+INFO - 2020-08-30 10:03:54 --> Fetching vendor details
+INFO - 2020-08-30 10:03:54 --> Fetching FeeDashboardDetails details
+INFO - 2020-08-30 10:04:41 --> Controller "App\Controllers\Vendors" loaded.
+INFO - 2020-08-30 10:04:41 --> Fetching vendor heading details
+INFO - 2020-08-30 10:04:57 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 10:04:57 --> Fetching All Leave details
+INFO - 2020-08-30 10:05:03 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 10:05:03 --> Fetching FeeMaster details
+INFO - 2020-08-30 10:21:48 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-30 10:21:48 --> Fetching FeeMaster details
+INFO - 2020-08-30 22:35:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 22:35:39 --> Fetching Sections details
+INFO - 2020-08-30 22:35:39 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 22:35:39 --> Fetching Assignments details
+INFO - 2020-08-30 22:35:39 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 22:35:39 --> Fetching All Leave details
+INFO - 2020-08-30 22:54:55 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+ERROR - 2020-08-30 22:54:55 --> Column 'floor_no' in where clause is ambiguous
+INFO - 2020-08-30 22:56:01 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 22:56:01 --> Fetching questionpaper details
+INFO - 2020-08-30 22:57:55 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 22:57:55 --> Fetching questionpaper details
+INFO - 2020-08-30 22:58:52 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 22:58:52 --> Fetching questionpaper details
+INFO - 2020-08-30 23:00:08 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+CRITICAL - 2020-08-30 23:00:08 --> Call to a member function getResultArray() on string
+#0 /var/www/html/server_4/app/Controllers/HostelExistingStudents.php(77): App\Models\Hostel_Queries_model->getHostelStudentData(Array)
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\HostelExistingStudents->getHostelEntryDetails()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\HostelExistingStudents))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-30 23:01:39 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 23:01:39 --> Fetching questionpaper details
+INFO - 2020-08-30 23:03:02 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 23:03:02 --> Fetching questionpaper details
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-30 23:03:49 --> Fetching Boards details
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-30 23:03:49 --> Fetching Academic year details
+INFO - 2020-08-30 23:03:49 --> Fetching Assignments Details details
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 23:03:49 --> Fetching Sections details
+INFO - 2020-08-30 23:03:49 --> Fetching Assignments details
+INFO - 2020-08-30 23:03:49 --> Fetching Subjects details
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 23:03:49 --> Fetching Assignments Id details
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 23:03:49 --> Fetching Assignments Grade details
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 23:03:49 --> Fetching Sections details
+INFO - 2020-08-30 23:03:49 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 23:03:49 --> Fetching Assignments Details details
+INFO - 2020-08-30 23:04:26 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-30 23:04:26 --> Fetching All Leave details
+INFO - 2020-08-30 23:04:26 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-30 23:04:26 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 23:04:26 --> Fetching Assignments details
+INFO - 2020-08-30 23:04:26 --> Fetching Subjects details
+INFO - 2020-08-30 23:04:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-30 23:04:55 --> Fetching Permission details
+INFO - 2020-08-30 23:04:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-30 23:04:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-30 23:04:55 --> Fetching Roles details
+INFO - 2020-08-30 23:04:55 --> Fetching Assignments Details details
+INFO - 2020-08-30 23:05:04 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-30 23:05:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-30 23:05:04 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-30 23:05:04 --> Fetching Assignments details
+INFO - 2020-08-30 23:05:04 --> Fetching All Leave details
+INFO - 2020-08-30 23:05:04 --> Fetching Sections details
+INFO - 2020-08-30 23:06:42 --> Controller "App\Controllers\HostelExistingStudents" loaded.
+INFO - 2020-08-30 23:06:42 --> Fetching questionpaper details

@@ -1,0 +1,61 @@
+INFO - 2020-04-17 00:49:47 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-17 00:49:47 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-17 00:49:47 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-17 00:49:47 --> Fetching Standards Section details
+INFO - 2020-04-17 00:49:47 --> Fetching SubjectMasters details
+INFO - 2020-04-17 00:49:47 --> Fetching Subjects details
+INFO - 2020-04-17 00:50:15 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-17 00:50:15 --> Fetching Sections details
+INFO - 2020-04-17 00:50:17 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-04-17 00:50:17 --> Fetching Feedback details
+INFO - 2020-04-17 00:50:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-17 00:50:24 --> Fetching Sections details
+INFO - 2020-04-17 01:12:13 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-17 01:12:13 --> Fetching Vehicles details
+INFO - 2020-04-17 01:12:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-17 01:12:24 --> Inserting LeaveTypes details
+INFO - 2020-04-17 01:22:40 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-17 01:22:40 --> got file
+INFO - 2020-04-17 01:22:40 --> Inserting LeaveTypes details
+CRITICAL - 2020-04-17 01:28:35 --> syntax error, unexpected 'log_message' (T_STRING)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('students/insert...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('students/insert...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-17 01:33:07 --> syntax error, unexpected 'log_message' (T_STRING)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('students/insert...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('students/insert...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-17 01:37:08 --> syntax error, unexpected 'log_message' (T_STRING)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('students/insert...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('students/insert...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-17 01:42:45 --> syntax error, unexpected 'log_message' (T_STRING)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('students/insert...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('students/insert...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-17 01:46:20 --> syntax error, unexpected '$insert_data' (T_VARIABLE)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('students/insert...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('students/insert...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-17 02:09:17 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-04-17 02:09:17 --> Fetching All Leave details
+INFO - 2020-04-17 03:13:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-17 03:13:09 --> Fetching Sections details
+INFO - 2020-04-17 04:41:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-17 13:16:36 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-04-17 13:16:36 --> Updating Feedback details

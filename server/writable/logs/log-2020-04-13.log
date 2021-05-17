@@ -1,0 +1,1064 @@
+INFO - 2020-04-13 03:00:32 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:00:35 --> Fetching FeeMaster details
+INFO - 2020-04-13 03:20:21 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:20:22 --> Fetching FeeMaster details
+INFO - 2020-04-13 03:22:36 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:22:36 --> Inserting FeeMaster details
+INFO - 2020-04-13 03:22:38 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:22:38 --> Fetching FeeMaster details
+INFO - 2020-04-13 03:22:44 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:22:44 --> Deleting FeeMaster details
+INFO - 2020-04-13 03:22:45 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:22:45 --> Fetching FeeMaster details
+INFO - 2020-04-13 03:23:57 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:23:57 --> Fetching FeeMaster details
+INFO - 2020-04-13 03:28:48 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:28:48 --> Inserting FeeMaster details
+INFO - 2020-04-13 03:28:48 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:28:48 --> Fetching FeeMaster details
+INFO - 2020-04-13 03:28:56 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-13 03:28:56 --> updating room details
+INFO - 2020-04-13 03:29:03 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:29:03 --> Fetching FeeMaster details
+INFO - 2020-04-13 03:30:31 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 03:30:31 --> Fetching FeeMaster details
+INFO - 2020-04-13 03:30:45 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-13 03:30:46 --> Fetching Organizations details
+INFO - 2020-04-13 03:45:31 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:45:31 --> Fetching Institution details
+INFO - 2020-04-13 03:45:31 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-13 03:45:31 --> Fetching Organizations details
+INFO - 2020-04-13 03:45:42 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:45:42 --> Deleting Institution details
+INFO - 2020-04-13 03:45:42 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:45:42 --> Fetching Institution details
+INFO - 2020-04-13 03:46:53 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-13 03:46:53 --> Fetching Organizations details
+INFO - 2020-04-13 03:47:09 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-13 03:47:09 --> Inserting Organizations details
+INFO - 2020-04-13 03:47:10 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-13 03:47:10 --> Fetching Organizations details
+INFO - 2020-04-13 03:47:15 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:47:15 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-13 03:47:15 --> Fetching Institution details
+INFO - 2020-04-13 03:47:15 --> Fetching Organizations details
+INFO - 2020-04-13 03:47:27 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:47:27 --> Inserting Institution details
+INFO - 2020-04-13 03:47:28 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:47:28 --> Fetching Institution details
+INFO - 2020-04-13 03:47:32 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:47:32 --> Fetching Institution details
+INFO - 2020-04-13 03:47:32 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 03:47:32 --> Fetching Boards details
+INFO - 2020-04-13 03:47:40 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 03:47:41 --> Inserting Boards details
+INFO - 2020-04-13 03:47:41 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 03:47:41 --> Fetching Boards details
+INFO - 2020-04-13 03:47:45 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 03:47:45 --> Fetching Boards details
+INFO - 2020-04-13 03:47:45 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:47:45 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:47:45 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:47:45 --> Fetching Standards details
+INFO - 2020-04-13 03:47:45 --> Fetching Standards details
+INFO - 2020-04-13 03:47:45 --> Fetching Institution details
+INFO - 2020-04-13 03:47:45 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:47:45 --> Fetching Standards details
+INFO - 2020-04-13 03:50:48 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:50:49 --> Inserting Standards details
+INFO - 2020-04-13 03:50:49 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:50:49 --> Fetching Standards details
+INFO - 2020-04-13 03:51:06 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:51:06 --> Fetching Standards details
+INFO - 2020-04-13 03:51:06 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 03:51:06 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:51:06 --> Fetching Boards details
+INFO - 2020-04-13 03:51:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 03:51:06 --> Fetching Institution details
+INFO - 2020-04-13 03:51:06 --> Fetching Sections details
+INFO - 2020-04-13 03:51:07 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 03:51:07 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:51:07 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:51:07 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:51:07 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:51:07 --> Fetching Standards details
+INFO - 2020-04-13 03:51:07 --> Fetching Standards details
+INFO - 2020-04-13 03:51:07 --> Fetching Institution details
+INFO - 2020-04-13 03:51:07 --> Fetching Boards details
+INFO - 2020-04-13 03:51:07 --> Fetching Standards details
+INFO - 2020-04-13 03:55:14 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 03:55:14 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:55:14 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:55:14 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:55:14 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:55:14 --> Fetching Institution details
+INFO - 2020-04-13 03:55:14 --> Fetching Standards details
+INFO - 2020-04-13 03:55:14 --> Fetching Boards details
+INFO - 2020-04-13 03:55:14 --> Fetching Standards details
+INFO - 2020-04-13 03:55:15 --> Fetching Standards details
+INFO - 2020-04-13 03:58:59 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:58:59 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 03:58:59 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:58:59 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 03:58:59 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 03:58:59 --> Fetching Standards details
+INFO - 2020-04-13 03:58:59 --> Fetching Institution details
+INFO - 2020-04-13 03:58:59 --> Fetching Standards details
+INFO - 2020-04-13 03:58:59 --> Fetching Boards details
+INFO - 2020-04-13 03:58:59 --> Fetching Standards details
+INFO - 2020-04-13 04:06:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:06:12 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:06:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:06:12 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:06:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:06:19 --> Fetching Institution details
+INFO - 2020-04-13 04:06:19 --> Fetching Boards details
+INFO - 2020-04-13 04:06:19 --> Fetching Standards details
+INFO - 2020-04-13 04:06:19 --> Fetching Standards details
+INFO - 2020-04-13 04:06:19 --> Fetching Standards details
+INFO - 2020-04-13 04:09:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:09:08 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:09:08 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:09:08 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:09:08 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:09:09 --> Fetching Institution details
+INFO - 2020-04-13 04:09:09 --> Fetching Boards details
+INFO - 2020-04-13 04:09:09 --> Fetching Standards details
+INFO - 2020-04-13 04:09:09 --> Fetching Standards details
+INFO - 2020-04-13 04:09:09 --> Fetching Standards details
+INFO - 2020-04-13 04:09:25 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:09:25 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:09:25 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:09:25 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:09:25 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:09:25 --> Fetching Institution details
+INFO - 2020-04-13 04:09:25 --> Fetching Standards details
+INFO - 2020-04-13 04:09:25 --> Fetching Standards details
+INFO - 2020-04-13 04:09:25 --> Fetching Boards details
+INFO - 2020-04-13 04:09:25 --> Fetching Standards details
+INFO - 2020-04-13 04:12:13 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 04:12:13 --> Fetching FeeMaster details
+INFO - 2020-04-13 04:12:16 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:12:16 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:12:16 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:12:16 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:12:16 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:12:16 --> Fetching Standards details
+INFO - 2020-04-13 04:12:16 --> Fetching Boards details
+INFO - 2020-04-13 04:12:16 --> Fetching Standards details
+INFO - 2020-04-13 04:12:17 --> Fetching Institution details
+INFO - 2020-04-13 04:12:17 --> Fetching Standards details
+INFO - 2020-04-13 04:13:29 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:13:29 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:13:29 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:13:29 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:13:29 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:13:30 --> Fetching Boards details
+INFO - 2020-04-13 04:13:30 --> Fetching Institution details
+INFO - 2020-04-13 04:13:30 --> Fetching Standards details
+INFO - 2020-04-13 04:13:30 --> Fetching Standards details
+INFO - 2020-04-13 04:13:30 --> Fetching Standards details
+INFO - 2020-04-13 04:13:54 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:13:54 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:13:54 --> Fetching Boards details
+INFO - 2020-04-13 04:13:54 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:13:54 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:13:54 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:13:54 --> Fetching Standards details
+INFO - 2020-04-13 04:13:54 --> Fetching Standards details
+INFO - 2020-04-13 04:13:54 --> Fetching Institution details
+INFO - 2020-04-13 04:13:54 --> Fetching Standards details
+INFO - 2020-04-13 04:13:56 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:13:56 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:13:56 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:13:56 --> Fetching Boards details
+INFO - 2020-04-13 04:13:56 --> Fetching Institution details
+INFO - 2020-04-13 04:13:56 --> Fetching Standards details
+INFO - 2020-04-13 04:13:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:13:57 --> Fetching Sections details
+INFO - 2020-04-13 04:14:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:14:38 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:14:38 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:14:38 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:14:38 --> Fetching Boards details
+INFO - 2020-04-13 04:14:38 --> Fetching Sections details
+INFO - 2020-04-13 04:14:38 --> Fetching Standards details
+INFO - 2020-04-13 04:14:38 --> Fetching Institution details
+INFO - 2020-04-13 04:15:49 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:15:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:15:49 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:15:49 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:15:49 --> Fetching Boards details
+INFO - 2020-04-13 04:15:49 --> Fetching Sections details
+INFO - 2020-04-13 04:15:49 --> Fetching Institution details
+INFO - 2020-04-13 04:15:49 --> Fetching Standards details
+INFO - 2020-04-13 04:17:44 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:17:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:17:44 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:17:44 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:17:44 --> Fetching Boards details
+INFO - 2020-04-13 04:17:44 --> Fetching Standards details
+INFO - 2020-04-13 04:17:44 --> Fetching Institution details
+INFO - 2020-04-13 04:17:44 --> Fetching Sections details
+INFO - 2020-04-13 04:18:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:18:30 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:18:30 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:18:30 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:18:30 --> Fetching Boards details
+INFO - 2020-04-13 04:18:30 --> Fetching Sections details
+INFO - 2020-04-13 04:18:30 --> Fetching Institution details
+INFO - 2020-04-13 04:18:30 --> Fetching Standards details
+INFO - 2020-04-13 04:19:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:19:05 --> Inserting Sections details
+INFO - 2020-04-13 04:19:06 --> Inserting Sections details
+INFO - 2020-04-13 04:19:06 --> Inserting Sections details
+INFO - 2020-04-13 04:19:06 --> Inserting Sections details
+INFO - 2020-04-13 04:19:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:19:06 --> Fetching Sections details
+INFO - 2020-04-13 04:19:35 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:19:35 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:19:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:19:35 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:19:35 --> Fetching Institution details
+INFO - 2020-04-13 04:19:35 --> Fetching Sections details
+INFO - 2020-04-13 04:19:35 --> Fetching Standards details
+INFO - 2020-04-13 04:19:35 --> Fetching Boards details
+INFO - 2020-04-13 04:24:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:24:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:24:22 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:24:22 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:24:23 --> Fetching Boards details
+INFO - 2020-04-13 04:24:23 --> Fetching Institution details
+INFO - 2020-04-13 04:24:23 --> Fetching Sections details
+INFO - 2020-04-13 04:24:23 --> Fetching Standards details
+INFO - 2020-04-13 04:24:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:24:48 --> Updating Sections details
+INFO - 2020-04-13 04:24:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:24:52 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:24:52 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:24:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:24:52 --> Fetching Institution details
+INFO - 2020-04-13 04:24:52 --> Fetching Sections details
+INFO - 2020-04-13 04:24:52 --> Fetching Boards details
+INFO - 2020-04-13 04:24:52 --> Fetching Standards details
+INFO - 2020-04-13 04:28:36 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:28:36 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:28:36 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:28:36 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:28:36 --> Fetching Boards details
+INFO - 2020-04-13 04:28:36 --> Fetching Institution details
+INFO - 2020-04-13 04:28:36 --> Fetching Sections details
+INFO - 2020-04-13 04:28:36 --> Fetching Standards details
+INFO - 2020-04-13 04:37:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 04:37:43 --> Fetching FeeMaster details
+INFO - 2020-04-13 04:37:45 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 04:37:45 --> Fetching FeeMaster details
+INFO - 2020-04-13 04:47:42 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:47:42 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:47:42 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:47:42 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:47:42 --> Fetching Boards details
+INFO - 2020-04-13 04:47:43 --> Fetching Standards details
+INFO - 2020-04-13 04:47:43 --> Fetching Institution details
+INFO - 2020-04-13 04:47:43 --> Fetching Standards details
+INFO - 2020-04-13 04:47:43 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:47:43 --> Fetching Standards details
+INFO - 2020-04-13 04:49:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:49:43 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:49:43 --> Fetching Boards details
+INFO - 2020-04-13 04:49:43 --> Fetching Standards details
+INFO - 2020-04-13 04:49:43 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:49:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:49:43 --> Fetching Institution details
+INFO - 2020-04-13 04:49:43 --> Fetching Sections details
+INFO - 2020-04-13 04:53:21 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 04:53:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 04:53:21 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 04:53:21 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 04:53:21 --> Fetching Institution details
+INFO - 2020-04-13 04:53:21 --> Fetching Sections details
+INFO - 2020-04-13 04:53:21 --> Fetching Boards details
+INFO - 2020-04-13 04:53:21 --> Fetching Standards details
+INFO - 2020-04-13 04:53:30 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 04:53:30 --> Fetching FeeMaster details
+INFO - 2020-04-13 05:06:37 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 05:06:39 --> Fetching FeeMaster details
+INFO - 2020-04-13 05:12:00 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 05:12:00 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 05:12:00 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 05:12:00 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 05:12:07 --> Fetching Institution details
+INFO - 2020-04-13 05:12:07 --> Fetching Boards details
+INFO - 2020-04-13 05:12:07 --> Fetching Sections details
+INFO - 2020-04-13 05:12:07 --> Fetching Standards details
+INFO - 2020-04-13 05:30:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 05:30:10 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 05:30:10 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 05:30:10 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 05:30:10 --> Fetching Standards details
+INFO - 2020-04-13 05:30:10 --> Fetching Boards details
+INFO - 2020-04-13 05:30:11 --> Fetching Institution details
+INFO - 2020-04-13 05:30:11 --> Fetching Sections details
+INFO - 2020-04-13 05:30:26 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 05:30:26 --> Fetching FeeMaster details
+INFO - 2020-04-13 05:30:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 05:30:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 05:30:28 --> Fetching Sections details
+INFO - 2020-04-13 05:30:28 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 05:30:28 --> Fetching Standards details
+INFO - 2020-04-13 05:30:28 --> Fetching Institution details
+INFO - 2020-04-13 05:30:28 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 05:30:28 --> Fetching Boards details
+INFO - 2020-04-13 06:35:34 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 06:35:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 06:35:34 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 06:35:34 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 06:35:35 --> Fetching Sections details
+INFO - 2020-04-13 06:35:35 --> Fetching Institution details
+INFO - 2020-04-13 06:35:35 --> Fetching Boards details
+INFO - 2020-04-13 06:35:35 --> Fetching Standards details
+INFO - 2020-04-13 06:51:37 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 06:51:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 06:51:37 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 06:51:37 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 06:51:37 --> Fetching Institution details
+INFO - 2020-04-13 06:51:37 --> Fetching Boards details
+INFO - 2020-04-13 06:51:37 --> Fetching Standards details
+INFO - 2020-04-13 06:51:37 --> Fetching Sections details
+INFO - 2020-04-13 06:54:26 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 06:54:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 06:54:26 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 06:54:26 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 06:54:32 --> Fetching Institution details
+INFO - 2020-04-13 06:54:32 --> Fetching Boards details
+INFO - 2020-04-13 06:54:32 --> Fetching Sections details
+ERROR - 2020-04-13 06:54:33 --> [ERROR] Unknown column 's.is' in 'on clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 06:55:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 06:55:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 06:55:55 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 06:55:55 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 06:55:56 --> Fetching Institution details
+ERROR - 2020-04-13 06:55:56 --> [ERROR] Unknown column 's.is' in 'on clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 06:55:56 --> Fetching Boards details
+INFO - 2020-04-13 06:55:56 --> Fetching Sections details
+INFO - 2020-04-13 06:56:04 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 06:56:04 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 06:56:04 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 06:56:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 06:56:04 --> Fetching Institution details
+INFO - 2020-04-13 06:56:05 --> Fetching Boards details
+ERROR - 2020-04-13 06:56:05 --> [ERROR] Unknown column 's.is' in 'on clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 06:56:05 --> Fetching Sections details
+INFO - 2020-04-13 06:56:21 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 06:56:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 06:56:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 06:56:22 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 06:56:22 --> Fetching Boards details
+INFO - 2020-04-13 06:56:22 --> Fetching Sections details
+ERROR - 2020-04-13 06:56:22 --> [ERROR] Unknown column 's.is' in 'on clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 06:56:22 --> Fetching Institution details
+INFO - 2020-04-13 06:57:29 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 06:57:29 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 06:57:29 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 06:57:29 --> Controller "App\Controllers\Sections" loaded.
+ERROR - 2020-04-13 06:57:30 --> [ERROR] Unknown column 's.is' in 'on clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 06:57:30 --> Fetching Boards details
+INFO - 2020-04-13 06:57:30 --> Fetching Sections details
+INFO - 2020-04-13 06:57:30 --> Fetching Institution details
+INFO - 2020-04-13 06:59:20 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 06:59:20 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 06:59:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 06:59:20 --> Controller "App\Controllers\Boards" loaded.
+ERROR - 2020-04-13 06:59:20 --> [ERROR] Unknown column 's.is' in 'on clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 06:59:20 --> Fetching Boards details
+INFO - 2020-04-13 06:59:20 --> Fetching Sections details
+INFO - 2020-04-13 06:59:20 --> Fetching Institution details
+INFO - 2020-04-13 06:59:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 06:59:46 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 06:59:46 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 06:59:46 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 06:59:46 --> Fetching Institution details
+INFO - 2020-04-13 06:59:46 --> Fetching Sections details
+ERROR - 2020-04-13 06:59:46 --> [ERROR] Unknown column 's.is' in 'on clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 06:59:46 --> Fetching Boards details
+INFO - 2020-04-13 06:59:52 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 06:59:52 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 06:59:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 06:59:52 --> Controller "App\Controllers\Sections" loaded.
+ERROR - 2020-04-13 06:59:52 --> [ERROR] Unknown column 's.is' in 'on clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 06:59:52 --> Fetching Institution details
+INFO - 2020-04-13 06:59:52 --> Fetching Sections details
+INFO - 2020-04-13 06:59:52 --> Fetching Boards details
+INFO - 2020-04-13 07:04:09 --> Controller "App\Controllers\Standards" loaded.
+ERROR - 2020-04-13 07:04:10 --> [ERROR] Unknown column 's.is' in 'on clause' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 07:04:49 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:04:50 --> Fetching Standards Section details
+INFO - 2020-04-13 07:06:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:06:28 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 07:06:28 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:06:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:06:29 --> Fetching Standards Section details
+INFO - 2020-04-13 07:06:29 --> Fetching Boards details
+INFO - 2020-04-13 07:06:29 --> Fetching Institution details
+INFO - 2020-04-13 07:06:29 --> Fetching Sections details
+INFO - 2020-04-13 07:07:47 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:07:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:07:47 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:07:47 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 07:07:50 --> Fetching Boards details
+INFO - 2020-04-13 07:07:50 --> Fetching Institution details
+INFO - 2020-04-13 07:07:50 --> Fetching Sections details
+INFO - 2020-04-13 07:07:50 --> Fetching Standards Section details
+INFO - 2020-04-13 07:12:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:12:57 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 07:12:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:12:57 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:12:58 --> Fetching Boards details
+INFO - 2020-04-13 07:12:58 --> Fetching Sections details
+INFO - 2020-04-13 07:12:58 --> Fetching Institution details
+INFO - 2020-04-13 07:12:58 --> Fetching Standards Section details
+INFO - 2020-04-13 07:14:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:14:22 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 07:14:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:14:22 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:14:22 --> Fetching Boards details
+INFO - 2020-04-13 07:14:22 --> Fetching Standards Section details
+INFO - 2020-04-13 07:14:22 --> Fetching Institution details
+INFO - 2020-04-13 07:14:23 --> Fetching Sections details
+INFO - 2020-04-13 07:21:39 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:21:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:21:39 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:21:42 --> Fetching Standards Section details
+INFO - 2020-04-13 07:21:42 --> Fetching Institution details
+INFO - 2020-04-13 07:21:42 --> Fetching Sections details
+INFO - 2020-04-13 07:23:11 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:23:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:23:11 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:23:11 --> Fetching Standards Section details
+INFO - 2020-04-13 07:23:12 --> Fetching Institution details
+INFO - 2020-04-13 07:23:12 --> Fetching Sections details
+INFO - 2020-04-13 07:23:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:23:54 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:23:54 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 07:23:54 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:23:54 --> Fetching Sections details
+INFO - 2020-04-13 07:23:54 --> Fetching Institution details
+INFO - 2020-04-13 07:23:54 --> Fetching Standards Section details
+INFO - 2020-04-13 07:23:54 --> Fetching FeeMaster details
+INFO - 2020-04-13 07:25:00 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:25:00 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:25:00 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 07:25:00 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:25:00 --> Fetching Standards Section details
+INFO - 2020-04-13 07:25:00 --> Fetching Institution details
+INFO - 2020-04-13 07:25:00 --> Fetching Sections details
+INFO - 2020-04-13 07:25:00 --> Fetching FeeMaster details
+INFO - 2020-04-13 07:26:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:26:21 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:26:21 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:26:21 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 07:26:21 --> Fetching FeeMaster details
+INFO - 2020-04-13 07:26:21 --> Fetching Standards Section details
+INFO - 2020-04-13 07:26:21 --> Fetching Institution details
+INFO - 2020-04-13 07:26:21 --> Fetching Sections details
+INFO - 2020-04-13 07:36:59 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 07:36:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:36:59 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:36:59 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:37:00 --> Fetching Institution details
+INFO - 2020-04-13 07:37:00 --> Fetching FeeMaster details
+INFO - 2020-04-13 07:37:00 --> Fetching Sections details
+INFO - 2020-04-13 07:37:00 --> Fetching Standards Section details
+INFO - 2020-04-13 07:38:36 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 07:38:36 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:38:36 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:38:36 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:38:37 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 07:38:40 --> Fetching Sections details
+INFO - 2020-04-13 07:38:40 --> Fetching FeeMaster details
+INFO - 2020-04-13 07:38:40 --> Fetching Institution details
+INFO - 2020-04-13 07:38:41 --> Fetching Standards Section details
+INFO - 2020-04-13 07:38:42 --> Fetching Academic year details
+INFO - 2020-04-13 07:38:45 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 07:38:45 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 07:38:45 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:38:45 --> Fetching FeeMaster details
+INFO - 2020-04-13 07:38:45 --> Fetching Academic year details
+INFO - 2020-04-13 07:38:45 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:38:45 --> Fetching Institution details
+INFO - 2020-04-13 07:38:46 --> Fetching Standards Section details
+INFO - 2020-04-13 07:38:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:38:46 --> Fetching Sections details
+INFO - 2020-04-13 07:39:46 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 07:39:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:39:46 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 07:39:46 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:39:47 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:39:47 --> Fetching FeeMaster details
+INFO - 2020-04-13 07:39:47 --> Fetching Standards Section details
+INFO - 2020-04-13 07:39:47 --> Fetching Sections details
+INFO - 2020-04-13 07:39:47 --> Fetching Institution details
+INFO - 2020-04-13 07:39:47 --> Fetching Academic year details
+INFO - 2020-04-13 07:42:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:42:21 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 07:42:21 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 07:42:21 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:42:21 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:42:23 --> Fetching FeeMaster details
+INFO - 2020-04-13 07:42:23 --> Fetching Academic year details
+INFO - 2020-04-13 07:42:23 --> Fetching Sections details
+INFO - 2020-04-13 07:42:23 --> Fetching Standards Section details
+INFO - 2020-04-13 07:42:23 --> Fetching Institution details
+INFO - 2020-04-13 07:42:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:42:55 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 07:42:55 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 07:42:55 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:42:55 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:42:56 --> Fetching Standards Section details
+INFO - 2020-04-13 07:42:56 --> Fetching FeeMaster details
+INFO - 2020-04-13 07:42:56 --> Fetching Academic year details
+INFO - 2020-04-13 07:42:56 --> Fetching Institution details
+INFO - 2020-04-13 07:42:57 --> Fetching Sections details
+INFO - 2020-04-13 07:44:55 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 07:44:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 07:44:55 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 07:44:55 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 07:44:55 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 07:44:55 --> Fetching Standards Section details
+INFO - 2020-04-13 07:44:55 --> Fetching Academic year details
+INFO - 2020-04-13 07:44:55 --> Fetching Sections details
+INFO - 2020-04-13 07:44:55 --> Fetching FeeMaster details
+INFO - 2020-04-13 07:44:55 --> Fetching Institution details
+INFO - 2020-04-13 08:44:37 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 08:44:38 --> Fetching FeeMaster details
+INFO - 2020-04-13 08:44:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 08:44:54 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 08:44:55 --> Fetching FeeMaster details
+INFO - 2020-04-13 08:44:55 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 08:44:55 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 08:44:55 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 08:44:55 --> Fetching Sections details
+INFO - 2020-04-13 08:44:55 --> Fetching Institution details
+INFO - 2020-04-13 08:44:55 --> Fetching Standards Section details
+INFO - 2020-04-13 08:44:55 --> Fetching Academic year details
+INFO - 2020-04-13 08:46:51 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 08:46:51 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 08:46:51 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 08:46:51 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 08:46:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 08:46:51 --> Fetching Standards Section details
+INFO - 2020-04-13 08:46:52 --> Fetching Academic year details
+INFO - 2020-04-13 08:46:52 --> Fetching Institution details
+INFO - 2020-04-13 08:46:52 --> Fetching FeeMaster details
+INFO - 2020-04-13 08:46:52 --> Fetching Sections details
+INFO - 2020-04-13 08:48:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 08:48:17 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 08:48:17 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 08:48:17 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 08:48:17 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 08:48:17 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 08:48:19 --> Fetching Academic year details
+INFO - 2020-04-13 08:48:19 --> Fetching Sections details
+INFO - 2020-04-13 08:48:19 --> Fetching FeeMaster details
+INFO - 2020-04-13 08:48:19 --> Fetching Institution details
+INFO - 2020-04-13 08:48:19 --> Fetching Sections details
+INFO - 2020-04-13 08:48:19 --> Fetching Standards Section details
+INFO - 2020-04-13 08:49:36 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 08:49:36 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 08:49:36 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 08:49:36 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 08:49:36 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 08:49:36 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 08:49:36 --> Fetching Academic year details
+INFO - 2020-04-13 08:49:36 --> Fetching Sections details
+INFO - 2020-04-13 08:49:36 --> Fetching FeeMaster details
+INFO - 2020-04-13 08:49:36 --> Fetching Standards Section details
+INFO - 2020-04-13 08:49:36 --> Fetching Institution details
+INFO - 2020-04-13 08:49:36 --> Fetching Sections details
+INFO - 2020-04-13 09:01:20 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:01:20 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:01:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:01:20 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:01:20 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:01:20 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:01:23 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:01:23 --> Fetching Institution details
+INFO - 2020-04-13 09:01:23 --> Fetching Sections details
+INFO - 2020-04-13 09:01:23 --> Fetching Sections details
+INFO - 2020-04-13 09:01:23 --> Fetching Academic year details
+INFO - 2020-04-13 09:01:23 --> Fetching Standards Section details
+INFO - 2020-04-13 09:01:25 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:01:25 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:01:25 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:01:25 --> Fetching Institution details
+INFO - 2020-04-13 09:01:25 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:01:25 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:01:25 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:01:25 --> Fetching Sections details
+INFO - 2020-04-13 09:01:25 --> Fetching Standards Section details
+INFO - 2020-04-13 09:01:26 --> Fetching Academic year details
+INFO - 2020-04-13 09:01:46 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:01:46 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:01:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:01:46 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:01:46 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:01:46 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:01:46 --> Fetching Academic year details
+INFO - 2020-04-13 09:01:46 --> Fetching Sections details
+INFO - 2020-04-13 09:01:46 --> Fetching Standards Section details
+INFO - 2020-04-13 09:01:46 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:01:46 --> Fetching Sections details
+INFO - 2020-04-13 09:01:46 --> Fetching Institution details
+INFO - 2020-04-13 09:01:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:01:52 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:01:52 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:01:52 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:01:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:01:52 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:01:52 --> Fetching Academic year details
+INFO - 2020-04-13 09:01:52 --> Fetching Sections details
+INFO - 2020-04-13 09:01:52 --> Fetching Standards Section details
+INFO - 2020-04-13 09:01:52 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:01:52 --> Fetching Sections details
+INFO - 2020-04-13 09:01:52 --> Fetching Institution details
+INFO - 2020-04-13 09:03:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:03:56 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:03:56 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:03:56 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:03:56 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:03:56 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:03:57 --> Fetching Institution details
+INFO - 2020-04-13 09:03:57 --> Fetching Standards Section details
+INFO - 2020-04-13 09:03:57 --> Fetching Sections details
+INFO - 2020-04-13 09:03:57 --> Fetching Sections details
+INFO - 2020-04-13 09:03:57 --> Fetching Academic year details
+INFO - 2020-04-13 09:03:57 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:03:57 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:03:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:03:57 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:03:57 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:03:57 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:03:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:03:57 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:03:57 --> Fetching Standards Section details
+INFO - 2020-04-13 09:03:57 --> Fetching Sections details
+INFO - 2020-04-13 09:03:57 --> Fetching Institution details
+INFO - 2020-04-13 09:03:57 --> Fetching Sections details
+INFO - 2020-04-13 09:03:57 --> Fetching Academic year details
+INFO - 2020-04-13 09:04:15 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:04:15 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:04:15 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:04:15 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-13 09:04:15 --> Fetching Institution details
+INFO - 2020-04-13 09:04:15 --> Fetching Boards details
+INFO - 2020-04-13 09:04:15 --> Fetching Sections details
+INFO - 2020-04-13 09:04:15 --> Fetching Standards details
+INFO - 2020-04-13 09:04:25 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:04:27 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:04:27 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:04:27 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:04:27 --> Fetching Academic year details
+INFO - 2020-04-13 09:04:27 --> Fetching Sections details
+INFO - 2020-04-13 09:04:27 --> Fetching Institution details
+INFO - 2020-04-13 09:04:27 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:04:27 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:04:27 --> Fetching Sections details
+INFO - 2020-04-13 09:04:27 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:04:27 --> Fetching Standards Section details
+INFO - 2020-04-13 09:04:44 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:04:44 --> Inserting FeesConfigs details
+INFO - 2020-04-13 09:04:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:04:45 --> Fetching Sections details
+INFO - 2020-04-13 09:06:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:06:05 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:06:05 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:06:05 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:06:05 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:06:05 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:06:07 --> Fetching Academic year details
+INFO - 2020-04-13 09:06:07 --> Fetching Sections details
+INFO - 2020-04-13 09:06:07 --> Fetching Sections details
+INFO - 2020-04-13 09:06:07 --> Fetching Institution details
+INFO - 2020-04-13 09:06:07 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:06:07 --> Fetching Standards Section details
+INFO - 2020-04-13 09:06:08 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:06:08 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:06:08 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:06:08 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:06:08 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:06:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-13 09:06:08 --> Fetching Academic year details
+INFO - 2020-04-13 09:06:08 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:06:08 --> Fetching Sections details
+INFO - 2020-04-13 09:06:08 --> Fetching Institution details
+INFO - 2020-04-13 09:06:08 --> Fetching Standards Section details
+INFO - 2020-04-13 09:06:08 --> Fetching Sections details
+INFO - 2020-04-13 09:13:14 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:13:14 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:13:14 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:13:14 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:13:14 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:13:14 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:13:17 --> Fetching Standards Section details
+INFO - 2020-04-13 09:13:17 --> Fetching Sections details
+INFO - 2020-04-13 09:13:17 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:13:17 --> Fetching Academic year details
+INFO - 2020-04-13 09:13:17 --> Fetching Institution details
+INFO - 2020-04-13 09:13:17 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:13:18 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:13:18 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:13:18 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:13:18 --> Fetching Academic year details
+INFO - 2020-04-13 09:13:18 --> Fetching Sections details
+INFO - 2020-04-13 09:13:18 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:13:18 --> Fetching Institution details
+INFO - 2020-04-13 09:13:18 --> Fetching Standards Section details
+INFO - 2020-04-13 09:14:49 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:14:49 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:14:49 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:14:49 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:14:49 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:14:49 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:14:49 --> Fetching Institution details
+INFO - 2020-04-13 09:14:49 --> Fetching Sections details
+INFO - 2020-04-13 09:14:49 --> Fetching Standards Section details
+INFO - 2020-04-13 09:14:49 --> Fetching Academic year details
+INFO - 2020-04-13 09:14:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:14:50 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:14:50 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:14:50 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:14:50 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:14:50 --> Fetching Academic year details
+INFO - 2020-04-13 09:14:50 --> Fetching Standards Section details
+INFO - 2020-04-13 09:14:50 --> Fetching Sections details
+INFO - 2020-04-13 09:14:50 --> Fetching Institution details
+INFO - 2020-04-13 09:14:50 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:16:30 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:16:30 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:16:30 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:16:30 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:16:30 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:16:31 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:16:31 --> Fetching Academic year details
+INFO - 2020-04-13 09:16:31 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:16:31 --> Fetching Standards Section details
+INFO - 2020-04-13 09:16:31 --> Fetching Institution details
+INFO - 2020-04-13 09:16:31 --> Fetching Sections details
+INFO - 2020-04-13 09:16:31 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:16:31 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:16:31 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:16:31 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:16:31 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:16:31 --> Fetching Sections details
+INFO - 2020-04-13 09:16:31 --> Fetching Academic year details
+INFO - 2020-04-13 09:16:31 --> Fetching Standards Section details
+INFO - 2020-04-13 09:16:31 --> Fetching Institution details
+INFO - 2020-04-13 09:24:09 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:24:09 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:24:09 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:24:09 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:24:09 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:24:09 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:24:10 --> Fetching Sections details
+INFO - 2020-04-13 09:24:10 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:24:10 --> Fetching Academic year details
+INFO - 2020-04-13 09:24:10 --> Fetching Institution details
+INFO - 2020-04-13 09:24:10 --> Fetching Standards Section details
+INFO - 2020-04-13 09:24:10 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:24:10 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:24:10 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:24:10 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:24:10 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:24:10 --> Fetching Sections details
+INFO - 2020-04-13 09:24:10 --> Fetching Academic year details
+INFO - 2020-04-13 09:24:10 --> Fetching Institution details
+INFO - 2020-04-13 09:24:10 --> Fetching Standards Section details
+INFO - 2020-04-13 09:25:14 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:25:14 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:25:14 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:25:14 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:25:14 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:25:14 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:25:16 --> Fetching Academic year details
+INFO - 2020-04-13 09:25:16 --> Fetching Institution details
+INFO - 2020-04-13 09:25:16 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:25:16 --> Fetching Standards Section details
+INFO - 2020-04-13 09:25:16 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:25:16 --> Fetching Sections details
+INFO - 2020-04-13 09:26:44 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:26:44 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:26:44 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:26:44 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:26:44 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:26:44 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:26:44 --> Fetching Sections details
+INFO - 2020-04-13 09:26:44 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:26:44 --> Fetching Standards Section details
+INFO - 2020-04-13 09:26:44 --> Fetching Institution details
+INFO - 2020-04-13 09:26:44 --> Fetching Academic year details
+INFO - 2020-04-13 09:26:44 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:32:42 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:32:42 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:32:42 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:32:42 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:32:42 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:32:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:32:45 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:32:45 --> Fetching Institution details
+INFO - 2020-04-13 09:32:45 --> Fetching Standards Section details
+INFO - 2020-04-13 09:32:45 --> Fetching Sections details
+INFO - 2020-04-13 09:32:45 --> Fetching Academic year details
+INFO - 2020-04-13 09:32:45 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:32:45 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:32:45 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:32:45 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:32:45 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:32:45 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:32:46 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:32:46 --> Fetching Academic year details
+INFO - 2020-04-13 09:32:46 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:32:46 --> Fetching Standards Section details
+INFO - 2020-04-13 09:32:46 --> Fetching Sections details
+INFO - 2020-04-13 09:32:46 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:32:46 --> Fetching Institution details
+INFO - 2020-04-13 09:43:04 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:43:05 --> Fetching Standards Section details
+INFO - 2020-04-13 09:43:36 --> Controller "App\Controllers\FeesConfigs" loaded.
+ERROR - 2020-04-13 09:43:36 --> [ERROR] Unknown column 's.name' in 'field list' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 09:43:43 --> Controller "App\Controllers\FeesConfigs" loaded.
+ERROR - 2020-04-13 09:43:43 --> [ERROR] Unknown column 's.name' in 'field list' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 09:44:17 --> Controller "App\Controllers\FeesConfigs" loaded.
+ERROR - 2020-04-13 09:44:17 --> [ERROR] Unknown column 's.name' in 'field list' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 09:44:21 --> Controller "App\Controllers\FeesConfigs" loaded.
+ERROR - 2020-04-13 09:44:21 --> [ERROR] Unknown column 's.name' in 'field list' SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 09:44:55 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:44:55 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:47:23 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:47:23 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:48:53 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:48:54 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:52:45 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:52:46 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:53:12 --> Controller "App\Controllers\FeesConfigs" loaded.
+ERROR - 2020-04-13 09:53:12 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as `fee_name`
+WHERE `i`.`status` = 1
+AND `fc`.`status` = 1
+AND `ac`.`status` = 1' at line 7 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 09:53:16 --> Controller "App\Controllers\FeesConfigs" loaded.
+ERROR - 2020-04-13 09:53:17 --> [ERROR] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'as `fee_name`
+WHERE `i`.`status` = 1
+AND `fc`.`status` = 1
+AND `ac`.`status` = 1' at line 7 SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 09:53:38 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:53:38 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:59:48 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:59:48 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:59:48 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:59:48 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:59:48 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:59:48 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:59:51 --> Fetching Sections details
+INFO - 2020-04-13 09:59:51 --> Fetching Academic year details
+INFO - 2020-04-13 09:59:51 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:59:51 --> Fetching Institution details
+INFO - 2020-04-13 09:59:51 --> Fetching Standards Section details
+INFO - 2020-04-13 09:59:51 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:59:52 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 09:59:52 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:59:53 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 09:59:53 --> Fetching FeeMaster details
+INFO - 2020-04-13 09:59:53 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 09:59:53 --> Fetching FeesConfigs details
+INFO - 2020-04-13 09:59:53 --> Fetching Institution details
+INFO - 2020-04-13 09:59:53 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 09:59:53 --> Fetching Standards Section details
+INFO - 2020-04-13 09:59:53 --> Fetching Academic year details
+INFO - 2020-04-13 09:59:54 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 09:59:54 --> Fetching Sections details
+INFO - 2020-04-13 10:03:33 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:03:33 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 10:03:33 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 10:03:33 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 10:03:33 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:03:33 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 10:03:35 --> Fetching Academic year details
+INFO - 2020-04-13 10:03:35 --> Fetching Standards Section details
+INFO - 2020-04-13 10:03:35 --> Fetching FeeMaster details
+INFO - 2020-04-13 10:03:35 --> Fetching FeesConfigs details
+INFO - 2020-04-13 10:03:35 --> Fetching Institution details
+INFO - 2020-04-13 10:03:35 --> Fetching Sections details
+INFO - 2020-04-13 10:04:31 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:04:31 --> Inserting FeesConfigs details
+INFO - 2020-04-13 10:04:32 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:04:32 --> Fetching FeesConfigs details
+INFO - 2020-04-13 10:10:56 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:10:56 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 10:10:56 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:10:56 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 10:10:56 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 10:10:56 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 10:10:57 --> Fetching Sections details
+INFO - 2020-04-13 10:10:57 --> Fetching Academic year details
+INFO - 2020-04-13 10:10:57 --> Fetching FeeMaster details
+INFO - 2020-04-13 10:10:57 --> Fetching Standards Section details
+INFO - 2020-04-13 10:10:57 --> Fetching FeesConfigs details
+INFO - 2020-04-13 10:10:57 --> Fetching Institution details
+INFO - 2020-04-13 10:11:43 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:11:43 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 10:11:43 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 10:11:43 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 10:11:43 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 10:11:43 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:11:44 --> Fetching FeeMaster details
+INFO - 2020-04-13 10:11:44 --> Fetching Institution details
+INFO - 2020-04-13 10:11:44 --> Fetching FeesConfigs details
+INFO - 2020-04-13 10:11:44 --> Fetching Academic year details
+INFO - 2020-04-13 10:11:44 --> Fetching Sections details
+INFO - 2020-04-13 10:11:44 --> Fetching Standards Section details
+INFO - 2020-04-13 10:12:14 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 10:12:14 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:12:14 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 10:12:14 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 10:12:14 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 10:12:14 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:12:15 --> Fetching FeeMaster details
+INFO - 2020-04-13 10:12:15 --> Fetching Standards Section details
+INFO - 2020-04-13 10:12:15 --> Fetching Sections details
+INFO - 2020-04-13 10:12:15 --> Fetching FeesConfigs details
+INFO - 2020-04-13 10:12:15 --> Fetching Academic year details
+INFO - 2020-04-13 10:12:15 --> Fetching Institution details
+INFO - 2020-04-13 10:12:59 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 10:12:59 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:12:59 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 10:12:59 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:12:59 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 10:12:59 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 10:12:59 --> Fetching Academic year details
+INFO - 2020-04-13 10:12:59 --> Fetching Sections details
+INFO - 2020-04-13 10:12:59 --> Fetching Institution details
+INFO - 2020-04-13 10:12:59 --> Fetching FeeMaster details
+INFO - 2020-04-13 10:12:59 --> Fetching FeesConfigs details
+INFO - 2020-04-13 10:12:59 --> Fetching Standards Section details
+INFO - 2020-04-13 10:32:20 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 10:32:21 --> Fetching FeeMaster details
+INFO - 2020-04-13 10:32:28 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:32:29 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:32:29 --> Fetching FeesConfigs details
+INFO - 2020-04-13 10:32:29 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 10:32:29 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 10:32:29 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 10:32:29 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 10:32:29 --> Fetching Sections details
+INFO - 2020-04-13 10:32:29 --> Fetching Institution details
+INFO - 2020-04-13 10:32:29 --> Fetching Standards Section details
+INFO - 2020-04-13 10:32:29 --> Fetching Academic year details
+INFO - 2020-04-13 10:32:29 --> Fetching FeeMaster details
+INFO - 2020-04-13 10:58:41 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 10:58:41 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 10:58:41 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 10:58:41 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:58:41 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 10:58:41 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:58:47 --> Fetching Sections details
+INFO - 2020-04-13 10:58:47 --> Fetching Academic year details
+INFO - 2020-04-13 10:58:47 --> Fetching FeeMaster details
+INFO - 2020-04-13 10:58:47 --> Fetching FeesConfigs details
+INFO - 2020-04-13 10:58:47 --> Fetching Standards Section details
+INFO - 2020-04-13 10:58:47 --> Fetching Institution details
+INFO - 2020-04-13 10:58:51 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:58:51 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 10:58:51 --> Fetching FeesConfigs details
+INFO - 2020-04-13 10:58:51 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 10:58:51 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 10:58:51 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 10:58:51 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 10:58:52 --> Fetching Sections details
+INFO - 2020-04-13 10:58:52 --> Fetching Academic year details
+INFO - 2020-04-13 10:58:52 --> Fetching FeeMaster details
+INFO - 2020-04-13 10:58:52 --> Fetching Institution details
+INFO - 2020-04-13 10:58:52 --> Fetching Standards Section details
+INFO - 2020-04-13 11:11:17 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:11:18 --> Updating FeesConfigs details
+ERROR - 2020-04-13 11:11:19 --> [ERROR] Cannot add or update a child row: a foreign key constraint fails (`institute`.`fee_config`, CONSTRAINT `fee_config_ibfk_4` FOREIGN KEY (`id_academicyear`) REFERENCES `academic_year` (`id`)) SYSTEMPATH/Database\MySQLi\Connection.php:330
+INFO - 2020-04-13 11:13:40 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 11:13:40 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:13:40 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 11:13:40 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:13:41 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 11:13:41 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 11:13:41 --> Fetching FeesConfigs details
+INFO - 2020-04-13 11:13:41 --> Fetching FeeMaster details
+INFO - 2020-04-13 11:13:41 --> Fetching Sections details
+INFO - 2020-04-13 11:13:41 --> Fetching Institution details
+INFO - 2020-04-13 11:13:41 --> Fetching Standards Section details
+INFO - 2020-04-13 11:13:41 --> Fetching Academic year details
+INFO - 2020-04-13 11:13:48 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:13:48 --> Updating FeesConfigs details
+INFO - 2020-04-13 11:13:51 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:13:51 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 11:13:51 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 11:13:51 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:13:51 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 11:13:51 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 11:13:51 --> Fetching Sections details
+INFO - 2020-04-13 11:13:51 --> Fetching Institution details
+INFO - 2020-04-13 11:13:51 --> Fetching Academic year details
+INFO - 2020-04-13 11:13:52 --> Fetching FeesConfigs details
+INFO - 2020-04-13 11:13:52 --> Fetching FeeMaster details
+INFO - 2020-04-13 11:13:52 --> Fetching Standards Section details
+INFO - 2020-04-13 11:14:01 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:14:01 --> Deleting FeesConfigs details
+INFO - 2020-04-13 11:14:01 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:14:02 --> Fetching FeesConfigs details
+INFO - 2020-04-13 11:14:07 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 11:14:07 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 11:14:07 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:14:07 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 11:14:07 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:14:07 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 11:14:07 --> Fetching FeesConfigs details
+INFO - 2020-04-13 11:14:07 --> Fetching FeeMaster details
+INFO - 2020-04-13 11:14:07 --> Fetching Institution details
+INFO - 2020-04-13 11:14:07 --> Fetching Sections details
+INFO - 2020-04-13 11:14:07 --> Fetching Standards Section details
+INFO - 2020-04-13 11:14:07 --> Fetching Academic year details
+INFO - 2020-04-13 11:14:12 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:14:12 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 11:14:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 11:14:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 11:14:12 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 11:14:12 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:14:12 --> Fetching Academic year details
+INFO - 2020-04-13 11:14:12 --> Fetching FeeMaster details
+INFO - 2020-04-13 11:14:12 --> Fetching FeesConfigs details
+INFO - 2020-04-13 11:14:12 --> Fetching Sections details
+INFO - 2020-04-13 11:14:12 --> Fetching Institution details
+INFO - 2020-04-13 11:14:12 --> Fetching Standards Section details
+INFO - 2020-04-13 11:15:28 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 11:15:28 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 11:15:28 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:15:28 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:15:28 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 11:15:28 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 11:15:28 --> Fetching Academic year details
+INFO - 2020-04-13 11:15:28 --> Fetching Institution details
+INFO - 2020-04-13 11:15:28 --> Fetching Standards Section details
+INFO - 2020-04-13 11:15:28 --> Fetching Sections details
+INFO - 2020-04-13 11:15:28 --> Fetching FeeMaster details
+INFO - 2020-04-13 11:15:29 --> Fetching FeesConfigs details
+INFO - 2020-04-13 11:15:32 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:15:32 --> Deleting FeesConfigs details
+INFO - 2020-04-13 11:15:33 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:15:33 --> Fetching FeesConfigs details
+INFO - 2020-04-13 11:26:34 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-13 11:26:34 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-13 11:26:34 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-04-13 11:26:34 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:26:34 --> Controller "App\Controllers\FeesConfigs" loaded.
+INFO - 2020-04-13 11:26:34 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-13 11:26:36 --> Fetching FeeMaster details
+INFO - 2020-04-13 11:26:36 --> Fetching Academic year details
+INFO - 2020-04-13 11:26:36 --> Fetching Standards Section details
+INFO - 2020-04-13 11:26:36 --> Fetching Sections details
+INFO - 2020-04-13 11:26:36 --> Fetching Institution details
+INFO - 2020-04-13 11:26:36 --> Fetching FeesConfigs details

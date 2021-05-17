@@ -1,0 +1,1939 @@
+INFO - 2020-08-10 08:28:47 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-10 08:37:24 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-10 08:39:09 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-10 08:39:34 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-10 08:39:51 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-10 10:04:11 --> Fetching Circulars Mapped Id details
+INFO - 2020-08-10 00:04:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 00:04:09 --> Fetching Users details
+INFO - 2020-08-10 00:04:15 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 00:04:15 --> Fetching Users details
+INFO - 2020-08-10 00:04:42 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 00:04:42 --> Fetching Users details
+INFO - 2020-08-10 00:04:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 00:04:49 --> Fetching Users details
+INFO - 2020-08-10 00:08:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:08:03 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:18:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:18:26 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:21:45 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 00:21:45 --> Fetching Users details
+INFO - 2020-08-10 00:26:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:26:36 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:29:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:29:24 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:30:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:30:33 --> Fetching Roles details
+INFO - 2020-08-10 00:31:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:31:16 --> Fetching Roles details
+INFO - 2020-08-10 00:34:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:34:20 --> Fetching Roles details
+INFO - 2020-08-10 00:36:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:36:01 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:36:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:36:07 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:39:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:39:32 --> Fetching Roles details
+INFO - 2020-08-10 00:40:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:40:33 --> Fetching Roles details
+INFO - 2020-08-10 00:40:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:40:42 --> Fetching Roles details
+INFO - 2020-08-10 00:41:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:41:21 --> Fetching Roles details
+INFO - 2020-08-10 00:41:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:41:22 --> Fetching Roles details
+INFO - 2020-08-10 00:41:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:41:23 --> Fetching Roles details
+INFO - 2020-08-10 00:42:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:42:00 --> Fetching Roles details
+INFO - 2020-08-10 00:42:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:42:02 --> Fetching Roles details
+INFO - 2020-08-10 00:42:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:42:02 --> Fetching Roles details
+INFO - 2020-08-10 00:42:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:42:03 --> Fetching Roles details
+INFO - 2020-08-10 00:42:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:42:03 --> Fetching Roles details
+INFO - 2020-08-10 00:42:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:42:04 --> Fetching Roles details
+INFO - 2020-08-10 00:42:26 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 00:42:26 --> Fetching Users details
+INFO - 2020-08-10 00:42:32 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 00:42:37 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 00:42:37 --> Fetching Users details
+INFO - 2020-08-10 00:42:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:42:55 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:42:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:42:55 --> Fetching Roles details
+INFO - 2020-08-10 00:43:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:43:02 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:43:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:43:02 --> Fetching Roles details
+INFO - 2020-08-10 00:43:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:43:04 --> Fetching Roles details
+INFO - 2020-08-10 00:43:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:43:18 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:43:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:43:20 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:43:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:43:20 --> Fetching Roles details
+INFO - 2020-08-10 00:43:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:43:25 --> Fetching Roles details
+INFO - 2020-08-10 00:43:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:43:33 --> Fetching Roles details
+INFO - 2020-08-10 00:45:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:45:04 --> Fetching Permission details
+INFO - 2020-08-10 00:51:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:51:21 --> Fetching Roles details
+INFO - 2020-08-10 00:51:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:51:25 --> Fetching Roles details
+INFO - 2020-08-10 00:52:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:52:22 --> Fetching Roles details
+INFO - 2020-08-10 00:52:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:52:23 --> Fetching Roles details
+INFO - 2020-08-10 00:54:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:54:47 --> Fetching Roles details
+INFO - 2020-08-10 00:55:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:55:00 --> Fetching Permission details
+INFO - 2020-08-10 00:55:12 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-10 00:55:12 --> Fetching UserMenu details
+INFO - 2020-08-10 00:55:22 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-10 00:55:22 --> Fetching UserMenu details
+INFO - 2020-08-10 00:55:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:55:37 --> Fetching Permission details
+INFO - 2020-08-10 00:55:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:55:52 --> Fetching Permission details
+INFO - 2020-08-10 00:55:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:55:55 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:55:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:55:55 --> Fetching Roles details
+INFO - 2020-08-10 00:56:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:56:05 --> Inserting Role details
+INFO - 2020-08-10 00:56:40 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:56:40 --> Fetching Permission details
+INFO - 2020-08-10 00:56:57 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-10 00:56:57 --> Fetching UserMenu details
+INFO - 2020-08-10 00:57:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:57:08 --> Fetching Permission details
+INFO - 2020-08-10 00:57:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:57:24 --> Fetching Permission details
+INFO - 2020-08-10 00:57:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:57:37 --> Fetching Permission details
+INFO - 2020-08-10 00:57:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:57:44 --> Fetching Permission details
+INFO - 2020-08-10 00:57:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:57:54 --> Fetching Assignments Details details
+INFO - 2020-08-10 00:58:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:58:33 --> Fetching Permission details
+INFO - 2020-08-10 00:59:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 00:59:25 --> Fetching Permission details
+INFO - 2020-08-10 01:00:02 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 01:00:02 --> Fetching Sections details
+INFO - 2020-08-10 01:04:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:04:47 --> Fetching Permission details
+INFO - 2020-08-10 01:04:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:04:51 --> Fetching Permission details
+INFO - 2020-08-10 01:05:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:05:09 --> Fetching Permission details
+INFO - 2020-08-10 01:05:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:05:10 --> Fetching Permission details
+INFO - 2020-08-10 01:07:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:07:42 --> Fetching Assignments Details details
+INFO - 2020-08-10 01:07:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:07:42 --> Fetching Roles details
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-10 01:07:56 --> Fetching Boards details
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 01:07:56 --> Fetching SubjectMasters details
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 01:07:56 --> Fetching Sections details
+INFO - 2020-08-10 01:07:56 --> Fetching Sections details
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-10 01:07:56 --> Fetching All staff details
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-10 01:07:56 --> Fetching Academic year details
+INFO - 2020-08-10 01:07:56 --> Fetching Academic year details
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-10 01:07:56 --> Fetching Subjects details
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-10 01:07:56 --> Fetching class details
+INFO - 2020-08-10 01:07:56 --> Fetching SubjectMasters details
+INFO - 2020-08-10 01:07:56 --> Fetching Sections details
+INFO - 2020-08-10 01:07:56 --> Fetching Sections details
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-10 01:07:56 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-10 01:07:56 --> Fetching Subjects details
+INFO - 2020-08-10 01:08:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:08:01 --> Fetching Assignments Details details
+INFO - 2020-08-10 01:08:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:08:01 --> Fetching Roles details
+INFO - 2020-08-10 01:09:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:09:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:09:44 --> Fetching Roles details
+INFO - 2020-08-10 01:09:44 --> Fetching Assignments Details details
+INFO - 2020-08-10 01:09:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:09:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:09:50 --> Fetching Assignments Details details
+INFO - 2020-08-10 01:09:50 --> Fetching Roles details
+INFO - 2020-08-10 01:10:06 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:10:06 --> Fetching Assignments Details details
+INFO - 2020-08-10 01:10:06 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:10:06 --> Fetching Roles details
+INFO - 2020-08-10 01:10:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:10:20 --> Fetching Permission details
+INFO - 2020-08-10 01:10:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:10:43 --> Fetching Permission details
+INFO - 2020-08-10 01:10:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:10:48 --> Fetching Permission details
+INFO - 2020-08-10 01:18:41 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-10 01:18:41 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 01:18:41 --> Fetching Boards details
+INFO - 2020-08-10 01:18:41 --> Fetching Academic year details
+INFO - 2020-08-10 01:20:06 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:20:06 --> Fetching Permission details
+INFO - 2020-08-10 01:29:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:29:19 --> Fetching Permission details
+INFO - 2020-08-10 01:31:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:31:38 --> Fetching Permission details
+INFO - 2020-08-10 01:33:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:33:28 --> Fetching Permission details
+INFO - 2020-08-10 01:40:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:40:29 --> Fetching Permission details
+INFO - 2020-08-10 01:40:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:40:32 --> Fetching Permission details
+INFO - 2020-08-10 01:40:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:40:55 --> Fetching Roles details
+INFO - 2020-08-10 01:41:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:41:00 --> Fetching Roles details
+INFO - 2020-08-10 01:42:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:42:22 --> Fetching Roles details
+INFO - 2020-08-10 01:43:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:43:25 --> Fetching Roles details
+INFO - 2020-08-10 01:43:31 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-10 01:43:31 --> Fetching UserMenu details
+INFO - 2020-08-10 01:43:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:43:37 --> Fetching Permission details
+INFO - 2020-08-10 01:43:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:43:43 --> Fetching Permission details
+INFO - 2020-08-10 01:43:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:43:53 --> Fetching Permission details
+INFO - 2020-08-10 01:44:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:44:18 --> Fetching Assignments Details details
+INFO - 2020-08-10 01:48:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:48:23 --> Fetching Permission details
+INFO - 2020-08-10 01:55:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:55:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:55:23 --> Fetching Permission details
+INFO - 2020-08-10 01:55:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:55:23 --> Fetching Roles details
+INFO - 2020-08-10 01:55:23 --> Fetching Assignments Details details
+INFO - 2020-08-10 01:57:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:57:51 --> Fetching Assignments Details details
+INFO - 2020-08-10 01:57:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:57:51 --> Fetching Roles details
+INFO - 2020-08-10 01:57:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:57:51 --> Fetching Permission details
+INFO - 2020-08-10 01:58:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:58:42 --> Fetching Permission details
+INFO - 2020-08-10 01:58:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:58:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 01:58:42 --> Fetching Assignments Details details
+INFO - 2020-08-10 01:58:42 --> Fetching Roles details
+INFO - 2020-08-10 02:00:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:00:55 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:00:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:00:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:00:55 --> Fetching Permission details
+INFO - 2020-08-10 02:00:55 --> Fetching Roles details
+INFO - 2020-08-10 02:04:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:04:47 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:04:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:04:47 --> Fetching Roles details
+INFO - 2020-08-10 02:04:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:04:47 --> Fetching Permission details
+INFO - 2020-08-10 02:04:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:04:49 --> Fetching Permission details
+INFO - 2020-08-10 02:04:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:04:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:04:49 --> Fetching Roles details
+INFO - 2020-08-10 02:04:49 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:08:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:08:07 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:08:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:08:07 --> Fetching Roles details
+INFO - 2020-08-10 02:08:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:08:07 --> Fetching Permission details
+INFO - 2020-08-10 02:08:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:08:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:08:08 --> Fetching Permission details
+INFO - 2020-08-10 02:08:08 --> Fetching Roles details
+INFO - 2020-08-10 02:08:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:08:08 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:09:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:09:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:09:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:09:11 --> Fetching Permission details
+INFO - 2020-08-10 02:09:11 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:09:11 --> Fetching Roles details
+INFO - 2020-08-10 02:09:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:09:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:09:11 --> Fetching Roles details
+INFO - 2020-08-10 02:09:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:09:11 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:09:11 --> Fetching Permission details
+INFO - 2020-08-10 02:09:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:09:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:09:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:09:57 --> Fetching Permission details
+INFO - 2020-08-10 02:09:57 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:09:57 --> Fetching Roles details
+INFO - 2020-08-10 02:10:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:10:17 --> Fetching Permission details
+INFO - 2020-08-10 02:10:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:10:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:10:17 --> Fetching Roles details
+INFO - 2020-08-10 02:10:17 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:10:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:10:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:10:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:10:17 --> Fetching Permission details
+INFO - 2020-08-10 02:10:17 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:10:17 --> Fetching Roles details
+INFO - 2020-08-10 02:26:06 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:26:06 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:26:06 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:26:06 --> Fetching Permission details
+INFO - 2020-08-10 02:26:06 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:26:06 --> Fetching Roles details
+INFO - 2020-08-10 02:26:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:26:12 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:26:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:26:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:26:12 --> Fetching Roles details
+INFO - 2020-08-10 02:26:12 --> Fetching Permission details
+INFO - 2020-08-10 02:32:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:32:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:32:37 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:32:37 --> Fetching Roles details
+INFO - 2020-08-10 02:32:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:32:37 --> Fetching Permission details
+INFO - 2020-08-10 02:32:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:32:38 --> Fetching Roles details
+INFO - 2020-08-10 02:32:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:32:38 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:32:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:32:38 --> Fetching Permission details
+INFO - 2020-08-10 02:35:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:35:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:35:14 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:35:14 --> Fetching Roles details
+INFO - 2020-08-10 02:35:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:35:14 --> Fetching Permission details
+INFO - 2020-08-10 02:35:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:35:14 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:35:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:35:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:35:14 --> Fetching Roles details
+INFO - 2020-08-10 02:35:14 --> Fetching Permission details
+INFO - 2020-08-10 02:36:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:16 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:36:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:16 --> Fetching Permission details
+INFO - 2020-08-10 02:36:16 --> Fetching Roles details
+INFO - 2020-08-10 02:36:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:17 --> Fetching Roles details
+INFO - 2020-08-10 02:36:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:17 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:36:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:17 --> Fetching Permission details
+INFO - 2020-08-10 02:36:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:25 --> Fetching Roles details
+INFO - 2020-08-10 02:36:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:25 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:36:25 --> Fetching Permission details
+INFO - 2020-08-10 02:36:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:36:30 --> Fetching Permission details
+INFO - 2020-08-10 02:36:30 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:36:30 --> Fetching Roles details
+INFO - 2020-08-10 02:37:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:37:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:37:00 --> Fetching Permission details
+INFO - 2020-08-10 02:37:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:37:00 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:37:00 --> Fetching Roles details
+INFO - 2020-08-10 02:37:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:37:00 --> Fetching Permission details
+INFO - 2020-08-10 02:37:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:37:00 --> Fetching Roles details
+INFO - 2020-08-10 02:37:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:37:00 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:38:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:38:16 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:38:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:38:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:38:16 --> Fetching Roles details
+INFO - 2020-08-10 02:38:16 --> Fetching Permission details
+INFO - 2020-08-10 02:38:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:38:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:38:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:38:18 --> Fetching Permission details
+INFO - 2020-08-10 02:38:18 --> Fetching Roles details
+INFO - 2020-08-10 02:38:18 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:39:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:39:15 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:39:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:39:15 --> Fetching Roles details
+INFO - 2020-08-10 02:39:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:39:15 --> Fetching Permission details
+INFO - 2020-08-10 02:39:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:39:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:39:15 --> Fetching Roles details
+INFO - 2020-08-10 02:39:15 --> Fetching Permission details
+INFO - 2020-08-10 02:39:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:39:15 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:40:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:40:50 --> Fetching Permission details
+INFO - 2020-08-10 02:40:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:40:50 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:40:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:40:50 --> Fetching Roles details
+INFO - 2020-08-10 02:48:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:48:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:48:32 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:48:32 --> Fetching Roles details
+INFO - 2020-08-10 02:48:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:48:32 --> Fetching Permission details
+INFO - 2020-08-10 02:48:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:48:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:48:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:48:33 --> Fetching Permission details
+INFO - 2020-08-10 02:48:33 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:48:33 --> Fetching Roles details
+INFO - 2020-08-10 02:48:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:48:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:48:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:48:53 --> Fetching Permission details
+INFO - 2020-08-10 02:48:53 --> Fetching Roles details
+INFO - 2020-08-10 02:48:53 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:53:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:53:35 --> Fetching Roles details
+INFO - 2020-08-10 02:53:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:53:35 --> Fetching Permission details
+INFO - 2020-08-10 02:53:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:53:36 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:53:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:53:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:53:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:53:36 --> Fetching Roles details
+INFO - 2020-08-10 02:53:36 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:53:36 --> Fetching Permission details
+INFO - 2020-08-10 02:56:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:56:19 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:56:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:56:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:56:19 --> Fetching Permission details
+INFO - 2020-08-10 02:56:20 --> Fetching Roles details
+INFO - 2020-08-10 02:58:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:58:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:58:48 --> Fetching Permission details
+INFO - 2020-08-10 02:58:48 --> Fetching Roles details
+INFO - 2020-08-10 02:58:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:58:48 --> Fetching Assignments Details details
+INFO - 2020-08-10 02:58:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:58:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:58:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 02:58:48 --> Fetching Permission details
+INFO - 2020-08-10 02:58:48 --> Fetching Roles details
+INFO - 2020-08-10 02:58:48 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:30:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:30:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:30:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:30:10 --> Fetching Permission details
+INFO - 2020-08-10 03:30:10 --> Fetching Roles details
+INFO - 2020-08-10 03:30:10 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:34:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:34:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:34:22 --> Fetching Roles details
+INFO - 2020-08-10 03:34:22 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:34:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:34:22 --> Fetching Permission details
+INFO - 2020-08-10 03:34:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:34:38 --> Fetching Permission details
+INFO - 2020-08-10 03:34:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:34:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:34:38 --> Fetching Roles details
+INFO - 2020-08-10 03:34:38 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:34:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:34:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:34:39 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:34:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:34:39 --> Fetching Roles details
+INFO - 2020-08-10 03:34:39 --> Fetching Permission details
+INFO - 2020-08-10 03:39:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:39:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:39:52 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:39:52 --> Fetching Permission details
+INFO - 2020-08-10 03:39:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:39:52 --> Fetching Roles details
+INFO - 2020-08-10 03:39:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:39:53 --> Fetching Roles details
+INFO - 2020-08-10 03:39:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:39:53 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:39:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:39:53 --> Fetching Permission details
+INFO - 2020-08-10 03:42:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:42:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:42:43 --> Fetching Roles details
+INFO - 2020-08-10 03:42:43 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:42:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:42:43 --> Fetching Permission details
+INFO - 2020-08-10 03:42:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:42:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:42:52 --> Fetching Permission details
+INFO - 2020-08-10 03:42:52 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:42:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:42:52 --> Fetching Roles details
+INFO - 2020-08-10 03:47:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:47:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:47:31 --> Fetching Permission details
+INFO - 2020-08-10 03:47:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:47:31 --> Fetching Roles details
+INFO - 2020-08-10 03:47:31 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:52:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:52:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:52:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:52:49 --> Fetching Permission details
+INFO - 2020-08-10 03:52:49 --> Fetching Roles details
+INFO - 2020-08-10 03:52:49 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:54:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:54:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:54:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:54:10 --> Fetching Permission details
+INFO - 2020-08-10 03:54:10 --> Fetching Roles details
+INFO - 2020-08-10 03:54:10 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:57:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:57:24 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:57:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:57:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:57:24 --> Fetching Roles details
+INFO - 2020-08-10 03:57:24 --> Fetching Permission details
+INFO - 2020-08-10 03:57:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:57:43 --> Fetching Roles details
+INFO - 2020-08-10 03:57:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:57:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:57:43 --> Fetching Permission details
+INFO - 2020-08-10 03:57:43 --> Fetching Assignments Details details
+INFO - 2020-08-10 03:59:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:59:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:59:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 03:59:01 --> Fetching Permission details
+INFO - 2020-08-10 03:59:01 --> Fetching Roles details
+INFO - 2020-08-10 03:59:01 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:01:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:01:38 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:01:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:01:38 --> Fetching Roles details
+INFO - 2020-08-10 04:01:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:01:38 --> Fetching Permission details
+INFO - 2020-08-10 04:12:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:12:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:12:47 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:12:47 --> Fetching Roles details
+INFO - 2020-08-10 04:12:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:12:47 --> Fetching Permission details
+INFO - 2020-08-10 04:32:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:32:51 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:32:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:32:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:32:51 --> Fetching Roles details
+INFO - 2020-08-10 04:32:51 --> Fetching Permission details
+INFO - 2020-08-10 04:34:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:34:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:34:52 --> Fetching Roles details
+INFO - 2020-08-10 04:34:52 --> Fetching Permission details
+INFO - 2020-08-10 04:34:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:34:52 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:36:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:36:24 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:36:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:36:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:36:24 --> Fetching Roles details
+INFO - 2020-08-10 04:36:24 --> Fetching Permission details
+INFO - 2020-08-10 04:37:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:37:46 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:37:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:37:46 --> Fetching Roles details
+INFO - 2020-08-10 04:37:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:37:46 --> Fetching Permission details
+INFO - 2020-08-10 04:38:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:38:38 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:38:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:38:38 --> Fetching Permission details
+INFO - 2020-08-10 04:38:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:38:38 --> Fetching Roles details
+INFO - 2020-08-10 04:40:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:40:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:40:22 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:40:22 --> Fetching Permission details
+INFO - 2020-08-10 04:40:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:40:22 --> Fetching Roles details
+INFO - 2020-08-10 04:45:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:45:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:45:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:45:24 --> Fetching Permission details
+INFO - 2020-08-10 04:45:24 --> Fetching Roles details
+INFO - 2020-08-10 04:45:24 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:47:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:47:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:47:14 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:47:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:47:14 --> Fetching Roles details
+INFO - 2020-08-10 04:47:14 --> Fetching Permission details
+INFO - 2020-08-10 04:52:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:52:30 --> Fetching Roles details
+INFO - 2020-08-10 04:52:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:52:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:52:30 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:52:30 --> Fetching Permission details
+INFO - 2020-08-10 04:55:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:55:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:55:16 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:55:16 --> Fetching Roles details
+INFO - 2020-08-10 04:55:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:55:16 --> Fetching Permission details
+INFO - 2020-08-10 04:57:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:57:01 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:57:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:57:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:57:01 --> Fetching Permission details
+INFO - 2020-08-10 04:57:01 --> Fetching Roles details
+INFO - 2020-08-10 04:59:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:59:39 --> Fetching Assignments Details details
+INFO - 2020-08-10 04:59:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:59:39 --> Fetching Permission details
+INFO - 2020-08-10 04:59:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 04:59:39 --> Fetching Roles details
+INFO - 2020-08-10 05:00:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:00:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:00:55 --> Fetching Roles details
+INFO - 2020-08-10 05:00:55 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:00:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:00:55 --> Fetching Permission details
+INFO - 2020-08-10 05:02:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:02:59 --> Fetching Roles details
+INFO - 2020-08-10 05:02:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:02:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:02:59 --> Fetching Permission details
+INFO - 2020-08-10 05:02:59 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:06:15 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 05:06:15 --> Fetching All Leave details
+INFO - 2020-08-10 05:07:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 05:07:49 --> Fetching All Leave details
+INFO - 2020-08-10 05:07:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:07:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:07:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:07:59 --> Fetching Permission details
+INFO - 2020-08-10 05:07:59 --> Fetching Roles details
+INFO - 2020-08-10 05:07:59 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:08:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:08:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:08:42 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:08:42 --> Fetching Roles details
+INFO - 2020-08-10 05:08:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:08:42 --> Fetching Permission details
+INFO - 2020-08-10 05:20:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:20:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:20:20 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:20:20 --> Fetching Roles details
+INFO - 2020-08-10 05:20:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:20:20 --> Fetching Permission details
+INFO - 2020-08-10 05:21:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:21:25 --> Fetching Roles details
+INFO - 2020-08-10 05:21:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:21:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:21:25 --> Fetching Permission details
+INFO - 2020-08-10 05:21:25 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:37:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:37:01 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:37:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:37:01 --> Fetching Roles details
+INFO - 2020-08-10 05:37:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:37:01 --> Fetching Permission details
+INFO - 2020-08-10 05:37:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:37:15 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:37:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:37:15 --> Fetching Roles details
+INFO - 2020-08-10 05:37:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:37:15 --> Fetching Permission details
+INFO - 2020-08-10 05:42:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:42:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:42:28 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:42:28 --> Fetching Roles details
+INFO - 2020-08-10 05:42:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:42:28 --> Fetching Permission details
+INFO - 2020-08-10 05:44:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:44:18 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:44:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:44:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:44:18 --> Fetching Permission details
+INFO - 2020-08-10 05:44:18 --> Fetching Roles details
+INFO - 2020-08-10 05:44:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:44:54 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:44:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:44:54 --> Fetching Roles details
+INFO - 2020-08-10 05:44:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:44:54 --> Fetching Permission details
+INFO - 2020-08-10 05:45:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:45:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:45:48 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:45:48 --> Fetching Roles details
+INFO - 2020-08-10 05:45:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:45:48 --> Fetching Permission details
+INFO - 2020-08-10 05:46:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:46:26 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:46:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:46:26 --> Fetching Roles details
+INFO - 2020-08-10 05:46:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:46:26 --> Fetching Permission details
+INFO - 2020-08-10 05:47:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:47:09 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:47:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:47:09 --> Fetching Roles details
+INFO - 2020-08-10 05:47:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:47:09 --> Fetching Permission details
+INFO - 2020-08-10 05:48:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:48:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:48:10 --> Fetching Roles details
+INFO - 2020-08-10 05:48:10 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:48:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:48:10 --> Fetching Permission details
+INFO - 2020-08-10 05:50:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:50:56 --> Fetching Permission details
+INFO - 2020-08-10 05:52:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:52:01 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:52:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:52:01 --> Fetching Roles details
+INFO - 2020-08-10 05:52:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:52:01 --> Fetching Permission details
+INFO - 2020-08-10 05:53:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:53:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:53:50 --> Fetching Assignments Details details
+INFO - 2020-08-10 05:53:50 --> Fetching Roles details
+INFO - 2020-08-10 05:53:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 05:53:50 --> Fetching Permission details
+INFO - 2020-08-10 05:58:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:00:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:00:48 --> Fetching Permission details
+INFO - 2020-08-10 06:03:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:03:09 --> Fetching Permission details
+INFO - 2020-08-10 06:03:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:03:14 --> Fetching Permission details
+INFO - 2020-08-10 06:03:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:03:14 --> Fetching Permission details
+INFO - 2020-08-10 06:03:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:03:15 --> Fetching Permission details
+INFO - 2020-08-10 06:03:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:03:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:04:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:04:00 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:04:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:04:00 --> Fetching Roles details
+INFO - 2020-08-10 06:04:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:04:00 --> Fetching Permission details
+INFO - 2020-08-10 06:04:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:04:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:04:49 --> Fetching Permission details
+INFO - 2020-08-10 06:04:49 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:04:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:04:49 --> Fetching Roles details
+INFO - 2020-08-10 06:05:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:05:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:06:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:07:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:07:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:07:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:07:29 --> Fetching Permission details
+INFO - 2020-08-10 06:07:29 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:07:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:07:29 --> Fetching Roles details
+INFO - 2020-08-10 06:08:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:08:35 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:08:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:08:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:08:35 --> Fetching Permission details
+INFO - 2020-08-10 06:08:35 --> Fetching Roles details
+INFO - 2020-08-10 06:09:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:10:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:10:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:10:29 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:10:29 --> Fetching Roles details
+INFO - 2020-08-10 06:10:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:10:29 --> Fetching Permission details
+INFO - 2020-08-10 06:10:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:10:31 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:10:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:10:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:10:31 --> Fetching Permission details
+INFO - 2020-08-10 06:10:31 --> Fetching Roles details
+INFO - 2020-08-10 06:10:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:11:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:13:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:17:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:17:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:19:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:23:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:23:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:23:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:23:23 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:23:23 --> Fetching Permission details
+INFO - 2020-08-10 06:23:23 --> Fetching Roles details
+INFO - 2020-08-10 06:23:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:23:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:24:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:24:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:24:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:24:46 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:24:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:24:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:24:46 --> Fetching Permission details
+INFO - 2020-08-10 06:24:46 --> Fetching Roles details
+INFO - 2020-08-10 06:24:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:24:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:24:59 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:24:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:24:59 --> Fetching Roles details
+INFO - 2020-08-10 06:24:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:24:59 --> Fetching Permission details
+INFO - 2020-08-10 06:25:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:25:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:27:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:28:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:28:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:28:00 --> Fetching Roles details
+INFO - 2020-08-10 06:28:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:28:00 --> Fetching Permission details
+INFO - 2020-08-10 06:28:00 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:30:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:30:09 --> Fetching Roles details
+INFO - 2020-08-10 06:30:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:30:09 --> Fetching Permission details
+INFO - 2020-08-10 06:30:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:30:09 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:30:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:30:35 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:30:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:30:35 --> Fetching Roles details
+INFO - 2020-08-10 06:30:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:30:35 --> Fetching Permission details
+INFO - 2020-08-10 06:30:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:30:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:30:41 --> Fetching Roles details
+INFO - 2020-08-10 06:30:41 --> Fetching Permission details
+INFO - 2020-08-10 06:30:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:30:41 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:30:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:32:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:34:40 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:34:40 --> Inserting Role details
+INFO - 2020-08-10 06:34:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:34:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:34:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:34:58 --> Fetching Permission details
+INFO - 2020-08-10 06:34:58 --> Fetching Roles details
+INFO - 2020-08-10 06:34:58 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:36:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:36:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:36:24 --> Fetching Roles details
+INFO - 2020-08-10 06:36:24 --> Fetching Permission details
+INFO - 2020-08-10 06:36:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:36:24 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:37:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:37:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:37:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:37:34 --> Fetching Permission details
+INFO - 2020-08-10 06:37:34 --> Fetching Roles details
+INFO - 2020-08-10 06:37:34 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:39:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:39:42 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:39:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:39:42 --> Fetching Permission details
+INFO - 2020-08-10 06:39:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:39:42 --> Fetching Roles details
+INFO - 2020-08-10 06:41:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:41:33 --> Fetching Roles details
+INFO - 2020-08-10 06:41:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:41:33 --> Fetching Permission details
+INFO - 2020-08-10 06:41:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:41:33 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:41:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:41:53 --> Inserting Role details
+INFO - 2020-08-10 06:46:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:46:28 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:46:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:46:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:46:28 --> Fetching Permission details
+INFO - 2020-08-10 06:46:28 --> Fetching Roles details
+INFO - 2020-08-10 06:46:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:46:42 --> Inserting Role details
+INFO - 2020-08-10 06:49:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:49:51 --> Fetching Roles details
+INFO - 2020-08-10 06:51:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:51:02 --> Inserting Role details
+INFO - 2020-08-10 06:52:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:52:28 --> Fetching Permission details
+INFO - 2020-08-10 06:54:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:54:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:54:11 --> Fetching Permission details
+INFO - 2020-08-10 06:54:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:54:11 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:54:11 --> Fetching Roles details
+INFO - 2020-08-10 06:54:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:54:57 --> Fetching Permission details
+INFO - 2020-08-10 06:54:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:54:57 --> Fetching Roles details
+INFO - 2020-08-10 06:54:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:54:57 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:56:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:56:35 --> Fetching Permission details
+INFO - 2020-08-10 06:56:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:56:53 --> Inserting Role details
+INFO - 2020-08-10 06:58:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:58:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:58:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:58:59 --> Fetching Roles details
+INFO - 2020-08-10 06:58:59 --> Fetching Permission details
+INFO - 2020-08-10 06:58:59 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:59:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:59:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:59:02 --> Fetching Permission details
+INFO - 2020-08-10 06:59:02 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:59:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:59:02 --> Fetching Roles details
+INFO - 2020-08-10 06:59:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:59:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:59:37 --> Fetching Assignments Details details
+INFO - 2020-08-10 06:59:37 --> Fetching Roles details
+INFO - 2020-08-10 06:59:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:59:37 --> Fetching Permission details
+INFO - 2020-08-10 06:59:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:59:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:59:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 06:59:37 --> Fetching Roles details
+INFO - 2020-08-10 06:59:37 --> Fetching Permission details
+INFO - 2020-08-10 06:59:37 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:00:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:00:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:00:10 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:00:10 --> Fetching Permission details
+INFO - 2020-08-10 07:00:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:00:10 --> Fetching Roles details
+INFO - 2020-08-10 07:00:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:00:53 --> Fetching Permission details
+INFO - 2020-08-10 07:00:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:00:53 --> Fetching Roles details
+INFO - 2020-08-10 07:00:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:00:53 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:02:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:02:33 --> Inserting Role details
+INFO - 2020-08-10 07:04:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:04:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:04:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:04:45 --> Fetching Permission details
+INFO - 2020-08-10 07:04:45 --> Fetching Roles details
+INFO - 2020-08-10 07:04:45 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:04:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:04:46 --> Fetching Permission details
+INFO - 2020-08-10 07:04:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:04:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:04:46 --> Fetching Roles details
+INFO - 2020-08-10 07:04:46 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:05:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:05:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:05:38 --> Fetching Permission details
+INFO - 2020-08-10 07:05:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:05:38 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:05:38 --> Fetching Roles details
+INFO - 2020-08-10 07:05:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:05:38 --> Fetching Roles details
+INFO - 2020-08-10 07:05:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:05:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:05:38 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:05:38 --> Fetching Permission details
+INFO - 2020-08-10 07:05:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:05:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:05:45 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:05:45 --> Fetching Roles details
+INFO - 2020-08-10 07:05:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:05:45 --> Fetching Permission details
+INFO - 2020-08-10 07:05:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:05:46 --> Inserting Role details
+INFO - 2020-08-10 07:07:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:07:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:07:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:07:18 --> Fetching Permission details
+INFO - 2020-08-10 07:07:18 --> Fetching Roles details
+INFO - 2020-08-10 07:07:18 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:12:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:12:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:12:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:12:22 --> Fetching Permission details
+INFO - 2020-08-10 07:12:22 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:12:22 --> Fetching Roles details
+INFO - 2020-08-10 07:12:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:12:27 --> Fetching Roles details
+INFO - 2020-08-10 07:14:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:14:24 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:14:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:14:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:14:24 --> Fetching Roles details
+INFO - 2020-08-10 07:14:24 --> Fetching Permission details
+INFO - 2020-08-10 07:23:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:23:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:23:07 --> Fetching Permission details
+INFO - 2020-08-10 07:23:07 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:23:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:23:07 --> Fetching Roles details
+INFO - 2020-08-10 07:25:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:25:16 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:25:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:25:16 --> Fetching Permission details
+INFO - 2020-08-10 07:25:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:25:16 --> Fetching Roles details
+INFO - 2020-08-10 07:25:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:25:21 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:25:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:25:21 --> Fetching Roles details
+INFO - 2020-08-10 07:25:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:25:21 --> Fetching Permission details
+INFO - 2020-08-10 07:25:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:25:57 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:25:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:25:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:25:57 --> Fetching Permission details
+INFO - 2020-08-10 07:25:57 --> Fetching Roles details
+INFO - 2020-08-10 07:26:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:26:01 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:26:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:26:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:26:01 --> Fetching Permission details
+INFO - 2020-08-10 07:26:01 --> Fetching Roles details
+INFO - 2020-08-10 07:26:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:26:04 --> Fetching Permission details
+INFO - 2020-08-10 07:26:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:26:15 --> Inserting Role details
+INFO - 2020-08-10 07:26:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:26:32 --> Fetching Permission details
+INFO - 2020-08-10 07:26:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:26:44 --> Fetching Permission details
+INFO - 2020-08-10 07:27:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:27:36 --> Fetching Permission details
+INFO - 2020-08-10 07:28:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:28:16 --> Inserting Role details
+INFO - 2020-08-10 07:29:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:29:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:29:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:29:22 --> Fetching Roles details
+INFO - 2020-08-10 07:29:22 --> Fetching Permission details
+INFO - 2020-08-10 07:29:22 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:29:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:29:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:29:24 --> Fetching Permission details
+INFO - 2020-08-10 07:29:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:29:24 --> Fetching Roles details
+INFO - 2020-08-10 07:29:24 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:29:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:29:26 --> Fetching Permission details
+INFO - 2020-08-10 07:30:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:30:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:30:43 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:30:43 --> Fetching Roles details
+INFO - 2020-08-10 07:30:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:30:43 --> Fetching Permission details
+INFO - 2020-08-10 07:30:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:30:46 --> Fetching Permission details
+INFO - 2020-08-10 07:31:56 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:31:56 --> Fetching Permission details
+INFO - 2020-08-10 07:33:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:33:17 --> Fetching Permission details
+INFO - 2020-08-10 07:34:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:34:41 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:34:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:34:41 --> Fetching Roles details
+INFO - 2020-08-10 07:34:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:34:41 --> Fetching Permission details
+INFO - 2020-08-10 07:34:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:34:46 --> Fetching Permission details
+INFO - 2020-08-10 07:36:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:36:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:36:13 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:36:13 --> Fetching Roles details
+INFO - 2020-08-10 07:36:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:36:13 --> Fetching Permission details
+INFO - 2020-08-10 07:36:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:36:33 --> Fetching Permission details
+INFO - 2020-08-10 07:39:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:39:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:39:18 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:39:18 --> Fetching Roles details
+INFO - 2020-08-10 07:39:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:39:18 --> Fetching Permission details
+INFO - 2020-08-10 07:40:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:40:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:40:58 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:40:58 --> Fetching Roles details
+INFO - 2020-08-10 07:40:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:40:58 --> Fetching Permission details
+INFO - 2020-08-10 07:41:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:41:47 --> Inserting Role details
+INFO - 2020-08-10 07:41:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:41:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:41:55 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:41:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:41:55 --> Fetching Roles details
+INFO - 2020-08-10 07:41:55 --> Fetching Permission details
+INFO - 2020-08-10 07:42:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:42:05 --> Fetching Permission details
+INFO - 2020-08-10 07:48:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:48:08 --> Fetching Permission details
+INFO - 2020-08-10 07:49:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:49:33 --> Fetching Roles details
+INFO - 2020-08-10 07:54:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:54:01 --> Fetching Permission details
+INFO - 2020-08-10 07:57:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:28 --> Fetching Roles details
+INFO - 2020-08-10 07:57:28 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:57:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:28 --> Fetching Permission details
+INFO - 2020-08-10 07:57:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:35 --> Fetching Permission details
+INFO - 2020-08-10 07:57:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:41 --> Fetching Permission details
+INFO - 2020-08-10 07:57:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:41 --> Fetching Roles details
+INFO - 2020-08-10 07:57:41 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:57:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:42 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:57:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:42 --> Fetching Permission details
+INFO - 2020-08-10 07:57:42 --> Fetching Roles details
+INFO - 2020-08-10 07:57:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:57:45 --> Fetching Permission details
+INFO - 2020-08-10 07:58:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:58:36 --> Fetching Permission details
+INFO - 2020-08-10 07:58:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:58:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:58:53 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:58:53 --> Fetching Roles details
+INFO - 2020-08-10 07:58:53 --> Fetching Permission details
+INFO - 2020-08-10 07:58:53 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:58:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:58:57 --> Fetching Permission details
+INFO - 2020-08-10 07:58:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:58:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:58:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:58:57 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:58:57 --> Fetching Permission details
+INFO - 2020-08-10 07:58:57 --> Fetching Roles details
+INFO - 2020-08-10 07:59:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:59:15 --> Fetching Permission details
+INFO - 2020-08-10 07:59:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:59:22 --> Fetching Roles details
+INFO - 2020-08-10 07:59:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:59:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:59:22 --> Fetching Assignments Details details
+INFO - 2020-08-10 07:59:22 --> Fetching Permission details
+INFO - 2020-08-10 07:59:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:59:26 --> Fetching Permission details
+INFO - 2020-08-10 07:59:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 07:59:51 --> Fetching Permission details
+INFO - 2020-08-10 08:01:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:01:41 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:01:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:01:41 --> Fetching Roles details
+INFO - 2020-08-10 08:01:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:01:41 --> Fetching Permission details
+INFO - 2020-08-10 08:01:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:01:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:01:43 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:01:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:01:43 --> Fetching Roles details
+INFO - 2020-08-10 08:01:43 --> Fetching Permission details
+INFO - 2020-08-10 08:05:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:05:01 --> Fetching Roles details
+INFO - 2020-08-10 08:05:40 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:05:40 --> Fetching Permission details
+INFO - 2020-08-10 08:05:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:05:47 --> Fetching Permission details
+INFO - 2020-08-10 08:06:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:06:00 --> Fetching Permission details
+INFO - 2020-08-10 08:08:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:08:34 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:08:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:08:34 --> Fetching Roles details
+INFO - 2020-08-10 08:08:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:08:34 --> Fetching Permission details
+INFO - 2020-08-10 08:08:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:08:44 --> Fetching Permission details
+INFO - 2020-08-10 08:10:26 --> Controller "App\Controllers\Roles" loaded.
+ERROR - 2020-08-10 08:10:26 --> array_merge(): Argument #2 is not an array
+INFO - 2020-08-10 08:12:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:12:33 --> Updating Role details
+INFO - 2020-08-10 08:13:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:13:21 --> Fetching Permission details
+INFO - 2020-08-10 08:13:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:13:27 --> Fetching Permission details
+INFO - 2020-08-10 08:13:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:13:43 --> Fetching Roles details
+INFO - 2020-08-10 08:16:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:16:55 --> Updating Role details
+INFO - 2020-08-10 08:16:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:16:59 --> Fetching Roles details
+INFO - 2020-08-10 08:17:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 08:17:31 --> Fetching Users details
+INFO - 2020-08-10 08:18:03 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:18:03 --> Fetching Boards details
+INFO - 2020-08-10 08:18:03 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-10 08:18:03 --> Fetching All Management details
+INFO - 2020-08-10 08:19:19 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:19:19 --> Fetching Boards details
+INFO - 2020-08-10 08:19:19 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-10 08:19:19 --> Fetching All Management details
+INFO - 2020-08-10 08:20:39 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:20:39 --> Fetching Boards details
+INFO - 2020-08-10 08:20:39 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-10 08:20:39 --> Fetching All Management details
+INFO - 2020-08-10 08:20:58 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:21:02 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:21:02 --> Fetching Boards details
+INFO - 2020-08-10 08:21:53 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:21:53 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-10 08:21:53 --> Fetching Boards details
+INFO - 2020-08-10 08:21:53 --> Fetching All Management details
+INFO - 2020-08-10 08:23:38 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:23:38 --> Fetching Boards details
+INFO - 2020-08-10 08:23:38 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-10 08:23:38 --> Fetching All Management details
+INFO - 2020-08-10 08:23:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 08:23:43 --> Fetching Sections details
+INFO - 2020-08-10 08:23:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 08:23:43 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-10 08:23:43 --> Fetching Academic year details
+INFO - 2020-08-10 08:23:43 --> Fetching All Leave details
+INFO - 2020-08-10 08:23:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:23:43 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 08:23:43 --> Fetching All Leave details
+INFO - 2020-08-10 08:23:43 --> Fetching Boards details
+INFO - 2020-08-10 08:23:43 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-10 08:23:43 --> Fetching Category details
+INFO - 2020-08-10 08:23:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 08:23:43 --> Fetching Sections details
+INFO - 2020-08-10 08:23:43 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 08:23:43 --> Fetching All Leave details
+INFO - 2020-08-10 08:23:53 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:24:00 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:24:00 --> Fetching Boards details
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 08:24:19 --> Fetching Sections details
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-10 08:24:19 --> Fetching All Leave details
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:24:19 --> Fetching Academic year details
+INFO - 2020-08-10 08:24:19 --> Fetching Boards details
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 08:24:19 --> Fetching All Leave details
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-10 08:24:19 --> Fetching Category details
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 08:24:19 --> Fetching Sections details
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 08:24:19 --> Fetching All Leave details
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 08:24:19 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 08:24:19 --> Fetching Sections details
+INFO - 2020-08-10 08:24:19 --> Fetching All Leave details
+INFO - 2020-08-10 08:24:19 --> Fetching Sections details
+INFO - 2020-08-10 08:24:23 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:24:23 --> Fetching Boards details
+INFO - 2020-08-10 08:24:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-10 08:24:23 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-08-10 08:24:23 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-10 08:24:23 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-08-10 08:24:23 --> Fetching All staff details
+INFO - 2020-08-10 08:24:23 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-08-10 08:24:23 --> Fetching Department details
+INFO - 2020-08-10 08:24:23 --> Fetching Department details
+INFO - 2020-08-10 08:24:23 --> Fetching All Leave details
+INFO - 2020-08-10 08:24:23 --> Fetching Sections details
+INFO - 2020-08-10 08:24:26 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:24:26 --> Fetching Boards details
+INFO - 2020-08-10 08:24:26 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-10 08:24:27 --> Fetching All Management details
+INFO - 2020-08-10 08:24:44 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:24:44 --> Fetching Boards details
+INFO - 2020-08-10 08:24:44 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-10 08:24:44 --> Fetching All Management details
+INFO - 2020-08-10 08:24:59 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 08:24:59 --> Fetching Boards details
+INFO - 2020-08-10 08:24:59 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-10 08:24:59 --> Fetching All Management details
+INFO - 2020-08-10 08:25:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:25:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:25:00 --> Fetching Roles details
+INFO - 2020-08-10 08:25:00 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:25:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:25:00 --> Fetching Permission details
+INFO - 2020-08-10 08:25:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:25:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:25:00 --> Fetching Permission details
+INFO - 2020-08-10 08:25:00 --> Fetching Roles details
+INFO - 2020-08-10 08:25:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:25:00 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:25:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:25:08 --> Fetching Permission details
+INFO - 2020-08-10 08:29:23 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 08:29:23 --> Fetching Users details
+INFO - 2020-08-10 08:29:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 08:29:28 --> Fetching Users details
+INFO - 2020-08-10 08:29:34 --> Controller "App\Controllers\Alumnus" loaded.
+INFO - 2020-08-10 08:29:34 --> Fetching All Leave details
+INFO - 2020-08-10 08:29:34 --> Controller "App\Controllers\Alumnus" loaded.
+INFO - 2020-08-10 08:29:34 --> Fetching Alumni details
+INFO - 2020-08-10 08:29:43 --> Controller "App\Controllers\Alumnus" loaded.
+INFO - 2020-08-10 08:29:43 --> Fetching Leave details with Id
+INFO - 2020-08-10 08:32:40 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:32:40 --> Fetching Roles details
+INFO - 2020-08-10 08:32:40 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:32:40 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:32:40 --> Fetching Permission details
+INFO - 2020-08-10 08:32:40 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:32:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:32:41 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:32:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:32:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:32:41 --> Fetching Permission details
+INFO - 2020-08-10 08:32:41 --> Fetching Roles details
+INFO - 2020-08-10 08:32:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:32:45 --> Fetching Permission details
+INFO - 2020-08-10 08:33:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:03 --> Updating Role details
+INFO - 2020-08-10 08:33:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:09 --> Fetching Permission details
+INFO - 2020-08-10 08:33:09 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:33:09 --> Fetching Roles details
+INFO - 2020-08-10 08:33:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:47 --> Fetching Permission details
+INFO - 2020-08-10 08:33:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:47 --> Fetching Roles details
+INFO - 2020-08-10 08:33:47 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:33:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:47 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:33:47 --> Fetching Roles details
+INFO - 2020-08-10 08:33:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:47 --> Fetching Permission details
+INFO - 2020-08-10 08:33:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:33:50 --> Fetching Permission details
+INFO - 2020-08-10 08:34:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:34:11 --> Updating Role details
+INFO - 2020-08-10 08:34:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:34:16 --> Fetching Permission details
+INFO - 2020-08-10 08:34:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:34:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:34:16 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:34:16 --> Fetching Roles details
+INFO - 2020-08-10 08:36:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:36:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:36:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:36:07 --> Fetching Permission details
+INFO - 2020-08-10 08:36:07 --> Fetching Roles details
+INFO - 2020-08-10 08:36:07 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:36:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:36:11 --> Fetching Permission details
+INFO - 2020-08-10 08:36:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:36:44 --> Fetching Permission details
+INFO - 2020-08-10 08:36:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:36:57 --> Updating Role details
+INFO - 2020-08-10 08:37:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:37:03 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:37:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:37:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:37:03 --> Fetching Permission details
+INFO - 2020-08-10 08:37:03 --> Fetching Roles details
+INFO - 2020-08-10 08:38:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:38:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:38:13 --> Fetching Roles details
+INFO - 2020-08-10 08:38:13 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:38:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:38:14 --> Fetching Permission details
+INFO - 2020-08-10 08:38:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:38:14 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:38:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:38:14 --> Fetching Roles details
+INFO - 2020-08-10 08:38:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:38:14 --> Fetching Permission details
+INFO - 2020-08-10 08:38:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:38:19 --> Fetching Permission details
+INFO - 2020-08-10 08:38:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:38:29 --> Updating Role details
+INFO - 2020-08-10 08:40:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:40:55 --> Fetching Roles details
+INFO - 2020-08-10 08:42:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:42:44 --> Updating Role details
+INFO - 2020-08-10 08:42:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:42:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:42:57 --> Fetching Roles details
+INFO - 2020-08-10 08:42:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:42:57 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:42:57 --> Fetching Permission details
+INFO - 2020-08-10 08:43:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:43:02 --> Fetching Permission details
+INFO - 2020-08-10 08:43:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:43:31 --> Updating Role details
+INFO - 2020-08-10 08:43:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:43:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:43:37 --> Fetching Permission details
+INFO - 2020-08-10 08:43:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:43:37 --> Fetching Roles details
+INFO - 2020-08-10 08:43:37 --> Fetching Assignments Details details
+INFO - 2020-08-10 08:43:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:43:41 --> Fetching Permission details
+INFO - 2020-08-10 08:46:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:46:37 --> Fetching Permission details
+INFO - 2020-08-10 08:59:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:59:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:59:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 08:59:52 --> Fetching Permission details
+INFO - 2020-08-10 08:59:52 --> Fetching Roles details
+INFO - 2020-08-10 08:59:52 --> Fetching Assignments Details details
+INFO - 2020-08-10 09:00:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:00:15 --> Fetching Permission details
+INFO - 2020-08-10 09:00:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:00:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:00:45 --> Fetching Assignments Details details
+INFO - 2020-08-10 09:00:45 --> Fetching Roles details
+INFO - 2020-08-10 09:00:45 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:00:45 --> Fetching Permission details
+INFO - 2020-08-10 09:01:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:01:48 --> Fetching Permission details
+INFO - 2020-08-10 09:03:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:03:41 --> Fetching Assignments Details details
+INFO - 2020-08-10 09:03:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:03:41 --> Fetching Roles details
+INFO - 2020-08-10 09:03:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:03:41 --> Fetching Permission details
+INFO - 2020-08-10 09:04:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:04:21 --> Fetching Permission details
+INFO - 2020-08-10 09:26:23 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 09:26:23 --> Fetching Boards details
+INFO - 2020-08-10 09:26:23 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-10 09:26:23 --> Fetching All Management details
+INFO - 2020-08-10 09:28:31 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-10 09:28:31 --> Fetching Management details
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-10 09:32:57 --> Fetching All Leave details
+INFO - 2020-08-10 09:32:57 --> Fetching Sections details
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 09:32:57 --> Fetching Boards details
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-10 09:32:57 --> Fetching Category details
+INFO - 2020-08-10 09:32:57 --> Fetching Academic year details
+INFO - 2020-08-10 09:32:57 --> Fetching All Leave details
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 09:32:57 --> Fetching All Leave details
+INFO - 2020-08-10 09:32:57 --> Fetching Sections details
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 09:32:57 --> Fetching Sections details
+INFO - 2020-08-10 09:32:57 --> Fetching Sections details
+INFO - 2020-08-10 09:32:57 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 09:32:57 --> Fetching All Leave details
+INFO - 2020-08-10 09:33:05 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 09:33:05 --> Fetching Sections details
+INFO - 2020-08-10 09:33:05 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 09:33:05 --> Fetching All Leave details
+INFO - 2020-08-10 09:37:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:40:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:52:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:52:25 --> Fetching Assignments Details details
+INFO - 2020-08-10 09:52:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:52:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:52:25 --> Fetching Permission details
+INFO - 2020-08-10 09:52:25 --> Fetching Roles details
+INFO - 2020-08-10 09:52:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:52:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:52:34 --> Fetching Roles details
+INFO - 2020-08-10 09:52:34 --> Fetching Assignments Details details
+INFO - 2020-08-10 09:52:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:52:34 --> Fetching Permission details
+INFO - 2020-08-10 09:53:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:53:05 --> Fetching Assignments Details details
+INFO - 2020-08-10 09:53:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:53:05 --> Fetching Roles details
+INFO - 2020-08-10 09:53:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:53:05 --> Fetching Permission details
+INFO - 2020-08-10 09:53:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:53:13 --> Fetching Permission details
+INFO - 2020-08-10 09:54:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:57:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:58:26 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-10 09:58:26 --> Fetching Organizations details
+INFO - 2020-08-10 09:58:26 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-10 09:58:26 --> Fetching Academic year details
+INFO - 2020-08-10 09:58:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:58:29 --> Updating Role details
+INFO - 2020-08-10 09:59:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:04 --> Fetching Assignments Details details
+INFO - 2020-08-10 09:59:04 --> Fetching Roles details
+INFO - 2020-08-10 09:59:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:04 --> Fetching Permission details
+INFO - 2020-08-10 09:59:06 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:06 --> Fetching Permission details
+INFO - 2020-08-10 09:59:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:16 --> Updating Role details
+INFO - 2020-08-10 09:59:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:22 --> Fetching Permission details
+INFO - 2020-08-10 09:59:22 --> Fetching Assignments Details details
+INFO - 2020-08-10 09:59:22 --> Fetching Roles details
+INFO - 2020-08-10 09:59:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:26 --> Fetching Permission details
+INFO - 2020-08-10 09:59:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:46 --> Updating Role details
+INFO - 2020-08-10 09:59:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:52 --> Fetching Assignments Details details
+INFO - 2020-08-10 09:59:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:52 --> Fetching Permission details
+INFO - 2020-08-10 09:59:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:52 --> Fetching Roles details
+INFO - 2020-08-10 09:59:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 09:59:54 --> Fetching Permission details
+INFO - 2020-08-10 10:02:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:02:35 --> Updating Role details
+INFO - 2020-08-10 10:02:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:02:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:02:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:02:41 --> Fetching Permission details
+INFO - 2020-08-10 10:02:41 --> Fetching Roles details
+INFO - 2020-08-10 10:02:41 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:02:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:02:43 --> Fetching Permission details
+INFO - 2020-08-10 10:03:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:03:04 --> Updating Role details
+INFO - 2020-08-10 10:04:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:04:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:04:07 --> Fetching Roles details
+INFO - 2020-08-10 10:04:07 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:04:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:04:07 --> Fetching Permission details
+INFO - 2020-08-10 10:04:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:04:10 --> Fetching Permission details
+INFO - 2020-08-10 10:04:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:04:46 --> Updating Role details
+INFO - 2020-08-10 10:05:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:05:20 --> Updating Role details
+INFO - 2020-08-10 10:06:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:06:15 --> Updating Role details
+INFO - 2020-08-10 10:06:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:06:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:06:21 --> Fetching Roles details
+INFO - 2020-08-10 10:06:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:06:21 --> Fetching Permission details
+INFO - 2020-08-10 10:06:21 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:06:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:06:27 --> Fetching Permission details
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-10 10:06:44 --> Fetching Academic year details
+INFO - 2020-08-10 10:06:44 --> Fetching Boards details
+INFO - 2020-08-10 10:06:44 --> Fetching All Leave details
+INFO - 2020-08-10 10:06:44 --> Fetching Category details
+INFO - 2020-08-10 10:06:44 --> Fetching All Leave details
+INFO - 2020-08-10 10:06:44 --> Fetching Sections details
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 10:06:44 --> Fetching All Leave details
+INFO - 2020-08-10 10:06:44 --> Fetching Sections details
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 10:06:44 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 10:06:44 --> Fetching Sections details
+INFO - 2020-08-10 10:06:44 --> Fetching All Leave details
+INFO - 2020-08-10 10:06:44 --> Fetching Sections details
+INFO - 2020-08-10 10:07:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:07:48 --> Updating Role details
+INFO - 2020-08-10 10:08:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:08:22 --> Fetching Permission details
+INFO - 2020-08-10 10:11:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:11:46 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:11:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:11:46 --> Fetching Roles details
+INFO - 2020-08-10 10:11:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:11:46 --> Fetching Permission details
+INFO - 2020-08-10 10:11:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:11:58 --> Fetching Permission details
+INFO - 2020-08-10 10:12:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:12:26 --> Updating Role details
+INFO - 2020-08-10 10:12:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:12:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:12:33 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:12:33 --> Fetching Roles details
+INFO - 2020-08-10 10:12:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:12:33 --> Fetching Permission details
+INFO - 2020-08-10 10:12:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:12:36 --> Fetching Permission details
+INFO - 2020-08-10 10:13:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:13:15 --> Updating Role details
+INFO - 2020-08-10 10:15:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:15:12 --> Updating Role details
+INFO - 2020-08-10 10:20:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:20:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:20:19 --> Fetching Roles details
+INFO - 2020-08-10 10:20:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:20:19 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:20:19 --> Fetching Permission details
+INFO - 2020-08-10 10:20:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:20:24 --> Fetching Permission details
+INFO - 2020-08-10 10:21:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:21:24 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:21:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:21:24 --> Fetching Roles details
+INFO - 2020-08-10 10:21:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:21:24 --> Fetching Permission details
+INFO - 2020-08-10 10:21:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:21:27 --> Fetching Permission details
+INFO - 2020-08-10 10:21:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:21:41 --> Updating Role details
+INFO - 2020-08-10 10:21:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:21:46 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:21:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:21:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:21:46 --> Fetching Roles details
+INFO - 2020-08-10 10:21:46 --> Fetching Permission details
+INFO - 2020-08-10 10:21:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:21:49 --> Fetching Permission details
+INFO - 2020-08-10 10:22:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:22:20 --> Updating Role details
+INFO - 2020-08-10 10:24:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:24:12 --> Updating Role details
+INFO - 2020-08-10 10:24:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:24:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:24:22 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:24:22 --> Fetching Roles details
+INFO - 2020-08-10 10:24:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:24:22 --> Fetching Permission details
+INFO - 2020-08-10 10:24:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:24:25 --> Fetching Permission details
+INFO - 2020-08-10 10:26:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:26:03 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:26:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:26:03 --> Fetching Permission details
+INFO - 2020-08-10 10:26:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:26:03 --> Fetching Roles details
+INFO - 2020-08-10 10:26:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:26:22 --> Fetching Permission details
+INFO - 2020-08-10 10:30:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:30:47 --> Fetching Permission details
+INFO - 2020-08-10 10:31:06 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:31:06 --> Fetching Permission details
+INFO - 2020-08-10 10:50:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:50:11 --> Fetching Assignments Details details
+INFO - 2020-08-10 10:50:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:50:11 --> Fetching Permission details
+INFO - 2020-08-10 10:50:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 10:50:11 --> Fetching Roles details
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 11:04:38 --> Fetching Boards details
+INFO - 2020-08-10 11:04:38 --> Fetching All Leave details
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 11:04:38 --> Fetching All Leave details
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-10 11:04:38 --> Fetching Category details
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-10 11:04:38 --> Fetching Sections details
+INFO - 2020-08-10 11:04:38 --> Fetching Academic year details
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 11:04:38 --> Fetching Sections details
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 11:04:38 --> Fetching All Leave details
+INFO - 2020-08-10 11:04:38 --> Fetching Sections details
+INFO - 2020-08-10 11:04:38 --> Fetching Sections details
+INFO - 2020-08-10 11:04:38 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-10 11:04:38 --> Fetching All Leave details
+INFO - 2020-08-10 11:05:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 11:05:12 --> Fetching All Leave details
+INFO - 2020-08-10 11:05:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 11:05:19 --> Fetching Leave details with Id
+INFO - 2020-08-10 11:05:47 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 11:05:47 --> Fetching All Leave details
+INFO - 2020-08-10 11:05:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 11:05:49 --> Fetching All Leave details
+INFO - 2020-08-10 12:27:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:27:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:27:15 --> Fetching Permission details
+INFO - 2020-08-10 12:27:15 --> Fetching Roles details
+INFO - 2020-08-10 12:27:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:27:15 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:28:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:28:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:28:36 --> Fetching Roles details
+INFO - 2020-08-10 12:28:36 --> Fetching Permission details
+INFO - 2020-08-10 12:28:36 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:28:36 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:29:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:29:37 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:29:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:29:37 --> Fetching Roles details
+INFO - 2020-08-10 12:29:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:29:37 --> Fetching Permission details
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-10 12:29:39 --> Fetching Boards details
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-10 12:29:39 --> Fetching SubjectMasters details
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-10 12:29:39 --> Fetching Academic year details
+INFO - 2020-08-10 12:29:39 --> Fetching Sections details
+INFO - 2020-08-10 12:29:39 --> Fetching Sections details
+INFO - 2020-08-10 12:29:39 --> Fetching All staff details
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-10 12:29:39 --> Fetching Academic year details
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-10 12:29:39 --> Fetching Subjects details
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-10 12:29:39 --> Fetching class details
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-10 12:29:39 --> Fetching SubjectMasters details
+INFO - 2020-08-10 12:29:39 --> Fetching Sections details
+INFO - 2020-08-10 12:29:39 --> Fetching Sections details
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-10 12:29:39 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-10 12:29:39 --> Fetching Subjects details
+INFO - 2020-08-10 12:29:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:29:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:29:52 --> Fetching Permission details
+INFO - 2020-08-10 12:29:52 --> Fetching Roles details
+INFO - 2020-08-10 12:29:52 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:29:52 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:30:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-10 12:30:14 --> Fetching All Leave details
+INFO - 2020-08-10 12:32:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:32:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:32:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:32:54 --> Fetching Permission details
+INFO - 2020-08-10 12:32:54 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:32:54 --> Fetching Roles details
+INFO - 2020-08-10 12:38:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:38:57 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:38:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:38:57 --> Fetching Roles details
+INFO - 2020-08-10 12:38:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:38:57 --> Fetching Permission details
+INFO - 2020-08-10 12:39:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:39:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:39:19 --> Fetching Permission details
+INFO - 2020-08-10 12:39:19 --> Fetching Roles details
+INFO - 2020-08-10 12:39:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:39:19 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:40:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:40:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:40:27 --> Fetching Roles details
+INFO - 2020-08-10 12:40:27 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:40:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:40:27 --> Fetching Permission details
+INFO - 2020-08-10 12:41:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:41:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:41:05 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:41:05 --> Fetching Roles details
+INFO - 2020-08-10 12:41:05 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:41:05 --> Fetching Permission details
+INFO - 2020-08-10 12:41:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:41:54 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:41:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:41:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:41:54 --> Fetching Permission details
+INFO - 2020-08-10 12:41:54 --> Fetching Roles details
+INFO - 2020-08-10 12:42:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:42:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:42:12 --> Fetching Permission details
+INFO - 2020-08-10 12:42:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:42:12 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:42:12 --> Fetching Roles details
+INFO - 2020-08-10 12:42:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:42:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:42:37 --> Fetching Permission details
+INFO - 2020-08-10 12:42:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:42:37 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:42:37 --> Fetching Roles details
+INFO - 2020-08-10 12:57:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:57:09 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:57:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:57:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:57:09 --> Fetching Permission details
+INFO - 2020-08-10 12:57:09 --> Fetching Roles details
+INFO - 2020-08-10 12:58:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:58:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:58:24 --> Fetching Assignments Details details
+INFO - 2020-08-10 12:58:24 --> Fetching Roles details
+INFO - 2020-08-10 12:58:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:58:24 --> Fetching Permission details
+INFO - 2020-08-10 12:59:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:59:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:59:02 --> Fetching Permission details
+INFO - 2020-08-10 12:59:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 12:59:02 --> Fetching Roles details
+INFO - 2020-08-10 12:59:02 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:35:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:35:50 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:35:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:35:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:35:50 --> Fetching Roles details
+INFO - 2020-08-10 13:35:50 --> Fetching Permission details
+INFO - 2020-08-10 13:35:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:35:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:35:59 --> Fetching Permission details
+INFO - 2020-08-10 13:35:59 --> Fetching Roles details
+INFO - 2020-08-10 13:35:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:35:59 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:36:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:36:55 --> Fetching Roles details
+INFO - 2020-08-10 13:36:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:36:55 --> Fetching Permission details
+INFO - 2020-08-10 13:36:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:36:55 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:38:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:38:42 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:38:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:38:42 --> Fetching Roles details
+INFO - 2020-08-10 13:38:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:38:42 --> Fetching Permission details
+INFO - 2020-08-10 13:39:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:39:09 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:39:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:39:09 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:39:09 --> Fetching Permission details
+INFO - 2020-08-10 13:39:09 --> Fetching Roles details
+INFO - 2020-08-10 13:39:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:39:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:39:21 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:39:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:39:21 --> Fetching Roles details
+INFO - 2020-08-10 13:39:21 --> Fetching Permission details
+INFO - 2020-08-10 13:39:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:39:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:39:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:39:35 --> Fetching Roles details
+INFO - 2020-08-10 13:39:35 --> Fetching Permission details
+INFO - 2020-08-10 13:39:35 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:40:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:40:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:40:20 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:40:20 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:40:20 --> Fetching Permission details
+INFO - 2020-08-10 13:40:20 --> Fetching Roles details
+INFO - 2020-08-10 13:46:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:46:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:46:38 --> Fetching Roles details
+INFO - 2020-08-10 13:46:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:46:38 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:46:38 --> Fetching Permission details
+INFO - 2020-08-10 13:48:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:48:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:48:27 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:48:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:48:27 --> Fetching Roles details
+INFO - 2020-08-10 13:48:27 --> Fetching Permission details
+INFO - 2020-08-10 13:48:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:48:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:48:59 --> Fetching Roles details
+INFO - 2020-08-10 13:48:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 13:48:59 --> Fetching Assignments Details details
+INFO - 2020-08-10 13:48:59 --> Fetching Permission details
+INFO - 2020-08-10 14:05:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:05:11 --> Fetching Assignments Details details
+INFO - 2020-08-10 14:05:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:05:11 --> Fetching Roles details
+INFO - 2020-08-10 14:05:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:05:11 --> Fetching Permission details
+INFO - 2020-08-10 14:05:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:05:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:05:41 --> Fetching Permission details
+INFO - 2020-08-10 14:05:41 --> Fetching Roles details
+INFO - 2020-08-10 14:05:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:05:41 --> Fetching Assignments Details details
+INFO - 2020-08-10 14:11:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:11:35 --> Fetching Assignments Details details
+INFO - 2020-08-10 14:11:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:11:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:11:35 --> Fetching Permission details
+INFO - 2020-08-10 14:11:35 --> Fetching Roles details
+INFO - 2020-08-10 14:13:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:13:18 --> Fetching Assignments Details details
+INFO - 2020-08-10 14:13:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:13:18 --> Fetching Roles details
+INFO - 2020-08-10 14:13:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:13:18 --> Fetching Permission details
+INFO - 2020-08-10 14:15:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:15:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:15:11 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:15:11 --> Fetching Permission details
+INFO - 2020-08-10 14:15:11 --> Fetching Roles details
+INFO - 2020-08-10 14:15:11 --> Fetching Assignments Details details
+INFO - 2020-08-10 14:15:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:15:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:15:24 --> Fetching Assignments Details details
+INFO - 2020-08-10 14:15:24 --> Fetching Roles details
+INFO - 2020-08-10 14:15:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:15:24 --> Fetching Permission details
+INFO - 2020-08-10 14:15:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:15:31 --> Fetching Permission details
+INFO - 2020-08-10 14:15:42 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-10 14:15:42 --> Fetching Permission details
+INFO - 2020-08-10 22:28:26 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 22:28:26 --> Fetching Users details
+INFO - 2020-08-10 22:28:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-10 22:28:34 --> Fetching Users details

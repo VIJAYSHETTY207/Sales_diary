@@ -1,0 +1,1184 @@
+INFO - 2020-05-15 00:26:39 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 00:26:39 --> Fetching FeeMaster details
+INFO - 2020-05-15 00:26:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 00:26:39 --> Fetching Sections details
+INFO - 2020-05-15 00:43:35 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 00:43:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 00:43:35 --> Fetching FeeMaster details
+INFO - 2020-05-15 00:43:35 --> Fetching Sections details
+INFO - 2020-05-15 00:45:43 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 00:45:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 00:45:43 --> Fetching FeeMaster details
+INFO - 2020-05-15 00:45:43 --> Fetching Sections details
+INFO - 2020-05-15 00:46:34 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 00:46:34 --> Fetching FeeMaster details
+INFO - 2020-05-15 00:46:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 00:46:34 --> Fetching Sections details
+INFO - 2020-05-15 00:47:06 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 00:47:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 00:47:06 --> Fetching FeeMaster details
+INFO - 2020-05-15 00:47:06 --> Fetching Sections details
+INFO - 2020-05-15 00:47:20 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 00:47:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 00:47:20 --> Fetching FeeMaster details
+INFO - 2020-05-15 00:47:20 --> Fetching Sections details
+INFO - 2020-05-15 00:49:08 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 00:49:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 00:49:08 --> Fetching FeeMaster details
+INFO - 2020-05-15 00:49:08 --> Fetching Sections details
+INFO - 2020-05-15 01:26:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 01:26:14 --> Fetching All Leave details
+INFO - 2020-05-15 01:29:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 01:29:40 --> Fetching Sections details
+INFO - 2020-05-15 01:29:40 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-05-15 01:29:40 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-05-15 01:29:41 --> Fetching MessageGroups details
+INFO - 2020-05-15 01:29:41 --> Fetching Dashboard details
+INFO - 2020-05-15 01:30:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 01:30:35 --> Fetching All Leave details
+INFO - 2020-05-15 01:30:36 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 01:30:36 --> Fetching All Leave details
+INFO - 2020-05-15 01:30:40 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 01:30:40 --> Fetching All Leave details
+INFO - 2020-05-15 01:33:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 01:33:41 --> Fetching Sections details
+INFO - 2020-05-15 01:33:41 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-05-15 01:33:41 --> Fetching MessageGroups details
+INFO - 2020-05-15 01:33:42 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-05-15 01:33:42 --> Fetching Dashboard details
+INFO - 2020-05-15 01:41:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 01:41:50 --> Fetching FeeMaster details
+INFO - 2020-05-15 01:41:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 01:41:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 01:41:50 --> Fetching All Leave details
+INFO - 2020-05-15 01:41:50 --> Fetching Sections details
+INFO - 2020-05-15 01:42:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 01:42:10 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 01:42:10 --> Fetching Sections details
+INFO - 2020-05-15 01:42:10 --> Fetching All Leave details
+INFO - 2020-05-15 01:42:10 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 01:42:10 --> Fetching FeeMaster details
+INFO - 2020-05-15 01:44:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 01:44:46 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 01:44:46 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 01:44:46 --> Fetching All Leave details
+INFO - 2020-05-15 01:44:46 --> Fetching FeeMaster details
+INFO - 2020-05-15 01:44:46 --> Fetching Sections details
+INFO - 2020-05-15 01:45:14 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 01:45:14 --> Fetching HostelRooms details
+INFO - 2020-05-15 01:45:14 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-05-15 01:45:14 --> Fetching HostelBlocks details
+INFO - 2020-05-15 01:45:18 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 01:45:18 --> Fetching HostelAllotments details
+INFO - 2020-05-15 01:45:18 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-05-15 01:45:18 --> Fetching HostelBlocks details
+INFO - 2020-05-15 01:45:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 01:45:25 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 01:45:25 --> Fetching All Leave details
+INFO - 2020-05-15 01:45:25 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 01:45:25 --> Fetching FeeMaster details
+INFO - 2020-05-15 01:45:25 --> Fetching Sections details
+INFO - 2020-05-15 01:51:39 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 01:51:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 01:51:39 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 01:51:39 --> Fetching FeeMaster details
+INFO - 2020-05-15 01:51:39 --> Fetching All Leave details
+INFO - 2020-05-15 01:51:39 --> Fetching Sections details
+INFO - 2020-05-15 02:06:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:06:39 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:06:39 --> Fetching Sections details
+INFO - 2020-05-15 02:06:39 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:06:39 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:06:39 --> Fetching All Leave details
+INFO - 2020-05-15 02:09:06 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:09:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:09:06 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:09:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:09:06 --> Fetching Sections details
+INFO - 2020-05-15 02:09:06 --> Fetching All Leave details
+INFO - 2020-05-15 02:09:36 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:09:36 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:09:36 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:09:36 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:09:36 --> Fetching Sections details
+INFO - 2020-05-15 02:09:36 --> Fetching All Leave details
+INFO - 2020-05-15 02:10:28 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:10:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:10:28 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:10:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:10:28 --> Fetching Sections details
+INFO - 2020-05-15 02:10:28 --> Fetching All Leave details
+INFO - 2020-05-15 02:18:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:18:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:18:42 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:18:42 --> Fetching Sections details
+INFO - 2020-05-15 02:18:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:18:42 --> Fetching All Leave details
+INFO - 2020-05-15 02:19:03 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:19:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:19:03 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:19:03 --> Fetching Sections details
+INFO - 2020-05-15 02:19:03 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:19:03 --> Fetching All Leave details
+INFO - 2020-05-15 02:19:58 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:19:58 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:19:58 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:19:58 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:19:58 --> Fetching Sections details
+INFO - 2020-05-15 02:19:58 --> Fetching All Leave details
+INFO - 2020-05-15 02:21:05 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:21:05 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:21:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:21:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:21:05 --> Fetching Sections details
+INFO - 2020-05-15 02:21:05 --> Fetching All Leave details
+INFO - 2020-05-15 02:22:28 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:22:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:22:28 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:22:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:22:28 --> Fetching Sections details
+INFO - 2020-05-15 02:22:28 --> Fetching All Leave details
+INFO - 2020-05-15 02:24:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:24:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:24:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:24:50 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:24:50 --> Fetching Sections details
+INFO - 2020-05-15 02:24:50 --> Fetching All Leave details
+INFO - 2020-05-15 02:29:39 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:29:39 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:29:39 --> Fetching Sections details
+INFO - 2020-05-15 02:29:39 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:29:39 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:29:39 --> Fetching All Leave details
+INFO - 2020-05-15 02:34:50 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:34:50 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:34:50 --> Fetching Sections details
+INFO - 2020-05-15 02:34:50 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:34:50 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:34:50 --> Fetching All Leave details
+INFO - 2020-05-15 02:35:35 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:35:35 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:35:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:35:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:35:35 --> Fetching All Leave details
+INFO - 2020-05-15 02:35:35 --> Fetching Sections details
+INFO - 2020-05-15 02:36:20 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:36:20 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:36:20 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:36:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:36:20 --> Fetching All Leave details
+INFO - 2020-05-15 02:36:20 --> Fetching Sections details
+INFO - 2020-05-15 02:38:24 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:38:24 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:38:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:38:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:38:24 --> Fetching All Leave details
+INFO - 2020-05-15 02:38:24 --> Fetching Sections details
+INFO - 2020-05-15 02:44:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:44:55 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:44:55 --> Fetching Sections details
+INFO - 2020-05-15 02:44:55 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:44:55 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:44:55 --> Fetching All Leave details
+INFO - 2020-05-15 02:47:23 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:47:23 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:47:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:47:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:47:23 --> Fetching All Leave details
+INFO - 2020-05-15 02:47:23 --> Fetching Sections details
+INFO - 2020-05-15 02:48:17 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:48:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:48:17 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:48:17 --> Fetching Sections details
+INFO - 2020-05-15 02:48:17 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:48:17 --> Fetching All Leave details
+INFO - 2020-05-15 02:49:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:49:30 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:49:30 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:49:30 --> Fetching Sections details
+INFO - 2020-05-15 02:58:23 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:58:23 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:58:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:58:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:58:23 --> Fetching All Leave details
+INFO - 2020-05-15 02:58:23 --> Fetching Sections details
+INFO - 2020-05-15 02:58:37 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:58:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:58:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:58:37 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:58:37 --> Fetching All Leave details
+INFO - 2020-05-15 02:58:37 --> Fetching Sections details
+INFO - 2020-05-15 02:59:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 02:59:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 02:59:12 --> Fetching Sections details
+INFO - 2020-05-15 02:59:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 02:59:12 --> Fetching FeeMaster details
+INFO - 2020-05-15 02:59:12 --> Fetching All Leave details
+INFO - 2020-05-15 03:00:21 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 03:00:21 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 03:00:21 --> Fetching FeeMaster details
+INFO - 2020-05-15 03:00:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 03:00:21 --> Fetching All Leave details
+INFO - 2020-05-15 03:00:21 --> Fetching Sections details
+INFO - 2020-05-15 03:01:30 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 03:01:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 03:01:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 03:01:30 --> Fetching FeeMaster details
+INFO - 2020-05-15 03:01:30 --> Fetching All Leave details
+INFO - 2020-05-15 03:01:30 --> Fetching Sections details
+INFO - 2020-05-15 03:10:25 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 03:10:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 03:10:25 --> Fetching FeeMaster details
+INFO - 2020-05-15 03:10:25 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 03:10:25 --> Fetching All Leave details
+INFO - 2020-05-15 03:10:25 --> Fetching Sections details
+INFO - 2020-05-15 03:11:33 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:11:33 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:11:33 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-05-15 03:11:33 --> Fetching HostelBlocks details
+INFO - 2020-05-15 03:18:28 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:18:28 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:18:28 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:18:28 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:19:34 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:19:34 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:19:34 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:19:34 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:20:22 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:20:22 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:20:22 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:20:22 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:21:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 03:21:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 03:21:12 --> Fetching Sections details
+INFO - 2020-05-15 03:21:12 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 03:21:12 --> Fetching FeeMaster details
+INFO - 2020-05-15 03:21:12 --> Fetching All Leave details
+INFO - 2020-05-15 03:22:01 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 03:22:01 --> Fetching FeeMaster details
+INFO - 2020-05-15 03:22:01 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 03:22:01 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 03:22:01 --> Fetching All Leave details
+INFO - 2020-05-15 03:22:01 --> Fetching Sections details
+INFO - 2020-05-15 03:23:00 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:23:00 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:23:00 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:23:00 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:24:48 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:24:48 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:24:48 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:24:48 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:25:23 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:25:23 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:25:23 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:25:23 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:25:29 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:25:29 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:25:29 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:25:29 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:26:38 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:26:38 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:26:38 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:26:38 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:28:41 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:28:41 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:28:41 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:28:41 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:30:25 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:30:25 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:30:25 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:30:25 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:32:28 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 03:32:28 --> Fetching FeeMaster details
+INFO - 2020-05-15 03:32:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 03:32:28 --> Fetching Sections details
+INFO - 2020-05-15 03:32:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 03:32:28 --> Fetching All Leave details
+INFO - 2020-05-15 03:34:00 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:34:00 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:34:00 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:34:00 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:35:07 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:35:07 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:35:07 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:35:07 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:35:16 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:35:16 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:35:16 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:35:16 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:35:52 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:35:52 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:35:52 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:35:52 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:36:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 03:36:31 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 03:36:31 --> Fetching Sections details
+INFO - 2020-05-15 03:36:31 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 03:36:31 --> Fetching FeeMaster details
+INFO - 2020-05-15 03:36:31 --> Fetching All Leave details
+INFO - 2020-05-15 03:37:15 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 03:37:15 --> Fetching FeeMaster details
+INFO - 2020-05-15 03:37:15 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 03:37:15 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 03:37:15 --> Fetching Sections details
+INFO - 2020-05-15 03:37:15 --> Fetching All Leave details
+INFO - 2020-05-15 03:40:55 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 03:40:55 --> Fetching HostelAllotments details
+INFO - 2020-05-15 03:40:55 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 03:40:55 --> Fetching HostelRooms details
+INFO - 2020-05-15 03:51:51 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-05-15 03:51:51 --> Fetching Feedback details
+INFO - 2020-05-15 04:24:47 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-05-15 04:24:47 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-05-15 04:24:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 04:24:47 --> Fetching FeeMaster details
+INFO - 2020-05-15 04:24:47 --> Fetching All Leave details
+INFO - 2020-05-15 04:24:47 --> Fetching Sections details
+INFO - 2020-05-15 04:27:52 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:27:52 --> Fetching All Leave details
+INFO - 2020-05-15 04:27:59 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 04:27:59 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 04:27:59 --> Fetching Organizations details
+INFO - 2020-05-15 04:27:59 --> Fetching Institution details
+INFO - 2020-05-15 04:28:40 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 04:28:40 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 04:28:40 --> Fetching Organizations details
+INFO - 2020-05-15 04:28:40 --> Fetching Institution details
+INFO - 2020-05-15 04:28:42 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 04:28:42 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 04:28:42 --> Fetching Institution details
+INFO - 2020-05-15 04:28:42 --> Fetching Organizations details
+INFO - 2020-05-15 04:30:27 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:30:27 --> Fetching All Leave details
+INFO - 2020-05-15 04:30:29 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:30:29 --> Fetching All Leave details
+INFO - 2020-05-15 04:30:31 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:30:31 --> Fetching All Leave details
+INFO - 2020-05-15 04:30:33 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:30:33 --> Fetching All Leave details
+INFO - 2020-05-15 04:30:34 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:30:34 --> Fetching All Leave details
+INFO - 2020-05-15 04:32:13 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:32:13 --> Fetching All Leave details
+INFO - 2020-05-15 04:33:45 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:33:45 --> Fetching All Leave details
+INFO - 2020-05-15 04:34:02 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:34:02 --> Fetching All Leave details
+INFO - 2020-05-15 04:34:18 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 04:34:18 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 04:34:18 --> Fetching Institution details
+INFO - 2020-05-15 04:34:18 --> Fetching Organizations details
+INFO - 2020-05-15 04:35:27 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:35:27 --> Fetching All Leave details
+INFO - 2020-05-15 04:35:31 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 04:35:31 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 04:35:31 --> Fetching Institution details
+INFO - 2020-05-15 04:35:31 --> Fetching Organizations details
+INFO - 2020-05-15 04:35:34 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:35:34 --> Inserting Staff Profile details
+INFO - 2020-05-15 04:35:36 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-05-15 04:35:36 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 04:35:36 --> Fetching Sections details
+INFO - 2020-05-15 04:35:36 --> Fetching Dashboard details
+INFO - 2020-05-15 04:35:38 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-05-15 04:35:38 --> Fetching Circular details
+INFO - 2020-05-15 04:36:00 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-05-15 04:36:00 --> Fetching Circular details
+INFO - 2020-05-15 04:36:46 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:36:46 --> Fetching All Leave details
+INFO - 2020-05-15 04:36:48 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:36:48 --> Fetching All Leave details
+INFO - 2020-05-15 04:37:23 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:37:23 --> Fetching All Leave details
+INFO - 2020-05-15 04:39:27 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:39:27 --> Fetching All Leave details
+INFO - 2020-05-15 04:39:40 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 04:39:40 --> Fetching All Leave details
+INFO - 2020-05-15 04:39:44 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 04:39:44 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 04:39:44 --> Fetching Organizations details
+INFO - 2020-05-15 04:39:44 --> Fetching Institution details
+INFO - 2020-05-15 04:41:49 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 04:41:49 --> Fetching Institution details
+INFO - 2020-05-15 04:41:49 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 04:41:49 --> Fetching Organizations details
+INFO - 2020-05-15 04:54:40 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 04:54:40 --> Fetching HostelAllotments details
+INFO - 2020-05-15 04:54:40 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 04:54:40 --> Fetching HostelRooms details
+INFO - 2020-05-15 04:59:59 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 04:59:59 --> Fetching HostelAllotments details
+INFO - 2020-05-15 04:59:59 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 04:59:59 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:03:13 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:03:13 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:03:13 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:03:13 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:03:13 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:03:13 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:03:58 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:03:58 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:03:58 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:03:58 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:04:02 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:04:02 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:05:07 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:05:07 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:05:08 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:05:08 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:05:15 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:05:15 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:06:25 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:06:25 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:06:25 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:06:25 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:06:28 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:06:28 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:06:43 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:06:43 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:06:43 --> Fetching Institution details
+INFO - 2020-05-15 05:06:43 --> Fetching Organizations details
+INFO - 2020-05-15 05:08:41 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:08:41 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:08:41 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:08:41 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:08:44 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:08:44 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:09:46 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:09:46 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:09:46 --> Fetching Organizations details
+INFO - 2020-05-15 05:09:46 --> Fetching Institution details
+INFO - 2020-05-15 05:09:54 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:09:54 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:09:54 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:09:54 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:10:01 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:10:01 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:10:56 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:10:56 --> Fetching Organizations details
+INFO - 2020-05-15 05:10:56 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:10:56 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:10:56 --> Fetching Institution details
+INFO - 2020-05-15 05:10:56 --> Fetching Organizations details
+INFO - 2020-05-15 05:11:30 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:11:30 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:11:30 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:11:30 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:11:33 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:11:33 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:11:48 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:11:48 --> Fetching Organizations details
+INFO - 2020-05-15 05:11:49 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:11:49 --> Fetching Institution details
+INFO - 2020-05-15 05:11:49 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:11:49 --> Fetching Organizations details
+INFO - 2020-05-15 05:11:49 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:11:49 --> Fetching Institution details
+INFO - 2020-05-15 05:11:49 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:11:49 --> Fetching Organizations details
+INFO - 2020-05-15 05:11:55 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:11:55 --> Fetching All Leave details
+INFO - 2020-05-15 05:11:57 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:11:57 --> Fetching Institution details
+INFO - 2020-05-15 05:11:57 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:11:57 --> Fetching Organizations details
+INFO - 2020-05-15 05:12:55 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:12:55 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:12:55 --> Fetching Institution details
+INFO - 2020-05-15 05:12:55 --> Fetching Organizations details
+INFO - 2020-05-15 05:12:56 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:12:56 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:12:56 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:12:56 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:12:56 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:12:56 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:12:56 --> Fetching Organizations details
+INFO - 2020-05-15 05:12:56 --> Fetching Institution details
+INFO - 2020-05-15 05:13:09 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:13:09 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:14:49 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:15:29 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:15:29 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:15:29 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:15:29 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:15:39 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:15:39 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:15:48 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:15:48 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:15:48 --> Fetching Organizations details
+INFO - 2020-05-15 05:15:48 --> Fetching Institution details
+INFO - 2020-05-15 05:15:49 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:15:49 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:15:49 --> Fetching Institution details
+INFO - 2020-05-15 05:15:49 --> Fetching Organizations details
+INFO - 2020-05-15 05:16:00 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:16:17 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:17:04 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:17:04 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:17:04 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:17:04 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:17:08 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:17:08 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:17:33 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:17:33 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:17:33 --> Fetching Organizations details
+INFO - 2020-05-15 05:17:33 --> Fetching Institution details
+INFO - 2020-05-15 05:17:36 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:17:36 --> Fetching Institution details
+INFO - 2020-05-15 05:17:36 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:17:36 --> Fetching Organizations details
+INFO - 2020-05-15 05:18:01 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:18:01 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:18:01 --> Fetching Institution details
+INFO - 2020-05-15 05:18:01 --> Fetching Organizations details
+INFO - 2020-05-15 05:18:05 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:18:05 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:18:05 --> Fetching Institution details
+INFO - 2020-05-15 05:18:05 --> Fetching Organizations details
+INFO - 2020-05-15 05:18:46 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:21:16 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:21:16 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:21:16 --> Fetching Institution details
+INFO - 2020-05-15 05:21:16 --> Fetching Organizations details
+INFO - 2020-05-15 05:21:17 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:21:17 --> Fetching Institution details
+INFO - 2020-05-15 05:21:17 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:21:17 --> Fetching Organizations details
+INFO - 2020-05-15 05:21:44 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:21:44 --> Inserting Staff Profile details
+INFO - 2020-05-15 05:21:47 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:21:47 --> Fetching All Leave details
+INFO - 2020-05-15 05:21:54 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:21:54 --> Fetching All Leave details
+INFO - 2020-05-15 05:22:25 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:22:25 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:22:25 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:22:25 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:22:29 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:22:29 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:22:57 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:22:57 --> Fetching All Leave details
+INFO - 2020-05-15 05:22:58 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:22:58 --> Fetching Institution details
+INFO - 2020-05-15 05:22:58 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:22:58 --> Fetching Organizations details
+INFO - 2020-05-15 05:23:14 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:23:14 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:23:14 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:23:14 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:23:26 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:23:26 --> Inserting Staff Profile details
+INFO - 2020-05-15 05:23:29 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:23:29 --> Fetching All Leave details
+INFO - 2020-05-15 05:23:31 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:23:31 --> Fetching All Leave details
+INFO - 2020-05-15 05:23:33 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:23:33 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:23:33 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:23:33 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:23:37 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:23:37 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:24:52 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:24:52 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:24:52 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:24:52 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:24:56 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:24:56 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:26:52 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:26:52 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:26:52 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:26:52 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:27:28 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:27:28 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:28:08 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:28:08 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:28:08 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:28:08 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:28:25 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:28:25 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:29:15 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:29:15 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:29:15 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 05:29:15 --> Fetching HostelRooms details
+INFO - 2020-05-15 05:29:19 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:29:19 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:29:33 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:29:33 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:29:37 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:29:37 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:29:42 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 05:29:42 --> Fetching HostelAllotments details
+INFO - 2020-05-15 05:41:45 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:41:45 --> Fetching All Leave details
+INFO - 2020-05-15 05:41:48 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:41:48 --> Fetching Institution details
+INFO - 2020-05-15 05:41:49 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:41:49 --> Fetching Organizations details
+INFO - 2020-05-15 05:42:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 05:42:10 --> Fetching Sections details
+INFO - 2020-05-15 05:42:18 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:42:18 --> Fetching All Leave details
+INFO - 2020-05-15 05:42:19 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:42:19 --> Fetching Institution details
+INFO - 2020-05-15 05:42:19 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:42:19 --> Fetching Organizations details
+INFO - 2020-05-15 05:44:10 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:44:25 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:44:25 --> Inserting Staff Profile details
+INFO - 2020-05-15 05:44:28 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:44:28 --> Fetching All Leave details
+INFO - 2020-05-15 05:45:15 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:45:15 --> Fetching All Leave details
+INFO - 2020-05-15 05:45:20 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:45:20 --> Fetching All Leave details
+INFO - 2020-05-15 05:45:22 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:45:22 --> Fetching Institution details
+INFO - 2020-05-15 05:45:22 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:45:22 --> Fetching Organizations details
+INFO - 2020-05-15 05:47:33 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:47:33 --> Inserting Staff Profile details
+INFO - 2020-05-15 05:47:36 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:47:36 --> Fetching All Leave details
+INFO - 2020-05-15 05:47:38 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:47:38 --> Fetching All Leave details
+INFO - 2020-05-15 05:47:44 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:47:44 --> Fetching All Leave details
+INFO - 2020-05-15 05:47:46 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:47:46 --> Fetching Institution details
+INFO - 2020-05-15 05:47:46 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:47:46 --> Fetching Organizations details
+INFO - 2020-05-15 05:50:05 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:50:05 --> Inserting Staff Profile details
+INFO - 2020-05-15 05:50:07 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:50:07 --> Fetching All Leave details
+INFO - 2020-05-15 05:50:13 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:50:13 --> Fetching Organizations details
+INFO - 2020-05-15 05:50:13 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:50:13 --> Fetching Institution details
+INFO - 2020-05-15 05:52:10 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:52:10 --> Inserting Staff Profile details
+INFO - 2020-05-15 05:52:12 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:52:12 --> Fetching All Leave details
+INFO - 2020-05-15 05:52:14 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 05:52:14 --> Fetching Institution details
+INFO - 2020-05-15 05:52:14 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 05:52:14 --> Fetching Organizations details
+INFO - 2020-05-15 05:54:52 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:54:52 --> Inserting Staff Profile details
+INFO - 2020-05-15 05:54:54 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:54:54 --> Fetching All Leave details
+INFO - 2020-05-15 05:54:58 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 05:54:58 --> Fetching All Leave details
+INFO - 2020-05-15 06:12:28 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:12:28 --> Fetching All Leave details
+INFO - 2020-05-15 06:12:37 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:12:37 --> Fetching All Leave details
+INFO - 2020-05-15 06:14:44 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 06:14:44 --> Fetching Users details
+INFO - 2020-05-15 06:14:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 06:14:51 --> Fetching Users details
+INFO - 2020-05-15 06:15:00 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-05-15 06:15:00 --> Fetching Subjects details
+INFO - 2020-05-15 06:15:21 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:15:21 --> Fetching All Leave details
+INFO - 2020-05-15 06:15:24 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:15:24 --> Fetching Institution details
+INFO - 2020-05-15 06:15:24 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:15:24 --> Fetching Organizations details
+INFO - 2020-05-15 06:17:34 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:17:34 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:17:37 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:17:37 --> Fetching All Leave details
+INFO - 2020-05-15 06:17:56 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:17:56 --> Fetching Institution details
+INFO - 2020-05-15 06:17:56 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:17:56 --> Fetching Organizations details
+INFO - 2020-05-15 06:21:54 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:21:54 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:21:56 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:21:56 --> Fetching All Leave details
+INFO - 2020-05-15 06:21:58 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:21:58 --> Fetching Institution details
+INFO - 2020-05-15 06:21:58 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:21:58 --> Fetching Organizations details
+INFO - 2020-05-15 06:24:04 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:24:04 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:24:06 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:24:06 --> Fetching All Leave details
+INFO - 2020-05-15 06:24:16 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:24:16 --> Fetching Institution details
+INFO - 2020-05-15 06:24:16 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:24:16 --> Fetching Organizations details
+INFO - 2020-05-15 06:26:26 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:26:26 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:26:29 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:26:29 --> Fetching All Leave details
+INFO - 2020-05-15 06:26:31 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:26:31 --> Fetching Institution details
+INFO - 2020-05-15 06:26:31 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:26:31 --> Fetching Organizations details
+INFO - 2020-05-15 06:28:17 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:28:17 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:28:19 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:28:19 --> Fetching All Leave details
+INFO - 2020-05-15 06:28:22 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:28:22 --> Fetching Institution details
+INFO - 2020-05-15 06:28:22 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:28:22 --> Fetching Organizations details
+INFO - 2020-05-15 06:30:00 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:30:00 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:30:03 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:30:03 --> Fetching All Leave details
+INFO - 2020-05-15 06:30:04 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:30:04 --> Fetching Institution details
+INFO - 2020-05-15 06:30:05 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:30:05 --> Fetching Organizations details
+INFO - 2020-05-15 06:32:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 06:32:52 --> Fetching Users details
+INFO - 2020-05-15 06:33:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 06:33:01 --> Fetching Users details
+INFO - 2020-05-15 06:33:17 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:33:17 --> Fetching All Leave details
+INFO - 2020-05-15 06:33:21 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:33:21 --> Fetching All Leave details
+INFO - 2020-05-15 06:33:31 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:33:31 --> Fetching All Leave details
+INFO - 2020-05-15 06:33:33 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:33:33 --> Fetching Institution details
+INFO - 2020-05-15 06:33:33 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:33:33 --> Fetching Organizations details
+INFO - 2020-05-15 06:34:29 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:34:29 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:34:32 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:34:32 --> Fetching All Leave details
+INFO - 2020-05-15 06:34:33 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:34:33 --> Fetching Institution details
+INFO - 2020-05-15 06:34:34 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:34:34 --> Fetching Organizations details
+INFO - 2020-05-15 06:36:43 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:36:43 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:36:46 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:36:46 --> Fetching All Leave details
+INFO - 2020-05-15 06:36:48 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:36:48 --> Fetching Institution details
+INFO - 2020-05-15 06:36:48 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:36:48 --> Fetching Organizations details
+INFO - 2020-05-15 06:38:51 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:38:51 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:38:53 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:38:53 --> Fetching All Leave details
+INFO - 2020-05-15 06:38:56 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:38:56 --> Fetching Institution details
+INFO - 2020-05-15 06:38:56 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:38:56 --> Fetching Organizations details
+INFO - 2020-05-15 06:39:14 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:39:14 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:39:16 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:39:16 --> Fetching All Leave details
+INFO - 2020-05-15 06:39:18 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:39:18 --> Fetching Institution details
+INFO - 2020-05-15 06:39:18 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:39:18 --> Fetching Organizations details
+INFO - 2020-05-15 06:41:41 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:41:41 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:41:44 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:41:44 --> Fetching All Leave details
+INFO - 2020-05-15 06:41:51 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:41:51 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:41:51 --> Fetching Institution details
+INFO - 2020-05-15 06:41:51 --> Fetching Organizations details
+INFO - 2020-05-15 06:45:12 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:45:12 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:45:14 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:45:14 --> Fetching All Leave details
+INFO - 2020-05-15 06:45:21 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:45:21 --> Fetching Institution details
+INFO - 2020-05-15 06:45:21 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:45:21 --> Fetching Organizations details
+INFO - 2020-05-15 06:48:13 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:48:13 --> Inserting Staff Profile details
+INFO - 2020-05-15 06:48:15 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:48:15 --> Fetching All Leave details
+INFO - 2020-05-15 06:53:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 06:53:02 --> Fetching Users details
+INFO - 2020-05-15 06:53:07 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 06:53:07 --> Fetching Users details
+INFO - 2020-05-15 06:53:35 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:53:36 --> Fetching All Leave details
+INFO - 2020-05-15 06:53:42 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:53:42 --> Fetching All Leave details
+INFO - 2020-05-15 06:53:45 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:53:45 --> Fetching All Leave details
+INFO - 2020-05-15 06:53:58 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 06:53:58 --> Fetching All Leave details
+INFO - 2020-05-15 06:54:00 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 06:54:00 --> Fetching Institution details
+INFO - 2020-05-15 06:54:00 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 06:54:00 --> Fetching Organizations details
+INFO - 2020-05-15 07:00:01 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:00:01 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:00:04 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:00:04 --> Fetching All Leave details
+INFO - 2020-05-15 07:00:06 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:00:06 --> Fetching Institution details
+INFO - 2020-05-15 07:00:06 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:00:06 --> Fetching Organizations details
+INFO - 2020-05-15 07:02:47 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:02:47 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:02:49 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:02:49 --> Fetching All Leave details
+INFO - 2020-05-15 07:02:51 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:02:51 --> Fetching Institution details
+INFO - 2020-05-15 07:02:51 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:02:51 --> Fetching Organizations details
+INFO - 2020-05-15 07:05:03 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:05:03 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:05:06 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:05:06 --> Fetching All Leave details
+INFO - 2020-05-15 07:05:09 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:05:09 --> Fetching Institution details
+INFO - 2020-05-15 07:05:09 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:05:09 --> Fetching Organizations details
+INFO - 2020-05-15 07:07:55 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:07:55 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:07:58 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:07:58 --> Fetching All Leave details
+INFO - 2020-05-15 07:08:01 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:08:01 --> Fetching All Leave details
+INFO - 2020-05-15 07:08:19 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:08:19 --> Fetching All Leave details
+INFO - 2020-05-15 07:08:21 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:08:21 --> Fetching Institution details
+INFO - 2020-05-15 07:08:21 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:08:21 --> Fetching Organizations details
+INFO - 2020-05-15 07:10:46 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:10:46 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:10:49 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:10:49 --> Fetching All Leave details
+INFO - 2020-05-15 07:10:54 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:10:54 --> Fetching All Leave details
+INFO - 2020-05-15 07:11:02 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:11:02 --> Fetching Institution details
+INFO - 2020-05-15 07:11:02 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:11:02 --> Fetching Organizations details
+INFO - 2020-05-15 07:13:38 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:13:38 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:13:40 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:13:40 --> Fetching All Leave details
+INFO - 2020-05-15 07:13:42 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:13:42 --> Fetching Institution details
+INFO - 2020-05-15 07:13:42 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:13:42 --> Fetching Organizations details
+INFO - 2020-05-15 07:13:48 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:13:48 --> Fetching All Leave details
+INFO - 2020-05-15 07:17:06 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:17:06 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:17:09 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:17:09 --> Fetching All Leave details
+INFO - 2020-05-15 07:17:11 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:17:11 --> Fetching Institution details
+INFO - 2020-05-15 07:17:11 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:17:11 --> Fetching Organizations details
+INFO - 2020-05-15 07:17:16 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:17:16 --> Fetching All Leave details
+INFO - 2020-05-15 07:20:16 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:20:16 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:20:18 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:20:18 --> Fetching All Leave details
+INFO - 2020-05-15 07:20:25 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:20:25 --> Fetching All Leave details
+INFO - 2020-05-15 07:20:41 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:20:41 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:20:41 --> Fetching Institution details
+INFO - 2020-05-15 07:20:41 --> Fetching Organizations details
+INFO - 2020-05-15 07:24:01 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:24:01 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:24:04 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:24:04 --> Fetching All Leave details
+INFO - 2020-05-15 07:24:06 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-05-15 07:24:06 --> Inserting Subjects details
+INFO - 2020-05-15 07:24:10 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:24:10 --> Fetching All Leave details
+INFO - 2020-05-15 07:24:23 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-05-15 07:24:23 --> Fetching Subjects details
+INFO - 2020-05-15 07:24:26 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:24:26 --> Fetching All Leave details
+INFO - 2020-05-15 07:24:48 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:24:48 --> Fetching All Leave details
+INFO - 2020-05-15 07:25:15 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-05-15 07:25:15 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-05-15 07:25:15 --> Fetching All Leave details
+INFO - 2020-05-15 07:25:15 --> Fetching All Leave details
+INFO - 2020-05-15 07:42:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 07:42:55 --> Fetching Users details
+INFO - 2020-05-15 07:43:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 07:43:01 --> Fetching Users details
+INFO - 2020-05-15 07:43:07 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:43:07 --> Fetching All Leave details
+INFO - 2020-05-15 07:43:11 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:43:11 --> Fetching Institution details
+INFO - 2020-05-15 07:43:11 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:43:11 --> Fetching Organizations details
+INFO - 2020-05-15 07:43:47 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 07:43:47 --> Fetching Users details
+INFO - 2020-05-15 07:43:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 07:43:53 --> Fetching Users details
+INFO - 2020-05-15 07:44:02 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:44:02 --> Fetching All Leave details
+INFO - 2020-05-15 07:44:05 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:44:05 --> Fetching Institution details
+INFO - 2020-05-15 07:44:05 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:44:05 --> Fetching Organizations details
+INFO - 2020-05-15 07:44:13 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:44:29 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:44:29 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:44:32 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:44:32 --> Fetching All Leave details
+INFO - 2020-05-15 07:44:34 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:44:34 --> Fetching Institution details
+INFO - 2020-05-15 07:44:35 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:44:35 --> Fetching Organizations details
+INFO - 2020-05-15 07:45:59 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:45:59 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:46:02 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:46:02 --> Fetching All Leave details
+INFO - 2020-05-15 07:46:04 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:46:04 --> Fetching Institution details
+INFO - 2020-05-15 07:46:04 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:46:04 --> Fetching Organizations details
+INFO - 2020-05-15 07:46:18 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:46:18 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:46:20 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:46:20 --> Fetching All Leave details
+INFO - 2020-05-15 07:47:08 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:47:08 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:47:08 --> Fetching Institution details
+INFO - 2020-05-15 07:47:08 --> Fetching Organizations details
+INFO - 2020-05-15 07:47:37 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:47:37 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:47:39 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:47:39 --> Fetching All Leave details
+INFO - 2020-05-15 07:47:44 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:47:44 --> Fetching Institution details
+INFO - 2020-05-15 07:47:44 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:47:44 --> Fetching Organizations details
+INFO - 2020-05-15 07:48:07 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:48:07 --> Fetching All Leave details
+INFO - 2020-05-15 07:48:17 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:48:17 --> Fetching All Leave details
+INFO - 2020-05-15 07:49:05 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:49:05 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:49:08 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:49:08 --> Fetching All Leave details
+INFO - 2020-05-15 07:49:11 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:49:11 --> Fetching Institution details
+INFO - 2020-05-15 07:49:11 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:49:11 --> Fetching Organizations details
+INFO - 2020-05-15 07:49:12 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:49:12 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:49:14 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:49:15 --> Fetching All Leave details
+INFO - 2020-05-15 07:49:16 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:49:16 --> Fetching All Leave details
+INFO - 2020-05-15 07:49:17 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:49:17 --> Fetching Institution details
+INFO - 2020-05-15 07:49:17 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:49:17 --> Fetching Organizations details
+INFO - 2020-05-15 07:50:09 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-05-15 07:50:09 --> Fetching Boards details
+INFO - 2020-05-15 07:50:14 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:50:14 --> Fetching Institution details
+INFO - 2020-05-15 07:50:14 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:50:14 --> Fetching Organizations details
+INFO - 2020-05-15 07:50:49 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:50:49 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:50:51 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:50:51 --> Fetching All Leave details
+INFO - 2020-05-15 07:50:56 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:50:56 --> Fetching All Leave details
+INFO - 2020-05-15 07:51:04 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-05-15 07:51:04 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-05-15 07:51:04 --> Fetching Institution details
+INFO - 2020-05-15 07:51:04 --> Fetching Organizations details
+INFO - 2020-05-15 07:51:43 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:51:43 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:51:45 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:51:45 --> Fetching All Leave details
+INFO - 2020-05-15 07:53:41 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:53:41 --> Inserting Staff Profile details
+INFO - 2020-05-15 07:53:44 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:53:44 --> Fetching All Leave details
+INFO - 2020-05-15 07:53:50 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 07:53:50 --> Fetching All Leave details
+INFO - 2020-05-15 09:03:15 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 09:03:15 --> Fetching Sections details
+INFO - 2020-05-15 09:03:15 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-05-15 09:03:15 --> Fetching Dashboard details
+INFO - 2020-05-15 09:28:42 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 09:28:42 --> Fetching HostelAllotments details
+INFO - 2020-05-15 09:37:24 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-05-15 09:37:24 --> Fetching All Leave details
+INFO - 2020-05-15 09:37:24 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-05-15 09:37:24 --> Fetching All Leave details
+INFO - 2020-05-15 09:44:09 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-05-15 09:44:09 --> Fetching All Leave details
+INFO - 2020-05-15 09:44:09 --> Controller "App\Controllers\LeaveApplications" loaded.
+INFO - 2020-05-15 09:44:09 --> Fetching All Leave details
+INFO - 2020-05-15 10:04:50 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 10:04:50 --> Fetching HostelAllotments details
+INFO - 2020-05-15 10:23:12 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 10:23:12 --> Fetching HostelAllotments details
+INFO - 2020-05-15 10:26:55 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 10:26:55 --> Fetching HostelAllotments details
+INFO - 2020-05-15 11:04:54 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 11:04:54 --> Fetching HostelAllotments details
+INFO - 2020-05-15 11:04:54 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 11:04:54 --> Fetching HostelRooms details
+INFO - 2020-05-15 11:04:54 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 11:04:54 --> Fetching HostelAllotments details
+INFO - 2020-05-15 11:11:14 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 11:11:14 --> Fetching HostelAllotments details
+INFO - 2020-05-15 11:11:15 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 11:11:15 --> Fetching HostelRooms details
+INFO - 2020-05-15 11:11:15 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 11:11:15 --> Fetching HostelAllotments details
+INFO - 2020-05-15 11:13:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 11:13:55 --> Fetching Users details
+INFO - 2020-05-15 11:14:03 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-05-15 11:14:03 --> Fetching Users details
+INFO - 2020-05-15 11:14:07 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:07 --> Fetching room details
+INFO - 2020-05-15 11:14:22 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:22 --> inserting room details
+INFO - 2020-05-15 11:14:22 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:22 --> Fetching room details
+INFO - 2020-05-15 11:14:27 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:27 --> delete room details
+INFO - 2020-05-15 11:14:27 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:27 --> Fetching room details
+INFO - 2020-05-15 11:14:29 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:29 --> delete room details
+INFO - 2020-05-15 11:14:29 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:29 --> Fetching room details
+INFO - 2020-05-15 11:14:33 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:33 --> delete room details
+INFO - 2020-05-15 11:14:33 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:33 --> Fetching room details
+INFO - 2020-05-15 11:14:37 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:37 --> delete room details
+INFO - 2020-05-15 11:14:37 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:37 --> Fetching room details
+INFO - 2020-05-15 11:14:40 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:40 --> delete room details
+INFO - 2020-05-15 11:14:40 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:40 --> Fetching room details
+INFO - 2020-05-15 11:14:43 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:43 --> delete room details
+INFO - 2020-05-15 11:14:43 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:43 --> Fetching room details
+INFO - 2020-05-15 11:14:48 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:48 --> delete room details
+INFO - 2020-05-15 11:14:48 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:14:48 --> Fetching room details
+INFO - 2020-05-15 11:15:11 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:11 --> inserting room details
+INFO - 2020-05-15 11:15:11 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:11 --> Fetching room details
+INFO - 2020-05-15 11:15:13 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:13 --> inserting room details
+INFO - 2020-05-15 11:15:13 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:13 --> Fetching room details
+INFO - 2020-05-15 11:15:20 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:20 --> Fetching room details
+INFO - 2020-05-15 11:15:44 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:44 --> inserting room details
+INFO - 2020-05-15 11:15:44 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:44 --> Fetching room details
+INFO - 2020-05-15 11:15:46 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:46 --> inserting room details
+INFO - 2020-05-15 11:15:46 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:46 --> Fetching room details
+INFO - 2020-05-15 11:15:48 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:48 --> inserting room details
+INFO - 2020-05-15 11:15:48 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:15:48 --> Fetching room details
+INFO - 2020-05-15 11:18:05 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-05-15 11:18:05 --> Fetching HostelBlocks details
+INFO - 2020-05-15 11:18:05 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 11:18:05 --> Fetching All Leave details
+INFO - 2020-05-15 11:18:13 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 11:18:13 --> Fetching HostelRooms details
+INFO - 2020-05-15 11:18:13 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-05-15 11:18:13 --> Fetching HostelBlocks details
+INFO - 2020-05-15 11:18:16 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 11:18:16 --> Fetching HostelAllotments details
+INFO - 2020-05-15 11:18:16 --> Controller "App\Controllers\HostelRooms" loaded.
+INFO - 2020-05-15 11:18:16 --> Fetching HostelRooms details
+INFO - 2020-05-15 11:18:16 --> Controller "App\Controllers\HostelAllotments" loaded.
+INFO - 2020-05-15 11:18:16 --> Fetching HostelAllotments details
+INFO - 2020-05-15 11:32:07 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:07 --> inserting room details
+INFO - 2020-05-15 11:32:07 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:07 --> Fetching room details
+INFO - 2020-05-15 11:32:10 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:10 --> inserting room details
+INFO - 2020-05-15 11:32:11 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:11 --> Fetching room details
+INFO - 2020-05-15 11:32:12 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:12 --> inserting room details
+INFO - 2020-05-15 11:32:12 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:12 --> Fetching room details
+INFO - 2020-05-15 11:32:21 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:21 --> inserting room details
+INFO - 2020-05-15 11:32:21 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:21 --> Fetching room details
+INFO - 2020-05-15 11:32:22 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:22 --> inserting room details
+INFO - 2020-05-15 11:32:23 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:23 --> Fetching room details
+INFO - 2020-05-15 11:32:25 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:25 --> inserting room details
+INFO - 2020-05-15 11:32:25 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:25 --> Fetching room details
+INFO - 2020-05-15 11:32:27 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:27 --> inserting room details
+INFO - 2020-05-15 11:32:27 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:27 --> Fetching room details
+INFO - 2020-05-15 11:32:29 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:29 --> inserting room details
+INFO - 2020-05-15 11:32:29 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-05-15 11:32:29 --> Fetching room details
+INFO - 2020-05-15 11:34:01 --> Controller "App\Controllers\HostelBlocks" loaded.
+INFO - 2020-05-15 11:34:01 --> Fetching HostelBlocks details
+INFO - 2020-05-15 11:34:01 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-05-15 11:34:01 --> Fetching All Leave details
+INFO - 2020-05-15 11:34:21 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-05-15 11:34:21 --> Fetching SubjectMasters details
+INFO - 2020-05-15 11:34:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 11:34:21 --> Fetching Sections details
+INFO - 2020-05-15 11:34:27 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-05-15 11:34:27 --> Fetching Subjects details
+INFO - 2020-05-15 11:34:34 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-05-15 11:34:34 --> Deleting SubjectMasters details
+INFO - 2020-05-15 11:34:37 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-05-15 11:34:37 --> Fetching SubjectMasters details
+INFO - 2020-05-15 11:34:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 11:34:37 --> Fetching Sections details
+INFO - 2020-05-15 11:34:39 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-05-15 11:34:39 --> Deleting SubjectMasters details
+INFO - 2020-05-15 11:34:42 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-05-15 11:34:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-05-15 11:34:42 --> Fetching SubjectMasters details
+INFO - 2020-05-15 11:34:42 --> Fetching Sections details
+INFO - 2020-05-15 11:38:57 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-05-15 11:38:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-15 11:38:57 --> Fetching Boards details
+INFO - 2020-05-15 11:38:57 --> Fetching Standards details
+INFO - 2020-05-15 11:38:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-15 11:38:57 --> Fetching Standards details
+INFO - 2020-05-15 11:38:57 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-15 11:38:57 --> Fetching Standards details
+INFO - 2020-05-15 11:39:46 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-15 11:39:50 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-15 11:40:02 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-05-15 11:40:02 --> Updating Standards details

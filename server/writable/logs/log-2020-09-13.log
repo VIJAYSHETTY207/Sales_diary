@@ -1,0 +1,426 @@
+INFO - 2020-09-13 00:35:45 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 00:35:45 --> Fetching Users details
+INFO - 2020-09-13 00:36:15 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 00:36:15 --> Fetching Users details
+INFO - 2020-09-13 00:36:41 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 00:36:41 --> Fetching Boards details
+INFO - 2020-09-13 00:36:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-09-13 00:36:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 00:36:41 --> Fetching Sections details
+INFO - 2020-09-13 00:36:41 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-09-13 00:36:41 --> Fetching Subjects details
+INFO - 2020-09-13 00:36:41 --> Fetching Assignments Details details
+INFO - 2020-09-13 00:36:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-09-13 00:36:41 --> Fetching Assignments details
+INFO - 2020-09-13 00:36:41 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-09-13 00:36:41 --> Fetching Academic year details
+INFO - 2020-09-13 00:36:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-09-13 00:36:41 --> Fetching Assignments Id details
+INFO - 2020-09-13 00:36:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-09-13 11:06:41 --> Fetching Assignments Mapped Id details
+INFO - 2020-09-13 00:36:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-09-13 00:36:41 --> Fetching Assignments Grade details
+INFO - 2020-09-13 00:36:42 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-09-13 00:36:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 00:36:42 --> Fetching Assignments Details details
+INFO - 2020-09-13 00:36:42 --> Fetching Sections details
+INFO - 2020-09-13 00:37:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 00:37:11 --> Fetching Sections details
+INFO - 2020-09-13 00:37:11 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-09-13 00:37:11 --> Fetching Assignments Details details
+INFO - 2020-09-13 00:37:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 00:37:11 --> Fetching Sections details
+INFO - 2020-09-13 00:37:12 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-09-13 00:37:12 --> Fetching Assignments Details details
+INFO - 2020-09-13 00:37:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 00:37:12 --> Fetching Sections details
+INFO - 2020-09-13 00:37:12 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-09-13 00:37:12 --> Fetching Assignments Details details
+INFO - 2020-09-13 07:22:58 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 07:22:58 --> Fetching Users details
+INFO - 2020-09-13 07:23:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 07:23:07 --> Fetching Users details
+INFO - 2020-09-13 07:23:23 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 07:23:23 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-09-13 07:23:23 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-09-13 07:23:23 --> Fetching Boards details
+INFO - 2020-09-13 07:23:23 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-09-13 07:23:23 --> Fetching All Leave details
+INFO - 2020-09-13 07:23:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-09-13 07:23:23 --> Fetching Category details
+INFO - 2020-09-13 07:23:23 --> Fetching All Leave details
+INFO - 2020-09-13 07:23:23 --> Fetching Sections details
+INFO - 2020-09-13 07:23:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 07:23:51 --> Fetching All User details
+INFO - 2020-09-13 07:23:51 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-09-13 07:23:51 --> Fetching Sections details
+INFO - 2020-09-13 07:24:03 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-09-13 07:24:03 --> Fetching Leave details with Id
+INFO - 2020-09-13 23:03:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:03:18 --> Fetching Users details
+INFO - 2020-09-13 23:03:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:03:24 --> Fetching Users details
+INFO - 2020-09-13 23:04:20 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:04:20 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:04:20 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:04:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:04:20 --> Fetching Boards details
+INFO - 2020-09-13 23:04:20 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:04:20 --> Fetching Department details
+INFO - 2020-09-13 23:04:20 --> Fetching All Leave details
+INFO - 2020-09-13 23:04:20 --> Fetching All staff details
+INFO - 2020-09-13 23:04:20 --> Fetching Sections details
+INFO - 2020-09-13 23:04:20 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:04:20 --> Fetching Department details
+INFO - 2020-09-13 23:04:25 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:04:25 --> Fetching All User details
+INFO - 2020-09-13 23:09:42 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:09:42 --> Fetching All staff details
+INFO - 2020-09-13 23:11:48 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:11:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:11:48 --> Fetching Boards details
+INFO - 2020-09-13 23:11:48 --> Fetching Sections details
+INFO - 2020-09-13 23:11:48 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:11:48 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:11:48 --> Fetching All Leave details
+INFO - 2020-09-13 23:11:48 --> Fetching Department details
+INFO - 2020-09-13 23:11:48 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:11:48 --> Fetching All staff details
+INFO - 2020-09-13 23:11:48 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:11:48 --> Fetching Department details
+INFO - 2020-09-13 23:12:24 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:12:24 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:12:24 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:12:24 --> Fetching All Leave details
+INFO - 2020-09-13 23:12:24 --> Fetching Department details
+INFO - 2020-09-13 23:12:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:12:24 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:12:24 --> Fetching Boards details
+INFO - 2020-09-13 23:12:24 --> Fetching All staff details
+INFO - 2020-09-13 23:12:24 --> Fetching Sections details
+INFO - 2020-09-13 23:12:24 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:12:24 --> Fetching Department details
+INFO - 2020-09-13 23:12:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:12:43 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:12:43 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:12:43 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:12:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:12:43 --> Fetching All Leave details
+INFO - 2020-09-13 23:12:43 --> Fetching Boards details
+INFO - 2020-09-13 23:12:43 --> Fetching Department details
+INFO - 2020-09-13 23:12:43 --> Fetching All staff details
+INFO - 2020-09-13 23:12:43 --> Fetching Sections details
+INFO - 2020-09-13 23:12:43 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:12:43 --> Fetching Department details
+INFO - 2020-09-13 23:13:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:13:08 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:13:08 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:13:08 --> Fetching All staff details
+INFO - 2020-09-13 23:13:08 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:13:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:13:08 --> Fetching Department details
+INFO - 2020-09-13 23:13:08 --> Fetching All Leave details
+INFO - 2020-09-13 23:13:08 --> Fetching Boards details
+INFO - 2020-09-13 23:13:08 --> Fetching Sections details
+INFO - 2020-09-13 23:13:08 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:13:08 --> Fetching Department details
+INFO - 2020-09-13 23:13:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:13:09 --> Fetching All User details
+INFO - 2020-09-13 23:13:13 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:13:13 --> Fetching All staff details
+INFO - 2020-09-13 23:14:24 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:14:24 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:14:24 --> Fetching All staff details
+INFO - 2020-09-13 23:14:24 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:14:24 --> Fetching All Leave details
+INFO - 2020-09-13 23:14:24 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:14:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:14:24 --> Fetching Boards details
+INFO - 2020-09-13 23:14:24 --> Fetching Department details
+INFO - 2020-09-13 23:14:24 --> Fetching Sections details
+INFO - 2020-09-13 23:14:24 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:14:24 --> Fetching Department details
+INFO - 2020-09-13 23:14:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:14:39 --> Fetching All User details
+INFO - 2020-09-13 23:14:41 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:14:41 --> Fetching All staff details
+INFO - 2020-09-13 23:14:45 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:14:45 --> Fetching All staff details
+INFO - 2020-09-13 23:19:26 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:19:26 --> Fetching Boards details
+INFO - 2020-09-13 23:19:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:19:26 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:19:26 --> Fetching All Leave details
+INFO - 2020-09-13 23:19:26 --> Fetching Sections details
+INFO - 2020-09-13 23:19:26 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:19:26 --> Fetching Department details
+INFO - 2020-09-13 23:19:26 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:19:26 --> Fetching All staff details
+INFO - 2020-09-13 23:19:26 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:19:26 --> Fetching Department details
+INFO - 2020-09-13 23:20:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:20:21 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:20:21 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:20:21 --> Fetching All staff details
+INFO - 2020-09-13 23:20:21 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:20:21 --> Fetching Boards details
+INFO - 2020-09-13 23:20:21 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:20:21 --> Fetching Department details
+INFO - 2020-09-13 23:20:21 --> Fetching All Leave details
+INFO - 2020-09-13 23:20:21 --> Fetching Sections details
+INFO - 2020-09-13 23:20:21 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:20:21 --> Fetching Department details
+INFO - 2020-09-13 23:20:48 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:20:48 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:20:48 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:20:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:20:48 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:20:48 --> Fetching Department details
+INFO - 2020-09-13 23:20:48 --> Fetching Boards details
+INFO - 2020-09-13 23:20:48 --> Fetching All Leave details
+INFO - 2020-09-13 23:20:48 --> Fetching All staff details
+INFO - 2020-09-13 23:20:48 --> Fetching Sections details
+INFO - 2020-09-13 23:20:49 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:20:49 --> Fetching Department details
+INFO - 2020-09-13 23:20:50 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:20:50 --> Fetching All User details
+INFO - 2020-09-13 23:21:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:21:32 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:21:32 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:21:33 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:21:33 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:21:33 --> Fetching All Leave details
+INFO - 2020-09-13 23:21:33 --> Fetching Department details
+INFO - 2020-09-13 23:21:33 --> Fetching All staff details
+INFO - 2020-09-13 23:21:33 --> Fetching Boards details
+INFO - 2020-09-13 23:21:33 --> Fetching Sections details
+INFO - 2020-09-13 23:21:33 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:21:33 --> Fetching Department details
+INFO - 2020-09-13 23:21:34 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:21:34 --> Fetching All User details
+INFO - 2020-09-13 23:22:26 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:22:26 --> Fetching Boards details
+INFO - 2020-09-13 23:22:26 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:22:26 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:22:26 --> Fetching All staff details
+INFO - 2020-09-13 23:22:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:22:26 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:22:26 --> Fetching All Leave details
+INFO - 2020-09-13 23:22:26 --> Fetching Department details
+INFO - 2020-09-13 23:22:26 --> Fetching Sections details
+INFO - 2020-09-13 23:22:26 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:22:26 --> Fetching Department details
+INFO - 2020-09-13 23:22:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:22:28 --> Fetching All User details
+INFO - 2020-09-13 23:23:12 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:23:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:23:12 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:23:12 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:23:12 --> Fetching All Leave details
+INFO - 2020-09-13 23:23:12 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:23:12 --> Fetching Department details
+INFO - 2020-09-13 23:23:12 --> Fetching All staff details
+INFO - 2020-09-13 23:23:12 --> Fetching Boards details
+INFO - 2020-09-13 23:23:12 --> Fetching Sections details
+INFO - 2020-09-13 23:23:12 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:23:12 --> Fetching Department details
+INFO - 2020-09-13 23:23:38 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:23:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:23:38 --> Fetching Boards details
+INFO - 2020-09-13 23:23:38 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:23:38 --> Fetching All staff details
+INFO - 2020-09-13 23:23:38 --> Fetching Sections details
+INFO - 2020-09-13 23:23:38 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:23:38 --> Fetching All Leave details
+INFO - 2020-09-13 23:23:38 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:23:38 --> Fetching Department details
+INFO - 2020-09-13 23:23:38 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:23:38 --> Fetching Department details
+INFO - 2020-09-13 23:23:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:23:44 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:23:44 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:23:44 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:23:44 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:23:44 --> Fetching All staff details
+INFO - 2020-09-13 23:23:44 --> Fetching Department details
+INFO - 2020-09-13 23:23:44 --> Fetching Boards details
+INFO - 2020-09-13 23:23:44 --> Fetching All Leave details
+INFO - 2020-09-13 23:23:44 --> Fetching Sections details
+INFO - 2020-09-13 23:23:45 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:23:45 --> Fetching Department details
+INFO - 2020-09-13 23:23:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:23:46 --> Fetching All User details
+INFO - 2020-09-13 23:25:32 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:25:32 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:25:32 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:25:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:25:32 --> Fetching All staff details
+INFO - 2020-09-13 23:25:32 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:25:32 --> Fetching Department details
+INFO - 2020-09-13 23:25:32 --> Fetching Sections details
+INFO - 2020-09-13 23:25:32 --> Fetching All Leave details
+INFO - 2020-09-13 23:25:32 --> Fetching Boards details
+INFO - 2020-09-13 23:25:32 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:25:32 --> Fetching Department details
+INFO - 2020-09-13 23:27:26 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:27:26 --> Fetching Boards details
+INFO - 2020-09-13 23:27:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:27:26 --> Fetching Sections details
+INFO - 2020-09-13 23:27:26 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:27:26 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:27:26 --> Fetching All staff details
+INFO - 2020-09-13 23:27:26 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:27:26 --> Fetching Department details
+INFO - 2020-09-13 23:27:26 --> Fetching All Leave details
+INFO - 2020-09-13 23:27:26 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:27:26 --> Fetching Department details
+INFO - 2020-09-13 23:27:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:27:28 --> Fetching All User details
+INFO - 2020-09-13 23:27:39 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:27:39 --> Fetching staff details with Id
+INFO - 2020-09-13 23:27:40 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:27:40 --> Fetching All staff details
+INFO - 2020-09-13 23:29:18 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:29:18 --> Fetching All staff details
+INFO - 2020-09-13 23:30:31 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:30:31 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:30:31 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:30:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:30:31 --> Fetching All staff details
+INFO - 2020-09-13 23:30:31 --> Fetching All Leave details
+INFO - 2020-09-13 23:30:31 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:30:31 --> Fetching Boards details
+INFO - 2020-09-13 23:30:31 --> Fetching Department details
+INFO - 2020-09-13 23:30:31 --> Fetching Sections details
+INFO - 2020-09-13 23:30:31 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:30:31 --> Fetching Department details
+INFO - 2020-09-13 23:30:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:30:36 --> Fetching All User details
+INFO - 2020-09-13 23:30:38 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:30:38 --> Fetching All staff details
+INFO - 2020-09-13 23:30:40 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:30:40 --> Fetching staff details with Id
+INFO - 2020-09-13 23:30:41 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:30:41 --> Fetching All staff details
+INFO - 2020-09-13 23:32:22 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:32:22 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:32:22 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:32:22 --> Fetching Boards details
+INFO - 2020-09-13 23:32:22 --> Fetching All Leave details
+INFO - 2020-09-13 23:32:22 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:32:22 --> Fetching All staff details
+INFO - 2020-09-13 23:32:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:32:22 --> Fetching Department details
+INFO - 2020-09-13 23:32:22 --> Fetching Sections details
+INFO - 2020-09-13 23:32:22 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:32:22 --> Fetching Department details
+INFO - 2020-09-13 23:32:51 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:32:51 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:32:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:32:51 --> Fetching All Leave details
+INFO - 2020-09-13 23:32:51 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:32:51 --> Fetching All staff details
+INFO - 2020-09-13 23:32:51 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:32:51 --> Fetching Sections details
+INFO - 2020-09-13 23:32:51 --> Fetching Department details
+INFO - 2020-09-13 23:32:51 --> Fetching Boards details
+INFO - 2020-09-13 23:32:51 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:32:51 --> Fetching Department details
+INFO - 2020-09-13 23:32:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:32:53 --> Fetching All User details
+INFO - 2020-09-13 23:33:03 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:33:03 --> Fetching staff details with Id
+INFO - 2020-09-13 23:33:03 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:33:03 --> Fetching All staff details
+INFO - 2020-09-13 23:44:48 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:44:48 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:44:48 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:44:48 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:44:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:44:48 --> Fetching Department details
+INFO - 2020-09-13 23:44:48 --> Fetching All Leave details
+INFO - 2020-09-13 23:44:48 --> Fetching Boards details
+INFO - 2020-09-13 23:44:48 --> Fetching All staff details
+INFO - 2020-09-13 23:44:48 --> Fetching Sections details
+INFO - 2020-09-13 23:44:48 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:44:48 --> Fetching Department details
+INFO - 2020-09-13 23:44:50 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:44:50 --> Fetching All User details
+INFO - 2020-09-13 23:44:56 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:44:56 --> Fetching staff details with Id
+INFO - 2020-09-13 23:44:56 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:44:56 --> Fetching All staff details
+INFO - 2020-09-13 23:47:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:47:55 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:47:55 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:47:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:47:55 --> Fetching Boards details
+INFO - 2020-09-13 23:47:55 --> Fetching All Leave details
+INFO - 2020-09-13 23:47:55 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:47:55 --> Fetching Sections details
+INFO - 2020-09-13 23:47:55 --> Fetching All staff details
+INFO - 2020-09-13 23:47:55 --> Fetching Department details
+INFO - 2020-09-13 23:47:55 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:47:55 --> Fetching Department details
+INFO - 2020-09-13 23:48:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-09-13 23:48:08 --> Fetching All User details
+INFO - 2020-09-13 23:48:10 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:48:10 --> Fetching All staff details
+INFO - 2020-09-13 23:51:00 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:51:00 --> Fetching Boards details
+INFO - 2020-09-13 23:51:00 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-09-13 23:51:00 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-09-13 23:51:00 --> Fetching All Leave details
+INFO - 2020-09-13 23:51:00 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-09-13 23:51:00 --> Fetching Category details
+INFO - 2020-09-13 23:51:00 --> Fetching Sections details
+INFO - 2020-09-13 23:51:00 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-09-13 23:51:00 --> Fetching All Leave details
+INFO - 2020-09-13 23:51:09 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:51:09 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:51:09 --> Fetching Boards details
+INFO - 2020-09-13 23:51:09 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:51:09 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:51:09 --> Fetching Department details
+INFO - 2020-09-13 23:51:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:51:09 --> Fetching All Leave details
+INFO - 2020-09-13 23:51:09 --> Fetching All staff details
+INFO - 2020-09-13 23:51:09 --> Fetching Sections details
+INFO - 2020-09-13 23:51:09 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:51:09 --> Fetching Department details
+INFO - 2020-09-13 23:53:55 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:53:55 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:53:55 --> Fetching Department details
+INFO - 2020-09-13 23:53:55 --> Fetching Role details
+INFO - 2020-09-13 23:54:33 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:54:33 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:54:33 --> Fetching Role details
+INFO - 2020-09-13 23:54:33 --> Fetching Department details
+INFO - 2020-09-13 23:57:10 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:57:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:57:10 --> Fetching Boards details
+INFO - 2020-09-13 23:57:10 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:57:10 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:57:10 --> Fetching All Leave details
+INFO - 2020-09-13 23:57:10 --> Fetching Sections details
+INFO - 2020-09-13 23:57:11 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:57:11 --> Fetching Department details
+INFO - 2020-09-13 23:57:11 --> Fetching All staff details
+INFO - 2020-09-13 23:57:11 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:57:11 --> Fetching Department details
+INFO - 2020-09-13 23:57:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-09-13 23:57:11 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-09-13 23:57:11 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-13 23:57:11 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:57:11 --> Fetching All staff details
+INFO - 2020-09-13 23:57:11 --> Fetching Boards details
+INFO - 2020-09-13 23:57:11 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:57:11 --> Fetching Sections details
+INFO - 2020-09-13 23:57:11 --> Fetching Department details
+INFO - 2020-09-13 23:57:11 --> Fetching All Leave details
+INFO - 2020-09-13 23:57:11 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:57:11 --> Fetching Department details
+INFO - 2020-09-13 23:57:31 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:57:31 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-13 23:57:31 --> Fetching Role details
+INFO - 2020-09-13 23:57:31 --> Fetching Department details

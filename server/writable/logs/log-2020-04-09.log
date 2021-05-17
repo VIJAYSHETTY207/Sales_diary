@@ -1,0 +1,192 @@
+INFO - 2020-04-09 02:02:33 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-04-09 02:03:23 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:03:42 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:04:22 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:05:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:05:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:06:19 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:06:23 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:06:46 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:07:14 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:08:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:08:48 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:08:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:09:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:09:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:10:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:10:32 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:10:41 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:11:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:11:33 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:11:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:12:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:12:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:13:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:13:29 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:13:35 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-04-09 02:13:35 --> Object of class App\Models\Staff_model could not be converted to string
+#0 C:\xampp\htdocs\server_4\app\Controllers\Users.php(52): CodeIgniter\Debug\Exceptions->errorHandler(4096, 'Object of class...', 'C:\\xampp\\htdocs...', 52, Array)
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-09 02:14:14 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:14:41 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:14:48 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:15:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:15:36 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:15:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:17:10 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:17:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:17:20 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:17:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:27:21 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:31:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:40:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:44:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:45:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:45:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:48:06 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 02:48:23 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 03:02:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-09 03:12:23 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:13:03 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:17:17 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:25:38 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:27:10 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:28:26 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:30:22 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:30:58 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:31:22 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:31:37 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:31:55 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:32:11 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:33:51 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:34:44 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:36:01 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:38:04 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:38:12 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:38:34 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:39:27 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:40:48 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:43:57 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:47:24 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:49:24 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 03:49:43 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 05:38:33 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-09 05:38:33 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-09 05:44:10 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-09 05:44:10 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-09 05:44:34 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-09 05:44:34 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-09 05:44:50 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-09 05:44:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-09 05:44:51 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-09 05:44:51 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-09 05:44:52 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-09 05:44:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-09 05:44:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-09 05:44:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-09 05:44:52 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-09 05:44:54 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-09 05:45:00 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-09 05:45:02 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-09 05:45:02 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-09 05:45:04 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-09 05:58:32 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-09 06:14:19 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:14:31 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:14:32 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:19:11 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:20:06 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:20:07 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:23:41 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:25:27 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:25:39 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-09 06:28:15 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:31:36 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:31:47 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:31:51 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:32:27 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:32:58 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:33:24 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:33:35 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:33:39 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:33:43 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:33:45 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:33:51 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:33:54 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 06:38:19 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 07:11:17 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-04-09 07:11:32 --> Controller "App\Controllers\FeesMasters" loaded.
+CRITICAL - 2020-04-09 07:11:32 --> Class 'App\Models\FeeMaster_model' not found
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\FeesMasters->get_data()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FeesMasters))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-09 07:12:05 --> Controller "App\Controllers\FeesMasters" loaded.
+CRITICAL - 2020-04-09 07:12:05 --> Class 'App\Models\FeeMaster_model' not found
+#0 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\FeesMasters->get_data()
+#1 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FeesMasters))
+#2 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-09 07:12:41 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-09 07:13:42 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-09 07:14:36 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-09 07:15:39 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-09 07:16:23 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-04-09 07:18:28 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 07:19:41 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 07:19:46 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 07:21:46 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 07:22:23 --> Controller "App\Controllers\Vehicles" loaded.
+INFO - 2020-04-09 08:25:14 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 08:28:23 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 08:28:23 --> Fetching room details
+INFO - 2020-04-09 08:34:24 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 08:34:24 --> inserting room details
+INFO - 2020-04-09 08:35:12 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 08:35:12 --> inserting room details
+INFO - 2020-04-09 08:49:54 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 08:49:54 --> inserting room details
+INFO - 2020-04-09 08:49:54 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-09 08:49:54 --> Fetching room details
+INFO - 2020-04-09 11:03:55 --> Controller "App\Controllers\Sections" loaded.
+CRITICAL - 2020-04-09 11:03:55 --> syntax error, unexpected '<<' (T_SL)
+#0 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 C:\xampp\htdocs\server_4\app\Controllers\Sections.php(16): spl_autoload_call('App\\Models\\Comm...')
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Sections->get_data()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sections))
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-09 11:04:03 --> Controller "App\Controllers\Sections" loaded.
+CRITICAL - 2020-04-09 11:04:03 --> syntax error, unexpected '<<' (T_SL)
+#0 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 C:\xampp\htdocs\server_4\app\Controllers\Sections.php(16): spl_autoload_call('App\\Models\\Comm...')
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Sections->get_data()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sections))
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-09 11:04:12 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-04-09 11:04:21 --> Controller "App\Controllers\Sections" loaded.
+CRITICAL - 2020-04-09 11:04:21 --> syntax error, unexpected '<<' (T_SL)
+#0 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\server_4\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 C:\xampp\htdocs\server_4\app\Controllers\Sections.php(16): spl_autoload_call('App\\Models\\Comm...')
+#4 C:\xampp\htdocs\server_4\system\CodeIgniter.php(910): App\Controllers\Sections->get_data()
+#5 C:\xampp\htdocs\server_4\system\CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sections))
+#6 C:\xampp\htdocs\server_4\system\CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\server_4\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-04-09 11:05:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-09 11:05:59 --> Controller "App\Controllers\Standards" loaded.

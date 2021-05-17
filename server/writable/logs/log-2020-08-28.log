@@ -1,0 +1,252 @@
+INFO - 2020-08-28 08:55:56 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-28 00:02:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-28 00:02:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-28 00:02:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-28 00:02:18 --> Fetching Roles details
+INFO - 2020-08-28 00:02:18 --> Fetching Permission details
+INFO - 2020-08-28 00:02:18 --> Fetching Assignments Details details
+INFO - 2020-08-28 00:03:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-28 00:03:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-28 00:03:02 --> Fetching Permission details
+INFO - 2020-08-28 00:03:02 --> Fetching Roles details
+INFO - 2020-08-28 00:03:02 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-28 00:03:02 --> Fetching Assignments Details details
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-28 00:03:03 --> Fetching Boards details
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-28 00:03:03 --> Fetching Sections details
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-28 00:03:03 --> Fetching SubjectMasters details
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-28 00:03:03 --> Fetching Academic year details
+INFO - 2020-08-28 00:03:03 --> Fetching All staff details
+INFO - 2020-08-28 00:03:03 --> Fetching Academic year details
+INFO - 2020-08-28 00:03:03 --> Fetching Sections details
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-28 00:03:03 --> Fetching Subjects details
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-28 00:03:03 --> Fetching Sections details
+INFO - 2020-08-28 00:03:03 --> Fetching SubjectMasters details
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-28 00:03:03 --> Fetching class details
+INFO - 2020-08-28 00:03:03 --> Fetching Sections details
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-28 00:03:03 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-28 00:03:03 --> Fetching Subjects details
+INFO - 2020-08-28 00:57:55 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-28 00:57:55 --> Fetching Organizations details
+INFO - 2020-08-28 01:09:56 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-28 01:09:56 --> Fetching Organizations details
+INFO - 2020-08-28 01:11:03 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-28 01:11:03 --> Fetching Organizations details
+INFO - 2020-08-28 01:12:58 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-28 01:12:58 --> Fetching Organizations details
+INFO - 2020-08-28 01:17:12 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-28 01:17:12 --> Fetching Sections details
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-28 01:17:32 --> Fetching Boards details
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 01:17:32 --> Fetching Subjects details
+INFO - 2020-08-28 01:17:32 --> Fetching Assignments details
+INFO - 2020-08-28 01:17:32 --> Fetching Academic year details
+INFO - 2020-08-28 01:17:32 --> Fetching Assignments Details details
+INFO - 2020-08-28 01:17:32 --> Fetching Sections details
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 01:17:32 --> Fetching Assignments Id details
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 11:47:32 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-28 01:17:32 --> Fetching Assignments Grade details
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-28 01:17:32 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 01:17:32 --> Fetching Assignments Details details
+INFO - 2020-08-28 01:17:32 --> Fetching Sections details
+INFO - 2020-08-28 01:17:46 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-28 01:17:46 --> Fetching Sections details
+INFO - 2020-08-28 01:25:49 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-28 01:25:49 --> Fetching Organizations details
+INFO - 2020-08-28 03:58:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-28 03:58:40 --> Fetching Sections details
+INFO - 2020-08-28 20:30:29 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-28 20:30:29 --> Fetching Organizations details
+INFO - 2020-08-28 20:36:10 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 20:39:35 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 20:41:57 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 20:42:08 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 20:43:43 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 20:47:42 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 20:48:26 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 20:49:01 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 20:54:56 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:03:33 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:06:03 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:06:22 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:06:33 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:06:44 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:06:56 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:09:29 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:20:29 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:46:18 --> Controller "App\Controllers\InstitutionDetails" loaded.
+CRITICAL - 2020-08-28 21:46:18 --> Class 'App\Models\Institutions_model' not found
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\InstitutionDetails->insertData()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InstitutionDetails))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-28 21:46:26 --> Controller "App\Controllers\InstitutionDetails" loaded.
+CRITICAL - 2020-08-28 21:46:26 --> Class 'App\Models\Institutions_model' not found
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\InstitutionDetails->insertData()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InstitutionDetails))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-28 21:48:29 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:50:38 --> Controller "App\Controllers\InstitutionDetails" loaded.
+CRITICAL - 2020-08-28 21:53:13 --> syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('InstitutionDeta...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('InstitutionDeta...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-28 21:53:20 --> syntax error, unexpected 'catch' (T_CATCH), expecting function (T_FUNCTION) or const (T_CONST)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('InstitutionDeta...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('InstitutionDeta...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-28 21:56:00 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:57:47 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 21:59:14 --> Controller "App\Controllers\InstitutionDetails" loaded.
+CRITICAL - 2020-08-28 22:04:54 --> syntax error, unexpected 'if' (T_IF)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('InstitutionDeta...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('InstitutionDeta...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-28 22:05:01 --> syntax error, unexpected 'if' (T_IF)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('InstitutionDeta...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('InstitutionDeta...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-28 22:05:52 --> Controller "App\Controllers\InstitutionDetails" loaded.
+CRITICAL - 2020-08-28 22:05:52 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\InstitutionDetails->insertData()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InstitutionDetails))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-28 22:05:58 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:07:50 --> Controller "App\Controllers\InstitutionDetails" loaded.
+CRITICAL - 2020-08-28 22:07:50 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\InstitutionDetails->insertData()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InstitutionDetails))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-28 22:08:01 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:08:55 --> Controller "App\Controllers\InstitutionDetails" loaded.
+CRITICAL - 2020-08-28 22:08:55 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\InstitutionDetails->insertData()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InstitutionDetails))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-28 22:09:47 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:12:14 --> Controller "App\Controllers\InstitutionDetails" loaded.
+ERROR - 2020-08-28 22:12:14 --> Invalid argument supplied for foreach()
+INFO - 2020-08-28 22:13:17 --> Controller "App\Controllers\InstitutionDetails" loaded.
+CRITICAL - 2020-08-28 22:13:17 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\InstitutionDetails->insertData()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InstitutionDetails))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-28 22:14:41 --> Controller "App\Controllers\InstitutionDetails" loaded.
+CRITICAL - 2020-08-28 22:14:41 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\InstitutionDetails->insertData()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\InstitutionDetails))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-28 22:16:03 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:17:10 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:18:02 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:20:13 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:23:10 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:26:15 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:29:28 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:31:17 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:31:17 --> delete organization details
+INFO - 2020-08-28 22:31:33 --> Controller "App\Controllers\InstitutionDetails" loaded.
+INFO - 2020-08-28 22:31:33 --> delete organization details
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-28 22:45:41 --> Fetching Academic year details
+INFO - 2020-08-28 22:45:41 --> Fetching Subjects details
+INFO - 2020-08-28 22:45:41 --> Fetching Boards details
+INFO - 2020-08-28 22:45:41 --> Fetching Assignments Details details
+INFO - 2020-08-28 22:45:41 --> Fetching Sections details
+INFO - 2020-08-28 22:45:41 --> Fetching Assignments details
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:45:41 --> Fetching Assignments Id details
+INFO - 2020-08-28 22:45:41 --> Fetching Assignments Grade details
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-28 22:45:41 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:45:41 --> Fetching Assignments Details details
+INFO - 2020-08-28 22:45:41 --> Fetching Sections details
+INFO - 2020-08-28 22:47:13 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-28 22:47:13 --> Fetching Sections details
+INFO - 2020-08-28 22:47:15 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-28 22:47:15 --> Fetching Sections details
+INFO - 2020-08-28 22:47:17 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-28 22:47:17 --> Fetching Subjects details
+INFO - 2020-08-28 22:47:19 --> Controller "App\Controllers\QuestionbankChapters" loaded.
+INFO - 2020-08-28 22:47:19 --> Fetching chapterData details
+INFO - 2020-08-28 22:47:21 --> Controller "App\Controllers\QuestionbankQuestions" loaded.
+INFO - 2020-08-28 22:47:21 --> Fetching chapterData details
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-28 22:50:44 --> Fetching Assignments Details details
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-28 22:50:44 --> Fetching Academic year details
+INFO - 2020-08-28 22:50:44 --> Fetching Assignments details
+INFO - 2020-08-28 22:50:44 --> Fetching Boards details
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-28 22:50:44 --> Fetching Sections details
+INFO - 2020-08-28 22:50:44 --> Fetching Subjects details
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:50:44 --> Fetching Assignments Grade details
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:50:44 --> Fetching Assignments Id details
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-28 22:50:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-28 22:50:44 --> Fetching Assignments Details details
+INFO - 2020-08-28 22:50:44 --> Fetching Sections details

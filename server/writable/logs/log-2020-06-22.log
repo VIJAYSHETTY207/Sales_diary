@@ -1,0 +1,1183 @@
+INFO - 2020-06-22 09:17:21 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-22 09:17:33 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-22 09:17:46 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-22 01:46:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 01:46:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 01:46:16 --> Fetching All Leave details
+INFO - 2020-06-22 01:46:16 --> Fetching Sections details
+INFO - 2020-06-22 01:46:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 01:46:55 --> Fetching Boards details
+INFO - 2020-06-22 01:46:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 01:46:55 --> Fetching Sections details
+INFO - 2020-06-22 01:46:55 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 01:46:55 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 01:46:55 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-22 01:46:55 --> Fetching Assignments details
+INFO - 2020-06-22 01:46:55 --> Fetching Assignments Details details
+INFO - 2020-06-22 01:46:55 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 01:46:55 --> Fetching Subjects details
+INFO - 2020-06-22 01:46:55 --> Fetching Assignments Id details
+INFO - 2020-06-22 01:46:55 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 01:46:55 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 01:46:55 --> Fetching Assignments Grade details
+INFO - 2020-06-22 12:16:55 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-22 01:46:55 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 01:46:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 01:46:55 --> Fetching Assignments Details details
+INFO - 2020-06-22 01:46:55 --> Fetching Sections details
+INFO - 2020-06-22 01:47:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 01:47:19 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 01:47:19 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 01:47:19 --> Fetching MessageGroups details
+INFO - 2020-06-22 01:47:19 --> Fetching Boards details
+INFO - 2020-06-22 01:47:19 --> Fetching Sections details
+INFO - 2020-06-22 01:47:25 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 01:47:25 --> Fetching MessageCenter details
+INFO - 2020-06-22 01:47:30 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 01:47:30 --> Fetching MessageCenter details
+INFO - 2020-06-22 01:47:32 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 01:47:32 --> Fetching MessageCenter details
+INFO - 2020-06-22 01:48:04 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 01:48:04 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:06:02 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-06-22 02:06:02 --> Fetching Organizations details
+INFO - 2020-06-22 02:06:40 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-06-22 02:06:40 --> Fetching Organizations details
+INFO - 2020-06-22 02:10:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 02:10:45 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 02:10:45 --> Fetching Sections details
+INFO - 2020-06-22 02:10:45 --> Fetching MessageGroups details
+INFO - 2020-06-22 02:10:45 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 02:10:45 --> Fetching Boards details
+INFO - 2020-06-22 02:13:00 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 02:13:00 --> Fetching Sections details
+INFO - 2020-06-22 02:13:00 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 02:13:00 --> Fetching MessageGroups details
+INFO - 2020-06-22 02:13:00 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 02:13:00 --> Fetching Boards details
+INFO - 2020-06-22 02:13:32 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:13:32 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:15:21 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 02:15:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 02:15:21 --> Fetching MessageGroups details
+INFO - 2020-06-22 02:15:21 --> Fetching Sections details
+INFO - 2020-06-22 02:15:21 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 02:15:21 --> Fetching Boards details
+INFO - 2020-06-22 02:15:21 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:15:21 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:15:26 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:15:26 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:15:28 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:15:28 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:15:30 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:15:30 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:15:33 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:15:33 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:15:35 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:15:35 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:19:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 02:19:29 --> Fetching Sections details
+INFO - 2020-06-22 02:19:29 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 02:19:29 --> Fetching Boards details
+INFO - 2020-06-22 02:19:29 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 02:19:29 --> Fetching MessageGroups details
+INFO - 2020-06-22 02:19:29 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:19:29 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:24:44 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 02:24:44 --> Fetching Sections details
+INFO - 2020-06-22 02:24:44 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 02:24:44 --> Fetching MessageGroups details
+INFO - 2020-06-22 02:24:44 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 02:24:44 --> Fetching Boards details
+INFO - 2020-06-22 02:24:44 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:24:44 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:25:25 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 02:25:25 --> Fetching Sections details
+INFO - 2020-06-22 02:25:25 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 02:25:25 --> Fetching MessageGroups details
+INFO - 2020-06-22 02:25:25 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 02:25:25 --> Fetching Boards details
+INFO - 2020-06-22 02:25:25 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:25:25 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:29:45 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:29:45 --> Fetching MessageCenter details
+INFO - 2020-06-22 02:36:48 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 02:36:48 --> Fetching MessageGroups details
+INFO - 2020-06-22 02:36:48 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 02:36:48 --> Fetching Boards details
+INFO - 2020-06-22 02:36:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 02:36:48 --> Fetching Sections details
+INFO - 2020-06-22 02:36:48 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 02:36:48 --> Fetching MessageCenter details
+INFO - 2020-06-22 03:35:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 03:35:06 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-06-22 03:35:06 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 03:35:06 --> Fetching Circular Details details
+INFO - 2020-06-22 03:35:06 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-06-22 03:35:06 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-06-22 03:35:06 --> Fetching Sections details
+INFO - 2020-06-22 03:35:06 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-06-22 03:35:06 --> Fetching Boards details
+INFO - 2020-06-22 03:35:06 --> Fetching Circulars Mapped Id details
+INFO - 2020-06-22 03:35:06 --> Fetching Circulars details
+INFO - 2020-06-22 03:35:06 --> Fetching Circulars Id details
+INFO - 2020-06-22 03:35:07 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-06-22 14:05:07 --> Fetching Circulars Mapped Id details
+INFO - 2020-06-22 03:35:07 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 03:35:07 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-06-22 03:35:07 --> Fetching Circular Details details
+INFO - 2020-06-22 03:35:07 --> Fetching Sections details
+INFO - 2020-06-22 03:35:16 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-06-22 03:35:16 --> Fetching Circulars details
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-22 03:36:16 --> Fetching Sections details
+INFO - 2020-06-22 03:36:16 --> Fetching Subjects details
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 03:36:16 --> Fetching All Leave details
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 03:36:16 --> Fetching Projects Details details
+INFO - 2020-06-22 03:36:16 --> Fetching Projects details
+INFO - 2020-06-22 03:36:16 --> Fetching Boards details
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 03:36:16 --> Fetching Projects Id details
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 03:36:16 --> Fetching Projects Id details
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 03:36:16 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 14:06:16 --> Fetching Projects Mapped Id details
+INFO - 2020-06-22 03:36:16 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 03:36:16 --> Fetching Sections details
+INFO - 2020-06-22 03:36:16 --> Fetching Assignments Grade details
+INFO - 2020-06-22 03:36:16 --> Fetching Projects Details details
+INFO - 2020-06-22 03:36:18 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-22 03:36:18 --> Fetching Subjects details
+INFO - 2020-06-22 03:36:18 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 03:36:18 --> Fetching All Leave details
+INFO - 2020-06-22 03:36:18 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 03:36:18 --> Fetching Projects details
+INFO - 2020-06-22 04:53:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 04:53:14 --> Fetching Sections details
+INFO - 2020-06-22 04:53:14 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 04:53:14 --> Fetching MessageGroups details
+INFO - 2020-06-22 04:53:14 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 04:53:14 --> Fetching Boards details
+INFO - 2020-06-22 04:53:15 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 04:53:15 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:02:01 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 05:02:01 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:05:59 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 05:05:59 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 05:05:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 05:05:59 --> Fetching MessageGroups details
+INFO - 2020-06-22 05:05:59 --> Fetching Boards details
+INFO - 2020-06-22 05:05:59 --> Fetching Sections details
+INFO - 2020-06-22 05:06:00 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 05:06:00 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:27:13 --> Controller "App\Controllers\MessageCenter" loaded.
+ERROR - 2020-06-22 05:27:13 --> Unknown column 'um.id_board' in 'where clause'
+INFO - 2020-06-22 05:32:30 --> Controller "App\Controllers\MessageCenter" loaded.
+ERROR - 2020-06-22 05:32:30 --> Unknown column 'mc.contact_number' in 'where clause'
+INFO - 2020-06-22 05:41:45 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 05:41:45 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:42:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 05:42:45 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 05:42:45 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 05:42:45 --> Fetching MessageGroups details
+INFO - 2020-06-22 05:42:45 --> Fetching Boards details
+INFO - 2020-06-22 05:42:45 --> Fetching Sections details
+INFO - 2020-06-22 05:42:45 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 05:42:45 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:47:48 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 05:47:48 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:48:48 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 05:48:48 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:50:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 05:50:22 --> Fetching Sections details
+INFO - 2020-06-22 05:50:22 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 05:50:22 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 05:50:22 --> Fetching Boards details
+INFO - 2020-06-22 05:50:22 --> Fetching MessageGroups details
+INFO - 2020-06-22 05:50:22 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 05:50:22 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:51:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 05:51:05 --> Fetching Sections details
+INFO - 2020-06-22 05:51:05 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 05:51:05 --> Fetching MessageGroups details
+INFO - 2020-06-22 05:51:05 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 05:51:05 --> Fetching Boards details
+INFO - 2020-06-22 05:51:06 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 05:51:06 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:51:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 05:51:38 --> Fetching Sections details
+INFO - 2020-06-22 05:51:38 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 05:51:38 --> Fetching MessageGroups details
+INFO - 2020-06-22 05:51:38 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 05:51:38 --> Fetching Boards details
+INFO - 2020-06-22 05:51:38 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 05:51:38 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:52:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 05:52:13 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 05:52:13 --> Fetching Sections details
+INFO - 2020-06-22 05:52:13 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 05:52:13 --> Fetching MessageGroups details
+INFO - 2020-06-22 05:52:13 --> Fetching Boards details
+INFO - 2020-06-22 05:52:13 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 05:52:13 --> Fetching MessageCenter details
+INFO - 2020-06-22 05:55:47 --> Controller "App\Controllers\Rooms" loaded.
+ERROR - 2020-06-22 05:55:48 --> [ERROR] Temporary files directory "/var/www/html/server_4/vendor/mpdf/mpdf/src/Config/../../tmp" is not writable /var/www/html/server_4/vendor/mpdf/mpdf/src/Cache.php:17
+INFO - 2020-06-22 05:56:02 --> Controller "App\Controllers\Rooms" loaded.
+ERROR - 2020-06-22 05:56:02 --> [ERROR] Temporary files directory "/var/www/html/server_4/vendor/mpdf/mpdf/src/Config/../../tmp" is not writable /var/www/html/server_4/vendor/mpdf/mpdf/src/Cache.php:17
+INFO - 2020-06-22 05:57:22 --> Controller "App\Controllers\Rooms" loaded.
+ERROR - 2020-06-22 05:57:22 --> [ERROR] Temporary files directory "/var/www/html/server_4/vendor/mpdf/mpdf/src/Config/../../tmp" is not writable /var/www/html/server_4/vendor/mpdf/mpdf/src/Cache.php:17
+INFO - 2020-06-22 05:57:26 --> Controller "App\Controllers\Rooms" loaded.
+ERROR - 2020-06-22 05:57:26 --> [ERROR] Temporary files directory "/var/www/html/server_4/vendor/mpdf/mpdf/src/Config/../../tmp" is not writable /var/www/html/server_4/vendor/mpdf/mpdf/src/Cache.php:17
+INFO - 2020-06-22 05:59:05 --> Controller "App\Controllers\Rooms" loaded.
+ERROR - 2020-06-22 05:59:05 --> [ERROR] Temporary files directory "/var/www/html/server_4/vendor/mpdf/mpdf/src/Config/../../tmp" is not writable /var/www/html/server_4/vendor/mpdf/mpdf/src/Cache.php:17
+INFO - 2020-06-22 06:00:53 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-06-22 06:02:16 --> Controller "App\Controllers\Rooms" loaded.
+CRITICAL - 2020-06-22 06:02:16 --> Temporary files directory "/var/www/html/server_4/vendor/mpdf/mpdf/src/Config/../../tmp" is not writable
+#0 /var/www/html/server_4/vendor/mpdf/mpdf/src/ServiceFactory.php(59): Mpdf\Cache->__construct('/var/www/html/s...')
+#1 /var/www/html/server_4/vendor/mpdf/mpdf/src/Mpdf.php(1053): Mpdf\ServiceFactory->getServices(Object(Mpdf\Mpdf), Object(Psr\Log\NullLogger), Array, 0, Object(Mpdf\Language\LanguageToFont), Object(Mpdf\Language\ScriptToLanguage), NULL, NULL, NULL, NULL)
+#2 /var/www/html/server_4/app/Libraries/FileUtility.php(148): Mpdf\Mpdf->__construct()
+#3 /var/www/html/server_4/app/Controllers/Rooms.php(237): App\Libraries\FileUtility->exportPdfFile(Object(App\Libraries\Pdf))
+#4 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Rooms->pdfData()
+#5 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rooms))
+#6 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-06-22 06:10:30 --> Controller "App\Controllers\Rooms" loaded.
+CRITICAL - 2020-06-22 06:10:30 --> Temporary files directory "/var/www/html/server_4/vendor/mpdf/mpdf/src/Config/../../tmp" is not writable
+#0 /var/www/html/server_4/vendor/mpdf/mpdf/src/ServiceFactory.php(59): Mpdf\Cache->__construct('/var/www/html/s...')
+#1 /var/www/html/server_4/vendor/mpdf/mpdf/src/Mpdf.php(1053): Mpdf\ServiceFactory->getServices(Object(Mpdf\Mpdf), Object(Psr\Log\NullLogger), Array, 0, Object(Mpdf\Language\LanguageToFont), Object(Mpdf\Language\ScriptToLanguage), NULL, NULL, NULL, NULL)
+#2 /var/www/html/server_4/app/Libraries/FileUtility.php(148): Mpdf\Mpdf->__construct()
+#3 /var/www/html/server_4/app/Controllers/Rooms.php(237): App\Libraries\FileUtility->exportPdfFile(Object(App\Libraries\Pdf))
+#4 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Rooms->pdfData()
+#5 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Rooms))
+#6 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-06-22 06:14:36 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 06:14:36 --> Fetching Sections details
+INFO - 2020-06-22 06:14:36 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 06:14:36 --> Fetching MessageGroups details
+INFO - 2020-06-22 06:14:36 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 06:14:36 --> Fetching Boards details
+INFO - 2020-06-22 06:14:36 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:14:36 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:16:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 06:16:51 --> Fetching Sections details
+INFO - 2020-06-22 06:16:51 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 06:16:51 --> Fetching MessageGroups details
+INFO - 2020-06-22 06:16:51 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 06:16:51 --> Fetching Boards details
+INFO - 2020-06-22 06:16:52 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:16:52 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:16:54 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:16:54 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:16:56 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:16:56 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:16:59 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:16:59 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:17:49 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:17:49 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:28:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 06:28:10 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 06:28:10 --> Fetching Sections details
+INFO - 2020-06-22 06:28:10 --> Fetching MessageGroups details
+INFO - 2020-06-22 06:28:10 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 06:28:10 --> Fetching Boards details
+INFO - 2020-06-22 06:28:10 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:28:10 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:31:37 --> Controller "App\Controllers\Dashboards" loaded.
+ERROR - 2020-06-22 06:31:37 --> Unknown column 'ci.post_to' in 'field list'
+INFO - 2020-06-22 06:34:19 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 06:34:19 --> Fetching Dashboard details
+INFO - 2020-06-22 06:36:17 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 06:36:17 --> Fetching Dashboard details
+INFO - 2020-06-22 06:38:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-06-22 06:38:56 --> Fetching Users details
+INFO - 2020-06-22 06:39:16 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-06-22 06:39:16 --> Fetching Users details
+INFO - 2020-06-22 06:47:40 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-06-22 06:47:40 --> Fetching Users details
+INFO - 2020-06-22 06:48:15 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 06:48:15 --> Fetching Dashboard details
+INFO - 2020-06-22 06:48:26 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-06-22 06:48:26 --> Fetching Users details
+INFO - 2020-06-22 06:48:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-06-22 06:48:38 --> Fetching Users details
+INFO - 2020-06-22 06:49:31 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 06:49:31 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 06:49:31 --> Fetching MessageGroups details
+INFO - 2020-06-22 06:49:31 --> Fetching Dashboard details
+INFO - 2020-06-22 06:49:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 06:49:31 --> Fetching Sections details
+INFO - 2020-06-22 06:49:31 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 06:49:31 --> Fetching Boards details
+INFO - 2020-06-22 06:49:31 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:49:31 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:49:35 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 06:49:35 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 06:49:35 --> Fetching Feedback details
+INFO - 2020-06-22 06:49:35 --> Fetching Feedbacks Details details
+INFO - 2020-06-22 06:50:02 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 06:50:02 --> Fetching Boards details
+INFO - 2020-06-22 06:50:02 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 06:50:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 06:50:02 --> Fetching MessageGroups details
+INFO - 2020-06-22 06:50:02 --> Fetching Sections details
+INFO - 2020-06-22 06:50:19 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:50:19 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:50:20 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:50:20 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:50:21 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:50:21 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:50:49 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 06:50:49 --> Fetching Feedback details
+INFO - 2020-06-22 06:50:49 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 06:50:49 --> Fetching Feedbacks Details details
+INFO - 2020-06-22 06:51:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 06:51:04 --> Fetching Sections details
+INFO - 2020-06-22 06:51:57 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-06-22 06:51:57 --> Fetching SubjectMasters details
+INFO - 2020-06-22 06:51:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 06:51:57 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-22 06:51:57 --> Fetching All Leave details
+INFO - 2020-06-22 06:51:57 --> Fetching Sections details
+INFO - 2020-06-22 06:55:35 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:55:35 --> Fetching MessageCenter details
+INFO - 2020-06-22 06:59:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 06:59:49 --> Fetching Sections details
+INFO - 2020-06-22 06:59:49 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 06:59:49 --> Fetching MessageGroups details
+INFO - 2020-06-22 06:59:49 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 06:59:49 --> Fetching Dashboard details
+INFO - 2020-06-22 06:59:49 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 06:59:49 --> Fetching Boards details
+INFO - 2020-06-22 06:59:49 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 06:59:49 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:01:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:01:08 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:01:08 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:01:08 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:01:08 --> Fetching Sections details
+INFO - 2020-06-22 07:01:08 --> Fetching Dashboard details
+INFO - 2020-06-22 07:01:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:01:08 --> Fetching Boards details
+INFO - 2020-06-22 07:01:08 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:01:08 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:01:34 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 07:01:34 --> Fetching All Leave details
+INFO - 2020-06-22 07:08:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:08:34 --> Fetching Sections details
+INFO - 2020-06-22 07:08:34 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:08:34 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:08:34 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:08:34 --> Fetching Boards details
+INFO - 2020-06-22 07:08:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-06-22 07:08:35 --> Fetching SubjectMasters details
+INFO - 2020-06-22 07:08:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:08:35 --> Fetching Sections details
+INFO - 2020-06-22 07:08:35 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-22 07:08:35 --> Fetching All Leave details
+INFO - 2020-06-22 07:08:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:08:40 --> Fetching Sections details
+INFO - 2020-06-22 07:08:40 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:08:40 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:08:40 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:08:40 --> Fetching Dashboard details
+INFO - 2020-06-22 07:08:40 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:08:40 --> Fetching Boards details
+INFO - 2020-06-22 07:08:40 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:08:40 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:16:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:16:21 --> Fetching Sections details
+INFO - 2020-06-22 07:16:21 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:16:21 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:16:21 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:16:21 --> Fetching Boards details
+INFO - 2020-06-22 07:16:21 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:16:21 --> Fetching Dashboard details
+INFO - 2020-06-22 07:16:21 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:16:21 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:16:38 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 07:16:38 --> Fetching All Leave details
+INFO - 2020-06-22 07:17:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:17:52 --> Fetching Sections details
+INFO - 2020-06-22 07:17:52 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:17:52 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:17:52 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:17:52 --> Fetching Dashboard details
+INFO - 2020-06-22 07:17:52 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:17:52 --> Fetching Boards details
+INFO - 2020-06-22 07:17:53 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:17:53 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:21:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:21:11 --> Fetching Sections details
+INFO - 2020-06-22 07:21:11 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:21:11 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:21:11 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:21:11 --> Fetching Dashboard details
+INFO - 2020-06-22 07:21:11 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:21:11 --> Fetching Boards details
+INFO - 2020-06-22 07:21:12 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:21:12 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:21:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:21:47 --> Fetching Sections details
+INFO - 2020-06-22 07:21:47 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:21:47 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:21:47 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:21:47 --> Fetching Dashboard details
+INFO - 2020-06-22 07:21:47 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:21:47 --> Fetching Boards details
+INFO - 2020-06-22 07:21:47 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:21:47 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:22:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:22:23 --> Fetching Sections details
+INFO - 2020-06-22 07:46:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:46:18 --> Fetching Sections details
+INFO - 2020-06-22 07:46:18 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:46:18 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:46:18 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:46:18 --> Fetching Dashboard details
+INFO - 2020-06-22 07:46:18 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:46:18 --> Fetching Boards details
+INFO - 2020-06-22 07:46:19 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:46:19 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:46:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:46:21 --> Fetching Sections details
+INFO - 2020-06-22 07:46:29 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 07:46:29 --> Fetching All Leave details
+INFO - 2020-06-22 07:46:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 07:46:30 --> Fetching All Leave details
+INFO - 2020-06-22 07:46:31 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 07:46:31 --> Fetching All Leave details
+INFO - 2020-06-22 07:46:45 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 07:46:45 --> Fetching All Leave details
+INFO - 2020-06-22 07:47:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:47:41 --> Fetching Sections details
+INFO - 2020-06-22 07:50:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:50:37 --> Fetching Sections details
+INFO - 2020-06-22 07:50:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:50:53 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:50:53 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:50:53 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:50:53 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:50:53 --> Fetching Sections details
+INFO - 2020-06-22 07:50:53 --> Fetching Boards details
+INFO - 2020-06-22 07:50:53 --> Fetching Dashboard details
+INFO - 2020-06-22 07:50:53 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:50:53 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:51:00 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:51:00 --> Fetching Sections details
+INFO - 2020-06-22 07:52:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:52:55 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:52:55 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:52:55 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:52:55 --> Fetching Sections details
+INFO - 2020-06-22 07:52:55 --> Fetching Dashboard details
+INFO - 2020-06-22 07:52:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:52:55 --> Fetching Boards details
+INFO - 2020-06-22 07:52:55 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:52:55 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:52:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:52:57 --> Fetching Sections details
+INFO - 2020-06-22 07:54:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:54:54 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:54:54 --> Fetching Sections details
+INFO - 2020-06-22 07:54:54 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:54:54 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:54:54 --> Fetching Dashboard details
+INFO - 2020-06-22 07:54:54 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:54:54 --> Fetching Boards details
+INFO - 2020-06-22 07:54:54 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:54:54 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:55:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:55:03 --> Fetching Sections details
+INFO - 2020-06-22 07:55:55 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 07:55:55 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 07:55:55 --> Fetching MessageGroups details
+INFO - 2020-06-22 07:55:55 --> Fetching Dashboard details
+INFO - 2020-06-22 07:55:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:55:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 07:55:55 --> Fetching Sections details
+INFO - 2020-06-22 07:55:55 --> Fetching Boards details
+INFO - 2020-06-22 07:55:55 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 07:55:55 --> Fetching MessageCenter details
+INFO - 2020-06-22 07:58:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 07:58:18 --> Fetching Sections details
+INFO - 2020-06-22 08:02:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:02:05 --> Fetching Sections details
+INFO - 2020-06-22 08:02:05 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:02:05 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:02:05 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:02:05 --> Fetching Dashboard details
+INFO - 2020-06-22 08:02:05 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:02:05 --> Fetching Boards details
+INFO - 2020-06-22 08:02:05 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:02:05 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:02:08 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:02:08 --> Fetching Sections details
+INFO - 2020-06-22 08:03:37 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:03:37 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:03:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:03:37 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:03:37 --> Fetching Boards details
+INFO - 2020-06-22 08:03:37 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:03:37 --> Fetching Sections details
+INFO - 2020-06-22 08:03:37 --> Fetching Dashboard details
+INFO - 2020-06-22 08:03:38 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:03:38 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:03:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:03:40 --> Fetching Sections details
+INFO - 2020-06-22 08:04:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:04:19 --> Fetching Sections details
+INFO - 2020-06-22 08:04:19 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:04:19 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:04:19 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:04:19 --> Fetching Dashboard details
+INFO - 2020-06-22 08:04:19 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:04:19 --> Fetching Boards details
+INFO - 2020-06-22 08:04:47 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:04:47 --> Fetching Boards details
+INFO - 2020-06-22 08:04:47 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:04:47 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:04:47 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:04:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:04:47 --> Fetching Dashboard details
+INFO - 2020-06-22 08:04:47 --> Fetching Sections details
+INFO - 2020-06-22 08:04:48 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:04:48 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:05:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:05:19 --> Fetching Sections details
+INFO - 2020-06-22 08:07:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:07:27 --> Fetching Sections details
+INFO - 2020-06-22 08:07:27 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:07:27 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:07:27 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:07:27 --> Fetching Dashboard details
+INFO - 2020-06-22 08:07:27 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:07:27 --> Fetching Boards details
+INFO - 2020-06-22 08:07:27 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:07:27 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:07:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:07:31 --> Fetching Sections details
+INFO - 2020-06-22 08:08:54 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:08:54 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:08:54 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:08:54 --> Fetching Sections details
+INFO - 2020-06-22 08:08:54 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:08:54 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:08:54 --> Fetching Boards details
+INFO - 2020-06-22 08:08:54 --> Fetching Dashboard details
+INFO - 2020-06-22 08:08:54 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:08:54 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:08:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:08:56 --> Fetching Sections details
+INFO - 2020-06-22 08:09:20 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:09:20 --> Fetching All Leave details
+INFO - 2020-06-22 08:09:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:09:22 --> Fetching All Leave details
+INFO - 2020-06-22 08:09:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:09:23 --> Fetching All Leave details
+INFO - 2020-06-22 08:09:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:09:24 --> Fetching All Leave details
+INFO - 2020-06-22 08:09:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:09:25 --> Fetching All Leave details
+INFO - 2020-06-22 08:09:27 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:09:27 --> Fetching All Leave details
+INFO - 2020-06-22 08:09:31 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:09:31 --> Fetching All Leave details
+INFO - 2020-06-22 08:09:32 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:09:32 --> Fetching All Leave details
+INFO - 2020-06-22 08:09:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:09:33 --> Fetching All Leave details
+INFO - 2020-06-22 08:09:36 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:09:36 --> Fetching All Leave details
+INFO - 2020-06-22 08:11:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:11:05 --> Fetching Sections details
+INFO - 2020-06-22 08:11:05 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:11:05 --> Fetching Boards details
+INFO - 2020-06-22 08:11:05 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:11:05 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:11:05 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:11:05 --> Fetching Dashboard details
+INFO - 2020-06-22 08:11:05 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:11:05 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:11:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:11:09 --> Fetching Sections details
+INFO - 2020-06-22 08:12:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:12:23 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:12:23 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:12:23 --> Fetching Sections details
+INFO - 2020-06-22 08:12:23 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:12:23 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:12:23 --> Fetching Boards details
+INFO - 2020-06-22 08:12:23 --> Fetching Dashboard details
+INFO - 2020-06-22 08:12:24 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:12:24 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:12:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:12:27 --> Fetching Sections details
+INFO - 2020-06-22 08:14:00 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:14:00 --> Fetching Sections details
+INFO - 2020-06-22 08:14:00 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:14:00 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:14:00 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:14:00 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:14:00 --> Fetching Boards details
+INFO - 2020-06-22 08:14:00 --> Fetching Dashboard details
+INFO - 2020-06-22 08:14:00 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:14:00 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:14:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:14:04 --> Fetching Sections details
+INFO - 2020-06-22 08:17:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:17:51 --> Fetching Sections details
+INFO - 2020-06-22 08:17:51 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:17:51 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:17:51 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:17:51 --> Fetching Dashboard details
+INFO - 2020-06-22 08:17:51 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:17:51 --> Fetching Boards details
+INFO - 2020-06-22 08:17:51 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:17:51 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:17:53 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:17:53 --> Fetching Sections details
+INFO - 2020-06-22 08:20:49 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-06-22 08:20:49 --> Fetching SubjectMasters details
+INFO - 2020-06-22 08:20:49 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:20:49 --> Fetching Sections details
+INFO - 2020-06-22 08:20:49 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-22 08:20:49 --> Fetching All Leave details
+INFO - 2020-06-22 08:20:58 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-06-22 08:20:58 --> Fetching SubjectMasters details
+INFO - 2020-06-22 08:20:58 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:20:58 --> Fetching Sections details
+INFO - 2020-06-22 08:20:58 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-06-22 08:20:58 --> Fetching All Leave details
+INFO - 2020-06-22 08:24:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:24:20 --> Fetching Sections details
+INFO - 2020-06-22 08:24:20 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:24:20 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:24:20 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:24:20 --> Fetching Dashboard details
+INFO - 2020-06-22 08:24:20 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:24:20 --> Fetching Boards details
+INFO - 2020-06-22 08:24:20 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:24:20 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:25:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:25:16 --> Fetching Sections details
+INFO - 2020-06-22 08:25:16 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:25:16 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:25:16 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:25:16 --> Fetching Dashboard details
+INFO - 2020-06-22 08:25:16 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:25:16 --> Fetching Boards details
+INFO - 2020-06-22 08:25:16 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:25:16 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:25:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:25:18 --> Fetching Sections details
+INFO - 2020-06-22 08:25:47 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:25:47 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:25:47 --> Fetching Sections details
+INFO - 2020-06-22 08:25:47 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:25:47 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:25:47 --> Fetching Dashboard details
+INFO - 2020-06-22 08:25:47 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:25:47 --> Fetching Boards details
+INFO - 2020-06-22 08:25:48 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:25:48 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:25:51 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:25:51 --> Fetching Sections details
+INFO - 2020-06-22 08:26:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:26:55 --> Fetching Sections details
+INFO - 2020-06-22 08:26:55 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:26:55 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:26:55 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:26:55 --> Fetching Dashboard details
+INFO - 2020-06-22 08:26:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:26:55 --> Fetching Boards details
+INFO - 2020-06-22 08:26:55 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:26:55 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:27:12 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:27:12 --> Fetching Sections details
+INFO - 2020-06-22 08:27:12 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:27:12 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:27:12 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:27:12 --> Fetching Dashboard details
+INFO - 2020-06-22 08:27:12 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:27:12 --> Fetching Boards details
+INFO - 2020-06-22 08:27:13 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:27:13 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:27:15 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:27:15 --> Fetching Sections details
+INFO - 2020-06-22 08:27:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:27:35 --> Fetching Sections details
+INFO - 2020-06-22 08:27:35 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:27:35 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:27:36 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:27:36 --> Fetching Dashboard details
+INFO - 2020-06-22 08:27:36 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:27:36 --> Fetching Boards details
+INFO - 2020-06-22 08:27:36 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:27:36 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:27:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:27:40 --> Fetching Sections details
+INFO - 2020-06-22 08:28:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:28:05 --> Fetching All Leave details
+INFO - 2020-06-22 08:28:05 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:28:05 --> Fetching All Leave details
+INFO - 2020-06-22 08:28:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:28:06 --> Fetching All Leave details
+INFO - 2020-06-22 08:28:38 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:28:38 --> Fetching All Leave details
+INFO - 2020-06-22 08:28:41 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:28:41 --> Fetching All Leave details
+INFO - 2020-06-22 08:28:46 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:28:46 --> Fetching All Leave details
+INFO - 2020-06-22 08:29:40 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:29:40 --> Fetching All Leave details
+INFO - 2020-06-22 08:29:44 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:29:44 --> Fetching All Leave details
+INFO - 2020-06-22 08:29:51 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:29:51 --> Fetching All Leave details
+INFO - 2020-06-22 08:29:55 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:29:55 --> Fetching All Leave details
+INFO - 2020-06-22 08:29:59 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:29:59 --> Fetching All Leave details
+INFO - 2020-06-22 08:30:26 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:30:26 --> Fetching All Leave details
+INFO - 2020-06-22 08:30:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:30:28 --> Fetching All Leave details
+INFO - 2020-06-22 08:30:32 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:30:32 --> Fetching All Leave details
+INFO - 2020-06-22 08:31:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:31:22 --> Fetching Sections details
+INFO - 2020-06-22 08:31:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:31:33 --> Fetching All Leave details
+INFO - 2020-06-22 08:31:41 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:31:41 --> Fetching All Leave details
+INFO - 2020-06-22 08:31:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:31:43 --> Fetching All Leave details
+INFO - 2020-06-22 08:31:45 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:31:45 --> Fetching All Leave details
+INFO - 2020-06-22 08:31:52 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 08:31:52 --> Fetching All Leave details
+INFO - 2020-06-22 08:44:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:44:29 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:44:29 --> Fetching Sections details
+INFO - 2020-06-22 08:44:29 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:44:29 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:44:29 --> Fetching Dashboard details
+INFO - 2020-06-22 08:44:30 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:44:30 --> Fetching Boards details
+INFO - 2020-06-22 08:44:30 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:44:30 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:44:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:44:33 --> Fetching Sections details
+INFO - 2020-06-22 08:45:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:45:16 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:45:16 --> Fetching Sections details
+INFO - 2020-06-22 08:45:16 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:45:16 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:45:16 --> Fetching Boards details
+INFO - 2020-06-22 08:45:16 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:45:16 --> Fetching Dashboard details
+INFO - 2020-06-22 08:45:17 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:45:17 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:45:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:45:22 --> Fetching Sections details
+INFO - 2020-06-22 08:47:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:47:48 --> Fetching Sections details
+INFO - 2020-06-22 08:47:48 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 08:47:48 --> Fetching MessageGroups details
+INFO - 2020-06-22 08:47:48 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 08:47:48 --> Fetching Dashboard details
+INFO - 2020-06-22 08:47:48 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 08:47:48 --> Fetching Boards details
+INFO - 2020-06-22 08:47:51 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:47:51 --> Fetching MessageCenter details
+INFO - 2020-06-22 08:47:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 08:47:56 --> Fetching Sections details
+INFO - 2020-06-22 08:48:00 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 08:48:00 --> Fetching message group details
+INFO - 2020-06-22 09:01:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:01:34 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 09:01:34 --> Fetching Sections details
+INFO - 2020-06-22 09:01:34 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 09:01:34 --> Fetching MessageGroups details
+INFO - 2020-06-22 09:01:34 --> Fetching Dashboard details
+INFO - 2020-06-22 09:01:34 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 09:01:34 --> Fetching Boards details
+INFO - 2020-06-22 09:01:34 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 09:01:34 --> Fetching MessageCenter details
+INFO - 2020-06-22 09:01:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:01:42 --> Fetching Sections details
+INFO - 2020-06-22 09:01:46 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 09:01:46 --> Fetching message group details
+INFO - 2020-06-22 09:18:49 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:18:49 --> Fetching All Leave details
+INFO - 2020-06-22 09:18:53 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:18:53 --> Fetching All Leave details
+INFO - 2020-06-22 09:19:00 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:19:00 --> Fetching All Leave details
+INFO - 2020-06-22 09:21:09 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:21:09 --> Fetching Sections details
+INFO - 2020-06-22 09:28:21 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:28:21 --> Fetching All Leave details
+INFO - 2020-06-22 09:28:32 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:28:32 --> Fetching All Leave details
+INFO - 2020-06-22 09:28:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:28:35 --> Fetching All Leave details
+INFO - 2020-06-22 09:28:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:28:59 --> Fetching Sections details
+INFO - 2020-06-22 09:29:15 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:29:15 --> Fetching All Leave details
+INFO - 2020-06-22 09:29:15 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:29:15 --> Fetching All Leave details
+INFO - 2020-06-22 09:29:16 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:29:16 --> Fetching All Leave details
+INFO - 2020-06-22 09:32:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:32:06 --> Fetching All Leave details
+INFO - 2020-06-22 09:32:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:32:06 --> Fetching All Leave details
+INFO - 2020-06-22 09:32:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 09:32:06 --> Fetching All Leave details
+INFO - 2020-06-22 09:38:46 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:38:46 --> Fetching Sections details
+INFO - 2020-06-22 09:38:46 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 09:38:46 --> Fetching MessageGroups details
+INFO - 2020-06-22 09:38:46 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 09:38:46 --> Fetching Dashboard details
+INFO - 2020-06-22 09:38:46 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 09:38:46 --> Fetching Boards details
+INFO - 2020-06-22 09:38:46 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 09:38:46 --> Fetching MessageCenter details
+INFO - 2020-06-22 09:38:48 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:38:48 --> Fetching Sections details
+INFO - 2020-06-22 09:48:10 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:48:10 --> Fetching Sections details
+INFO - 2020-06-22 09:51:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:51:02 --> Fetching Sections details
+INFO - 2020-06-22 09:51:02 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 09:51:02 --> Fetching MessageGroups details
+INFO - 2020-06-22 09:51:02 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 09:51:02 --> Fetching Dashboard details
+INFO - 2020-06-22 09:51:02 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 09:51:02 --> Fetching Boards details
+INFO - 2020-06-22 09:51:02 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 09:51:02 --> Fetching MessageCenter details
+INFO - 2020-06-22 09:51:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:51:29 --> Fetching Sections details
+INFO - 2020-06-22 09:51:29 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 09:51:29 --> Fetching MessageGroups details
+INFO - 2020-06-22 09:51:29 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 09:51:29 --> Fetching Dashboard details
+INFO - 2020-06-22 09:51:29 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 09:51:29 --> Fetching Boards details
+INFO - 2020-06-22 09:51:29 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 09:51:29 --> Fetching MessageCenter details
+INFO - 2020-06-22 09:51:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:51:31 --> Fetching Sections details
+INFO - 2020-06-22 09:52:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:52:26 --> Fetching Sections details
+INFO - 2020-06-22 09:52:26 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 09:52:26 --> Fetching MessageGroups details
+INFO - 2020-06-22 09:52:26 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 09:52:26 --> Fetching Dashboard details
+INFO - 2020-06-22 09:52:26 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 09:52:26 --> Fetching Boards details
+INFO - 2020-06-22 09:52:26 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 09:52:26 --> Fetching MessageCenter details
+INFO - 2020-06-22 09:52:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:52:29 --> Fetching Sections details
+INFO - 2020-06-22 09:52:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 09:52:55 --> Fetching Sections details
+INFO - 2020-06-22 09:52:55 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 09:52:55 --> Fetching MessageGroups details
+INFO - 2020-06-22 09:52:55 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 09:52:55 --> Fetching Dashboard details
+INFO - 2020-06-22 09:52:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 09:52:55 --> Fetching Boards details
+INFO - 2020-06-22 09:52:55 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 09:52:55 --> Fetching MessageCenter details
+INFO - 2020-06-22 11:27:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 11:27:56 --> Fetching Sections details
+INFO - 2020-06-22 11:40:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 11:40:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 11:40:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 11:40:23 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-06-22 11:40:23 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-06-22 11:40:23 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-06-22 11:40:23 --> Fetching Category details
+INFO - 2020-06-22 11:40:23 --> Fetching All Leave details
+INFO - 2020-06-22 11:40:23 --> Fetching FeeMaster details
+INFO - 2020-06-22 11:40:23 --> Fetching FeeDashboardDetails details
+INFO - 2020-06-22 11:40:23 --> Fetching Sections details
+INFO - 2020-06-22 11:40:23 --> Fetching Sections details
+INFO - 2020-06-22 11:40:23 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 11:40:23 --> Fetching Boards details
+INFO - 2020-06-22 11:42:03 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-22 11:42:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 11:42:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 11:42:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 11:42:03 --> Fetching Subjects details
+INFO - 2020-06-22 11:42:03 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 11:42:03 --> Fetching Sections details
+INFO - 2020-06-22 11:42:03 --> Fetching Assignments details
+INFO - 2020-06-22 11:42:03 --> Fetching Boards details
+INFO - 2020-06-22 11:42:03 --> Fetching Assignments Details details
+INFO - 2020-06-22 11:42:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 11:42:03 --> Fetching Assignments Id details
+INFO - 2020-06-22 11:42:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 11:42:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 22:12:03 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-22 11:42:03 --> Fetching Assignments Grade details
+INFO - 2020-06-22 11:42:03 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 11:42:03 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 11:42:03 --> Fetching Assignments Details details
+INFO - 2020-06-22 11:42:03 --> Fetching Sections details
+INFO - 2020-06-22 11:43:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 11:43:57 --> Fetching Sections details
+INFO - 2020-06-22 23:09:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:09:21 --> Fetching Sections details
+INFO - 2020-06-22 23:09:21 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 23:09:21 --> Fetching MessageGroups details
+INFO - 2020-06-22 23:09:21 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 23:09:21 --> Fetching Dashboard details
+INFO - 2020-06-22 23:09:21 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 23:09:21 --> Fetching Boards details
+INFO - 2020-06-22 23:09:22 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:09:22 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:09:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:09:27 --> Fetching Sections details
+INFO - 2020-06-22 23:10:01 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:10:01 --> Fetching message group details
+INFO - 2020-06-22 23:10:18 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:10:18 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:10:19 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:10:19 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:10:20 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:10:20 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:44:03 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 23:44:03 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 23:44:03 --> Fetching Feedback details
+INFO - 2020-06-22 23:44:03 --> Fetching Feedbacks Details details
+INFO - 2020-06-22 23:46:08 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 23:46:08 --> Fetching Feedbacks Details details
+INFO - 2020-06-22 23:46:08 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 23:46:08 --> Fetching Feedback details
+INFO - 2020-06-22 23:46:28 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 23:46:28 --> Fetching Feedbacks Details details
+INFO - 2020-06-22 23:46:28 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 23:46:28 --> Fetching Feedback details
+INFO - 2020-06-22 23:46:34 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 23:46:34 --> Fetching Feedback details
+INFO - 2020-06-22 23:46:48 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 23:46:48 --> Fetching Feedback details
+INFO - 2020-06-22 23:47:07 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-06-22 23:47:07 --> Updating Note details in Projects
+INFO - 2020-06-22 23:47:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:47:22 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:47:22 --> Fetching Sections details
+INFO - 2020-06-22 23:47:22 --> Fetching All Leave details
+INFO - 2020-06-22 23:47:33 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 23:47:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:47:33 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-22 23:47:33 --> Fetching All Leave details
+INFO - 2020-06-22 23:47:33 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 23:47:33 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 23:47:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:47:33 --> Fetching Boards details
+INFO - 2020-06-22 23:47:34 --> Fetching Projects details
+INFO - 2020-06-22 23:47:34 --> Fetching Projects Details details
+INFO - 2020-06-22 23:47:34 --> Fetching Subjects details
+INFO - 2020-06-22 23:47:34 --> Fetching Sections details
+INFO - 2020-06-22 23:47:34 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 23:47:34 --> Fetching Projects Id details
+INFO - 2020-06-22 23:47:34 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 23:47:34 --> Fetching Projects Id details
+INFO - 2020-06-22 23:47:34 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 23:47:34 --> Fetching Assignments Mapped Id details
+INFO - 2020-06-22 23:47:34 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 23:47:34 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-06-22 23:47:34 --> Fetching Assignments Grade details
+INFO - 2020-06-22 23:47:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:47:34 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 23:47:34 --> Fetching Projects Details details
+INFO - 2020-06-22 23:47:34 --> Fetching Sections details
+INFO - 2020-06-22 23:47:35 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 23:47:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:47:35 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-06-22 23:47:35 --> Fetching Projects details
+INFO - 2020-06-22 23:47:35 --> Fetching All Leave details
+INFO - 2020-06-22 23:47:35 --> Fetching Subjects details
+INFO - 2020-06-22 23:47:47 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:47:47 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 23:47:47 --> Fetching Projects details
+INFO - 2020-06-22 23:47:47 --> Fetching All Leave details
+INFO - 2020-06-22 23:47:48 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:47:48 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-06-22 23:47:48 --> Fetching All Leave details
+INFO - 2020-06-22 23:47:48 --> Fetching Projects details
+INFO - 2020-06-22 23:48:02 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:48:02 --> Fetching All Leave details
+INFO - 2020-06-22 23:48:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:02 --> Fetching Sections details
+INFO - 2020-06-22 23:48:14 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-06-22 23:48:14 --> Fetching Users details
+INFO - 2020-06-22 23:48:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:16 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-06-22 23:48:16 --> Fetching Sections details
+INFO - 2020-06-22 23:48:16 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 23:48:16 --> Fetching Boards details
+INFO - 2020-06-22 23:48:16 --> Fetching holidays Details details
+INFO - 2020-06-22 23:48:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:16 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-06-22 23:48:16 --> Fetching holidays Details details
+INFO - 2020-06-22 23:48:16 --> Fetching Sections details
+INFO - 2020-06-22 23:48:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:19 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-06-22 23:48:19 --> Fetching holidays Details details
+INFO - 2020-06-22 23:48:19 --> Fetching Sections details
+INFO - 2020-06-22 23:48:19 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-06-22 23:48:19 --> Fetching Users details
+INFO - 2020-06-22 23:48:20 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-06-22 23:48:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:20 --> Fetching holidays Details details
+INFO - 2020-06-22 23:48:20 --> Fetching Sections details
+INFO - 2020-06-22 23:48:28 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-06-22 23:48:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:28 --> Fetching holidays Details details
+INFO - 2020-06-22 23:48:28 --> Fetching Sections details
+INFO - 2020-06-22 23:48:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:33 --> Fetching Sections details
+INFO - 2020-06-22 23:48:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:35 --> Fetching Sections details
+INFO - 2020-06-22 23:48:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:35 --> Fetching Sections details
+INFO - 2020-06-22 23:48:35 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 23:48:35 --> Fetching Boards details
+INFO - 2020-06-22 23:48:35 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-06-22 23:48:35 --> Fetching holidays Details details
+INFO - 2020-06-22 23:48:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:35 --> Fetching Sections details
+INFO - 2020-06-22 23:48:35 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-06-22 23:48:35 --> Fetching holidays Details details
+INFO - 2020-06-22 23:48:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:35 --> Fetching Sections details
+INFO - 2020-06-22 23:48:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:45 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 23:48:45 --> Fetching Sections details
+INFO - 2020-06-22 23:48:45 --> Fetching Boards details
+INFO - 2020-06-22 23:48:45 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-06-22 23:48:45 --> Fetching holidays Details details
+INFO - 2020-06-22 23:48:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:45 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-06-22 23:48:45 --> Fetching holidays Details details
+INFO - 2020-06-22 23:48:45 --> Fetching Sections details
+INFO - 2020-06-22 23:48:57 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 23:48:57 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 23:48:57 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 23:48:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:57 --> Fetching Boards details
+INFO - 2020-06-22 23:48:57 --> Fetching MessageGroups details
+INFO - 2020-06-22 23:48:57 --> Fetching Dashboard details
+INFO - 2020-06-22 23:48:57 --> Fetching Sections details
+INFO - 2020-06-22 23:48:57 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:48:57 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:48:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:48:59 --> Fetching Sections details
+INFO - 2020-06-22 23:49:00 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 23:49:00 --> Fetching MessageGroups details
+INFO - 2020-06-22 23:49:00 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 23:49:00 --> Fetching Dashboard details
+INFO - 2020-06-22 23:49:00 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 23:49:00 --> Fetching Boards details
+INFO - 2020-06-22 23:49:00 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:49:00 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:49:01 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:49:01 --> Fetching Sections details
+INFO - 2020-06-22 23:49:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:49:02 --> Fetching Sections details
+INFO - 2020-06-22 23:49:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:49:02 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 23:49:02 --> Fetching MessageGroups details
+INFO - 2020-06-22 23:49:02 --> Fetching Sections details
+INFO - 2020-06-22 23:49:02 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 23:49:02 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 23:49:02 --> Fetching Dashboard details
+INFO - 2020-06-22 23:49:02 --> Fetching Boards details
+INFO - 2020-06-22 23:49:02 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:49:02 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:49:06 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:49:06 --> Fetching Sections details
+INFO - 2020-06-22 23:49:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:49:20 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-06-22 23:49:20 --> Fetching MessageGroups details
+INFO - 2020-06-22 23:49:20 --> Fetching Sections details
+INFO - 2020-06-22 23:49:20 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-06-22 23:49:20 --> Fetching Dashboard details
+INFO - 2020-06-22 23:49:20 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-06-22 23:49:20 --> Fetching Boards details
+INFO - 2020-06-22 23:49:20 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:49:20 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:49:43 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:49:43 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:49:44 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:49:44 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:49:45 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:49:45 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:49:46 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-06-22 23:49:46 --> Fetching MessageCenter details
+INFO - 2020-06-22 23:50:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:50:20 --> Fetching Sections details
+INFO - 2020-06-22 23:50:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:50:35 --> Fetching Sections details
+INFO - 2020-06-22 23:50:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:50:52 --> Fetching Sections details
+INFO - 2020-06-22 23:52:28 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:52:28 --> Fetching Sections details
+INFO - 2020-06-22 23:52:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-06-22 23:52:32 --> Fetching Sections details
+INFO - 2020-06-22 23:56:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:56:33 --> Fetching All Leave details
+INFO - 2020-06-22 23:57:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:57:08 --> Fetching All Leave details
+INFO - 2020-06-22 23:57:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:57:25 --> Fetching All Leave details
+INFO - 2020-06-22 23:57:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:57:25 --> Fetching All Leave details
+INFO - 2020-06-22 23:57:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:57:28 --> Fetching All Leave details
+INFO - 2020-06-22 23:57:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:57:28 --> Fetching All Leave details
+INFO - 2020-06-22 23:57:29 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:57:29 --> Fetching All Leave details
+INFO - 2020-06-22 23:57:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:57:37 --> Fetching All Leave details
+INFO - 2020-06-22 23:57:56 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:57:56 --> Fetching All Leave details
+INFO - 2020-06-22 23:58:15 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:58:15 --> Fetching All Leave details
+INFO - 2020-06-22 23:58:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:58:33 --> Fetching All Leave details
+INFO - 2020-06-22 23:58:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:58:35 --> Fetching All Leave details
+INFO - 2020-06-22 23:58:42 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:58:42 --> Fetching All Leave details
+INFO - 2020-06-22 23:58:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:58:43 --> Fetching All Leave details
+INFO - 2020-06-22 23:59:20 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:59:20 --> Fetching All Leave details
+INFO - 2020-06-22 23:59:24 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:59:24 --> Fetching All Leave details
+INFO - 2020-06-22 23:59:34 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:59:34 --> Fetching All Leave details
+INFO - 2020-06-22 23:59:35 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-06-22 23:59:35 --> Fetching All Leave details

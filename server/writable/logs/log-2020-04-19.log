@@ -1,0 +1,609 @@
+INFO - 2020-04-19 00:16:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 00:16:37 --> Fetching Sections details
+INFO - 2020-04-19 00:16:44 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 00:16:44 --> Fetching Holiday details
+INFO - 2020-04-19 00:16:45 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 00:16:45 --> Fetching Sections details
+INFO - 2020-04-19 00:17:11 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 00:17:11 --> Fetching Sections details
+INFO - 2020-04-19 01:25:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 01:25:23 --> Fetching Sections details
+INFO - 2020-04-19 01:25:58 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 01:25:58 --> Fetching Organizations details
+INFO - 2020-04-19 01:26:11 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 01:26:11 --> Fetching Standards Section details
+INFO - 2020-04-19 01:26:11 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 01:26:11 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 01:26:11 --> Fetching Subjects details
+INFO - 2020-04-19 01:26:11 --> Fetching SubjectMasters details
+INFO - 2020-04-19 01:26:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 01:26:19 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 01:26:19 --> Fetching Subjects details
+INFO - 2020-04-19 01:26:19 --> Fetching SubjectMasters details
+INFO - 2020-04-19 01:26:19 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 01:26:19 --> Fetching Standards Section details
+INFO - 2020-04-19 01:53:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 01:53:55 --> Fetching Sections details
+INFO - 2020-04-19 02:47:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 02:47:04 --> Fetching Sections details
+INFO - 2020-04-19 02:47:06 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-04-19 02:47:06 --> Fetching Feedback details
+INFO - 2020-04-19 02:47:17 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 02:47:17 --> Fetching Sections details
+INFO - 2020-04-19 02:47:23 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 02:47:23 --> Fetching Holiday details
+INFO - 2020-04-19 02:47:30 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 02:47:30 --> Fetching Organizations details
+INFO - 2020-04-19 03:12:41 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:12:41 --> Fetching Users details
+INFO - 2020-04-19 03:13:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:13:56 --> Fetching Users details
+INFO - 2020-04-19 03:17:07 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:17:07 --> Fetching Users details
+INFO - 2020-04-19 03:17:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:17:08 --> Fetching Users details
+INFO - 2020-04-19 03:18:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:18:18 --> Fetching Users details
+INFO - 2020-04-19 03:19:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:19:49 --> Fetching Users details
+INFO - 2020-04-19 03:19:57 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:19:57 --> Fetching Users details
+INFO - 2020-04-19 03:19:58 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:19:58 --> Fetching Users details
+INFO - 2020-04-19 03:20:03 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:20:03 --> Fetching Users details
+INFO - 2020-04-19 03:20:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:20:09 --> Fetching Users details
+INFO - 2020-04-19 03:20:22 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:20:22 --> Fetching Users details
+INFO - 2020-04-19 03:22:48 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:23:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:23:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:24:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:24:09 --> Fetching Users details
+INFO - 2020-04-19 03:24:18 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:24:18 --> Fetching Users details
+INFO - 2020-04-19 03:36:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:36:38 --> Fetching Users details
+INFO - 2020-04-19 03:36:39 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:36:39 --> Fetching Users details
+INFO - 2020-04-19 03:36:40 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:36:40 --> Fetching Users details
+INFO - 2020-04-19 03:36:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:36:51 --> Fetching Users details
+INFO - 2020-04-19 03:36:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:36:52 --> Fetching Users details
+INFO - 2020-04-19 03:36:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:36:53 --> Fetching Users details
+INFO - 2020-04-19 03:37:34 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-04-19 03:37:34 --> Fetching Feedback details
+INFO - 2020-04-19 03:37:53 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:37:53 --> Fetching Organizations details
+INFO - 2020-04-19 03:41:44 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:41:44 --> Fetching Users details
+INFO - 2020-04-19 03:41:45 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:41:45 --> Fetching Users details
+INFO - 2020-04-19 03:41:51 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-04-19 03:41:51 --> Fetching Users details
+INFO - 2020-04-19 03:42:09 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:42:09 --> Fetching Organizations details
+INFO - 2020-04-19 03:44:27 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:44:27 --> Inserting Organizations details
+INFO - 2020-04-19 03:45:57 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:45:57 --> Inserting Organizations details
+INFO - 2020-04-19 03:46:59 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:46:59 --> Fetching Organizations details
+INFO - 2020-04-19 03:48:58 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:48:58 --> Updating Organizations details
+INFO - 2020-04-19 03:51:40 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:52:22 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:52:29 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:52:30 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:53:08 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:53:23 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 03:53:23 --> Updating Organizations details
+INFO - 2020-04-19 03:54:21 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 03:54:21 --> Fetching Institution details
+INFO - 2020-04-19 04:07:02 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 04:07:02 --> Inserting Institution details
+INFO - 2020-04-19 04:07:41 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 04:07:41 --> Fetching Institution details
+INFO - 2020-04-19 04:08:42 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 04:08:42 --> Updating Institution details
+INFO - 2020-04-19 04:12:52 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 04:12:52 --> Fetching Institution details
+INFO - 2020-04-19 04:13:12 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 04:13:12 --> Deleting Institution details
+INFO - 2020-04-19 04:16:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 04:16:55 --> Fetching Boards details
+INFO - 2020-04-19 04:17:07 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 04:17:07 --> Fetching Boards details
+INFO - 2020-04-19 04:20:46 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 04:20:46 --> Inserting Boards details
+INFO - 2020-04-19 04:21:24 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 04:21:24 --> Inserting Boards details
+INFO - 2020-04-19 04:21:28 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 04:21:28 --> Fetching Boards details
+INFO - 2020-04-19 04:23:01 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 04:23:01 --> Updating Boards details
+INFO - 2020-04-19 04:23:58 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 04:23:58 --> Deleting Boards details
+INFO - 2020-04-19 04:25:11 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:25:11 --> Fetching room details
+INFO - 2020-04-19 04:27:23 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:27:23 --> inserting room details
+INFO - 2020-04-19 04:27:47 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:27:47 --> Fetching room details
+INFO - 2020-04-19 04:28:22 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:28:22 --> updating room details
+INFO - 2020-04-19 04:29:04 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:29:04 --> Fetching room details
+INFO - 2020-04-19 04:29:31 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:29:31 --> inserting room details
+INFO - 2020-04-19 04:29:34 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:29:34 --> Fetching room details
+INFO - 2020-04-19 04:29:54 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:29:54 --> inserting room details
+INFO - 2020-04-19 04:29:57 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:29:57 --> Fetching room details
+INFO - 2020-04-19 04:30:23 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:30:23 --> updating room details
+INFO - 2020-04-19 04:30:58 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:30:58 --> Fetching room details
+INFO - 2020-04-19 04:32:47 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:32:47 --> delete room details
+INFO - 2020-04-19 04:33:29 --> Controller "App\Controllers\Rooms" loaded.
+INFO - 2020-04-19 04:33:29 --> delete room details
+INFO - 2020-04-19 05:56:38 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 05:56:38 --> Fetching Standards details
+INFO - 2020-04-19 05:59:35 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 05:59:35 --> Inserting Standards details
+INFO - 2020-04-19 06:00:17 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:00:17 --> Fetching Standards details
+INFO - 2020-04-19 06:04:12 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 06:04:12 --> Fetching Organizations details
+INFO - 2020-04-19 06:04:15 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 06:04:15 --> Fetching Institution details
+INFO - 2020-04-19 06:04:15 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-04-19 06:04:15 --> Fetching Organizations details
+INFO - 2020-04-19 06:04:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-19 06:04:17 --> Fetching Roles details
+INFO - 2020-04-19 06:04:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-04-19 06:04:17 --> Fetching Roles details
+INFO - 2020-04-19 06:04:23 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:04:23 --> Fetching Standards Section details
+INFO - 2020-04-19 06:04:23 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 06:04:23 --> Fetching SubjectMasters details
+INFO - 2020-04-19 06:04:23 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 06:04:23 --> Fetching Subjects details
+INFO - 2020-04-19 06:06:13 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:06:13 --> Fetching Standards details
+INFO - 2020-04-19 06:06:35 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:06:35 --> Fetching Standards details
+INFO - 2020-04-19 06:06:35 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 06:06:35 --> Fetching Boards details
+INFO - 2020-04-19 06:06:35 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:06:35 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 06:06:35 --> Fetching Standards details
+INFO - 2020-04-19 06:06:35 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:06:35 --> Fetching Institution details
+INFO - 2020-04-19 06:06:35 --> Fetching Standards details
+INFO - 2020-04-19 06:06:55 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:06:55 --> Inserting Standards details
+INFO - 2020-04-19 06:06:55 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:06:55 --> Fetching Standards details
+INFO - 2020-04-19 06:08:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 06:08:16 --> Fetching Sections details
+INFO - 2020-04-19 06:12:36 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 06:12:36 --> Inserting Sections details
+INFO - 2020-04-19 06:12:36 --> Inserting Sections details
+INFO - 2020-04-19 06:12:36 --> Inserting Sections details
+INFO - 2020-04-19 06:13:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 06:13:13 --> Fetching Sections details
+INFO - 2020-04-19 06:14:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:14:12 --> Fetching Standards details
+INFO - 2020-04-19 06:14:12 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 06:14:12 --> Fetching Boards details
+INFO - 2020-04-19 06:14:12 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 06:14:12 --> Fetching Institution details
+INFO - 2020-04-19 06:14:12 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:14:12 --> Fetching Standards details
+INFO - 2020-04-19 06:14:13 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:14:13 --> Fetching Standards details
+INFO - 2020-04-19 06:14:15 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 06:14:15 --> Fetching Sections details
+INFO - 2020-04-19 06:14:15 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 06:14:15 --> Fetching Boards details
+INFO - 2020-04-19 06:14:15 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 06:14:15 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:14:15 --> Fetching Institution details
+INFO - 2020-04-19 06:14:15 --> Fetching Standards details
+INFO - 2020-04-19 06:14:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 06:14:22 --> Fetching Sections details
+INFO - 2020-04-19 06:14:22 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 06:14:22 --> Fetching Boards details
+INFO - 2020-04-19 06:14:22 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 06:14:22 --> Fetching Institution details
+INFO - 2020-04-19 06:14:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:14:22 --> Fetching Standards details
+INFO - 2020-04-19 06:14:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 06:14:41 --> Inserting Sections details
+INFO - 2020-04-19 06:14:41 --> Inserting Sections details
+INFO - 2020-04-19 06:14:41 --> Inserting Sections details
+INFO - 2020-04-19 06:14:41 --> Inserting Sections details
+INFO - 2020-04-19 06:14:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 06:14:41 --> Fetching Sections details
+INFO - 2020-04-19 06:14:55 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:14:55 --> Fetching Holiday details
+INFO - 2020-04-19 06:19:09 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:19:09 --> Fetching Holiday details
+INFO - 2020-04-19 06:23:19 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:23:19 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:23:19 --> Fetching Holiday details
+INFO - 2020-04-19 06:25:50 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:25:58 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:25:58 --> Fetching Holiday details
+INFO - 2020-04-19 06:38:47 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:39:26 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:39:26 --> Fetching Holiday details
+INFO - 2020-04-19 06:40:37 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:40:45 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:40:51 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:40:51 --> Fetching Holiday details
+INFO - 2020-04-19 06:41:28 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 06:41:47 --> Controller "App\Controllers\Holidays" loaded.
+CRITICAL - 2020-04-19 06:47:05 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 06:47:38 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-19 06:48:20 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 06:48:20 --> Fetching Sections details
+CRITICAL - 2020-04-19 06:48:31 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-19 06:48:36 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:48:36 --> Fetching Standards details
+INFO - 2020-04-19 06:48:36 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-04-19 06:48:36 --> Fetching Boards details
+INFO - 2020-04-19 06:48:36 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 06:48:36 --> Fetching Institution details
+INFO - 2020-04-19 06:48:36 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:48:36 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:48:36 --> Fetching Standards details
+INFO - 2020-04-19 06:48:36 --> Fetching Standards details
+INFO - 2020-04-19 06:48:39 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:48:39 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 06:48:39 --> Fetching SubjectMasters details
+INFO - 2020-04-19 06:48:39 --> Fetching Standards Section details
+INFO - 2020-04-19 06:48:39 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 06:48:39 --> Fetching Subjects details
+INFO - 2020-04-19 06:50:30 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:50:30 --> Fetching Standards Section details
+INFO - 2020-04-19 06:50:31 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 06:50:31 --> Fetching SubjectMasters details
+INFO - 2020-04-19 06:50:31 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 06:50:31 --> Fetching Subjects details
+INFO - 2020-04-19 06:50:52 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:50:52 --> Fetching Standards Section details
+INFO - 2020-04-19 06:50:52 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 06:50:52 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 06:50:52 --> Fetching SubjectMasters details
+INFO - 2020-04-19 06:50:52 --> Fetching Subjects details
+INFO - 2020-04-19 06:51:20 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 06:51:20 --> Fetching Standards Section details
+INFO - 2020-04-19 06:51:20 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 06:51:20 --> Fetching SubjectMasters details
+INFO - 2020-04-19 06:51:20 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 06:51:20 --> Fetching Subjects details
+CRITICAL - 2020-04-19 06:51:46 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 06:51:48 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 06:52:22 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 06:52:25 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-19 06:52:32 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 06:52:32 --> Fetching Sections details
+CRITICAL - 2020-04-19 06:54:55 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 06:54:58 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 06:55:01 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 06:58:49 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 07:01:05 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 07:01:08 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 07:01:09 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 07:01:10 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 07:01:11 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 07:01:12 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-04-19 07:01:13 --> syntax error, unexpected '<<' (T_SL)
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('circulars/get_d...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('circulars/get_d...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-04-19 07:02:32 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-19 07:02:32 --> Fetching Circular details
+INFO - 2020-04-19 07:06:03 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-19 07:06:03 --> Inserting Circular details
+INFO - 2020-04-19 07:06:30 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-19 07:06:30 --> Fetching Circular details
+INFO - 2020-04-19 07:09:10 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-19 07:09:10 --> Updating Circular details
+INFO - 2020-04-19 07:11:13 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-04-19 07:11:13 --> Deleting Circular details
+INFO - 2020-04-19 07:23:25 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 07:23:25 --> Fetching All Leave details
+INFO - 2020-04-19 07:30:57 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 07:30:57 --> Fetching Leave details with Id
+INFO - 2020-04-19 07:31:12 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 07:31:12 --> Fetching Leave details with Id
+INFO - 2020-04-19 07:47:30 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-04-19 07:47:30 --> Fetching All Leave details
+INFO - 2020-04-19 08:29:16 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 08:29:16 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 08:29:16 --> Fetching SubjectMasters details
+INFO - 2020-04-19 08:29:16 --> Fetching Subjects details
+INFO - 2020-04-19 08:29:16 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 08:29:16 --> Fetching Standards Section details
+INFO - 2020-04-19 08:29:19 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 08:29:19 --> Fetching SubjectMasters details
+INFO - 2020-04-19 08:29:22 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 08:29:22 --> Fetching Standards Section details
+INFO - 2020-04-19 08:29:22 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 08:29:22 --> Fetching SubjectMasters details
+INFO - 2020-04-19 08:29:22 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 08:29:22 --> Fetching Subjects details
+INFO - 2020-04-19 08:29:29 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 08:29:29 --> Fetching SubjectMasters details
+INFO - 2020-04-19 08:29:30 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 08:29:30 --> Fetching Standards Section details
+INFO - 2020-04-19 08:29:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 08:29:30 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 08:29:30 --> Fetching SubjectMasters details
+INFO - 2020-04-19 08:29:30 --> Fetching Subjects details
+INFO - 2020-04-19 08:29:31 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 08:29:31 --> Fetching Subjects details
+INFO - 2020-04-19 08:29:33 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 08:29:33 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 08:29:33 --> Fetching SubjectMasters details
+INFO - 2020-04-19 08:29:33 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 08:29:33 --> Fetching Standards Section details
+INFO - 2020-04-19 08:29:33 --> Fetching Subjects details
+INFO - 2020-04-19 09:08:07 --> authfilter before
+INFO - 2020-04-19 09:08:07 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 09:08:07 --> Fetching All Leave details
+INFO - 2020-04-19 09:21:33 --> authfilter before
+INFO - 2020-04-19 09:21:33 --> Controller "App\Controllers\Standards" loaded.
+INFO - 2020-04-19 09:21:33 --> Fetching Standards Section details
+INFO - 2020-04-19 09:21:33 --> authfilter after
+INFO - 2020-04-19 09:21:33 --> authfilter before
+INFO - 2020-04-19 09:21:33 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-04-19 09:21:33 --> authfilter before
+INFO - 2020-04-19 09:21:33 --> Controller "App\Controllers\Subjects" loaded.
+INFO - 2020-04-19 09:21:33 --> Fetching SubjectMasters details
+INFO - 2020-04-19 09:21:33 --> authfilter after
+INFO - 2020-04-19 09:21:33 --> Fetching Subjects details
+INFO - 2020-04-19 09:21:33 --> authfilter after
+INFO - 2020-04-19 09:59:05 --> authfilter before
+CRITICAL - 2020-04-19 09:59:05 --> Call to a member function authenticate() on null
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('Students/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 10:02:02 --> authfilter before
+INFO - 2020-04-19 10:02:02 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 10:02:02 --> Fetching All Leave details
+INFO - 2020-04-19 10:02:02 --> authfilter after
+INFO - 2020-04-19 10:04:55 --> authfilter before
+CRITICAL - 2020-04-19 10:04:55 --> Class 'App\Filters\Config\Services' not found
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('Students/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 10:05:53 --> authfilter before
+CRITICAL - 2020-04-19 10:05:53 --> Call to a member function authenticate() on null
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('Students/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 11:00:53 --> authfilter before
+CRITICAL - 2020-04-19 11:00:53 --> Call to a member function authenticate() on null
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('Students/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 11:01:00 --> authfilter before
+CRITICAL - 2020-04-19 11:01:00 --> Call to a member function authenticate() on null
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('sections/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 11:01:19 --> authfilter before
+CRITICAL - 2020-04-19 11:01:19 --> Call to a member function authenticate() on null
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('sections/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 11:02:45 --> authfilter before
+CRITICAL - 2020-04-19 11:02:45 --> Call to a member function authenticate() on null
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('sections/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 11:14:53 --> authfilter before
+CRITICAL - 2020-04-19 11:14:53 --> Call to a member function authenticate() on null
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('sections/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 11:14:55 --> authfilter before
+CRITICAL - 2020-04-19 11:14:55 --> Call to a member function authenticate() on null
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('Students/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 11:14:56 --> authfilter before
+CRITICAL - 2020-04-19 11:14:56 --> Call to a member function authenticate() on null
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('sections/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 11:16:18 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-04-19 11:16:18 --> Fetching Feedback details
+INFO - 2020-04-19 11:16:28 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 11:16:28 --> Fetching All Leave details
+INFO - 2020-04-19 11:17:08 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 11:17:08 --> Fetching All Leave details
+INFO - 2020-04-19 11:22:57 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 11:22:57 --> Fetching Sections details
+INFO - 2020-04-19 11:23:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 11:23:06 --> Fetching All Leave details
+INFO - 2020-04-19 11:36:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 11:36:04 --> Fetching Sections details
+INFO - 2020-04-19 11:49:51 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 11:49:51 --> Fetching All Leave details
+CRITICAL - 2020-04-19 11:58:12 --> Call to a member function authenticate() on null
+#0 /var/www/html/server_4/system/Filters/Filters.php(162): App\Filters\AuthFilter->before(Object(CodeIgniter\HTTP\IncomingRequest), NULL)
+#1 /var/www/html/server_4/system/CodeIgniter.php(376): CodeIgniter\Filters\Filters->run('Students/get_da...', 'before')
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-04-19 11:58:57 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 11:58:57 --> Fetching All Leave details
+INFO - 2020-04-19 12:19:13 --> Controller "App\Controllers\Students" loaded.
+ERROR - 2020-04-19 12:19:14 --> [ERROR] Invalid argument supplied for foreach() APPPATH/Controllers/Students.php:113
+INFO - 2020-04-19 12:20:27 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 12:20:27 --> Fetching Institution details
+INFO - 2020-04-19 12:42:53 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 12:42:53 --> Fetching Institution details
+INFO - 2020-04-19 13:28:12 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 13:28:12 --> Fetching Institution details
+INFO - 2020-04-19 13:33:57 --> Controller "App\Controllers\Institutions" loaded.
+INFO - 2020-04-19 13:33:57 --> Fetching Institution details
+INFO - 2020-04-19 13:35:16 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 13:35:16 --> Fetching Sections details
+INFO - 2020-04-19 13:35:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 13:35:24 --> Fetching Sections details
+INFO - 2020-04-19 13:35:25 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 13:35:25 --> Fetching Holiday details
+INFO - 2020-04-19 14:12:07 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 14:12:07 --> Fetching Holiday details
+INFO - 2020-04-19 14:12:13 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 14:12:13 --> Fetching Holiday details
+INFO - 2020-04-19 22:32:00 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-04-19 22:32:00 --> Fetching Feedback details
+INFO - 2020-04-19 22:32:19 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-04-19 22:32:19 --> Fetching Sections details
+INFO - 2020-04-19 23:30:07 --> Controller "App\Controllers\Holidays" loaded.
+INFO - 2020-04-19 23:30:07 --> Fetching Holiday details
+INFO - 2020-04-19 23:33:19 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-04-19 23:33:19 --> Fetching All Leave details
+INFO - 2020-04-19 23:33:46 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-04-19 23:33:46 --> Fetching All Leave details
+INFO - 2020-04-19 23:33:57 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-04-19 23:33:57 --> Fetching All Leave details

@@ -1,0 +1,66 @@
+INFO - 2020-12-19 16:00:11 --> Controller "App\Controllers\Leads" loaded.
+CRITICAL - 2020-12-19 16:57:44 --> syntax error, unexpected '$lead_contact_person_details' (T_VARIABLE)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Leads/GetUserID...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Leads/GetUserID...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-19 16:58:12 --> syntax error, unexpected '$lead_contact_person_details' (T_VARIABLE)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Leads/InsertUpd...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Leads/InsertUpd...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-19 16:58:35 --> syntax error, unexpected '$lead_contact_person_details' (T_VARIABLE)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Leads/InsertUpd...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Leads/InsertUpd...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-19 16:59:05 --> syntax error, unexpected '$lead_contact_person_details' (T_VARIABLE)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Leads/InsertUpd...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Leads/InsertUpd...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-12-19 16:59:14 --> syntax error, unexpected '$lead_contact_person_details' (T_VARIABLE)
+#0 /var/www/html/salesdiary.egenius.in/server/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('Leads/InsertUpd...')
+#1 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('Leads/InsertUpd...')
+#2 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/salesdiary.egenius.in/server/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/salesdiary.egenius.in/server/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-12-19 17:03:38 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:03:38 --> Fetching IIQA Details
+INFO - 2020-12-19 17:08:32 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:08:32 --> Fetching IIQA Details
+INFO - 2020-12-19 17:10:27 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:10:27 --> Fetching IIQA Details
+INFO - 2020-12-19 17:16:12 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:16:12 --> Fetching IIQA Details
+INFO - 2020-12-19 17:16:33 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:16:33 --> Fetching IIQA Details
+INFO - 2020-12-19 17:16:53 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:16:53 --> Fetching IIQA Details
+INFO - 2020-12-19 17:21:15 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:21:15 --> Fetching IIQA Details
+INFO - 2020-12-19 17:28:38 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:28:38 --> Fetching IIQA Details
+INFO - 2020-12-19 17:41:44 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:41:44 --> Fetching IIQA Details
+INFO - 2020-12-19 17:43:48 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:43:48 --> Fetching IIQA Details
+INFO - 2020-12-19 17:46:48 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:46:48 --> Fetching IIQA Details
+INFO - 2020-12-19 17:47:10 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 17:47:10 --> Fetching IIQA Details
+INFO - 2020-12-19 17:53:58 --> Controller "App\Controllers\Leads" loaded.
+ERROR - 2020-12-19 17:53:58 --> Unknown column 'client_id' in 'where clause'
+INFO - 2020-12-19 17:54:03 --> Controller "App\Controllers\Leads" loaded.
+ERROR - 2020-12-19 17:54:03 --> Unknown column 'client_id' in 'where clause'
+INFO - 2020-12-19 18:02:39 --> Controller "App\Controllers\Leads" loaded.
+INFO - 2020-12-19 18:02:39 --> Fetching IIQA Details

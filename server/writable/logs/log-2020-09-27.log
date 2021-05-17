@@ -1,0 +1,15 @@
+INFO - 2020-09-27 23:06:40 --> Controller "App\Controllers\DailyDairy" loaded.
+INFO - 2020-09-27 23:06:40 --> Controller "App\Controllers\StaffDetails" loaded.
+INFO - 2020-09-27 23:06:40 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-09-27 23:06:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-09-27 23:06:40 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-09-27 23:06:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-09-27 23:06:40 --> Fetching Academic year details
+INFO - 2020-09-27 23:06:40 --> Fetching Role details
+INFO - 2020-09-27 23:06:40 --> Fetching Boards details
+INFO - 2020-09-27 23:06:40 --> Fetching Sections details
+INFO - 2020-09-27 23:06:40 --> Fetching Sections details
+INFO - 2020-09-27 23:06:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-09-27 23:06:40 --> Controller "App\Controllers\DailyDairy" loaded.
+INFO - 2020-09-27 23:06:40 --> Fetching Sections details
+INFO - 2020-09-27 23:06:40 --> Fetching Dairies Details details

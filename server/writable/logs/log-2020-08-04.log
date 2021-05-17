@@ -1,0 +1,2121 @@
+INFO - 2020-08-04 00:39:00 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:00:28 --> Fetching Boards details
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:00:28 --> Fetching SubjectMasters details
+INFO - 2020-08-04 00:00:28 --> Fetching Sections details
+INFO - 2020-08-04 00:00:28 --> Fetching Sections details
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 00:00:28 --> Fetching All staff details
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:00:28 --> Fetching Academic year details
+INFO - 2020-08-04 00:00:28 --> Fetching Academic year details
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:00:28 --> Fetching Subjects details
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:00:28 --> Fetching class details
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 00:00:28 --> Fetching Sections details
+INFO - 2020-08-04 00:00:28 --> Fetching Sections details
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 00:00:28 --> Fetching SubjectMasters details
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:00:28 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 00:00:28 --> Fetching Subjects details
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:01:43 --> Fetching Boards details
+INFO - 2020-08-04 00:01:43 --> Fetching SubjectMasters details
+INFO - 2020-08-04 00:01:43 --> Fetching Sections details
+INFO - 2020-08-04 00:01:43 --> Fetching Sections details
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:01:43 --> Fetching Academic year details
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 00:01:43 --> Fetching Academic year details
+INFO - 2020-08-04 00:01:43 --> Fetching All staff details
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 00:01:43 --> Fetching Subjects details
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:01:43 --> Fetching Sections details
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 00:01:43 --> Fetching SubjectMasters details
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:01:43 --> Fetching class details
+INFO - 2020-08-04 00:01:43 --> Fetching Sections details
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:01:43 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 00:01:43 --> Fetching Subjects details
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:05:50 --> Fetching Boards details
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 00:05:50 --> Fetching SubjectMasters details
+INFO - 2020-08-04 00:05:50 --> Fetching Sections details
+INFO - 2020-08-04 00:05:50 --> Fetching Sections details
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 00:05:50 --> Fetching Academic year details
+INFO - 2020-08-04 00:05:50 --> Fetching All staff details
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 00:05:50 --> Fetching Academic year details
+INFO - 2020-08-04 00:05:50 --> Fetching Subjects details
+INFO - 2020-08-04 00:05:50 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:05:51 --> Fetching class details
+INFO - 2020-08-04 00:05:51 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:05:51 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:05:51 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:05:51 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 00:05:51 --> Fetching Sections details
+INFO - 2020-08-04 00:05:51 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 00:05:51 --> Fetching SubjectMasters details
+INFO - 2020-08-04 00:05:51 --> Fetching Sections details
+INFO - 2020-08-04 00:05:51 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:05:51 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 00:05:51 --> Fetching Subjects details
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:06:00 --> Fetching Boards details
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:06:00 --> Fetching SubjectMasters details
+INFO - 2020-08-04 00:06:00 --> Fetching Sections details
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:06:00 --> Fetching Sections details
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:06:00 --> Fetching Academic year details
+INFO - 2020-08-04 00:06:00 --> Fetching Academic year details
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 00:06:00 --> Fetching All staff details
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 00:06:00 --> Fetching Subjects details
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:06:00 --> Fetching class details
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 00:06:00 --> Fetching Sections details
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 00:06:00 --> Fetching SubjectMasters details
+INFO - 2020-08-04 00:06:00 --> Fetching Sections details
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 00:06:00 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 00:06:00 --> Fetching Subjects details
+INFO - 2020-08-04 00:06:20 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:06:20 --> Fetching Organizations details
+INFO - 2020-08-04 00:06:24 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:06:24 --> Fetching Organizations details
+INFO - 2020-08-04 00:06:24 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:06:24 --> Fetching Academic year details
+INFO - 2020-08-04 00:12:30 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:12:30 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-04 00:12:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:12:30 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:12:30 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:12:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:12:30 --> Fetching Academic year details
+INFO - 2020-08-04 00:12:30 --> Fetching All Leave details
+INFO - 2020-08-04 00:12:30 --> Fetching Boards details
+INFO - 2020-08-04 00:12:30 --> Fetching All Leave details
+INFO - 2020-08-04 00:12:30 --> Fetching Sections details
+INFO - 2020-08-04 00:12:30 --> Fetching Sections details
+INFO - 2020-08-04 00:12:30 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 00:12:30 --> Fetching Category details
+INFO - 2020-08-04 00:12:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:12:30 --> Fetching Sections details
+INFO - 2020-08-04 00:12:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:12:30 --> Fetching Sections details
+INFO - 2020-08-04 00:12:30 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:12:30 --> Fetching Sections details
+INFO - 2020-08-04 00:13:09 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:13:09 --> Fetching Organizations details
+INFO - 2020-08-04 00:13:09 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:13:09 --> Fetching Academic year details
+INFO - 2020-08-04 00:13:13 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:13:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:13:13 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:13:13 --> Fetching Academic year details
+INFO - 2020-08-04 00:13:13 --> Fetching All Leave details
+INFO - 2020-08-04 00:13:13 --> Fetching Sections details
+INFO - 2020-08-04 00:13:13 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-04 00:13:13 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:13:13 --> Fetching Boards details
+INFO - 2020-08-04 00:13:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:13:13 --> Fetching All Leave details
+INFO - 2020-08-04 00:13:13 --> Fetching Sections details
+INFO - 2020-08-04 00:13:13 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 00:13:13 --> Fetching Category details
+INFO - 2020-08-04 00:13:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:13:13 --> Fetching Sections details
+INFO - 2020-08-04 00:13:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:13:13 --> Fetching Sections details
+INFO - 2020-08-04 00:13:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:13:13 --> Fetching Sections details
+INFO - 2020-08-04 00:18:48 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:18:48 --> Fetching Organizations details
+INFO - 2020-08-04 00:18:48 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:18:48 --> Fetching Academic year details
+INFO - 2020-08-04 00:23:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:23:14 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:23:14 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-04 00:23:14 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:23:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:23:14 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:23:14 --> Fetching Academic year details
+INFO - 2020-08-04 00:23:14 --> Fetching Boards details
+INFO - 2020-08-04 00:23:14 --> Fetching All Leave details
+INFO - 2020-08-04 00:23:14 --> Fetching All Leave details
+INFO - 2020-08-04 00:23:14 --> Fetching Sections details
+INFO - 2020-08-04 00:23:14 --> Fetching Sections details
+INFO - 2020-08-04 00:23:14 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 00:23:14 --> Fetching Category details
+INFO - 2020-08-04 00:23:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:23:14 --> Fetching Sections details
+INFO - 2020-08-04 00:23:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:23:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:23:14 --> Fetching Sections details
+INFO - 2020-08-04 00:23:14 --> Fetching Sections details
+INFO - 2020-08-04 00:23:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:23:22 --> Fetching Sections details
+INFO - 2020-08-04 00:23:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:23:23 --> Fetching Sections details
+INFO - 2020-08-04 00:23:24 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:23:24 --> Fetching Sections details
+INFO - 2020-08-04 00:24:26 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:24:26 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:24:26 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:24:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:24:26 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:24:26 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:24:26 --> Fetching preadmission details
+INFO - 2020-08-04 00:24:26 --> Fetching Boards details
+INFO - 2020-08-04 00:24:26 --> Fetching Academic year details
+INFO - 2020-08-04 00:24:26 --> Fetching All Leave details
+INFO - 2020-08-04 00:24:26 --> Fetching All Leave details
+INFO - 2020-08-04 00:24:26 --> Fetching Sections details
+INFO - 2020-08-04 00:24:26 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:24:26 --> Fetching All Leave details
+INFO - 2020-08-04 00:24:26 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:24:26 --> Fetching All Leave details
+INFO - 2020-08-04 00:25:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:25:31 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:25:31 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:25:31 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:25:31 --> Fetching All Leave details
+INFO - 2020-08-04 00:25:31 --> Fetching preadmission details
+INFO - 2020-08-04 00:25:31 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:25:31 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:25:31 --> Fetching Sections details
+INFO - 2020-08-04 00:25:31 --> Fetching Academic year details
+INFO - 2020-08-04 00:25:31 --> Fetching Boards details
+INFO - 2020-08-04 00:25:31 --> Fetching All Leave details
+INFO - 2020-08-04 00:25:32 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:25:32 --> Fetching All Leave details
+INFO - 2020-08-04 00:25:32 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:25:32 --> Fetching All Leave details
+INFO - 2020-08-04 00:25:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:25:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:25:33 --> Fetching Sections details
+INFO - 2020-08-04 00:25:33 --> Fetching All Leave details
+INFO - 2020-08-04 00:25:33 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:25:33 --> Fetching Academic year details
+INFO - 2020-08-04 00:25:33 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:25:33 --> Fetching Boards details
+INFO - 2020-08-04 00:25:33 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 00:25:33 --> Fetching Category details
+INFO - 2020-08-04 00:25:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:25:33 --> Fetching Sections details
+INFO - 2020-08-04 00:25:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:25:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:25:33 --> Fetching Sections details
+INFO - 2020-08-04 00:25:33 --> Fetching Sections details
+INFO - 2020-08-04 00:25:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:25:33 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-04 00:25:33 --> Fetching All Leave details
+INFO - 2020-08-04 00:25:33 --> Fetching Sections details
+INFO - 2020-08-04 00:25:47 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:25:47 --> Fetching Organizations details
+INFO - 2020-08-04 00:27:21 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:27:21 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-04 00:27:21 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:27:21 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:27:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:27:21 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:27:21 --> Fetching Boards details
+INFO - 2020-08-04 00:27:21 --> Fetching Academic year details
+INFO - 2020-08-04 00:27:21 --> Fetching All Leave details
+INFO - 2020-08-04 00:27:21 --> Fetching All Leave details
+INFO - 2020-08-04 00:27:21 --> Fetching Sections details
+INFO - 2020-08-04 00:27:21 --> Fetching Sections details
+INFO - 2020-08-04 00:27:21 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 00:27:21 --> Fetching Category details
+INFO - 2020-08-04 00:27:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:27:22 --> Fetching Sections details
+INFO - 2020-08-04 00:27:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:27:22 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:27:22 --> Fetching Sections details
+INFO - 2020-08-04 00:27:22 --> Fetching Sections details
+INFO - 2020-08-04 00:27:58 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:27:58 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:27:58 --> Fetching All Leave details
+INFO - 2020-08-04 00:27:58 --> Fetching Sections details
+INFO - 2020-08-04 00:27:58 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:27:58 --> Fetching Academic year details
+INFO - 2020-08-04 00:27:58 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:27:58 --> Fetching Boards details
+INFO - 2020-08-04 00:27:58 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-04 00:27:58 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:27:58 --> Fetching All Leave details
+INFO - 2020-08-04 00:27:58 --> Fetching Sections details
+INFO - 2020-08-04 00:27:58 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 00:27:58 --> Fetching Category details
+INFO - 2020-08-04 00:27:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:27:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:27:59 --> Fetching Sections details
+INFO - 2020-08-04 00:27:59 --> Fetching Sections details
+INFO - 2020-08-04 00:27:59 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:27:59 --> Fetching Sections details
+INFO - 2020-08-04 00:28:01 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:28:01 --> Fetching Organizations details
+INFO - 2020-08-04 00:28:01 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:28:01 --> Fetching Academic year details
+INFO - 2020-08-04 00:28:14 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:28:14 --> Fetching Academic year details
+INFO - 2020-08-04 00:28:14 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:28:14 --> Fetching Organizations details
+INFO - 2020-08-04 00:28:20 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:28:20 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:28:20 --> Fetching Academic year details
+INFO - 2020-08-04 00:28:20 --> Fetching Organizations details
+INFO - 2020-08-04 00:28:31 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:28:31 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-04 00:28:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 00:28:31 --> Fetching Boards details
+INFO - 2020-08-04 00:28:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:28:31 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-04 00:28:31 --> Fetching All User details
+INFO - 2020-08-04 00:28:31 --> Fetching MessageGroups details
+INFO - 2020-08-04 00:28:31 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:28:31 --> Fetching Sections details
+INFO - 2020-08-04 00:28:31 --> Fetching All Leave details
+INFO - 2020-08-04 00:28:31 --> Fetching Dashboard details
+INFO - 2020-08-04 00:28:31 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-04 00:28:31 --> Fetching MessageCenter details
+INFO - 2020-08-04 00:30:08 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-08-04 00:30:08 --> Controller "App\Controllers\Feedbacks" loaded.
+INFO - 2020-08-04 00:30:08 --> Fetching Feedback details
+INFO - 2020-08-04 00:30:08 --> Fetching Feedbacks Details details
+INFO - 2020-08-04 00:34:43 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 00:34:43 --> Fetching UserMenu details
+INFO - 2020-08-04 00:46:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:46:04 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:46:04 --> Fetching All Leave details
+INFO - 2020-08-04 00:46:04 --> Fetching Sections details
+INFO - 2020-08-04 00:46:04 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:46:04 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:46:04 --> Fetching Academic year details
+INFO - 2020-08-04 00:46:04 --> Fetching Boards details
+INFO - 2020-08-04 00:46:04 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-04 00:46:04 --> Fetching All Leave details
+INFO - 2020-08-04 00:46:04 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:46:04 --> Fetching Sections details
+INFO - 2020-08-04 00:46:04 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 00:46:04 --> Fetching Category details
+INFO - 2020-08-04 00:46:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:46:05 --> Fetching Sections details
+INFO - 2020-08-04 00:46:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:46:05 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:46:05 --> Fetching Sections details
+INFO - 2020-08-04 00:46:05 --> Fetching Sections details
+INFO - 2020-08-04 00:46:29 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:46:29 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:46:29 --> Fetching Academic year details
+INFO - 2020-08-04 00:46:29 --> Fetching All Leave details
+INFO - 2020-08-04 00:46:29 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:46:29 --> Fetching Sections details
+INFO - 2020-08-04 00:46:29 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:46:29 --> Fetching Boards details
+INFO - 2020-08-04 00:46:29 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:46:29 --> Fetching All Leave details
+INFO - 2020-08-04 00:46:29 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:46:29 --> Fetching preadmission details
+INFO - 2020-08-04 00:46:29 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:46:29 --> Fetching All Leave details
+INFO - 2020-08-04 00:46:29 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:46:29 --> Fetching All Leave details
+INFO - 2020-08-04 00:46:58 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:46:58 --> Fetching All Leave details
+INFO - 2020-08-04 00:47:06 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:47:06 --> Fetching preadmission details
+INFO - 2020-08-04 00:47:17 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:47:17 --> Fetching Boards details
+INFO - 2020-08-04 00:47:17 --> Controller "App\Controllers\Management" loaded.
+INFO - 2020-08-04 00:47:17 --> Fetching All Management details
+INFO - 2020-08-04 00:47:23 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:47:23 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:47:23 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:47:23 --> Fetching Academic year details
+INFO - 2020-08-04 00:47:23 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:47:23 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:47:23 --> Fetching Boards details
+INFO - 2020-08-04 00:47:23 --> Fetching All Leave details
+INFO - 2020-08-04 00:47:23 --> Fetching All Leave details
+INFO - 2020-08-04 00:47:23 --> Fetching Sections details
+INFO - 2020-08-04 00:47:23 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:47:23 --> Fetching preadmission details
+INFO - 2020-08-04 00:47:24 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:47:24 --> Fetching All Leave details
+INFO - 2020-08-04 00:47:24 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:47:24 --> Fetching All Leave details
+INFO - 2020-08-04 00:47:41 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:47:41 --> Fetching All Leave details
+INFO - 2020-08-04 00:47:43 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:47:43 --> Fetching All Leave details
+INFO - 2020-08-04 00:47:55 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:47:55 --> Fetching preadmission details
+INFO - 2020-08-04 00:48:07 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:48:07 --> Fetching All Leave details
+INFO - 2020-08-04 00:48:08 --> Controller "App\Controllers\Preadmissions" loaded.
+INFO - 2020-08-04 00:48:08 --> Fetching All Leave details
+INFO - 2020-08-04 00:49:41 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 00:49:41 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 00:49:41 --> Fetching Category details
+INFO - 2020-08-04 00:49:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:49:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 00:49:41 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-08-04 00:49:41 --> Fetching All Leave details
+INFO - 2020-08-04 00:49:41 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-04 00:49:41 --> Fetching FeeMaster details
+INFO - 2020-08-04 00:49:41 --> Fetching Sections details
+INFO - 2020-08-04 00:49:41 --> Fetching FeeDashboardDetails details
+INFO - 2020-08-04 00:49:41 --> Fetching Sections details
+INFO - 2020-08-04 00:49:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 00:49:43 --> Fetching Boards details
+INFO - 2020-08-04 00:51:46 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:51:46 --> Fetching Organizations details
+INFO - 2020-08-04 00:51:53 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:51:53 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:51:53 --> Fetching Organizations details
+INFO - 2020-08-04 00:51:53 --> Fetching Academic year details
+INFO - 2020-08-04 00:51:59 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 00:51:59 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:51:59 --> Fetching Academic year details
+INFO - 2020-08-04 00:51:59 --> Fetching Organizations details
+INFO - 2020-08-04 00:52:15 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 00:52:15 --> Fetching Organizations details
+INFO - 2020-08-04 01:09:24 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 01:09:24 --> Fetching UserMenu details
+INFO - 2020-08-04 01:09:57 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 01:09:57 --> Fetching Organizations details
+INFO - 2020-08-04 01:09:57 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 01:09:57 --> Fetching Academic year details
+INFO - 2020-08-04 01:10:03 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 01:10:03 --> Fetching Organizations details
+INFO - 2020-08-04 01:10:08 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 01:10:08 --> Fetching Organizations details
+INFO - 2020-08-04 01:12:40 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 01:12:40 --> Fetching Organizations details
+INFO - 2020-08-04 01:12:40 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 01:12:40 --> Fetching Academic year details
+INFO - 2020-08-04 01:14:46 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 01:14:46 --> Fetching Organizations details
+INFO - 2020-08-04 01:18:20 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 01:18:20 --> Fetching Organizations details
+INFO - 2020-08-04 01:31:51 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 01:31:51 --> Fetching UserMenu details
+INFO - 2020-08-04 01:37:38 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 01:37:38 --> Fetching Organizations details
+INFO - 2020-08-04 01:38:20 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 01:38:20 --> Fetching Organizations details
+INFO - 2020-08-04 02:03:11 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 02:03:11 --> Fetching Users details
+INFO - 2020-08-04 02:16:53 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 02:16:53 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/app/Controllers/Users.php(75): App\Models\Common_model->get_user_details('10075', '2')
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-04 02:17:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 02:17:09 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 02:17:14 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 02:17:14 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/app/Controllers/Users.php(75): App\Models\Common_model->get_user_details('10075', '2')
+#1 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#2 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-04 02:19:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 02:19:31 --> Fetching Users details
+INFO - 2020-08-04 02:22:53 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 02:22:53 --> Fetching All Leave details
+INFO - 2020-08-04 02:26:38 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:26:38 --> Fetching UserMenu details
+INFO - 2020-08-04 02:26:51 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:26:51 --> Fetching UserMenu details
+INFO - 2020-08-04 02:26:52 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:26:52 --> Fetching UserMenu details
+INFO - 2020-08-04 02:27:44 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:27:44 --> Fetching UserMenu details
+INFO - 2020-08-04 02:27:47 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:27:47 --> Fetching UserMenu details
+INFO - 2020-08-04 02:29:47 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:29:47 --> Fetching UserMenu details
+INFO - 2020-08-04 02:29:49 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:29:49 --> Fetching UserMenu details
+INFO - 2020-08-04 02:29:58 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:29:58 --> Fetching UserMenu details
+INFO - 2020-08-04 02:30:16 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:30:16 --> Fetching UserMenu details
+INFO - 2020-08-04 02:32:46 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:32:46 --> Fetching UserMenu details
+INFO - 2020-08-04 02:33:26 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:33:26 --> Fetching UserMenu details
+INFO - 2020-08-04 02:33:34 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:33:34 --> Fetching UserMenu details
+INFO - 2020-08-04 02:34:02 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:34:02 --> Fetching UserMenu details
+INFO - 2020-08-04 02:34:37 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:34:37 --> Fetching UserMenu details
+INFO - 2020-08-04 02:35:30 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:35:30 --> Fetching UserMenu details
+INFO - 2020-08-04 02:35:44 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:35:44 --> Fetching UserMenu details
+INFO - 2020-08-04 02:36:11 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:36:11 --> Fetching UserMenu details
+INFO - 2020-08-04 02:36:17 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:36:17 --> Fetching UserMenu details
+INFO - 2020-08-04 02:39:03 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:39:03 --> Fetching UserMenu details
+INFO - 2020-08-04 02:39:09 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:39:09 --> Fetching UserMenu details
+INFO - 2020-08-04 02:40:24 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:40:24 --> Fetching UserMenu details
+INFO - 2020-08-04 02:40:38 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:40:38 --> Fetching UserMenu details
+INFO - 2020-08-04 02:45:04 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:45:04 --> Fetching UserMenu details
+INFO - 2020-08-04 02:46:36 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:46:36 --> Fetching UserMenu details
+INFO - 2020-08-04 02:46:47 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:46:47 --> Fetching UserMenu details
+INFO - 2020-08-04 02:48:39 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:48:39 --> Fetching UserMenu details
+INFO - 2020-08-04 02:48:44 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:48:44 --> Fetching UserMenu details
+INFO - 2020-08-04 02:51:46 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:51:46 --> Fetching UserMenu details
+INFO - 2020-08-04 02:51:57 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:51:57 --> Fetching UserMenu details
+INFO - 2020-08-04 02:52:28 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:52:28 --> Fetching UserMenu details
+INFO - 2020-08-04 02:56:24 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 02:56:24 --> Fetching UserMenu details
+INFO - 2020-08-04 03:02:15 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:02:15 --> Fetching UserMenu details
+INFO - 2020-08-04 03:02:54 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:02:54 --> Fetching UserMenu details
+INFO - 2020-08-04 03:05:37 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:05:37 --> Fetching UserMenu details
+INFO - 2020-08-04 03:05:50 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:05:50 --> Fetching UserMenu details
+INFO - 2020-08-04 03:06:54 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:06:54 --> Fetching UserMenu details
+INFO - 2020-08-04 03:15:36 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:15:36 --> Fetching UserMenu details
+INFO - 2020-08-04 03:36:28 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:36:28 --> Fetching UserMenu details
+INFO - 2020-08-04 03:37:03 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:37:03 --> Fetching UserMenu details
+INFO - 2020-08-04 03:39:02 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:39:02 --> Fetching UserMenu details
+INFO - 2020-08-04 03:39:26 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:39:26 --> Fetching UserMenu details
+INFO - 2020-08-04 03:42:11 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:42:11 --> Fetching UserMenu details
+INFO - 2020-08-04 03:43:24 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:43:24 --> Fetching UserMenu details
+INFO - 2020-08-04 03:44:07 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 03:44:07 --> Fetching UserMenu details
+INFO - 2020-08-04 03:54:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 03:54:43 --> Fetching Users details
+INFO - 2020-08-04 03:59:41 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 04:00:31 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 04:01:27 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:01:27 --> Fetching UserMenu details
+INFO - 2020-08-04 04:06:37 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:06:37 --> Fetching UserMenu details
+INFO - 2020-08-04 04:08:09 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:08:09 --> Fetching UserMenu details
+INFO - 2020-08-04 04:12:53 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:12:53 --> Fetching UserMenu details
+INFO - 2020-08-04 04:16:33 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 04:16:33 --> Fetching Users details
+INFO - 2020-08-04 04:16:43 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:16:43 --> Fetching UserMenu details
+INFO - 2020-08-04 04:17:24 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:17:24 --> Fetching UserMenu details
+INFO - 2020-08-04 04:17:59 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:17:59 --> Fetching UserMenu details
+INFO - 2020-08-04 04:19:22 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:19:22 --> Fetching UserMenu details
+INFO - 2020-08-04 04:19:23 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:19:23 --> Fetching UserMenu details
+INFO - 2020-08-04 04:22:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 04:22:01 --> Fetching Users details
+INFO - 2020-08-04 04:23:44 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:23:44 --> Fetching UserMenu details
+INFO - 2020-08-04 04:27:50 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:27:50 --> Fetching UserMenu details
+INFO - 2020-08-04 04:27:51 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:27:51 --> Fetching UserMenu details
+INFO - 2020-08-04 04:29:35 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:29:35 --> Fetching UserMenu details
+INFO - 2020-08-04 04:30:38 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 04:30:38 --> Fetching Users details
+INFO - 2020-08-04 04:34:29 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 04:34:29 --> Fetching Users details
+INFO - 2020-08-04 04:34:37 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:34:37 --> Fetching UserMenu details
+INFO - 2020-08-04 04:36:46 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:36:46 --> Fetching UserMenu details
+INFO - 2020-08-04 04:36:51 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:36:51 --> Fetching UserMenu details
+INFO - 2020-08-04 04:37:29 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:37:29 --> Fetching UserMenu details
+INFO - 2020-08-04 04:37:33 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 04:37:33 --> Fetching Users details
+INFO - 2020-08-04 04:37:37 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:37:37 --> Fetching UserMenu details
+INFO - 2020-08-04 04:38:42 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 04:38:42 --> Fetching Users details
+INFO - 2020-08-04 04:39:13 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:39:13 --> Fetching UserMenu details
+INFO - 2020-08-04 04:40:05 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:40:05 --> Fetching UserMenu details
+INFO - 2020-08-04 04:40:54 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:40:54 --> Fetching UserMenu details
+INFO - 2020-08-04 04:40:54 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:40:54 --> Fetching UserMenu details
+INFO - 2020-08-04 04:45:35 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:45:35 --> Fetching UserMenu details
+INFO - 2020-08-04 04:45:36 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:45:36 --> Fetching UserMenu details
+INFO - 2020-08-04 04:47:42 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:47:42 --> Fetching UserMenu details
+INFO - 2020-08-04 04:48:00 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:48:00 --> Fetching UserMenu details
+INFO - 2020-08-04 04:52:05 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:52:05 --> Fetching UserMenu details
+INFO - 2020-08-04 04:52:08 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 04:52:08 --> Fetching UserMenu details
+INFO - 2020-08-04 04:57:40 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 04:57:40 --> Fetching Users details
+INFO - 2020-08-04 04:58:17 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 04:58:17 --> Fetching Users details
+INFO - 2020-08-04 05:09:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:09:01 --> Fetching Users details
+INFO - 2020-08-04 05:09:04 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:09:04 --> Fetching Users details
+INFO - 2020-08-04 05:09:05 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:09:05 --> Fetching Users details
+INFO - 2020-08-04 05:10:15 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:10:15 --> Fetching Users details
+INFO - 2020-08-04 05:14:48 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:14:48 --> Fetching Users details
+INFO - 2020-08-04 05:14:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:14:52 --> Fetching Users details
+INFO - 2020-08-04 05:14:54 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:14:54 --> Fetching Users details
+INFO - 2020-08-04 05:16:33 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:16:33 --> Fetching Users details
+INFO - 2020-08-04 05:19:13 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:19:13 --> Fetching Users details
+INFO - 2020-08-04 05:21:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:21:00 --> Fetching Users details
+INFO - 2020-08-04 05:24:30 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:24:30 --> Fetching Users details
+INFO - 2020-08-04 05:25:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:25:43 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 05:25:43 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 05:25:43 --> Fetching All Leave details
+INFO - 2020-08-04 05:25:43 --> Fetching Academic year details
+INFO - 2020-08-04 05:25:43 --> Fetching Sections details
+INFO - 2020-08-04 05:25:43 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 05:25:43 --> Fetching Boards details
+INFO - 2020-08-04 05:25:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:25:43 --> Controller "App\Controllers\StudentDetails" loaded.
+INFO - 2020-08-04 05:25:43 --> Fetching All Leave details
+INFO - 2020-08-04 05:25:43 --> Fetching Sections details
+INFO - 2020-08-04 05:25:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:25:43 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 05:25:43 --> Fetching Category details
+INFO - 2020-08-04 05:25:43 --> Fetching Sections details
+INFO - 2020-08-04 05:25:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:25:43 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:25:43 --> Fetching Sections details
+INFO - 2020-08-04 05:25:43 --> Fetching Sections details
+INFO - 2020-08-04 05:31:18 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 05:31:18 --> Fetching All Leave details
+INFO - 2020-08-04 05:33:37 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:33:37 --> Fetching Sections details
+INFO - 2020-08-04 05:33:37 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 05:33:37 --> Fetching All Leave details
+INFO - 2020-08-04 05:34:40 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:34:40 --> Fetching Sections details
+INFO - 2020-08-04 05:35:45 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 05:35:45 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 05:35:45 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 05:35:45 --> Fetching Boards details
+INFO - 2020-08-04 05:35:45 --> Fetching Academic year details
+INFO - 2020-08-04 05:35:45 --> Fetching Sections details
+INFO - 2020-08-04 05:35:45 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:35:45 --> Fetching Assignments Id details
+INFO - 2020-08-04 05:35:45 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:35:45 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:35:45 --> Fetching Assignments details
+INFO - 2020-08-04 05:35:45 --> Fetching Assignments Details details
+INFO - 2020-08-04 05:35:45 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:35:45 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 05:35:45 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 16:05:45 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-04 05:35:45 --> Fetching Assignments Grade details
+INFO - 2020-08-04 05:35:45 --> Fetching Sections details
+INFO - 2020-08-04 05:35:45 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:35:45 --> Fetching Assignments Details details
+INFO - 2020-08-04 05:36:41 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:36:41 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 05:36:41 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 05:36:41 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-08-04 05:36:41 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 05:36:41 --> Fetching Projects Details details
+INFO - 2020-08-04 05:36:41 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 05:36:41 --> Fetching Sections details
+INFO - 2020-08-04 05:36:41 --> Fetching Boards details
+INFO - 2020-08-04 05:36:41 --> Fetching Academic year details
+INFO - 2020-08-04 05:36:41 --> Fetching All Leave details
+INFO - 2020-08-04 05:36:41 --> Fetching Subjects details
+INFO - 2020-08-04 05:36:41 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-08-04 05:36:41 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-08-04 05:36:41 --> Fetching Projects Id details
+INFO - 2020-08-04 05:36:41 --> Fetching Projects details
+INFO - 2020-08-04 05:36:41 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-08-04 05:36:41 --> Fetching Projects Id details
+INFO - 2020-08-04 05:36:41 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-08-04 05:36:41 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-04 05:36:42 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-08-04 16:06:42 --> Fetching Projects Mapped Id details
+INFO - 2020-08-04 05:36:42 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-08-04 05:36:42 --> Fetching Project Grade details
+INFO - 2020-08-04 05:36:42 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:36:42 --> Fetching Sections details
+INFO - 2020-08-04 05:36:42 --> Controller "App\Controllers\Projects" loaded.
+INFO - 2020-08-04 05:36:42 --> Fetching Projects Details details
+INFO - 2020-08-04 05:37:55 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 05:37:55 --> Fetching Academic year details
+INFO - 2020-08-04 05:37:55 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-08-04 05:37:55 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:37:55 --> Fetching Circular Details details
+INFO - 2020-08-04 05:37:55 --> Fetching Sections details
+INFO - 2020-08-04 05:37:55 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 05:37:55 --> Fetching Boards details
+INFO - 2020-08-04 05:37:55 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-08-04 05:37:55 --> Fetching Circulars details
+INFO - 2020-08-04 05:37:55 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-08-04 05:37:55 --> Fetching Circulars Mapped Id details
+INFO - 2020-08-04 05:37:55 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-08-04 05:37:55 --> Fetching Circulars Id details
+INFO - 2020-08-04 05:37:55 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-08-04 16:07:55 --> Fetching Circulars Mapped Id details
+INFO - 2020-08-04 05:37:56 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:37:56 --> Fetching Sections details
+INFO - 2020-08-04 05:37:56 --> Controller "App\Controllers\Circulars" loaded.
+INFO - 2020-08-04 05:37:56 --> Fetching Circular Details details
+INFO - 2020-08-04 05:39:26 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 05:39:26 --> Fetching Boards details
+INFO - 2020-08-04 05:39:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:39:26 --> Fetching Sections details
+INFO - 2020-08-04 05:39:26 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:39:26 --> Fetching Assignments Details details
+INFO - 2020-08-04 05:39:26 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 05:39:26 --> Fetching Subjects details
+INFO - 2020-08-04 05:39:26 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:39:26 --> Fetching Assignments details
+INFO - 2020-08-04 05:39:26 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:39:26 --> Fetching Assignments Id details
+INFO - 2020-08-04 05:39:26 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 16:09:26 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-04 05:39:26 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:39:26 --> Fetching Assignments Grade details
+INFO - 2020-08-04 05:39:26 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:39:26 --> Fetching Sections details
+INFO - 2020-08-04 05:39:26 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:39:26 --> Fetching Assignments Details details
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 05:40:38 --> Fetching Boards details
+INFO - 2020-08-04 05:40:38 --> Fetching Assignments Details details
+INFO - 2020-08-04 05:40:38 --> Fetching Subjects details
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 05:40:38 --> Fetching Academic year details
+INFO - 2020-08-04 05:40:38 --> Fetching Sections details
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:40:38 --> Fetching Assignments details
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 16:10:38 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-04 05:40:38 --> Fetching Assignments Id details
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:40:38 --> Fetching Assignments Grade details
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:40:38 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:40:38 --> Fetching Assignments Details details
+INFO - 2020-08-04 05:40:38 --> Fetching Sections details
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 05:41:31 --> Fetching Boards details
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:41:31 --> Fetching Sections details
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:41:31 --> Fetching Assignments Details details
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 05:41:31 --> Fetching Academic year details
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:41:31 --> Fetching Assignments details
+INFO - 2020-08-04 05:41:31 --> Fetching Subjects details
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:41:31 --> Fetching Assignments Id details
+INFO - 2020-08-04 16:11:31 --> Fetching Assignments Mapped Id details
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:41:31 --> Fetching Assignments Grade details
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 05:41:31 --> Fetching Assignments Details details
+INFO - 2020-08-04 05:41:31 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:41:31 --> Fetching Sections details
+INFO - 2020-08-04 05:48:23 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:48:23 --> Fetching Users details
+INFO - 2020-08-04 05:48:33 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 05:48:33 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-04 05:48:33 --> Fetching FeeMaster details
+INFO - 2020-08-04 05:48:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:48:33 --> Fetching All Leave details
+INFO - 2020-08-04 05:48:33 --> Fetching Sections details
+INFO - 2020-08-04 05:48:33 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 05:48:33 --> Fetching Category details
+INFO - 2020-08-04 05:48:33 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 05:48:33 --> Fetching Sections details
+INFO - 2020-08-04 05:48:33 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-08-04 05:48:33 --> Fetching FeeDashboardDetails details
+INFO - 2020-08-04 05:48:34 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 05:48:34 --> Fetching Boards details
+INFO - 2020-08-04 05:55:40 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:55:40 --> Fetching Users details
+INFO - 2020-08-04 05:55:45 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 05:55:45 --> Fetching Users details
+INFO - 2020-08-04 06:03:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:03:24 --> Fetching Users details
+INFO - 2020-08-04 06:05:04 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:05:04 --> Fetching Users details
+INFO - 2020-08-04 06:08:29 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:08:29 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-04 06:11:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:11:00 --> Fetching Users details
+INFO - 2020-08-04 06:11:04 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:11:04 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-04 06:11:19 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:11:19 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-04 06:11:28 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:11:28 --> Fetching Users details
+INFO - 2020-08-04 06:11:33 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:11:33 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-04 06:11:37 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:11:37 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-04 06:11:58 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:11:58 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-04 06:12:02 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:02 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-04 06:12:03 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:03 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-04 06:12:08 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:08 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-04 06:12:10 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:10 --> Can't use function return value in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+INFO - 2020-08-04 06:12:14 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:14 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 /var/www/html/server_4/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/s...')
+#1 /var/www/html/server_4/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 /var/www/html/server_4/app/Controllers/Users.php(74): spl_autoload_call('App\\Models\\Comm...')
+#4 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-04 06:12:14 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:15 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 /var/www/html/server_4/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/s...')
+#1 /var/www/html/server_4/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 /var/www/html/server_4/app/Controllers/Users.php(74): spl_autoload_call('App\\Models\\Comm...')
+#4 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-04 06:12:17 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:17 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 /var/www/html/server_4/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/s...')
+#1 /var/www/html/server_4/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 /var/www/html/server_4/app/Controllers/Users.php(74): spl_autoload_call('App\\Models\\Comm...')
+#4 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-04 06:12:17 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:17 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 /var/www/html/server_4/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/s...')
+#1 /var/www/html/server_4/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 /var/www/html/server_4/app/Controllers/Users.php(74): spl_autoload_call('App\\Models\\Comm...')
+#4 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-04 06:12:20 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:20 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 /var/www/html/server_4/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/s...')
+#1 /var/www/html/server_4/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 /var/www/html/server_4/app/Controllers/Users.php(74): spl_autoload_call('App\\Models\\Comm...')
+#4 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-04 06:12:29 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:29 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 /var/www/html/server_4/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/s...')
+#1 /var/www/html/server_4/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 /var/www/html/server_4/app/Controllers/Users.php(74): spl_autoload_call('App\\Models\\Comm...')
+#4 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-04 06:12:35 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:35 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 /var/www/html/server_4/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/s...')
+#1 /var/www/html/server_4/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 /var/www/html/server_4/app/Controllers/Users.php(74): spl_autoload_call('App\\Models\\Comm...')
+#4 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-04 06:12:46 --> Controller "App\Controllers\Users" loaded.
+CRITICAL - 2020-08-04 06:12:46 --> syntax error, unexpected ';', expecting ',' or ')'
+#0 /var/www/html/server_4/system/Autoloader/Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('/var/www/html/s...')
+#1 /var/www/html/server_4/system/Autoloader/Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Comm...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Comm...')
+#3 /var/www/html/server_4/app/Controllers/Users.php(74): spl_autoload_call('App\\Models\\Comm...')
+#4 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Users->get_password()
+#5 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+#6 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+INFO - 2020-08-04 06:13:00 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:13:00 --> Fetching Users details
+INFO - 2020-08-04 06:13:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:13:01 --> Fetching Users details
+INFO - 2020-08-04 06:13:02 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:13:02 --> Fetching Users details
+INFO - 2020-08-04 06:13:04 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:13:04 --> Fetching Users details
+INFO - 2020-08-04 06:17:26 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:17:26 --> Fetching Users details
+INFO - 2020-08-04 06:17:30 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:17:30 --> Fetching Users details
+INFO - 2020-08-04 06:24:52 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 06:24:52 --> Fetching Academic year details
+INFO - 2020-08-04 06:24:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:24:52 --> Fetching Sections details
+INFO - 2020-08-04 06:24:52 --> Controller "App\Controllers\HolidayDetails" loaded.
+INFO - 2020-08-04 06:24:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:24:52 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 06:24:52 --> Fetching Boards details
+INFO - 2020-08-04 06:24:52 --> Fetching holidays Details details
+INFO - 2020-08-04 06:24:52 --> Fetching Sections details
+INFO - 2020-08-04 06:24:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:24:52 --> Fetching Sections details
+INFO - 2020-08-04 06:24:52 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:24:52 --> Fetching Sections details
+INFO - 2020-08-04 06:24:52 --> Controller "App\Controllers\HolidayDetails" loaded.
+INFO - 2020-08-04 06:24:52 --> Fetching holiday details
+INFO - 2020-08-04 06:24:52 --> Controller "App\Controllers\HolidayDetails" loaded.
+INFO - 2020-08-04 06:24:52 --> Fetching holidays Details details
+INFO - 2020-08-04 06:25:27 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:25:27 --> Fetching Users details
+INFO - 2020-08-04 06:25:32 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:25:32 --> Fetching Users details
+INFO - 2020-08-04 06:27:49 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:27:49 --> Fetching Users details
+INFO - 2020-08-04 06:27:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:27:53 --> Fetching Users details
+INFO - 2020-08-04 06:28:14 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:28:14 --> Fetching Sections details
+INFO - 2020-08-04 06:28:14 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 06:28:14 --> Fetching Academic year details
+INFO - 2020-08-04 06:28:14 --> Controller "App\Controllers\EventDetails" loaded.
+INFO - 2020-08-04 06:28:14 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 06:28:14 --> Fetching Boards details
+INFO - 2020-08-04 06:28:14 --> Fetching events Details details
+INFO - 2020-08-04 06:28:15 --> Controller "App\Controllers\EventDetails" loaded.
+INFO - 2020-08-04 06:28:15 --> Fetching event details
+INFO - 2020-08-04 06:28:15 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:28:15 --> Fetching Sections details
+INFO - 2020-08-04 06:28:15 --> Controller "App\Controllers\EventDetails" loaded.
+INFO - 2020-08-04 06:28:15 --> Fetching events Details details
+INFO - 2020-08-04 06:28:15 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:28:15 --> Fetching Sections details
+INFO - 2020-08-04 06:29:34 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:29:34 --> Fetching Sections details
+INFO - 2020-08-04 06:29:34 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 06:29:34 --> Fetching Boards details
+INFO - 2020-08-04 06:29:35 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 06:29:35 --> Fetching Academic year details
+INFO - 2020-08-04 06:29:35 --> Controller "App\Controllers\EventDetails" loaded.
+INFO - 2020-08-04 06:29:35 --> Fetching events Details details
+INFO - 2020-08-04 06:29:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:29:35 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:29:35 --> Fetching Sections details
+INFO - 2020-08-04 06:29:35 --> Fetching Sections details
+INFO - 2020-08-04 06:29:35 --> Controller "App\Controllers\EventDetails" loaded.
+INFO - 2020-08-04 06:29:35 --> Fetching events Details details
+INFO - 2020-08-04 06:29:35 --> Controller "App\Controllers\EventDetails" loaded.
+INFO - 2020-08-04 06:29:35 --> Fetching event details
+INFO - 2020-08-04 06:33:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 06:33:02 --> Fetching Sections details
+INFO - 2020-08-04 06:33:02 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 06:33:02 --> Fetching All Leave details
+INFO - 2020-08-04 06:39:37 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:39:37 --> Fetching Users details
+INFO - 2020-08-04 06:41:03 --> Controller "App\Controllers\Users" loaded.
+ERROR - 2020-08-04 06:41:03 --> json_decode() expects parameter 1 to be string, array given
+INFO - 2020-08-04 06:42:21 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:42:21 --> Fetching Users details
+INFO - 2020-08-04 06:46:47 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:46:47 --> Fetching Users details
+INFO - 2020-08-04 06:48:14 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:48:14 --> Fetching Users details
+INFO - 2020-08-04 06:49:52 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:49:52 --> Fetching Users details
+INFO - 2020-08-04 06:51:41 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:51:41 --> Fetching Users details
+INFO - 2020-08-04 06:53:08 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:53:08 --> Fetching Users details
+INFO - 2020-08-04 06:56:40 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 06:56:40 --> Fetching Users details
+INFO - 2020-08-04 07:02:04 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 07:02:04 --> Fetching Users details
+INFO - 2020-08-04 07:03:03 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 07:03:03 --> Fetching Users details
+INFO - 2020-08-04 07:04:25 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 07:04:25 --> Fetching Users details
+INFO - 2020-08-04 07:05:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 07:05:24 --> Fetching Users details
+INFO - 2020-08-04 07:08:54 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:08:54 --> Fetching Boards details
+INFO - 2020-08-04 07:08:54 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:08:54 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:08:54 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:08:54 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:08:54 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:08:54 --> Fetching Sections details
+INFO - 2020-08-04 07:08:54 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:08:54 --> Fetching Sections details
+INFO - 2020-08-04 07:08:54 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:08:54 --> Fetching All staff details
+INFO - 2020-08-04 07:08:54 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:08:54 --> Fetching Academic year details
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:08:55 --> Fetching Academic year details
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:08:55 --> Fetching Subjects details
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:08:55 --> Fetching class details
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:08:55 --> Fetching Sections details
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:08:55 --> Fetching Sections details
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:08:55 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:08:55 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:08:55 --> Fetching Subjects details
+INFO - 2020-08-04 07:10:44 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 07:10:44 --> Fetching All Leave details
+INFO - 2020-08-04 07:13:27 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 07:13:27 --> Fetching Sections details
+INFO - 2020-08-04 07:13:27 --> Controller "App\Controllers\Assignments" loaded.
+INFO - 2020-08-04 07:13:27 --> Fetching Assignments details
+INFO - 2020-08-04 07:13:27 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 07:13:27 --> Fetching All Leave details
+INFO - 2020-08-04 07:16:06 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 07:16:06 --> Fetching All Leave details
+INFO - 2020-08-04 07:31:45 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:31:45 --> Fetching All staff details
+INFO - 2020-08-04 07:31:45 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:31:45 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:31:45 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:31:45 --> Fetching Academic year details
+INFO - 2020-08-04 07:31:45 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:31:45 --> Fetching Subjects details
+INFO - 2020-08-04 07:31:45 --> Fetching Academic year details
+INFO - 2020-08-04 07:32:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:32:39 --> Fetching Sections details
+INFO - 2020-08-04 07:32:39 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:32:39 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:32:39 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:32:39 --> Fetching Academic year details
+INFO - 2020-08-04 07:32:39 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:32:39 --> Fetching Sections details
+INFO - 2020-08-04 07:32:39 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:32:39 --> Fetching Academic year details
+INFO - 2020-08-04 07:32:39 --> Fetching All staff details
+INFO - 2020-08-04 07:32:39 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:32:39 --> Fetching Subjects details
+INFO - 2020-08-04 07:32:39 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:32:39 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:32:39 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:32:39 --> Fetching Subjects details
+INFO - 2020-08-04 07:37:56 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 07:37:56 --> Fetching Users details
+INFO - 2020-08-04 07:38:01 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 07:38:01 --> Fetching Users details
+INFO - 2020-08-04 07:39:58 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-04 07:39:58 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:39:58 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 07:39:58 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 07:39:58 --> Fetching MessageGroups details
+INFO - 2020-08-04 07:39:58 --> Fetching Sections details
+INFO - 2020-08-04 07:39:58 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2020-08-04 07:39:58 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 07:39:58 --> Fetching Boards details
+INFO - 2020-08-04 07:39:58 --> Fetching All User details
+INFO - 2020-08-04 07:39:58 --> Fetching All Leave details
+INFO - 2020-08-04 07:39:58 --> Fetching Dashboard details
+INFO - 2020-08-04 07:39:58 --> Controller "App\Controllers\MessageCenter" loaded.
+INFO - 2020-08-04 07:39:58 --> Fetching MessageCenter details
+INFO - 2020-08-04 07:40:02 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 07:40:02 --> Controller "App\Controllers\MessageGroups" loaded.
+INFO - 2020-08-04 07:40:02 --> Fetching MessageGroups details
+INFO - 2020-08-04 07:40:02 --> Fetching Sections details
+INFO - 2020-08-04 07:40:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 07:40:18 --> Controller "App\Controllers\Categories" loaded.
+INFO - 2020-08-04 07:40:18 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 07:40:18 --> Controller "App\Controllers\FeeDashboard" loaded.
+INFO - 2020-08-04 07:40:18 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 07:40:18 --> Fetching Sections details
+INFO - 2020-08-04 07:40:18 --> Fetching Category details
+INFO - 2020-08-04 07:40:18 --> Fetching All Leave details
+INFO - 2020-08-04 07:40:18 --> Fetching Sections details
+INFO - 2020-08-04 07:40:18 --> Fetching FeeDashboardDetails details
+INFO - 2020-08-04 07:40:18 --> Controller "App\Controllers\FeesMasters" loaded.
+INFO - 2020-08-04 07:40:18 --> Fetching FeeMaster details
+INFO - 2020-08-04 07:40:18 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:40:18 --> Fetching Boards details
+INFO - 2020-08-04 07:44:17 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 07:44:17 --> Fetching Organizations details
+INFO - 2020-08-04 07:44:22 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 07:44:22 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:44:22 --> Fetching Organizations details
+INFO - 2020-08-04 07:44:22 --> Fetching Academic year details
+INFO - 2020-08-04 07:44:50 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 07:44:50 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:44:50 --> Fetching Organizations details
+INFO - 2020-08-04 07:44:50 --> Fetching Academic year details
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:44:51 --> Fetching Boards details
+INFO - 2020-08-04 07:44:51 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:44:51 --> Fetching Sections details
+INFO - 2020-08-04 07:44:51 --> Fetching Sections details
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:44:51 --> Fetching Academic year details
+INFO - 2020-08-04 07:44:51 --> Fetching Academic year details
+INFO - 2020-08-04 07:44:51 --> Fetching All staff details
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:44:51 --> Fetching Subjects details
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:44:51 --> Fetching Sections details
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:44:51 --> Fetching class details
+INFO - 2020-08-04 07:44:51 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:44:51 --> Fetching Sections details
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:44:51 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:44:51 --> Fetching Subjects details
+INFO - 2020-08-04 07:44:54 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 07:44:54 --> Fetching Organizations details
+INFO - 2020-08-04 07:45:15 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 07:45:15 --> Fetching Organizations details
+INFO - 2020-08-04 07:45:20 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 07:45:20 --> Fetching Organizations details
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:46:17 --> Fetching Sections details
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:46:17 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:46:17 --> Fetching Boards details
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:46:17 --> Fetching Sections details
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:46:17 --> Fetching All staff details
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:46:17 --> Fetching Academic year details
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:46:17 --> Fetching Academic year details
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:46:17 --> Fetching Subjects details
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:46:17 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:46:17 --> Fetching Sections details
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:46:17 --> Fetching class details
+INFO - 2020-08-04 07:46:17 --> Fetching Sections details
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:46:17 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:46:17 --> Fetching Subjects details
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:46:26 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:46:26 --> Fetching Boards details
+INFO - 2020-08-04 07:46:26 --> Fetching Sections details
+INFO - 2020-08-04 07:46:26 --> Fetching Sections details
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:46:26 --> Fetching Academic year details
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:46:26 --> Fetching Academic year details
+INFO - 2020-08-04 07:46:26 --> Fetching Subjects details
+INFO - 2020-08-04 07:46:26 --> Fetching All staff details
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:46:26 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:46:26 --> Fetching Sections details
+INFO - 2020-08-04 07:46:26 --> Fetching class details
+INFO - 2020-08-04 07:46:26 --> Fetching Sections details
+INFO - 2020-08-04 07:46:26 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:46:27 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:46:27 --> Fetching Subjects details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:47:35 --> Fetching Boards details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:47:35 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:47:35 --> Fetching Sections details
+INFO - 2020-08-04 07:47:35 --> Fetching Sections details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:47:35 --> Fetching All staff details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:47:35 --> Fetching Academic year details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:47:35 --> Fetching Academic year details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:47:35 --> Fetching Subjects details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:47:35 --> Fetching class details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:47:35 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:47:35 --> Fetching Sections details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:47:35 --> Fetching Sections details
+INFO - 2020-08-04 07:47:35 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:47:36 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:47:36 --> Fetching Subjects details
+INFO - 2020-08-04 07:48:29 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:48:29 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:48:29 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:48:29 --> Fetching Boards details
+INFO - 2020-08-04 07:48:29 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:48:29 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:48:29 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:48:29 --> Fetching Sections details
+INFO - 2020-08-04 07:48:29 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:48:29 --> Fetching Sections details
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:48:30 --> Fetching Academic year details
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:48:30 --> Fetching Academic year details
+INFO - 2020-08-04 07:48:30 --> Fetching All staff details
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:48:30 --> Fetching Subjects details
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:48:30 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:48:30 --> Fetching Sections details
+INFO - 2020-08-04 07:48:30 --> Fetching class details
+INFO - 2020-08-04 07:48:30 --> Fetching Sections details
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:48:30 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:48:30 --> Fetching Subjects details
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:48:40 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:48:40 --> Fetching Boards details
+INFO - 2020-08-04 07:48:40 --> Fetching Sections details
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:48:40 --> Fetching Sections details
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:48:40 --> Fetching All staff details
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:48:40 --> Fetching Academic year details
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:48:40 --> Fetching Subjects details
+INFO - 2020-08-04 07:48:40 --> Fetching Academic year details
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:48:40 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:48:40 --> Fetching Sections details
+INFO - 2020-08-04 07:48:40 --> Fetching class details
+INFO - 2020-08-04 07:48:40 --> Fetching Sections details
+INFO - 2020-08-04 07:48:40 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:48:41 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:48:41 --> Fetching Subjects details
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:49:05 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:49:05 --> Fetching Boards details
+INFO - 2020-08-04 07:49:05 --> Fetching Sections details
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:05 --> Fetching Sections details
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:49:05 --> Fetching Academic year details
+INFO - 2020-08-04 07:49:05 --> Fetching All staff details
+INFO - 2020-08-04 07:49:05 --> Fetching Academic year details
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:49:05 --> Fetching Subjects details
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:05 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:05 --> Fetching Sections details
+INFO - 2020-08-04 07:49:05 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:05 --> Fetching class details
+INFO - 2020-08-04 07:49:05 --> Fetching Sections details
+INFO - 2020-08-04 07:49:06 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:06 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:49:06 --> Fetching Subjects details
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:49:17 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:49:17 --> Fetching Boards details
+INFO - 2020-08-04 07:49:17 --> Fetching Sections details
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:17 --> Fetching Sections details
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:49:17 --> Fetching Academic year details
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:17 --> Fetching Academic year details
+INFO - 2020-08-04 07:49:17 --> Fetching All staff details
+INFO - 2020-08-04 07:49:17 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:49:17 --> Fetching Subjects details
+INFO - 2020-08-04 07:49:18 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:18 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:49:18 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:18 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:49:18 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:18 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:49:18 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:18 --> Fetching class details
+INFO - 2020-08-04 07:49:18 --> Fetching Sections details
+INFO - 2020-08-04 07:49:18 --> Fetching Sections details
+INFO - 2020-08-04 07:49:18 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:18 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:49:18 --> Fetching Subjects details
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:29 --> Fetching Boards details
+INFO - 2020-08-04 07:49:29 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:49:29 --> Fetching Sections details
+INFO - 2020-08-04 07:49:29 --> Fetching Sections details
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\Staffs" loaded.
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\SubjectStandardRooms" loaded.
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\AcademicSettings" loaded.
+INFO - 2020-08-04 07:49:29 --> Fetching Academic year details
+INFO - 2020-08-04 07:49:29 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:29 --> Fetching Subjects details
+INFO - 2020-08-04 07:49:29 --> Fetching Academic year details
+INFO - 2020-08-04 07:49:29 --> Fetching All staff details
+INFO - 2020-08-04 07:49:30 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:30 --> Controller "App\Controllers\SubjectMasters" loaded.
+INFO - 2020-08-04 07:49:30 --> Controller "App\Controllers\ClassDetails" loaded.
+INFO - 2020-08-04 07:49:30 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:30 --> Fetching SubjectMasters details
+INFO - 2020-08-04 07:49:30 --> Controller "App\Controllers\RoomMasters" loaded.
+INFO - 2020-08-04 07:49:30 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:49:30 --> Fetching Sections details
+INFO - 2020-08-04 07:49:30 --> Fetching class details
+INFO - 2020-08-04 07:49:30 --> Fetching Sections details
+INFO - 2020-08-04 07:49:30 --> Controller "App\Controllers\SubjectStandards" loaded.
+INFO - 2020-08-04 07:49:30 --> Fetching Subjects details
+INFO - 2020-08-04 07:49:30 --> Controller "App\Controllers\ClassMasters" loaded.
+INFO - 2020-08-04 07:56:34 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 07:56:34 --> Fetching Organizations details
+INFO - 2020-08-04 07:57:18 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 07:57:18 --> Fetching Organizations details
+INFO - 2020-08-04 07:57:18 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:57:18 --> Fetching Academic year details
+INFO - 2020-08-04 07:58:12 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 07:58:12 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 07:58:12 --> Fetching Academic year details
+INFO - 2020-08-04 07:58:12 --> Fetching Organizations details
+INFO - 2020-08-04 08:05:53 --> Controller "App\Controllers\Users" loaded.
+INFO - 2020-08-04 08:05:53 --> Fetching Users details
+INFO - 2020-08-04 08:06:47 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 08:06:47 --> Fetching UserMenu details
+INFO - 2020-08-04 08:19:41 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 08:19:41 --> Fetching Organizations details
+INFO - 2020-08-04 08:24:28 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 08:24:28 --> Fetching Organizations details
+INFO - 2020-08-04 08:26:13 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 08:26:13 --> Fetching Organizations details
+INFO - 2020-08-04 08:26:17 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 08:26:17 --> Fetching Organizations details
+INFO - 2020-08-04 08:26:17 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 08:26:17 --> Fetching Academic year details
+INFO - 2020-08-04 08:26:24 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 08:26:24 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 08:26:24 --> Fetching Organizations details
+INFO - 2020-08-04 08:26:24 --> Fetching Academic year details
+INFO - 2020-08-04 08:26:43 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 08:26:43 --> Fetching Organizations details
+INFO - 2020-08-04 08:26:55 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 08:26:55 --> Fetching Organizations details
+INFO - 2020-08-04 08:26:59 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 08:26:59 --> Fetching Organizations details
+INFO - 2020-08-04 08:26:59 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 08:26:59 --> Fetching Academic year details
+INFO - 2020-08-04 08:27:05 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 08:27:05 --> Fetching Organizations details
+INFO - 2020-08-04 08:30:36 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 08:30:36 --> Inserting UserMenus details
+INFO - 2020-08-04 08:38:07 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 08:38:07 --> Updating UserMenus details
+INFO - 2020-08-04 08:43:43 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 08:43:43 --> Deleting UserMenus details
+INFO - 2020-08-04 08:44:42 --> Controller "App\Controllers\UserMenus" loaded.
+CRITICAL - 2020-08-04 08:44:42 --> Call to a member function find() on null
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\UserMenus->deleteUsermenu()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserMenus))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 08:45:51 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 08:45:51 --> Deleting UserMenus details
+INFO - 2020-08-04 08:46:32 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 08:46:32 --> Deleting UserMenus details
+INFO - 2020-08-04 08:52:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 08:52:33 --> Fetching Roles details
+INFO - 2020-08-04 08:53:02 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 08:53:02 --> Fetching Organizations details
+INFO - 2020-08-04 08:56:46 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 08:56:46 --> Fetching Permission details
+INFO - 2020-08-04 09:14:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:14:54 --> Fetching Permission details
+INFO - 2020-08-04 09:15:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:15:43 --> Fetching Permission details
+INFO - 2020-08-04 09:15:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:15:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:15:50 --> Fetching Roles details
+INFO - 2020-08-04 09:15:50 --> Fetching Roles details
+INFO - 2020-08-04 09:15:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:15:54 --> Fetching Permission details
+INFO - 2020-08-04 09:16:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:16:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:16:01 --> Fetching Roles details
+INFO - 2020-08-04 09:16:01 --> Fetching Roles details
+INFO - 2020-08-04 09:16:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:16:03 --> Fetching Permission details
+INFO - 2020-08-04 09:16:25 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:16:25 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:16:37 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:16:37 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:17:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:17:35 --> Fetching Permission details
+INFO - 2020-08-04 09:29:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:29:54 --> Fetching Permission details
+INFO - 2020-08-04 09:30:09 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:30:09 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:30:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:30:47 --> Fetching Permission details
+INFO - 2020-08-04 09:31:06 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:31:06 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:31:32 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:31:32 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:31:54 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:31:54 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:33:21 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:33:21 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:33:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:33:35 --> Fetching Permission details
+INFO - 2020-08-04 09:34:08 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:34:08 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:35:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:35:31 --> Fetching Permission details
+INFO - 2020-08-04 09:35:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:35:33 --> Fetching Permission details
+INFO - 2020-08-04 09:35:45 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:35:45 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:37:23 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:37:23 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:38:54 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:38:54 --> Fetching Permission details
+INFO - 2020-08-04 09:39:03 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:39:03 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:39:42 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:39:42 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:43:44 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:43:44 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:44:03 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:44:03 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:45:13 --> Controller "App\Controllers\Sections" loaded.
+INFO - 2020-08-04 09:45:13 --> Fetching Sections details
+INFO - 2020-08-04 09:45:13 --> Controller "App\Controllers\Students" loaded.
+INFO - 2020-08-04 09:45:13 --> Fetching All Leave details
+INFO - 2020-08-04 09:45:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:45:16 --> Fetching Roles details
+INFO - 2020-08-04 09:45:16 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:45:16 --> Fetching Roles details
+INFO - 2020-08-04 09:45:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:45:19 --> Fetching Permission details
+INFO - 2020-08-04 09:45:23 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:45:23 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->updateRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:46:41 --> Controller "App\Controllers\Organizations" loaded.
+INFO - 2020-08-04 09:46:41 --> Controller "App\Controllers\Academicyears" loaded.
+INFO - 2020-08-04 09:46:41 --> Fetching Academic year details
+INFO - 2020-08-04 09:46:41 --> Fetching Organizations details
+INFO - 2020-08-04 09:48:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:48:08 --> Fetching Roles details
+INFO - 2020-08-04 09:48:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:48:08 --> Fetching Roles details
+INFO - 2020-08-04 09:48:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:48:13 --> Fetching Permission details
+INFO - 2020-08-04 09:51:51 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:51:51 --> Fetching Permission details
+INFO - 2020-08-04 09:51:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:51:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:51:57 --> Fetching Roles details
+INFO - 2020-08-04 09:51:57 --> Fetching Roles details
+INFO - 2020-08-04 09:51:59 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:51:59 --> Fetching Permission details
+INFO - 2020-08-04 09:52:09 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:52:09 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:52:16 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:52:16 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:54:07 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:54:07 --> Fetching Permission details
+INFO - 2020-08-04 09:54:22 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 09:54:22 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 09:54:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:54:32 --> Fetching Permission details
+INFO - 2020-08-04 09:56:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:56:33 --> Fetching Permission details
+INFO - 2020-08-04 09:57:13 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 09:57:13 --> Fetching Permission details
+INFO - 2020-08-04 10:01:25 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:01:25 --> Fetching Permission details
+INFO - 2020-08-04 10:01:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:01:43 --> Fetching Roles details
+INFO - 2020-08-04 10:01:43 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:01:43 --> Fetching Roles details
+INFO - 2020-08-04 10:01:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:01:49 --> Fetching Permission details
+INFO - 2020-08-04 10:02:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:02:26 --> Fetching Roles details
+INFO - 2020-08-04 10:02:26 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:02:26 --> Fetching Roles details
+INFO - 2020-08-04 10:02:35 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:02:35 --> Fetching Permission details
+INFO - 2020-08-04 10:04:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:04:21 --> Fetching Permission details
+INFO - 2020-08-04 10:04:32 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:04:32 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:04:59 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:04:59 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:06:33 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:06:33 --> Fetching Permission details
+INFO - 2020-08-04 10:08:41 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:08:41 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:10:14 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:10:14 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:10:44 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:10:44 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:11:13 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:11:13 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:14:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:14:38 --> Fetching Permission details
+INFO - 2020-08-04 10:15:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:15:34 --> Fetching Permission details
+INFO - 2020-08-04 10:17:13 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:17:13 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:18:04 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:18:04 --> Fetching Permission details
+INFO - 2020-08-04 10:18:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:18:41 --> Fetching Permission details
+INFO - 2020-08-04 10:18:52 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:18:52 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:19:02 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:19:02 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:20:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:20:22 --> Fetching Permission details
+INFO - 2020-08-04 10:20:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:20:24 --> Fetching Roles details
+INFO - 2020-08-04 10:20:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:20:24 --> Fetching Roles details
+INFO - 2020-08-04 10:20:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:20:28 --> Fetching Permission details
+INFO - 2020-08-04 10:21:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:21:17 --> Fetching Permission details
+INFO - 2020-08-04 10:21:43 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:21:43 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:24:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:24:48 --> Fetching Permission details
+INFO - 2020-08-04 10:26:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:26:08 --> Fetching Permission details
+INFO - 2020-08-04 10:26:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:26:10 --> Fetching Roles details
+INFO - 2020-08-04 10:26:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:26:10 --> Fetching Roles details
+INFO - 2020-08-04 10:26:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:26:12 --> Fetching Permission details
+INFO - 2020-08-04 10:26:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:26:21 --> Fetching Roles details
+INFO - 2020-08-04 10:26:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:26:21 --> Fetching Roles details
+INFO - 2020-08-04 10:26:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:26:24 --> Fetching Permission details
+INFO - 2020-08-04 10:26:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:26:57 --> Fetching Roles details
+INFO - 2020-08-04 10:26:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:26:57 --> Fetching Roles details
+INFO - 2020-08-04 10:27:00 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:27:00 --> Fetching Permission details
+INFO - 2020-08-04 10:27:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:27:10 --> Fetching Roles details
+INFO - 2020-08-04 10:27:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:27:10 --> Fetching Roles details
+INFO - 2020-08-04 10:27:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:27:12 --> Fetching Roles details
+INFO - 2020-08-04 10:27:12 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:27:12 --> Fetching Roles details
+INFO - 2020-08-04 10:27:14 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:27:14 --> Fetching Permission details
+INFO - 2020-08-04 10:27:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:27:39 --> Fetching Roles details
+INFO - 2020-08-04 10:27:39 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:27:39 --> Fetching Roles details
+INFO - 2020-08-04 10:27:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:27:44 --> Fetching Permission details
+INFO - 2020-08-04 10:28:17 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:28:17 --> Fetching Permission details
+INFO - 2020-08-04 10:30:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:30:28 --> Fetching Permission details
+INFO - 2020-08-04 10:30:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:30:29 --> Fetching Roles details
+INFO - 2020-08-04 10:30:29 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:30:29 --> Fetching Roles details
+INFO - 2020-08-04 10:30:30 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:30:30 --> Fetching Permission details
+INFO - 2020-08-04 10:30:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:30:50 --> Fetching Permission details
+INFO - 2020-08-04 10:31:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:31:32 --> Fetching Roles details
+INFO - 2020-08-04 10:31:32 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:31:32 --> Fetching Roles details
+INFO - 2020-08-04 10:31:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:31:34 --> Fetching Permission details
+INFO - 2020-08-04 10:32:10 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:32:10 --> Fetching Permission details
+INFO - 2020-08-04 10:34:55 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:34:55 --> Fetching Permission details
+INFO - 2020-08-04 10:38:03 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:38:03 --> Fetching Permission details
+INFO - 2020-08-04 10:38:19 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:38:19 --> Fetching Permission details
+INFO - 2020-08-04 10:38:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:38:21 --> Fetching Roles details
+INFO - 2020-08-04 10:38:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:38:21 --> Fetching Roles details
+INFO - 2020-08-04 10:38:23 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:38:23 --> Fetching Permission details
+INFO - 2020-08-04 10:38:33 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:38:33 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->updateRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:44:29 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:44:29 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->updateRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:52:28 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:52:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:53:42 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 10:53:42 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->updateRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 10:53:47 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:53:47 --> Fetching Permission details
+INFO - 2020-08-04 10:54:06 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:06 --> Fetching Roles details
+INFO - 2020-08-04 10:54:06 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:06 --> Fetching Roles details
+INFO - 2020-08-04 10:54:08 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:08 --> Fetching Permission details
+INFO - 2020-08-04 10:54:18 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:27 --> Fetching Roles details
+INFO - 2020-08-04 10:54:27 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:27 --> Fetching Roles details
+INFO - 2020-08-04 10:54:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:31 --> Fetching Roles details
+INFO - 2020-08-04 10:54:31 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:31 --> Fetching Roles details
+INFO - 2020-08-04 10:54:34 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:34 --> Fetching Permission details
+INFO - 2020-08-04 10:54:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:37 --> Fetching Roles details
+INFO - 2020-08-04 10:54:37 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:37 --> Fetching Roles details
+INFO - 2020-08-04 10:54:38 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:38 --> Fetching Permission details
+INFO - 2020-08-04 10:54:49 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:54:57 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:55:21 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:55:22 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 10:56:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:09:01 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:09:15 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:09:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:12:24 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:12:58 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:14:03 --> Controller "App\Controllers\Roles" loaded.
+CRITICAL - 2020-08-04 11:14:03 --> Cannot use object of type stdClass as array
+#0 /var/www/html/server_4/system/CodeIgniter.php(910): App\Controllers\Roles->insertRole()
+#1 /var/www/html/server_4/system/CodeIgniter.php(398): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Roles))
+#2 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+INFO - 2020-08-04 11:16:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:16:41 --> Fetching Roles details
+INFO - 2020-08-04 11:16:41 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:16:41 --> Fetching Roles details
+INFO - 2020-08-04 11:16:44 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:16:44 --> Fetching Permission details
+INFO - 2020-08-04 11:16:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:16:48 --> Fetching Roles details
+INFO - 2020-08-04 11:16:48 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:16:48 --> Fetching Roles details
+INFO - 2020-08-04 11:16:50 --> Controller "App\Controllers\Roles" loaded.
+INFO - 2020-08-04 11:16:50 --> Fetching Permission details
+CRITICAL - 2020-08-04 11:28:53 --> syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('roles/getPermis...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('roles/getPermis...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-04 11:29:00 --> syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('roles/getData')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('roles/getData')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-04 11:29:00 --> syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('roles/getData')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('roles/getData')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-04 11:29:41 --> syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('roles/getData')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('roles/getData')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-04 11:29:41 --> syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('roles/getData')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('roles/getData')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-04 11:29:52 --> syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('roles/getPermis...')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('roles/getPermis...')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-04 11:29:56 --> syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('roles/getData')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('roles/getData')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-04 11:29:56 --> syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('roles/getData')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('roles/getData')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-04 11:30:40 --> syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('roles/getData')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('roles/getData')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-08-04 11:30:40 --> syntax error, unexpected 'class' (T_CLASS), expecting ',' or ';'
+#0 /var/www/html/server_4/system/Router/Router.php(192): CodeIgniter\Router\Router->autoRoute('roles/getData')
+#1 /var/www/html/server_4/system/CodeIgniter.php(785): CodeIgniter\Router\Router->handle('roles/getData')
+#2 /var/www/html/server_4/system/CodeIgniter.php(358): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 /var/www/html/server_4/system/CodeIgniter.php(306): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /var/www/html/server_4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+INFO - 2020-08-04 23:38:05 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 23:38:05 --> Fetching UserMenu details
+INFO - 2020-08-04 23:46:50 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:46:50 --> Fetching Boards details
+INFO - 2020-08-04 23:46:50 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:46:50 --> Fetching Boards details
+INFO - 2020-08-04 23:47:44 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:47:44 --> Fetching Boards details
+INFO - 2020-08-04 23:47:44 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:47:44 --> Fetching Boards details
+INFO - 2020-08-04 23:48:13 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:48:13 --> Fetching Boards details
+INFO - 2020-08-04 23:48:13 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:48:13 --> Fetching Boards details
+INFO - 2020-08-04 23:48:21 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:48:21 --> Fetching Boards details
+INFO - 2020-08-04 23:48:21 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:48:21 --> Fetching Boards details
+INFO - 2020-08-04 23:49:09 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:49:09 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:49:09 --> Fetching Boards details
+INFO - 2020-08-04 23:49:09 --> Fetching Boards details
+INFO - 2020-08-04 23:49:09 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:49:09 --> Fetching Boards details
+INFO - 2020-08-04 23:49:09 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:49:09 --> Fetching Boards details
+INFO - 2020-08-04 23:50:18 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:50:18 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:50:18 --> Fetching Boards details
+INFO - 2020-08-04 23:50:18 --> Fetching Boards details
+INFO - 2020-08-04 23:50:18 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:50:18 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:50:18 --> Fetching Boards details
+INFO - 2020-08-04 23:50:18 --> Fetching Boards details
+INFO - 2020-08-04 23:54:07 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:54:07 --> Fetching Boards details
+INFO - 2020-08-04 23:54:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:54:08 --> Fetching Boards details
+INFO - 2020-08-04 23:54:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:54:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:54:08 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:54:08 --> Fetching Boards details
+INFO - 2020-08-04 23:54:08 --> Fetching Boards details
+INFO - 2020-08-04 23:54:08 --> Fetching Boards details
+INFO - 2020-08-04 23:54:57 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:54:57 --> Fetching Boards details
+INFO - 2020-08-04 23:54:57 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:54:57 --> Fetching Boards details
+INFO - 2020-08-04 23:54:57 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:54:57 --> Fetching Boards details
+INFO - 2020-08-04 23:54:57 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:54:57 --> Fetching Boards details
+INFO - 2020-08-04 23:54:57 --> Controller "App\Controllers\Boards" loaded.
+INFO - 2020-08-04 23:54:57 --> Fetching Boards details
+INFO - 2020-08-04 23:55:32 --> Controller "App\Controllers\UserMenus" loaded.
+INFO - 2020-08-04 23:55:32 --> Fetching UserMenu details

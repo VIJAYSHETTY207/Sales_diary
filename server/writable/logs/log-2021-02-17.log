@@ -1,0 +1,12 @@
+INFO - 2021-02-17 09:33:55 --> Controller "App\Controllers\SchedulePlanner" loaded.
+INFO - 2021-02-17 09:33:55 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-17 09:33:55 --> Controller "App\Controllers\Dashboards" loaded.
+INFO - 2021-02-17 09:33:55 --> Fetching IIQA Details
+INFO - 2021-02-17 09:33:55 --> Fetching Dashboard details
+INFO - 2021-02-17 09:33:55 --> Fetching All User details
+INFO - 2021-02-17 09:34:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-17 09:34:24 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-17 09:34:24 --> Fetching All User details
+INFO - 2021-02-17 09:39:42 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-17 09:39:43 --> Controller "App\Controllers\Users" loaded.
+INFO - 2021-02-17 09:39:43 --> Fetching All User details
